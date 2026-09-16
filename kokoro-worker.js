@@ -1,5 +1,5 @@
-// Ashen Voice Studio v0.7.6 — isolated Kokoro worker
-// True voice blending happens in embedding/style space before synthesis.
+// Ashen Voice Studio native Kokoro worker v1.3.0
+// Uses a bundled kokoro-js runtime in Tauri, with CDN fallback for browser use.
 let tts=null;
 let currentDevice=null;
 let currentDtype=null;
@@ -13,8 +13,44 @@ const blendCache=new Map();
 function ensureReadableStreamAsyncIterator(){const RS=self.ReadableStream;if(!RS||!self.Symbol||!Symbol.asyncIterator)return;if(!RS.prototype[Symbol.asyncIterator]){Object.defineProperty(RS.prototype,Symbol.asyncIterator,{configurable:true,writable:true,value:async function*(){const reader=this.getReader();try{while(true){const r=await reader.read();if(r.done)return;yield r.value}}finally{try{reader.releaseLock()}catch{}}}})}if(!RS.prototype.values){Object.defineProperty(RS.prototype,'values',{configurable:true,writable:true,value:function(){return this[Symbol.asyncIterator]()}})}}
 function status(message,busy=true){postMessage({type:'status',message,busy})}
 function errorText(e){return(e&&e.stack)||String(e&&e.message||e)}
-async function getModule(){ensureReadableStreamAsyncIterator();status('Loading Kokoro browser library…',true);return await import('https://cdn.jsdelivr.net/npm/kokoro-js@1.2.1/dist/kokoro.web.js')}
-async function loadEngine(model,device,dtype){if(tts&&device===currentDevice&&dtype===currentDtype)return{device,dtype};tts=null;const{KokoroTTS}=await getModule();if(!KokoroTTS)throw new Error('KokoroTTS export missing');const progress_callback=data=>{try{postMessage({type:'progress',data})}catch{}};try{status(`Loading Kokoro model · ${device} ${dtype}`,true);tts=await KokoroTTS.from_pretrained(model,{device,dtype,progress_callback});currentDevice=device;currentDtype=dtype;return{device,dtype}}catch(e){if(device==='webgpu'){status('WebGPU load failed · retrying WASM q8',true);tts=await KokoroTTS.from_pretrained(model,{device:'wasm',dtype:'q8',progress_callback});currentDevice='wasm';currentDtype='q8';return{device:'wasm',dtype:'q8'}}throw e}}
+
+async function getModule(){
+  ensureReadableStreamAsyncIterator();
+  status('Loading bundled Kokoro runtime…',true);
+  try{return await import('/vendor/kokoro-js/kokoro.web.js')}
+  catch(localErr){
+    console.warn('Bundled kokoro-js import failed, trying CDN',localErr);
+    status('Bundled runtime unavailable · trying browser fallback…',true);
+    return import('https://cdn.jsdelivr.net/npm/kokoro-js@1.2.1/dist/kokoro.web.js');
+  }
+}
+
+async function tryEngine(KokoroTTS,model,attempt,progress_callback){
+  status(`Loading Kokoro model · ${attempt.device} ${attempt.dtype}`,true);
+  const engine=await KokoroTTS.from_pretrained(model,{device:attempt.device,dtype:attempt.dtype,progress_callback});
+  tts=engine;currentDevice=attempt.device;currentDtype=attempt.dtype;
+  return attempt;
+}
+
+async function loadEngine(model,device,dtype){
+  if(tts&&device===currentDevice&&dtype===currentDtype)return{device,dtype};
+  try{await tts?.dispose?.()}catch{}
+  tts=null;
+  const{KokoroTTS}=await getModule();
+  if(!KokoroTTS)throw new Error('KokoroTTS export missing');
+  const progress_callback=data=>{try{postMessage({type:'progress',data})}catch{}};
+  const attempts=[];
+  const add=(d,t)=>{if(!attempts.some(a=>a.device===d&&a.dtype===t))attempts.push({device:d,dtype:t})};
+  add(device,dtype);
+  if(device==='webgpu'){add('wasm','q4');add('wasm','q8')}
+  else if(device==='wasm'){if(dtype!=='q4')add('wasm','q4');if(dtype!=='q8')add('wasm','q8')}
+  let lastErr=null;
+  for(const attempt of attempts){
+    try{return await tryEngine(KokoroTTS,model,attempt,progress_callback)}
+    catch(e){lastErr=e;console.warn('Kokoro load attempt failed',attempt,e);status(`${attempt.device} ${attempt.dtype} failed · trying fallback…`,true);try{await tts?.dispose?.()}catch{}tts=null}
+  }
+  throw lastErr||new Error('No Kokoro runtime configuration could be loaded');
+}
 
 async function getVoiceData(id){
   if(voiceCache.has(id))return voiceCache.get(id);
@@ -31,7 +67,7 @@ async function getBlendData(a,b,w){
   if(weight<=.0001)return getVoiceData(b);
   const key=`${a}|${b}|${weight.toFixed(4)}`;
   if(blendCache.has(key))return blendCache.get(key);
-  const [A,B]=await Promise.all([getVoiceData(a),getVoiceData(b)]);
+  const[A,B]=await Promise.all([getVoiceData(a),getVoiceData(b)]);
   if(A.length!==B.length)throw new Error('Voice embedding sizes do not match');
   const out=new Float32Array(A.length),bw=1-weight;
   for(let i=0;i<out.length;i++)out[i]=A[i]*weight+B[i]*bw;
@@ -62,21 +98,12 @@ async function generateBlend(text,voiceA,voiceB,weight,speed){
     const styleData=blended.slice(offset,offset+STYLE_DIM);
     if(styleData.length!==STYLE_DIM)throw new Error('Blend style slice was incomplete');
     const TensorCtor=input_ids.constructor;
-    const inputs={
-      input_ids,
-      style:new TensorCtor('float32',styleData,[1,STYLE_DIM]),
-      speed:new TensorCtor('float32',[innerSpeed],[1])
-    };
-    const {waveform}=await tts.model(inputs);
+    const inputs={input_ids,style:new TensorCtor('float32',styleData,[1,STYLE_DIM]),speed:new TensorCtor('float32',[innerSpeed],[1])};
+    const{waveform}=await tts.model(inputs);
     return{audio:new Float32Array(waveform.data),sampling_rate:SAMPLE_RATE};
   };
-  try{
-    // voiceA supplies the language/phonemization path; the actual style is the blended tensor.
-    const a=await tts.generate(text,{voice:voiceA,speed:speed||1});
-    return pcmResult(a);
-  }finally{
-    tts.generate_from_ids=original;
-  }
+  try{return pcmResult(await tts.generate(text,{voice:voiceA,speed:speed||1}))}
+  finally{tts.generate_from_ids=original}
 }
 function enqueue(fn){const run=inferenceTail.then(fn,fn);inferenceTail=run.catch(()=>{});return run}
 function postPcm(id,r,extra={}){const pcm=r.pcm instanceof Float32Array?r.pcm:new Float32Array(r.pcm);postMessage({id,ok:true,pcmBuffer:pcm.buffer,sampleRate:r.sampleRate||SAMPLE_RATE,...extra},[pcm.buffer])}
@@ -84,7 +111,7 @@ function postPcm(id,r,extra={}){const pcm=r.pcm instanceof Float32Array?r.pcm:ne
 self.onmessage=async ev=>{
   const m=ev.data||{},id=m.id;
   try{
-    if(m.type==='ping'){postMessage({id,ok:true,type:'pong',version:'0.7.6'});return}
+    if(m.type==='ping'){postMessage({id,ok:true,type:'pong',version:'1.3.0'});return}
     if(m.type==='load'){const r=await loadEngine(m.model,m.device,m.dtype);status(`Voice engine ready · ${r.device} ${r.dtype}`,false);postMessage({id,ok:true,...r});return}
     if(m.type==='generate'){
       if(!tts)throw new Error('Voice engine is not loaded');
