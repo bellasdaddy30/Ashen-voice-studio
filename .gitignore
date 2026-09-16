@@ -7,3 +7,9 @@ Thumbs.db
 renders/
 exports/
 *.tmp
+
+# Native/Tauri build output
+node_modules/
+.tauri-dist/
+src-tauri/target/
+target/
