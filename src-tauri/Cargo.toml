@@ -1,6 +1,6 @@
 [package]
 name = "ashen-voice-studio"
-version = "1.2.1"
+version = "1.3.0"
 description = "Native desktop shell for Ashen Voice Studio"
 authors = ["C. R. Ashen"]
 edition = "2021"
