@@ -1,0 +1,17 @@
+/* Ashen Voice Studio native engine/identity UI v1.4.0 */
+.nativeEngineChip{font-weight:700}
+.identityLine{margin-top:6px;opacity:.9}
+.voiceIdentityBanner{border:1px solid var(--line);border-radius:12px;padding:12px;margin:8px 0 14px;background:rgba(255,255,255,.025)}
+.voiceIdentityBanner label{display:flex;gap:8px;align-items:center;font-size:1rem}
+.nativeVoiceLab{max-width:920px}
+.nativeVoiceLab h3{margin:0}
+.nativeLineTop{display:grid;grid-template-columns:minmax(120px,1fr) minmax(100px,.8fr) minmax(100px,.8fr) minmax(150px,1fr) 90px;gap:8px;align-items:center}
+.emotionStrength{display:grid;grid-template-columns:42px 1fr;gap:6px;align-items:center;min-width:150px;font-size:.75rem}
+.emotionStrength input{width:100%}
+.emotionStrength span{text-align:right;font-variant-numeric:tabular-nums}
+#consistencyEmotion{min-width:115px}
+@media (max-width:900px){
+  .nativeLineTop{grid-template-columns:1fr 1fr}
+  .emotionStrength{grid-column:1 / -1}
+  .nativeLineTop .linePause{width:100%}
+}
