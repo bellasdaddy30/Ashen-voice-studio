@@ -3,14 +3,18 @@ set -euo pipefail
 
 APP_HOME="${ASHEN_VOICE_HOME:-$HOME/.local/share/ashen-voice-studio}"
 VENV="$APP_HOME/venv"
+DESIGNER_VENV="$APP_HOME/designer-venv"
 BOOTSTRAP_VENV="$APP_HOME/bootstrap"
 PIPER_DIR="$APP_HOME/piper"
 LUX_DIR="$APP_HOME/LuxTTS"
 WITH_LUX=0
+WITH_DESIGNER=0
 
 for arg in "$@"; do
   case "$arg" in
     --with-lux) WITH_LUX=1 ;;
+    --with-designer) WITH_DESIGNER=1 ;;
+    --all) WITH_LUX=1; WITH_DESIGNER=1 ;;
     *) echo "Unknown option: $arg" >&2; exit 2 ;;
   esac
 done
@@ -91,6 +95,26 @@ else
   echo "  bash scripts/install-native-engines.sh --with-lux"
 fi
 
+if [ "$WITH_DESIGNER" -eq 1 ]; then
+  echo
+  echo "Installing Parler-TTS Tiny Voice Designer in its own isolated environment..."
+  if [ ! -d "$DESIGNER_VENV" ]; then
+    "$ENGINE_PY" -m venv "$DESIGNER_VENV"
+  fi
+  DESIGNER_PY="$DESIGNER_VENV/bin/python"
+  DESIGNER_PIP="$DESIGNER_VENV/bin/pip"
+  "$DESIGNER_PY" -m pip install --upgrade pip setuptools wheel
+  # Force the CPU PyTorch wheel so this laptop never drags in CUDA packages.
+  "$DESIGNER_PIP" install torch --index-url https://download.pytorch.org/whl/cpu
+  "$DESIGNER_PIP" install "git+https://github.com/huggingface/parler-tts.git"
+  echo "Parler-TTS Tiny Voice Designer installed. The 0.3B model downloads on first use."
+else
+  echo
+  echo "Parler Voice Designer is optional and kept isolated from Kitten/Piper dependencies."
+  echo "Install it when ready with:"
+  echo "  bash scripts/install-native-engines.sh --with-designer"
+fi
+
 echo
 echo "Native engine install complete."
 echo "Python: $($PY --version)"
@@ -98,4 +122,7 @@ echo "Environment: $VENV"
 echo "Piper voices: $PIPER_DIR"
 if [ "$WITH_LUX" -eq 1 ]; then
   echo "LuxTTS: $LUX_DIR"
+fi
+if [ "$WITH_DESIGNER" -eq 1 ]; then
+  echo "Voice Designer: $DESIGNER_VENV"
 fi
