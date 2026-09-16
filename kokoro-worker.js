@@ -1,12 +1,13 @@
-// Ashen Voice Studio native Kokoro worker v1.3.0
-// Uses a bundled kokoro-js runtime in Tauri, with CDN fallback for browser use.
+// Ashen Voice Studio native Kokoro worker v1.3.1
+// Native Tauri fix: keep the Kokoro runtime, voice embeddings, and ONNX WASM backend local.
 let tts=null;
 let currentDevice=null;
 let currentDtype=null;
 let inferenceTail=Promise.resolve();
 const STYLE_DIM=256;
 const SAMPLE_RATE=24000;
-const VOICE_DATA_URL='https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX/resolve/main/voices';
+const LOCAL_VOICE_DATA_URL='/vendor/kokoro-js/voices';
+const REMOTE_VOICE_DATA_URL='https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX/resolve/main/voices';
 const voiceCache=new Map();
 const blendCache=new Map();
 
@@ -14,14 +15,37 @@ function ensureReadableStreamAsyncIterator(){const RS=self.ReadableStream;if(!RS
 function status(message,busy=true){postMessage({type:'status',message,busy})}
 function errorText(e){return(e&&e.stack)||String(e&&e.message||e)}
 
+async function configureModule(mod){
+  // kokoro-js exposes env.wasmPaths specifically so host apps can prevent
+  // Transformers.js / ONNX Runtime from dynamically importing its backend from jsDelivr.
+  // That remote dynamic import is unreliable inside Tauri/WebKitGTK.
+  const wasmUrl=new URL('/vendor/ort/ort-wasm-simd-threaded.jsep.wasm',self.location.origin).href;
+  try{
+    if(mod?.env){
+      mod.env.wasmPaths={wasm:wasmUrl};
+    }
+  }catch(e){console.warn('Could not override Kokoro wasmPaths',e)}
+
+  // Use packaged voice embeddings when this kokoro-js build exposes the setter.
+  try{
+    if(typeof mod?.setVoiceDataUrl==='function'){
+      mod.setVoiceDataUrl(new URL(LOCAL_VOICE_DATA_URL+'/',self.location.origin).href.replace(/\/$/,''));
+    }
+  }catch(e){console.warn('Could not set local Kokoro voice path',e)}
+  return mod;
+}
+
 async function getModule(){
   ensureReadableStreamAsyncIterator();
   status('Loading bundled Kokoro runtime…',true);
-  try{return await import('/vendor/kokoro-js/kokoro.web.js')}
-  catch(localErr){
+  try{
+    const mod=await import('/vendor/kokoro-js/dist/kokoro.web.js');
+    return configureModule(mod);
+  }catch(localErr){
     console.warn('Bundled kokoro-js import failed, trying CDN',localErr);
     status('Bundled runtime unavailable · trying browser fallback…',true);
-    return import('https://cdn.jsdelivr.net/npm/kokoro-js@1.2.1/dist/kokoro.web.js');
+    const mod=await import('https://cdn.jsdelivr.net/npm/kokoro-js@1.2.1/dist/kokoro.web.js');
+    return configureModule(mod);
   }
 }
 
@@ -36,27 +60,47 @@ async function loadEngine(model,device,dtype){
   if(tts&&device===currentDevice&&dtype===currentDtype)return{device,dtype};
   try{await tts?.dispose?.()}catch{}
   tts=null;
-  const{KokoroTTS}=await getModule();
-  if(!KokoroTTS)throw new Error('KokoroTTS export missing');
+  const mod=await getModule();
+  const{KokoroTTS}=mod;
+  if(!KokoroTTS)throw new Error('KokoroTTS export missing from bundled runtime');
   const progress_callback=data=>{try{postMessage({type:'progress',data})}catch{}};
   const attempts=[];
   const add=(d,t)=>{if(!attempts.some(a=>a.device===d&&a.dtype===t))attempts.push({device:d,dtype:t})};
+
+  // On Linux Tauri/WebKitGTK, WASM is the dependable backend. If the UI asks for
+  // auto/webgpu we can try it, but always fall back to local WASM q8 then q4.
   add(device,dtype);
-  if(device==='webgpu'){add('wasm','q4');add('wasm','q8')}
-  else if(device==='wasm'){if(dtype!=='q4')add('wasm','q4');if(dtype!=='q8')add('wasm','q8')}
+  add('wasm','q8');
+  add('wasm','q4');
+
   let lastErr=null;
   for(const attempt of attempts){
     try{return await tryEngine(KokoroTTS,model,attempt,progress_callback)}
-    catch(e){lastErr=e;console.warn('Kokoro load attempt failed',attempt,e);status(`${attempt.device} ${attempt.dtype} failed · trying fallback…`,true);try{await tts?.dispose?.()}catch{}tts=null}
+    catch(e){
+      lastErr=e;
+      console.warn('Kokoro load attempt failed',attempt,e);
+      status(`${attempt.device} ${attempt.dtype} failed · trying fallback…`,true);
+      try{await tts?.dispose?.()}catch{}
+      tts=null;
+    }
   }
   throw lastErr||new Error('No Kokoro runtime configuration could be loaded');
 }
 
+async function fetchVoiceData(id){
+  const local=`${LOCAL_VOICE_DATA_URL}/${encodeURIComponent(id)}.bin`;
+  try{
+    const r=await fetch(local,{cache:'force-cache'});
+    if(r.ok)return new Float32Array(await r.arrayBuffer());
+  }catch{}
+  const remote=`${REMOTE_VOICE_DATA_URL}/${encodeURIComponent(id)}.bin`;
+  const r=await fetch(remote,{cache:'force-cache'});
+  if(!r.ok)throw new Error(`Could not load voice ${id}: HTTP ${r.status}`);
+  return new Float32Array(await r.arrayBuffer());
+}
 async function getVoiceData(id){
   if(voiceCache.has(id))return voiceCache.get(id);
-  const r=await fetch(`${VOICE_DATA_URL}/${encodeURIComponent(id)}.bin`,{cache:'force-cache'});
-  if(!r.ok)throw new Error(`Could not load voice ${id}: HTTP ${r.status}`);
-  const data=new Float32Array(await r.arrayBuffer());
+  const data=await fetchVoiceData(id);
   if(data.length<STYLE_DIM)throw new Error(`Voice ${id} returned invalid style data`);
   voiceCache.set(id,data);
   return data;
@@ -111,7 +155,7 @@ function postPcm(id,r,extra={}){const pcm=r.pcm instanceof Float32Array?r.pcm:ne
 self.onmessage=async ev=>{
   const m=ev.data||{},id=m.id;
   try{
-    if(m.type==='ping'){postMessage({id,ok:true,type:'pong',version:'1.3.0'});return}
+    if(m.type==='ping'){postMessage({id,ok:true,type:'pong',version:'1.3.1'});return}
     if(m.type==='load'){const r=await loadEngine(m.model,m.device,m.dtype);status(`Voice engine ready · ${r.device} ${r.dtype}`,false);postMessage({id,ok:true,...r});return}
     if(m.type==='generate'){
       if(!tts)throw new Error('Voice engine is not loaded');
