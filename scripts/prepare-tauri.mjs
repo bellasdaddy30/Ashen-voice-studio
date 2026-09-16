@@ -37,12 +37,27 @@ for (const entry of await readdir(root, { withFileTypes: true })) {
 
 const jszipSource = join(nodeModules, 'jszip', 'dist', 'jszip.min.js');
 const kokoroDist = join(nodeModules, 'kokoro-js', 'dist');
+const kokoroVoices = join(nodeModules, 'kokoro-js', 'voices');
+const ortDist = join(nodeModules, 'onnxruntime-web', 'dist');
+const ortWasm = join(ortDist, 'ort-wasm-simd-threaded.jsep.wasm');
+
 await mustExist(jszipSource, 'JSZip');
 await mustExist(kokoroDist, 'kokoro-js');
+await mustExist(kokoroVoices, 'Kokoro voice files');
+await mustExist(ortWasm, 'ONNX Runtime WASM binary');
 
 const vendor = join(out, 'vendor');
-await mkdir(vendor, { recursive: true });
+const kokoroVendor = join(vendor, 'kokoro-js');
+const ortVendor = join(vendor, 'ort');
+await mkdir(kokoroVendor, { recursive: true });
+await mkdir(ortVendor, { recursive: true });
+
 await cp(jszipSource, join(vendor, 'jszip.min.js'));
-await cp(kokoroDist, join(vendor, 'kokoro-js'), { recursive: true });
+await cp(kokoroDist, join(kokoroVendor, 'dist'), { recursive: true });
+await cp(kokoroVoices, join(kokoroVendor, 'voices'), { recursive: true });
+await cp(ortWasm, join(ortVendor, 'ort-wasm-simd-threaded.jsep.wasm'));
 
 console.log('Prepared Ashen Voice Studio native assets in .tauri-dist');
+console.log('  Kokoro browser runtime: bundled');
+console.log('  Kokoro voice embeddings: bundled');
+console.log('  ONNX WASM backend: bundled locally (no jsDelivr backend import)');
