@@ -1,6 +1,6 @@
 {
   "name": "ashen-voice-studio",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "private": true,
   "description": "Ashen Voice Studio native desktop wrapper",
   "scripts": {
@@ -8,6 +8,10 @@
     "tauri:prepare": "node scripts/prepare-tauri.mjs",
     "tauri:dev": "tauri dev",
     "tauri:build": "tauri build"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "kokoro-js": "1.2.1"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^2.0.0"
