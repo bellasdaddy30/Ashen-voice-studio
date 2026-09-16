@@ -1,7 +1,8 @@
-// Ashen Voice Studio v1.2.1 audio engine bridge + low-memory assembly
-// iPhone/iPad: force Kokoro WASM q8. Worker returns raw Float32 PCM buffers.
+// Ashen Voice Studio v1.3.1 audio engine bridge + low-memory assembly
+// Native desktop + Apple mobile: prefer dependable Kokoro WASM q8. Worker returns raw Float32 PCM buffers.
 
 function isAppleMobile(){return /iPhone|iPad|iPod/i.test(navigator.userAgent)}
+function isNativeTauri(){return !!window.__TAURI_INTERNALS__}
 function workerAudioToBlob(g){
   if(g?.pcmBuffer){
     const pcm=new Float32Array(g.pcmBuffer);
@@ -14,7 +15,7 @@ function workerAudioToBlob(g){
 
 ensureKokoroWorker=function(){
   if(kokoroWorker)return kokoroWorker;
-  const w=new Worker('/kokoro-worker.js?v=121',{type:'module'});
+  const w=new Worker('/kokoro-worker.js?v=131',{type:'module'});
   kokoroWorker=w;
   w.onmessage=(ev)=>{
     const m=ev.data||{};
@@ -39,7 +40,7 @@ ensureKokoroWorker=function(){
   w.onerror=(e)=>{
     try{e.preventDefault?.();e.stopPropagation?.()}catch{}
     const raw=String(e?.message||'').trim();
-    const msg=raw&&raw!=='Script error.'?raw:'Kokoro voice worker crashed in Safari';
+    const msg=raw&&raw!=='Script error.'?raw:'Kokoro voice worker crashed';
     console.error('Kokoro worker error',e);
     rejectWorkerPending(msg);
     try{w.terminate()}catch{}
@@ -67,10 +68,15 @@ loadKokoro=async function(){
   if(kokoroLoading)return kokoroLoading;
   kokoroLoading=(async()=>{
     const apple=isAppleMobile();
+    const native=isNativeTauri();
     let device=state.settings.device;
     let dtype=state.settings.dtype||'q8';
-    if(apple){
-      device='wasm';dtype='q8';state.settings.device='wasm';state.settings.dtype='q8';
+    if(apple||native){
+      device='wasm';
+      // q8 is the stable quality/memory compromise on the current Kokoro browser runtime.
+      dtype='q8';
+      state.settings.device='wasm';
+      state.settings.dtype='q8';
     }else{
       if(device==='auto')device=navigator.gpu?'webgpu':'wasm';
       if(state.settings.memorySaver)dtype='q8';
@@ -78,7 +84,7 @@ loadKokoro=async function(){
     }
     const cfg=`${device}:${dtype}`;
     if(kokoroWorkerReady&&kokoroWorkerConfigKey===cfg)return kokoro;
-    setVoiceBusy(true,apple?'Starting iPhone quality engine · WASM q8':`Starting voice engine · ${device} ${dtype}`);
+    setVoiceBusy(true,native?'Starting native voice engine · local WASM q8':apple?'Starting iPhone quality engine · WASM q8':`Starting voice engine · ${device} ${dtype}`);
     const r=await kokoroWorkerCall('load',{model:KOKORO_MODEL,device,dtype});
     kokoroWorkerReady=true;
     kokoroWorkerConfigKey=`${r.device||device}:${r.dtype||dtype}`;
