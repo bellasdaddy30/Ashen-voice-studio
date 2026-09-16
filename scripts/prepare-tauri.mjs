@@ -18,9 +18,13 @@ const skipNames = new Set([
   'yarn.lock'
 ]);
 
+async function exists(path){try{await access(path);return true}catch{return false}}
 async function mustExist(path, label) {
-  try { await access(path); }
-  catch { throw new Error(`${label} is missing. Run npm install once in ${root}, then retry.`); }
+  if(!(await exists(path))) throw new Error(`${label} is missing. Run npm install once in ${root}, then retry.`);
+}
+async function firstExisting(paths,label){
+  for(const p of paths) if(await exists(p)) return p;
+  throw new Error(`${label} is missing. Checked:\n${paths.map(p=>'  '+p).join('\n')}\nRun npm install once in ${root}, then retry.`);
 }
 
 await rm(out, { recursive: true, force: true });
@@ -38,13 +42,14 @@ for (const entry of await readdir(root, { withFileTypes: true })) {
 const jszipSource = join(nodeModules, 'jszip', 'dist', 'jszip.min.js');
 const kokoroDist = join(nodeModules, 'kokoro-js', 'dist');
 const kokoroVoices = join(nodeModules, 'kokoro-js', 'voices');
-const ortDist = join(nodeModules, 'onnxruntime-web', 'dist');
-const ortWasm = join(ortDist, 'ort-wasm-simd-threaded.jsep.wasm');
+const ortWasm = await firstExisting([
+  join(nodeModules, 'onnxruntime-web', 'dist', 'ort-wasm-simd-threaded.jsep.wasm'),
+  join(nodeModules, '@huggingface', 'transformers', 'node_modules', 'onnxruntime-web', 'dist', 'ort-wasm-simd-threaded.jsep.wasm')
+], 'ONNX Runtime WASM binary');
 
 await mustExist(jszipSource, 'JSZip');
 await mustExist(kokoroDist, 'kokoro-js');
 await mustExist(kokoroVoices, 'Kokoro voice files');
-await mustExist(ortWasm, 'ONNX Runtime WASM binary');
 
 const vendor = join(out, 'vendor');
 const kokoroVendor = join(vendor, 'kokoro-js');
