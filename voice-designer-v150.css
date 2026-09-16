@@ -1,0 +1,11 @@
+/* Ashen Voice Studio Voice Designer v1.5.0 */
+.voiceDesignerPanel{border:1px solid var(--line);border-radius:14px;padding:14px;margin:14px 0;background:rgba(255,255,255,.02)}
+.voiceDesignerPanel h3{margin:0}
+.designerGrid{display:grid;grid-template-columns:repeat(4,minmax(130px,1fr));gap:10px}
+.designerGrid.compact{grid-template-columns:minmax(120px,180px) minmax(160px,220px);justify-content:start}
+.designerCandidates{display:grid;grid-template-columns:repeat(2,minmax(240px,1fr));gap:10px;margin-top:12px}
+.designerCandidate audio{width:100%;margin:8px 0}
+.candidateHead{display:flex;align-items:center;justify-content:space-between;gap:8px}
+#vdProgress{margin-top:10px}
+@media(max-width:900px){.designerGrid{grid-template-columns:1fr 1fr}.designerCandidates{grid-template-columns:1fr}}
+@media(max-width:560px){.designerGrid,.designerGrid.compact{grid-template-columns:1fr}}
