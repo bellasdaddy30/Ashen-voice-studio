@@ -1,0 +1,36 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Ashen Voice Studio",
+  "version": "1.2.1",
+  "identifier": "com.crashen.ashenvoicestudio",
+  "build": {
+    "beforeDevCommand": "npm run tauri:prepare",
+    "beforeBuildCommand": "npm run tauri:prepare",
+    "frontendDist": "../.tauri-dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "Ashen Voice Studio",
+        "width": 1280,
+        "height": 800,
+        "minWidth": 900,
+        "minHeight": 600,
+        "resizable": true,
+        "fullscreen": false,
+        "center": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["deb", "appimage"],
+    "category": "Music",
+    "shortDescription": "Local audiobook production studio",
+    "longDescription": "Ashen Voice Studio is a local-first audiobook production environment for multi-character narration, performance direction, recording, assembly, and mixing."
+  }
+}
