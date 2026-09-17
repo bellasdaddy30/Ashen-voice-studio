@@ -1,0 +1,30 @@
+name: Ashen Voice Handoff Export
+
+on:
+  push:
+    branches:
+      - handoff-export
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current working branch snapshot
+        uses: actions/checkout@v4
+        with:
+          ref: native-tauri-v1.2.1
+          fetch-depth: 0
+
+      - name: Export exact source snapshot
+        run: |
+          mkdir -p export
+          git archive --format=zip --output=export/Ashen-voice-studio-native-tauri-v1.2.1-source.zip HEAD
+          git rev-parse HEAD > export/SOURCE_COMMIT.txt
+
+      - name: Upload source snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: AshenVoiceStudio-source-handoff
+          path: export/*
+          retention-days: 30
