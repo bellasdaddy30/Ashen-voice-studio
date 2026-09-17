@@ -1,13 +1,15 @@
 {
   "name": "ashen-voice-studio",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "private": true,
-  "description": "Ashen Voice Studio native desktop wrapper",
+  "description": "Ashen Voice Studio native desktop and iPhone workspace",
   "scripts": {
     "tauri": "tauri",
     "tauri:prepare": "node scripts/prepare-tauri.mjs",
     "tauri:dev": "tauri dev",
-    "tauri:build": "tauri build"
+    "tauri:build": "tauri build",
+    "ios:prepare": "node scripts/prepare-ios-web.mjs",
+    "ios:models": "bash scripts/prepare-ios-models.sh"
   },
   "dependencies": {
     "jszip": "^3.10.1",
