@@ -1,4 +1,7 @@
 use serde_json::{json, Value};
+use tauri::State;
+
+#[cfg(not(mobile))]
 use std::{
     env,
     fs,
@@ -7,20 +10,31 @@ use std::{
     process::{Child, ChildStdin, ChildStdout, Command, Stdio},
     sync::Mutex,
 };
-use tauri::State;
 
+#[cfg(not(mobile))]
 const WORKER_SOURCE: &str = include_str!("../../native_voice_worker.py");
+#[cfg(not(mobile))]
 const DESIGNER_SOURCE: &str = include_str!("../../voice_designer_worker.py");
 
+#[cfg(not(mobile))]
 struct VoiceWorker {
     child: Child,
     stdin: ChildStdin,
     stdout: BufReader<ChildStdout>,
 }
 
+#[cfg(not(mobile))]
 #[derive(Default)]
 struct VoiceState(Mutex<Option<VoiceWorker>>);
 
+// Keep the command surface identical on iOS/Android. Mobile gets its own native
+// engine implementation later without forcing the frontend, project schema, or
+// character cards to change.
+#[cfg(mobile)]
+#[derive(Default)]
+struct VoiceState;
+
+#[cfg(not(mobile))]
 fn app_home() -> PathBuf {
     if let Ok(v) = env::var("ASHEN_VOICE_HOME") {
         return PathBuf::from(v);
@@ -32,6 +46,7 @@ fn app_home() -> PathBuf {
         .join("ashen-voice-studio")
 }
 
+#[cfg(not(mobile))]
 fn python_path() -> PathBuf {
     if let Ok(v) = env::var("ASHEN_VOICE_PYTHON") {
         return PathBuf::from(v);
@@ -44,6 +59,7 @@ fn python_path() -> PathBuf {
     }
 }
 
+#[cfg(not(mobile))]
 fn designer_python_path() -> PathBuf {
     if let Ok(v) = env::var("ASHEN_VOICE_DESIGNER_PYTHON") {
         return PathBuf::from(v);
@@ -54,6 +70,7 @@ fn designer_python_path() -> PathBuf {
         .join("python")
 }
 
+#[cfg(not(mobile))]
 fn install_embedded_script(name: &str, source: &str) -> Result<PathBuf, String> {
     let dir = app_home();
     fs::create_dir_all(&dir).map_err(|e| format!("Could not create native voice folder: {e}"))?;
@@ -62,20 +79,22 @@ fn install_embedded_script(name: &str, source: &str) -> Result<PathBuf, String> 
         .map(|s| s != source)
         .unwrap_or(true);
     if needs_write {
-        fs::write(&path, source)
-            .map_err(|e| format!("Could not install {name}: {e}"))?;
+        fs::write(&path, source).map_err(|e| format!("Could not install {name}: {e}"))?;
     }
     Ok(path)
 }
 
+#[cfg(not(mobile))]
 fn worker_script_path() -> Result<PathBuf, String> {
     install_embedded_script("native_voice_worker.py", WORKER_SOURCE)
 }
 
+#[cfg(not(mobile))]
 fn designer_script_path() -> Result<PathBuf, String> {
     install_embedded_script("voice_designer_worker.py", DESIGNER_SOURCE)
 }
 
+#[cfg(not(mobile))]
 fn start_worker() -> Result<VoiceWorker, String> {
     let python = python_path();
     let script = worker_script_path()?;
@@ -110,6 +129,7 @@ fn start_worker() -> Result<VoiceWorker, String> {
     })
 }
 
+#[cfg(not(mobile))]
 fn call_worker(worker: &mut VoiceWorker, request: &Value) -> Result<Value, String> {
     let line = serde_json::to_string(request).map_err(|e| e.to_string())?;
     writeln!(worker.stdin, "{line}")
@@ -128,6 +148,7 @@ fn call_worker(worker: &mut VoiceWorker, request: &Value) -> Result<Value, Strin
         .map_err(|e| format!("Native voice worker returned invalid JSON: {e}"))
 }
 
+#[cfg(not(mobile))]
 #[tauri::command]
 fn native_tts(request: Value, state: State<'_, VoiceState>) -> Result<Value, String> {
     let mut guard = state
@@ -156,6 +177,27 @@ fn native_tts(request: Value, state: State<'_, VoiceState>) -> Result<Value, Str
     }
 }
 
+#[cfg(mobile)]
+#[tauri::command]
+fn native_tts(request: Value, _state: State<'_, VoiceState>) -> Result<Value, String> {
+    // This is intentionally a stable placeholder rather than desktop-process code.
+    // iOS/Android will plug their on-device runtime into this same command contract.
+    if request.get("op").and_then(Value::as_str) == Some("status") {
+        return Ok(json!({
+            "ok": true,
+            "platform": "mobile",
+            "backend": "mobile-native-pending",
+            "engines": {
+                "kitten": {"available": false, "label": "KittenTTS"},
+                "piper": {"available": false, "label": "Piper"},
+                "lux": {"available": false, "label": "LuxTTS"}
+            }
+        }));
+    }
+    Err("The mobile on-device TTS backend has not been installed in this build yet.".into())
+}
+
+#[cfg(not(mobile))]
 #[tauri::command]
 fn reset_native_tts(state: State<'_, VoiceState>) -> Result<(), String> {
     let mut guard = state
@@ -169,6 +211,13 @@ fn reset_native_tts(state: State<'_, VoiceState>) -> Result<(), String> {
     Ok(())
 }
 
+#[cfg(mobile)]
+#[tauri::command]
+fn reset_native_tts(_state: State<'_, VoiceState>) -> Result<(), String> {
+    Ok(())
+}
+
+#[cfg(not(mobile))]
 #[tauri::command]
 fn native_voice_designer_status() -> Value {
     let python = designer_python_path();
@@ -180,6 +229,18 @@ fn native_voice_designer_status() -> Value {
     })
 }
 
+#[cfg(mobile)]
+#[tauri::command]
+fn native_voice_designer_status() -> Value {
+    json!({
+        "ok": true,
+        "available": false,
+        "platform": "mobile",
+        "backend": "mobile-native-pending"
+    })
+}
+
+#[cfg(not(mobile))]
 fn run_designer(request: Value) -> Result<Value, String> {
     let python = designer_python_path();
     if !python.exists() {
@@ -224,11 +285,18 @@ fn run_designer(request: Value) -> Result<Value, String> {
     Ok(value)
 }
 
+#[cfg(not(mobile))]
 #[tauri::command]
 async fn native_voice_design(request: Value) -> Result<Value, String> {
     tauri::async_runtime::spawn_blocking(move || run_designer(request))
         .await
         .map_err(|e| format!("Voice Designer task failed: {e}"))?
+}
+
+#[cfg(mobile)]
+#[tauri::command]
+async fn native_voice_design(_request: Value) -> Result<Value, String> {
+    Err("The mobile voice designer backend has not been installed in this build yet.".into())
 }
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
