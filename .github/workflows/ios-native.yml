@@ -1,0 +1,74 @@
+name: Ashen Voice iPhone Native
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - native-tauri-v1.2.1
+    paths:
+      - 'ios-native/**'
+      - 'ios-native-v160.js'
+      - 'native-engines-v140.js'
+      - 'voice-designer-v150.js'
+      - 'index.html'
+      - 'scripts/prepare-ios-web.mjs'
+      - 'scripts/prepare-ios-models.sh'
+      - '.github/workflows/ios-native.yml'
+
+jobs:
+  build-ios:
+    runs-on: macos-15
+    timeout-minutes: 90
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install web dependencies
+        run: npm ci
+
+      - name: Prepare bundled Ashen UI
+        run: node scripts/prepare-ios-web.mjs
+
+      - name: Download native iPhone TTS models
+        run: bash scripts/prepare-ios-models.sh
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: |
+          cd ios-native
+          xcodegen generate
+
+      - name: Build unsigned iPhone arm64 app
+        run: |
+          xcodebuild \
+            -project ios-native/AshenVoiceIOS.xcodeproj \
+            -scheme AshenVoiceIOS \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath build/ios-derived \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            build
+
+      - name: Package unsigned app artifact
+        run: |
+          mkdir -p build/artifacts
+          APP_PATH="$(find build/ios-derived/Build/Products/Release-iphoneos -maxdepth 1 -name '*.app' -print -quit)"
+          test -n "$APP_PATH"
+          ditto -c -k --sequesterRsrc --keepParent "$APP_PATH" build/artifacts/AshenVoiceIOS-unsigned.zip
+          echo "Built: $APP_PATH"
+
+      - name: Upload native iPhone build
+        uses: actions/upload-artifact@v4
+        with:
+          name: AshenVoiceIOS-unsigned
+          path: build/artifacts/AshenVoiceIOS-unsigned.zip
+          retention-days: 14
