@@ -119,7 +119,7 @@ final class IOSVoiceEngine {
         switch engine {
         case "kitten":
             tts = try kitten()
-            config.sid = Int32(kittenSpeakerID(request["voice"] as? String))
+            config.sid = kittenSpeakerID(request["voice"] as? String)
 
         case "piper":
             tts = try piper()
@@ -133,7 +133,7 @@ final class IOSVoiceEngine {
             config.referenceAudio = reference.samples
             config.referenceSampleRate = reference.sampleRate
             config.referenceText = reference.text
-            config.numSteps = Int32(max(2, min(8, Int(number(request["lux_steps"], fallback: 4)))))
+            config.numSteps = max(2, min(8, Int(number(request["lux_steps"], fallback: 4))))
             config.extra = ["min_char_in_sentence": "10"]
 
         default:
