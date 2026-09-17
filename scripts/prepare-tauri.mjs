@@ -11,6 +11,7 @@ const skipNames = new Set([
   '.tauri-dist',
   'node_modules',
   'src-tauri',
+  'ios-native',
   'scripts',
   'package.json',
   'package-lock.json',
