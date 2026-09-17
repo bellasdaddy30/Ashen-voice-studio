@@ -1,0 +1,46 @@
+name: AshenVoiceIOS
+options:
+  bundleIdPrefix: com.crashen
+  deploymentTarget:
+    iOS: "15.0"
+  createIntermediateGroups: true
+
+packages:
+  SherpaOnnx:
+    url: https://github.com/k2-fsa/sherpa-onnx
+    from: 1.13.8
+
+targets:
+  AshenVoiceIOS:
+    type: application
+    platform: iOS
+    deploymentTarget: "15.0"
+    sources:
+      - path: App
+    resources:
+      - path: Resources/Web
+        type: folder
+      - path: Resources/Models
+        type: folder
+    dependencies:
+      - package: SherpaOnnx
+        product: sherpa-onnx
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.crashen.ashenvoicestudio.ios
+        PRODUCT_NAME: Ashen Voice Studio
+        SWIFT_VERSION: 5.9
+        IPHONEOS_DEPLOYMENT_TARGET: 15.0
+        TARGETED_DEVICE_FAMILY: "1"
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: Ashen Voice
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.music
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UIStatusBarStyle: UIStatusBarStyleLightContent
+        CODE_SIGN_STYLE: Automatic
+        CURRENT_PROJECT_VERSION: 1
+        MARKETING_VERSION: 1.6.0
+    scheme:
+      testTargets: []
+      gatherCoverageData: false
