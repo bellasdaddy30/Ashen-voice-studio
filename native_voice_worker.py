@@ -39,6 +39,8 @@ kitten_models: dict[str, object] = {}
 piper_voices: dict[str, object] = {}
 lux_model = None
 lux_prompts: dict[str, object] = {}
+chatterbox_model = None
+chatterbox_prompts: dict[str, Path] = {}
 
 
 def installed(name: str) -> bool:
@@ -49,6 +51,7 @@ def installed(name: str) -> bool:
 
 
 def status_payload() -> dict:
+    chatterbox_available = installed("chatterbox")
     lux_available = installed("zipvoice") or LUX_DIR.exists()
     return {
         "ok": True,
@@ -56,6 +59,7 @@ def status_payload() -> dict:
             "kitten": {"available": installed("kittentts"), "label": "KittenTTS"},
             "piper": {"available": installed("piper"), "label": "Piper"},
             "lux": {"available": lux_available, "label": "LuxTTS"},
+            "chatterbox": {"available": chatterbox_available, "label": "Chatterbox"},
         },
         "paths": {
             "home": str(APP_HOME),
@@ -165,6 +169,90 @@ def synth_piper(req: dict) -> bytes:
     return out.getvalue()
 
 
+
+def load_chatterbox():
+    global chatterbox_model
+    if chatterbox_model is not None:
+        return chatterbox_model
+    try:
+        from chatterbox.tts import ChatterboxTTS
+    except Exception as e:
+        raise RuntimeError("Chatterbox is not installed. Run scripts/install-native-engines.sh --with-chatterbox.") from e
+    import torch
+    device = "cuda" if torch.cuda.is_available() else ("mps" if getattr(torch.backends, "mps", None) and torch.backends.mps.is_available() else "cpu")
+    chatterbox_model = ChatterboxTTS.from_pretrained(device=device)
+    return chatterbox_model
+
+
+def chatterbox_reference_path(req: dict) -> tuple[str, Path]:
+    character_id = str(req.get("character_id") or "character")
+    safe_id = "".join(ch for ch in character_id if ch.isalnum() or ch in "-_.") or "character"
+    data_b64 = req.get("reference_audio_b64")
+    if data_b64:
+        name = str(req.get("reference_name") or "reference.wav")
+        ext = Path(name).suffix.lower() or ".wav"
+        path = save_reference(safe_id, data_b64, ext)
+        chatterbox_prompts[safe_id] = path
+        return safe_id, path
+    if safe_id in chatterbox_prompts and chatterbox_prompts[safe_id].exists():
+        return safe_id, chatterbox_prompts[safe_id]
+    matches = sorted(REF_DIR.glob(f"{safe_id}.*"))
+    if matches:
+        chatterbox_prompts[safe_id] = matches[0]
+        return safe_id, matches[0]
+    raise RuntimeError("Chatterbox needs a reference recording for this character.")
+
+
+def synth_chatterbox(req: dict) -> bytes:
+    model = load_chatterbox()
+    key, ref_path = chatterbox_reference_path(req)
+    import torch
+    seed = req.get("seed")
+    if seed not in (None, "", 0, "0"):
+        seed = int(seed)
+        torch.manual_seed(seed)
+        if torch.cuda.is_available():
+            torch.cuda.manual_seed_all(seed)
+
+    emotion = str(req.get("emotion") or "neutral").lower()
+    intensity = max(0.0, min(1.0, float(req.get("emotion_intensity") or 0.7)))
+    base_exaggeration = {
+        "neutral": 0.50, "solemn": 0.42, "tense": 0.62, "urgent": 0.72,
+        "fearful": 0.72, "grief": 0.58, "angry": 0.86, "intimate": 0.46,
+        "deadpan": 0.36, "ominous": 0.66, "whispered": 0.40,
+    }.get(emotion, 0.50)
+    exaggeration = max(0.25, min(1.10, base_exaggeration + (intensity - 0.7) * 0.45))
+    delivery = str(req.get("delivery") or "natural")
+    cfg = {
+        "natural": 0.50, "controlled": 0.42, "urgent": 0.32,
+        "clipped": 0.28, "hesitant": 0.38, "soft": 0.46, "commanding": 0.40,
+    }.get(delivery, 0.50)
+    cfg = max(0.20, min(0.75, cfg))
+    kwargs = {
+        "audio_prompt_path": str(ref_path),
+        "exaggeration": exaggeration,
+        "cfg_weight": cfg,
+        "temperature": max(0.55, min(1.0, 0.72 + (0.08 * intensity))),
+        "min_p": 0.05,
+        "top_p": 1.0,
+        "repetition_penalty": 1.2,
+    }
+    try:
+        audio = model.generate(str(req.get("text") or ""), **kwargs)
+    except TypeError:
+        kwargs.pop("min_p", None)
+        kwargs.pop("top_p", None)
+        kwargs.pop("repetition_penalty", None)
+        audio = model.generate(str(req.get("text") or ""), **kwargs)
+    if hasattr(audio, "detach"):
+        audio = audio.detach()
+    if hasattr(audio, "cpu"):
+        audio = audio.cpu()
+    if hasattr(audio, "numpy"):
+        audio = audio.numpy()
+    return wav_bytes_from_float(audio, int(model.sr))
+
+
 def load_lux():
     global lux_model
     if lux_model is not None:
@@ -249,6 +337,8 @@ def synthesize(req: dict) -> bytes:
         return synth_piper(req)
     if engine == "lux":
         return synth_lux(req)
+    if engine == "chatterbox":
+        return synth_chatterbox(req)
     raise ValueError(f"Unknown native TTS engine: {engine}")
 
 
@@ -260,8 +350,10 @@ def handle(req: dict) -> dict:
         kitten_models.clear()
         piper_voices.clear()
         lux_prompts.clear()
-        global lux_model
+        chatterbox_prompts.clear()
+        global lux_model, chatterbox_model
         lux_model = None
+        chatterbox_model = None
         return {"ok": True}
     wav = synthesize(req)
     return {
