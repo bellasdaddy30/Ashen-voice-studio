@@ -107,7 +107,6 @@
   async function saveLuxReference(c,file){
     if(!file)throw new Error('Choose a clean reference recording first.');
     await dbPut(referenceKey(c),file);
-    c.engine='lux';
     c.luxReady=true;
     c.luxReferenceName=file.name;
     c.luxReferenceSynced=false;
