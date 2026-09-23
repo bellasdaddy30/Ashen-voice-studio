@@ -9,12 +9,14 @@ PIPER_DIR="$APP_HOME/piper"
 LUX_DIR="$APP_HOME/LuxTTS"
 WITH_LUX=0
 WITH_DESIGNER=0
+WITH_CHATTERBOX=0
 
 for arg in "$@"; do
   case "$arg" in
     --with-lux) WITH_LUX=1 ;;
     --with-designer) WITH_DESIGNER=1 ;;
-    --all) WITH_LUX=1; WITH_DESIGNER=1 ;;
+    --with-chatterbox) WITH_CHATTERBOX=1 ;;
+    --all) WITH_LUX=1; WITH_DESIGNER=1; WITH_CHATTERBOX=1 ;;
     *) echo "Unknown option: $arg" >&2; exit 2 ;;
   esac
 done
@@ -80,6 +82,16 @@ if [ ! -f "$PIPER_DIR/en_US-lessac-medium.onnx" ]; then
   )
 fi
 
+if [ "$WITH_CHATTERBOX" -eq 1 ]; then
+  echo
+  echo "Installing Chatterbox TTS for expressive local audiobook generation..."
+  "$PIP" install "chatterbox-tts"
+else
+  echo
+  echo "Chatterbox is optional. Install it with:"
+  echo "  bash scripts/install-native-engines.sh --with-chatterbox"
+fi
+
 if [ "$WITH_LUX" -eq 1 ]; then
   echo "Installing LuxTTS. This is substantially heavier than Kitten/Piper."
   if [ ! -d "$LUX_DIR/.git" ]; then
@@ -95,6 +107,9 @@ else
   echo "  bash scripts/install-native-engines.sh --with-lux"
 fi
 
+if [ "$WITH_CHATTERBOX" -eq 1 ]; then
+  echo "Chatterbox: installed"
+fi
 if [ "$WITH_DESIGNER" -eq 1 ]; then
   echo
   echo "Installing Parler-TTS Tiny Voice Designer in its own isolated environment..."
