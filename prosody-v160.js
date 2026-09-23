@@ -164,9 +164,9 @@
     return joinPcm(pcm,rate,phrasePauses(phrases,emotion,delivery),12);
   }
 
-  const original=window.synthesizeProfile;
-  if(typeof original==='function'){
-    window.synthesizeProfile=async function(text,c){
+  const original=typeof synthesizeProfile==='function'?synthesizeProfile:null;
+  if(original){
+    synthesizeProfile=async function(text,c){
       c=c||{};
       if(String(c.engine||'').toLowerCase()!=='chatterbox')return original(text,c);
       return synthesizeChatterboxProsody(text,c);
