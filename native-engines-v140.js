@@ -11,7 +11,7 @@
     ['KittenML/kitten-tts-micro-0.8','Micro 0.8 · higher quality'],
     ['KittenML/kitten-tts-mini-0.8','Mini 0.8 · heaviest Kitten model']
   ];
-  const ENGINE_LABELS={kitten:'KittenTTS',piper:'Piper',lux:'LuxTTS'};
+  const ENGINE_LABELS={kitten:'KittenTTS',piper:'Piper',lux:'LuxTTS',chatterbox:'Chatterbox'};
   const DELIVERY=['natural','controlled','urgent','clipped','hesitant','soft','commanding'];
   const VOICE_REF_PREFIX='native-voice-ref:';
 
@@ -32,8 +32,8 @@
   makeChar=function(c={}){
     const out=coreMakeChar(c);
     const requested=String(c.engine||c.nativeEngine||'').toLowerCase();
-    out.engine=['kitten','piper','lux'].includes(requested)?requested:(c.mode==='clone'&&c.cloneReady?'lux':'kitten');
-    out.engineModel=c.engineModel||(out.engine==='kitten'?'KittenML/kitten-tts-nano-0.8':out.engine==='lux'?'YatharthS/LuxTTS':'');
+    out.engine=['kitten','piper','lux','chatterbox'].includes(requested)?requested:(c.mode==='clone'&&c.cloneReady?'lux':'kitten');
+    out.engineModel=c.engineModel||(out.engine==='kitten'?'KittenML/kitten-tts-nano-0.8':out.engine==='lux'?'YatharthS/LuxTTS':out.engine==='chatterbox'?'ResembleAI/Chatterbox':'');
     out.engineVoice=c.engineVoice||c.nativeVoice||(out.engine==='piper'?'en_US-lessac-medium':defaultKittenVoice(out.name));
     out.identityLocked=c.identityLocked!==false;
     out.cadence=c.cadence||'natural';
@@ -131,7 +131,7 @@
       lux_steps:c.luxSteps||4
     };
 
-    if(engine==='lux'){
+    if(engine==='lux'||engine==='chatterbox'){
       const ref=await dbGet(referenceKey(c)).catch(()=>null);
       // Send the reference until the native worker has persisted it once. After that,
       // Lux reuses the exact same speaker prompt/identity for every line.
@@ -139,7 +139,7 @@
         payload.reference_audio_b64=await blobToBase64(ref);
         payload.reference_name=c.luxReferenceName||ref.name||'reference.wav';
       }else if(!ref&&!c.luxReady){
-        throw new Error(`${c.name} needs a LuxTTS reference recording.`);
+        throw new Error(`${c.name} needs a ${engine==='chatterbox'?'Chatterbox':'LuxTTS'} reference recording.`);
       }
     }
 
@@ -147,7 +147,7 @@
     const r=await invokeNative('native_tts',{request:payload});
     if(!r?.ok)throw new Error(r?.error||'Native voice engine failed');
     if(!r.wav_b64)throw new Error('Native voice engine returned no WAV audio');
-    if(engine==='lux'&&!c.luxReferenceSynced){
+    if((engine==='lux'||engine==='chatterbox')&&!c.luxReferenceSynced){
       const real=state.characters.find(x=>x.id===c.id);
       if(real){real.luxReferenceSynced=true;save()}
     }
@@ -232,7 +232,8 @@
     if(c.engine==='piper'){
       return `<div class="field"><label>Piper voice model</label><input id="nativeVoice" value="${esc(c.engineVoice||'en_US-lessac-medium')}" placeholder="en_US-lessac-medium"></div><div class="infoBox">Piper is the reliability engine. Emotion only nudges pacing and natural variation inside the same installed voice model.</div>`;
     }
-    return `<div class="infoBox"><b>LuxTTS voice clone.</b> One master reference recording defines this character's identity. Every emotional line reuses that same speaker reference.</div><div class="field"><label>Master reference recording</label><input id="luxRefFile" type="file" accept="audio/*,.wav,.mp3,.m4a"></div><div class="mini">${c.luxReady?`Current reference: ${esc(c.luxReferenceName||'saved locally')}`:'No Lux reference saved yet.'}</div><div class="field"><label>Lux sampling steps</label><input id="luxSteps" type="number" min="2" max="8" step="1" value="${c.luxSteps||4}"></div>`;
+    if(c.engine==='chatterbox') return `<div class="infoBox"><b>Chatterbox voice identity.</b> One master reference recording defines the speaker. Emotion is controlled with Chatterbox exaggeration while the same reference anchors identity.</div><div class="field"><label>Master reference recording</label><input id="luxRefFile" type="file" accept="audio/*,.wav,.mp3,.m4a"></div><div class="mini">${c.luxReady?`Current reference: ${esc(c.luxReferenceName||'saved locally')}`:'No Chatterbox reference saved yet.'}</div>`;
+    return `<div class="infoBox"><b>LuxTTS voice clone.</b> One master reference recording defines this character's identity. Every emotional line reuses the same speaker reference.</div><div class="field"><label>Master reference recording</label><input id="luxRefFile" type="file" accept="audio/*,.wav,.mp3,.m4a"></div><div class="mini">${c.luxReady?`Current reference: ${esc(c.luxReferenceName||'saved locally')}`:'No Lux reference saved yet.'}</div><div class="field"><label>Lux sampling steps</label><input id="luxSteps" type="number" min="2" max="8" step="1" value="${c.luxSteps||4}"></div>`;
   }
 
   openVoiceLab=function(id){
@@ -244,7 +245,7 @@
     m.classList.remove('hidden');
     m.innerHTML=`<div class="modalCard nativeVoiceLab"><div class="sectionHead"><div><h2>Voice Identity · ${esc(c.name)}</h2><div class="mini">Lock who the speaker is. Emotion changes only how that same speaker delivers the line.</div></div><button id="closeVoice" class="btn">Close</button></div>
       <div class="voiceIdentityBanner"><label><input id="identityLocked" type="checkbox" ${c.identityLocked?'checked':''}> <b>Voice Identity Lock</b></label><div class="mini">Keeps the selected voice/clone, accent, base pace, cadence and timbre consistent across emotions.</div></div>
-      <div class="voiceGrid"><div class="field"><label>Local engine</label><select id="nativeEngine"><option value="kitten" ${c.engine==='kitten'?'selected':''}>KittenTTS</option><option value="piper" ${c.engine==='piper'?'selected':''}>Piper</option><option value="lux" ${c.engine==='lux'?'selected':''}>LuxTTS · cloned voice</option></select></div><div class="field"><label>Natural speaking speed</label><input id="vSpeed" type="number" min=".55" max="1.45" step=".01" value="${c.speed}"></div><div class="field"><label>Natural pause</label><input id="vPause" type="number" min="0" max="3" step=".05" value="${c.pause}"></div><div class="field"><label>Cadence</label><select id="vCadence">${['natural','deliberate','measured','quick',' clipped','hesitant'].map(x=>x.trim()).map(x=>`<option ${c.cadence===x?'selected':''}>${x}</option>`).join('')}</select></div><div class="field"><label>Accent / dialect note</label><input id="vAccent" value="${esc(c.accent||'')}" placeholder="identity note"></div><div class="field"><label>Timbre / identity note</label><input id="vTimbre" value="${esc(c.timbre||'')}" placeholder="low, dry, warm, brittle…"></div></div>
+      <div class="voiceGrid"><div class="field"><label>Local engine</label><select id="nativeEngine"><option value="kitten" ${c.engine==='kitten'?'selected':''}>KittenTTS</option><option value="piper" ${c.engine==='piper'?'selected':''}>Piper</option><option value="lux" ${c.engine==='lux'?'selected':''}>LuxTTS · cloned voice</option><option value="chatterbox" ${c.engine==='chatterbox'?'selected':''}>Chatterbox · expressive clone</option></select></div><div class="field"><label>Natural speaking speed</label><input id="vSpeed" type="number" min=".55" max="1.45" step=".01" value="${c.speed}"></div><div class="field"><label>Natural pause</label><input id="vPause" type="number" min="0" max="3" step=".05" value="${c.pause}"></div><div class="field"><label>Cadence</label><select id="vCadence">${['natural','deliberate','measured','quick',' clipped','hesitant'].map(x=>x.trim()).map(x=>`<option ${c.cadence===x?'selected':''}>${x}</option>`).join('')}</select></div><div class="field"><label>Accent / dialect note</label><input id="vAccent" value="${esc(c.accent||'')}" placeholder="identity note"></div><div class="field"><label>Timbre / identity note</label><input id="vTimbre" value="${esc(c.timbre||'')}" placeholder="low, dry, warm, brittle…"></div></div>
       <div id="nativeEngineFields">${engineFields(c)}</div>
       <hr style="border:0;border-top:1px solid var(--line);margin:12px 0">
       <div class="sectionHead"><div><h3>Default Performance</h3><div class="mini">Individual dialogue lines can override these without changing the voice identity.</div></div></div>
@@ -269,9 +270,11 @@
       }else if(c.engine==='piper'){
         c.engineModel='';
         c.engineVoice=byId('nativeVoice')?.value||'en_US-lessac-medium';
-      }else{
+      }else if(c.engine==='lux'){
         c.engineModel='YatharthS/LuxTTS';
         c.luxSteps=Math.max(2,Math.min(8,Number(byId('luxSteps')?.value||4)));
+      }else{
+        c.engineModel='ResembleAI/Chatterbox';
       }
       Object.assign(original,c);
       save();
