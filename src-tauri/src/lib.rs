@@ -190,7 +190,8 @@ fn native_tts(request: Value, _state: State<'_, VoiceState>) -> Result<Value, St
             "engines": {
                 "kitten": {"available": false, "label": "KittenTTS"},
                 "piper": {"available": false, "label": "Piper"},
-                "lux": {"available": false, "label": "LuxTTS"}
+                "lux": {"available": false, "label": "LuxTTS"},
+                "chatterbox": {"available": false, "label": "Chatterbox"}
             }
         }));
     }
