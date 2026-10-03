@@ -21,11 +21,13 @@
 {
 "speaker": "Narrator",
 "text": "The Gate of Lies",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They started walking."
+"text": "They started walking.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -113,7 +115,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo moved ahead of them, barely visible except when she crossed a strip of open ground. She had removed the pale wrapping from her hair and replaced it with dark cloth. Mud had dulled the lower half of her robes. One hand remained close to her knife."
+"text": "En-HEH-doo moved ahead of them, barely visible except when she crossed a strip of open ground. She had removed the pale wrapping from her hair and replaced it with dark cloth. Mud had dulled the lower half of her robes. One hand remained close to her knife."
 },
 {
 "speaker": "Narrator",
@@ -145,7 +147,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo crouched, peered down the far side of the embankment, and looked back at Zeek."
+"text": "En-HEH-doo crouched, peered down the far side of the embankment, and looked back at Zeek."
 },
 {
 "speaker": "Enhedu",
@@ -177,7 +179,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg climbed the embankment beside en-HEH-doo."
+"text": "BAH-lahg climbed the embankment beside En-HEH-doo."
 },
 {
 "speaker": "Narrator",
@@ -213,7 +215,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked around the abandoned fields."
+"text": "En-HEH-doo looked around the abandoned fields."
 },
 {
 "speaker": "Enhedu",
@@ -289,7 +291,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo entered the shelter and examined the shadows beneath the remaining roof. She checked behind the fallen bricks, beneath the reed matting, and inside a cracked storage jar."
+"text": "En-HEH-doo entered the shelter and examined the shadows beneath the remaining roof. She checked behind the fallen bricks, beneath the reed matting, and inside a cracked storage jar."
 },
 {
 "speaker": "Enhedu",
@@ -362,7 +364,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked toward the dark fields."
+"text": "En-HEH-doo looked toward the dark fields."
 },
 {
 "speaker": "Enhedu",
@@ -423,7 +425,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned against the broken wall and watched the fields."
+"text": "En-HEH-doo leaned against the broken wall and watched the fields."
 },
 {
 "speaker": "Narrator",
@@ -507,7 +509,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo continued watching the fields, though her head had turned enough to hear them."
+"text": "En-HEH-doo continued watching the fields, though her head had turned enough to hear them."
 },
 {
 "speaker": "Zik",
@@ -548,7 +550,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "What else did your father write?"
+"text": "What else did your father write?",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -645,7 +651,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo spoke without turning."
+"text": "En-HEH-doo spoke without turning."
 },
 {
 "speaker": "Enhedu",
@@ -722,7 +728,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -805,7 +811,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo left the shelter's edge and approached."
+"text": "En-HEH-doo left the shelter's edge and approached."
 },
 {
 "speaker": "Enhedu",
@@ -865,7 +871,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -923,7 +929,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo held out her hand."
+"text": "En-HEH-doo held out her hand."
 },
 {
 "speaker": "Enhedu",
@@ -996,7 +1002,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1062,7 +1068,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke."
+"text": "No one spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1087,7 +1094,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked toward the fields again."
+"text": "En-HEH-doo looked toward the fields again."
 },
 {
 "speaker": "Enhedu",
@@ -1156,7 +1163,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1219,7 +1226,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo rested one hand on the hilt of her knife."
+"text": "En-HEH-doo rested one hand on the hilt of her knife."
 },
 {
 "speaker": "Enhedu",
@@ -1324,7 +1331,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo joined them."
+"text": "En-HEH-doo joined them."
 },
 {
 "speaker": "Enhedu",
@@ -1389,7 +1396,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The accounts do not describe people building the First City."
+"text": "The accounts do not describe people building the First City.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Zik",
@@ -1434,7 +1445,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's gaze went to the wall."
+"text": "En-HEH-doo's gaze went to the wall."
 },
 {
 "speaker": "Enhedu",
@@ -1490,7 +1501,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo remained behind his shoulder."
+"text": "En-HEH-doo remained behind his shoulder."
 },
 {
 "speaker": "Narrator",
@@ -1619,7 +1630,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo checked her knives, then the dark cloth around her wrist, then the small pouch beneath her robe."
+"text": "En-HEH-doo checked her knives, then the dark cloth around her wrist, then the small pouch beneath her robe."
 },
 {
 "speaker": "Narrator",
@@ -1659,7 +1670,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1693,7 +1704,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at them."
+"text": "En-HEH-doo looked at them."
 },
 {
 "speaker": "Enhedu",
@@ -1722,7 +1733,7 @@
 },
 {
 "speaker": "Enhedu",
-"text": "en-HEH-doo."
+"text": "En-HEH-doo."
 },
 {
 "speaker": "Narrator",
@@ -1734,7 +1745,7 @@
 },
 {
 "speaker": "Zik",
-"text": "Zee-keer ash-SHOOR."
+"text": "Zee-keer Ash-SHOOR."
 },
 {
 "speaker": "Narrator",
@@ -1766,7 +1777,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg finished loading the donkeys. Ninsun secured her tablets. en-HEH-doo climbed onto the brown animal before it could object and settled the reins in one hand."
+"text": "BAH-lahg finished loading the donkeys. Ninsun secured her tablets. En-HEH-doo climbed onto the brown animal before it could object and settled the reins in one hand."
 },
 {
 "speaker": "Narrator",

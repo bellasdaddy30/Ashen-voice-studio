@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Name That Was Crossed Out",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The wall behind the kneeling statue began to open without a sound."
+"text": "The wall behind the kneeling statue began to open without a sound.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -93,11 +95,14 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked from one of them to the other, then at the wall, calculating even without the desire that had once made calculation feel like survival."
+"text": "En-HEH-doo looked from one of them to the other, then at the wall, calculating even without the desire that had once made calculation feel like survival."
 },
 {
 "speaker": "Enhedu",
 "text": "Both of you can't be right.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -150,12 +155,15 @@
 {
 "speaker": "Enhedu",
 "text": "You said that about the last one,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo answered, but the dryness in her voice was thinner than before.",
+"text": "En-HEH-doo answered, but the dryness in her voice was thinner than before.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -195,6 +203,9 @@
 {
 "speaker": "Ninsun",
 "text": "KOO-rash,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -209,12 +220,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo frowned at the empty space.",
+"text": "En-HEH-doo frowned at the empty space.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "I remember a knife. Not the hand that carried it.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -254,6 +268,9 @@
 {
 "speaker": "Ninsun",
 "text": "Zeek,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -265,6 +282,9 @@
 {
 "speaker": "Ninsun",
 "text": "Tell me your name.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -282,7 +302,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "For one terrible, suspended second he could not remember whether Zee-keer ash-SHOOR was his name at all, or simply a name he had been told to answer to."
+"text": "For one terrible, suspended second he could not remember whether Zee-keer Ash-SHOOR was his name at all, or simply a name he had been told to answer to."
 },
 {
 "speaker": "Narrator",

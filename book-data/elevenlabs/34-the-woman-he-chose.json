@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Woman He Chose",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The corridor was a lung."
+"text": "The corridor was a lung.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -71,7 +73,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo kept to the side, the golden figurine still in her possession. She simply carried it, as though carrying it had become part of a route whose purpose belonged to someone else."
+"text": "En-HEH-doo kept to the side, the golden figurine still in her possession. She simply carried it, as though carrying it had become part of a route whose purpose belonged to someone else."
 },
 {
 "speaker": "Narrator",
@@ -192,12 +194,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tilted her head, studying the darkness.",
+"text": "En-HEH-doo tilted her head, studying the darkness.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "Or very old.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -207,7 +212,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "You chose me,"
+"text": "You chose me,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",

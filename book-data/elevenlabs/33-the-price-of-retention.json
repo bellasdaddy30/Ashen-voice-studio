@@ -18,11 +18,13 @@
 {
 "speaker": "Narrator",
 "text": "The Price of Retention",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The scratching did not return."
+"text": "The scratching did not return.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -30,7 +32,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "From inside BAH-lahg's pack the fourth knock still hung in the air, unanswered. No one moved to open the straps. BAH-lahg had gone still in the particular way he did when the ground itself had become untrustworthy. en-HEH-doo watched the canvas without reaching for it, the figurine turning once in her fingers and then forgotten. Ninsun stood two feet from them, hands clenched white at her sides, and neither of the others looked at her."
+"text": "From inside BAH-lahg's pack the fourth knock still hung in the air, unanswered. No one moved to open the straps. BAH-lahg had gone still in the particular way he did when the ground itself had become untrustworthy. En-HEH-doo watched the canvas without reaching for it, the figurine turning once in her fingers and then forgotten. Ninsun stood two feet from them, hands clenched white at her sides, and neither of the others looked at her."
 },
 {
 "speaker": "Narrator",
@@ -64,6 +66,9 @@
 {
 "speaker": "Ninsun",
 "text": "Zeek,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -75,6 +80,9 @@
 {
 "speaker": "Ninsun",
 "text": "They don't hear me. It's like I'm not even making sound.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -121,7 +129,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's gaze slid toward her and held. Not with warmth. With the remote attention she now gave anything that had been declared relevant by someone else."
+"text": "En-HEH-doo's gaze slid toward her and held. Not with warmth. With the remote attention she now gave anything that had been declared relevant by someone else."
 },
 {
 "speaker": "Narrator",

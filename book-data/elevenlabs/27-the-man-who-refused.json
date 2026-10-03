@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Man Who Refused",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They did not return to the plaza."
+"text": "They did not return to the plaza.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -53,7 +55,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced back once at the blank floor.",
+"text": "En-HEH-doo glanced back once at the blank floor.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -104,7 +106,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "They inventoried people,"
+"text": "They inventoried people,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -133,7 +139,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's axe was up before the last word finished. en-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment."
+"text": "BAH-lahg's axe was up before the last word finished. En-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment."
 },
 {
 "speaker": "Narrator",
@@ -220,7 +226,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo studied him the way she studied anything that might still hold value.",
+"text": "En-HEH-doo studied him the way she studied anything that might still hold value.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -263,7 +269,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence settled over the alcove."
+"text": "Silence settled over the alcove.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",

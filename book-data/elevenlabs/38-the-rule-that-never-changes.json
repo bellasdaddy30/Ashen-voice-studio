@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Rule That Never Changes",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The corridors breathed faster now."
+"text": "The corridors breathed faster now.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -52,7 +54,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Balag",
@@ -60,11 +63,14 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced sideways at him."
+"text": "En-HEH-doo glanced sideways at him."
 },
 {
 "speaker": "Enhedu",
 "text": "And where would you sleep?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -75,6 +81,9 @@
 {
 "speaker": "Enhedu",
 "text": "And where would you cook?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -89,6 +98,9 @@
 {
 "speaker": "Enhedu",
 "text": "You'd burn your own house down.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -250,15 +262,19 @@
 },
 {
 "speaker": "Narrator",
-"text": "For several moments no one spoke."
+"text": "For several moments no one spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stepped forward first, lifting her torch until the flame almost touched the carving."
+"text": "En-HEH-doo stepped forward first, lifting her torch until the flame almost touched the carving."
 },
 {
 "speaker": "Enhedu",
 "text": "The cuts are clean.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -431,7 +447,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -471,7 +488,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence settled over the chamber again."
+"text": "Silence settled over the chamber again.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -528,6 +546,10 @@
 {
 "speaker": "Narrator",
 "text": "THE RULE DOES NOT CHANGE.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -537,6 +559,10 @@
 {
 "speaker": "Narrator",
 "text": "YOU ALREADY KNOW WHAT HAPPENS IF YOU ASK.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -550,12 +576,16 @@
 {
 "speaker": "Enhedu",
 "text": "I can,",
-"tag": "whispers",
+"tags": [
+"flatly",
+"whispers"
+],
+"tag": "flatly] [whispers",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach. Whispered."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo whispered.",
+"text": "En-HEH-doo whispered.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -602,6 +632,9 @@
 {
 "speaker": "Zik",
 "text": "I know,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -630,12 +663,15 @@
 {
 "speaker": "Enhedu",
 "text": "It is bad,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -744,6 +780,9 @@
 {
 "speaker": "The Remainder",
 "text": "Zeek,",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -763,6 +802,9 @@
 {
 "speaker": "The Remainder",
 "text": "Do you remember the key?",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -787,12 +829,20 @@
 {
 "speaker": "The Remainder",
 "text": "You remember losing it.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
 {
 "speaker": "Ninsun",
-"text": "Zeek!"
+"text": "Zeek!",
+"tags": [
+"trembling",
+"shouts"
+],
+"tag": "trembling] [shouts"
 },
 {
 "speaker": "Narrator",
@@ -801,7 +851,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Move away from the wall."
+"text": "Move away from the wall.",
+"tags": [
+"trembling"
+],
+"tag": "trembling"
 },
 {
 "speaker": "Zik",
@@ -826,22 +880,32 @@
 {
 "speaker": "Enhedu",
 "text": "Everyone stop moving,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said. Her voice came from much closer than Ninsun's, though Zeek could not tell whether she stood two steps away or was speaking directly into his ear."
+"text": "En-HEH-doo said. Her voice came from much closer than Ninsun's, though Zeek could not tell whether she stood two steps away or was speaking directly into his ear."
 },
 {
 "speaker": "Enhedu",
 "text": "The floor is changing.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Balag",
-"text": "The floor is not changing,"
+"text": "The floor is not changing,",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -850,11 +914,18 @@
 },
 {
 "speaker": "Balag",
-"text": "The wall is."
+"text": "The wall is.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Enhedu",
 "text": "What wall?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -874,6 +945,9 @@
 {
 "speaker": "The Remainder",
 "text": "They cannot see what you see.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -884,6 +958,9 @@
 {
 "speaker": "The Remainder",
 "text": "Neither could I, the first time.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -902,6 +979,9 @@
 {
 "speaker": "The Remainder",
 "text": "You still do that.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -912,6 +992,9 @@
 {
 "speaker": "The Remainder",
 "text": "I am the remainder.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -933,7 +1016,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Help me,"
+"text": "Help me,",
+"tags": [
+"gasps"
+],
+"tag": "gasps"
 },
 {
 "speaker": "Narrator",
@@ -942,11 +1029,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "It's closing."
+"text": "It's closing.",
+"tags": [
+"gasps"
+],
+"tag": "gasps"
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg stood beyond her, facing another direction entirely. He swung his hammer against the floor, but each blow stopped in midair with a heavy crack, as though striking stone invisible to everyone else. en-HEH-doo was on her knees between them, one hand stretched out before her while the other covered her mouth. Her eyes followed something moving across the ceiling."
+"text": "BAH-lahg stood beyond her, facing another direction entirely. He swung his hammer against the floor, but each blow stopped in midair with a heavy crack, as though striking stone invisible to everyone else. En-HEH-doo was on her knees between them, one hand stretched out before her while the other covered her mouth. Her eyes followed something moving across the ceiling."
 },
 {
 "speaker": "Narrator",
@@ -980,6 +1071,9 @@
 {
 "speaker": "The Remainder",
 "text": "Not anymore.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1003,6 +1097,9 @@
 {
 "speaker": "The Remainder",
 "text": "You paid with what you understood.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1013,6 +1110,9 @@
 {
 "speaker": "The Remainder",
 "text": "What you left behind.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1035,6 +1135,9 @@
 {
 "speaker": "The Remainder",
 "text": "The City does not forgive incomplete transactions,",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1046,6 +1149,9 @@
 {
 "speaker": "The Remainder",
 "text": "You crossed the first gate without understanding the price. Every payment since has postponed collection. Nothing more.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1056,12 +1162,15 @@
 {
 "speaker": "The Remainder",
 "text": "I am what it could not use.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
 {
 "speaker": "Narrator",
-"text": "Behind them, Ninsun screamed as her arms buckled. BAH-lahg shouted for en-HEH-doo, who did not answer. The chamber shifted again—not physically, but in the arrangement of its possibilities. For one instant Zeek saw the wall split into three overlapping shapes: one whole, one collapsing, one already open. Then they merged."
+"text": "Behind them, Ninsun screamed as her arms buckled. BAH-lahg shouted for En-HEH-doo, who did not answer. The chamber shifted again—not physically, but in the arrangement of its possibilities. For one instant Zeek saw the wall split into three overlapping shapes: one whole, one collapsing, one already open. Then they merged."
 },
 {
 "speaker": "Narrator",
@@ -1070,6 +1179,9 @@
 {
 "speaker": "The Remainder",
 "text": "Take it.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1085,6 +1197,9 @@
 {
 "speaker": "The Remainder",
 "text": "You stop asking that question.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1095,6 +1210,9 @@
 {
 "speaker": "The Remainder",
 "text": "It is the only one the City permits.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1109,6 +1227,9 @@
 {
 "speaker": "The Remainder",
 "text": "Take the damned key, Zeek.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1128,6 +1249,9 @@
 {
 "speaker": "The Remainder",
 "text": "Long enough to stop measuring.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1138,6 +1262,9 @@
 {
 "speaker": "The Remainder",
 "text": "It could.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1148,6 +1275,9 @@
 {
 "speaker": "The Remainder",
 "text": "It could.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1187,6 +1317,9 @@
 {
 "speaker": "The Remainder",
 "text": "Don't make me wait here again.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1196,7 +1329,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stumbled forward as the invisible weight released her. BAH-lahg's hammer struck the floor with enough force to jar it from his hands, while en-HEH-doo collapsed onto one hip and stared at the ceiling as though expecting it to follow."
+"text": "Ninsun stumbled forward as the invisible weight released her. BAH-lahg's hammer struck the floor with enough force to jar it from his hands, while En-HEH-doo collapsed onto one hip and stared at the ceiling as though expecting it to follow."
 },
 {
 "speaker": "Narrator",
@@ -1226,6 +1359,9 @@
 {
 "speaker": "The Remainder",
 "text": "Choose,",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1258,6 +1394,9 @@
 {
 "speaker": "The Remainder",
 "text": "The City is a much worse artist than you are,",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
@@ -1269,6 +1408,9 @@
 {
 "speaker": "The Remainder",
 "text": "It doesn't understand mercy. It only understands completion.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },

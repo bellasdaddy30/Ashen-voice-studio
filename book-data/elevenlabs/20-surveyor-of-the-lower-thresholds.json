@@ -22,11 +22,13 @@
 {
 "speaker": "Narrator",
 "text": "Surveyor of the Lower Thresholds",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "The Collector",
-"text": "Zeek."
+"text": "Zeek.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -46,7 +48,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo raised one finger, warning him to wait."
+"text": "En-HEH-doo raised one finger, warning him to wait."
 },
 {
 "speaker": "Narrator",
@@ -107,7 +109,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced at Zeek and shaped a silent word with her lips."
+"text": "En-HEH-doo glanced at Zeek and shaped a silent word with her lips."
 },
 {
 "speaker": "Narrator",
@@ -176,7 +178,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For several breaths, the Collector said nothing."
+"text": "For several breaths, the Collector said nothing.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -401,7 +404,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one moved."
+"text": "No one moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -417,7 +421,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo watched the shutter."
+"text": "En-HEH-doo watched the shutter."
 },
 {
 "speaker": "Zik",
@@ -548,7 +552,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo caught the back of her robe."
+"text": "En-HEH-doo caught the back of her robe."
 },
 {
 "speaker": "Enhedu",
@@ -576,7 +580,11 @@
 },
 {
 "speaker": "Zik",
-"text": "My father knew the seventh drawer named me."
+"text": "My father knew the seventh drawer named me.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "The Collector",
@@ -604,7 +612,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence."
+"text": "Silence.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -612,7 +621,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stopped resisting en-HEH-doo's grip."
+"text": "Ninsun stopped resisting En-HEH-doo's grip."
 },
 {
 "speaker": "Narrator",
@@ -722,11 +731,14 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tilted her head, listening."
+"text": "En-HEH-doo tilted her head, listening."
 },
 {
 "speaker": "Enhedu",
 "text": "He's moving,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -894,7 +906,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo moved closer to the shutter."
+"text": "En-HEH-doo moved closer to the shutter."
 },
 {
 "speaker": "Enhedu",
@@ -930,7 +942,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's knife struck the shutter."
+"text": "En-HEH-doo's knife struck the shutter."
 },
 {
 "speaker": "Narrator",
@@ -1005,7 +1017,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's second knife appeared in her other hand."
+"text": "En-HEH-doo's second knife appeared in her other hand."
 },
 {
 "speaker": "Narrator",
@@ -1147,7 +1159,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1196,7 +1208,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun came closer despite en-HEH-doo's hand on her sleeve."
+"text": "Ninsun came closer despite En-HEH-doo's hand on her sleeve."
 },
 {
 "speaker": "Ninsun",
@@ -1359,7 +1371,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Place the seal against the lower door. Not the black floor."
+"text": "Place the seal against the lower door. Not the black floor.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -1403,7 +1419,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at the seal."
+"text": "En-HEH-doo looked at the seal."
 },
 {
 "speaker": "Enhedu",
@@ -1529,7 +1545,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo caught his wrist."
+"text": "En-HEH-doo caught his wrist."
 },
 {
 "speaker": "Enhedu",
@@ -1593,7 +1609,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked over his shoulder."
+"text": "En-HEH-doo looked over his shoulder."
 },
 {
 "speaker": "Enhedu",
@@ -1613,7 +1629,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo examined the prints."
+"text": "En-HEH-doo examined the prints."
 },
 {
 "speaker": "Enhedu",
@@ -1795,7 +1811,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1828,7 +1844,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one argued."
+"text": "No one argued.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1873,7 +1890,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo checked the room for anything they had touched."
+"text": "En-HEH-doo checked the room for anything they had touched."
 },
 {
 "speaker": "Narrator",
@@ -1957,7 +1974,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "That was not blame."
+"text": "That was not blame.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Balag",
@@ -1981,7 +2002,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo went first, lowering herself onto the adjoining tiles. Ninsun followed with BAH-lahg's hand around her forearm. Zeek passed the packs across one at a time."
+"text": "En-HEH-doo went first, lowering herself onto the adjoining tiles. Ninsun followed with BAH-lahg's hand around her forearm. Zeek passed the packs across one at a time."
 },
 {
 "speaker": "Narrator",
@@ -2046,7 +2067,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo dropped lightly beside him."
+"text": "En-HEH-doo dropped lightly beside him."
 },
 {
 "speaker": "Narrator",
@@ -2070,7 +2091,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -2087,7 +2108,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "At every junction, en-HEH-doo moved ahead, listened, then signaled them through. Once she stopped so suddenly that Ninsun walked into BAH-lahg's back."
+"text": "At every junction, En-HEH-doo moved ahead, listened, then signaled them through. Once she stopped so suddenly that Ninsun walked into BAH-lahg's back."
 },
 {
 "speaker": "Narrator",
@@ -2115,7 +2136,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo drew them into the doorway of a closed grain shop."
+"text": "En-HEH-doo drew them into the doorway of a closed grain shop."
 },
 {
 "speaker": "Narrator",
@@ -2163,7 +2184,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo pulled Zeek deeper into the recess."
+"text": "En-HEH-doo pulled Zeek deeper into the recess."
 },
 {
 "speaker": "Narrator",
@@ -2285,7 +2306,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing moved."
+"text": "Nothing moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -2301,7 +2323,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo crouched and touched the mud."
+"text": "En-HEH-doo crouched and touched the mud."
 },
 {
 "speaker": "Enhedu",
@@ -2404,7 +2426,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo examined the brush without touching it."
+"text": "En-HEH-doo examined the brush without touching it."
 },
 {
 "speaker": "Enhedu",
@@ -2421,7 +2443,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at her."
+"text": "En-HEH-doo looked at her."
 },
 {
 "speaker": "Enhedu",
@@ -2497,7 +2519,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo entered on her stomach and vanished into the dark."
+"text": "En-HEH-doo entered on her stomach and vanished into the dark."
 },
 {
 "speaker": "Narrator",
@@ -2726,7 +2748,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's voice came from ahead."
+"text": "En-HEH-doo's voice came from ahead."
 },
 {
 "speaker": "Enhedu",
@@ -2734,7 +2756,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one argued."
+"text": "No one argued.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -2856,7 +2879,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo climbed out first."
+"text": "En-HEH-doo climbed out first."
 },
 {
 "speaker": "Narrator",
@@ -2864,7 +2887,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun pushed her pack toward the opening, and en-HEH-doo pulled it through. Then Ninsun disappeared after it."
+"text": "Ninsun pushed her pack toward the opening, and En-HEH-doo pulled it through. Then Ninsun disappeared after it."
 },
 {
 "speaker": "Narrator",
@@ -2876,7 +2899,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo hauled him onto damp earth beyond Uruk."
+"text": "En-HEH-doo hauled him onto damp earth beyond Uruk."
 },
 {
 "speaker": "Narrator",
@@ -2908,7 +2931,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stood facing east."
+"text": "En-HEH-doo stood facing east."
 },
 {
 "speaker": "Narrator",
@@ -3014,7 +3037,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo adjusted the knife at her belt."
+"text": "En-HEH-doo adjusted the knife at her belt."
 },
 {
 "speaker": "Enhedu",

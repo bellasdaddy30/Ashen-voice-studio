@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Third Notch",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The passage opened in the middle of the afternoon while they were still arguing about whether to take a paying survey job on the east side."
+"text": "The passage opened in the middle of the afternoon while they were still arguing about whether to take a paying survey job on the east side.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -74,7 +76,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing moved."
+"text": "Nothing moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -146,7 +149,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo watched them without interrupting."
+"text": "En-HEH-doo watched them without interrupting."
 },
 {
 "speaker": "Narrator",
@@ -182,7 +185,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo had come up on Zeek's left. She studied the notches, then the narrowing edges of the passage, then the way the light from the street already seemed reluctant to enter."
+"text": "En-HEH-doo had come up on Zeek's left. She studied the notches, then the narrowing edges of the passage, then the way the light from the street already seemed reluctant to enter."
 },
 {
 "speaker": "Enhedu",
@@ -216,7 +219,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced at him.",
+"text": "En-HEH-doo glanced at him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -229,7 +232,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked at the three notches. At Ninsun's face. At the way BAH-lahg's shoulders had set. At en-HEH-doo already calculating whether the risk had a price worth naming."
+"text": "Zeek looked at the three notches. At Ninsun's face. At the way BAH-lahg's shoulders had set. At En-HEH-doo already calculating whether the risk had a price worth naming."
 },
 {
 "speaker": "Zik",
@@ -259,7 +262,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence held for two breaths."
+"text": "Silence held for two breaths.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -290,6 +294,10 @@
 {
 "speaker": "Narrator",
 "text": "LIMIT.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -323,11 +331,15 @@
 {
 "speaker": "Narrator",
 "text": "RETURN LATER.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked over her shoulder."
+"text": "En-HEH-doo looked over her shoulder."
 },
 {
 "speaker": "Enhedu",
@@ -359,7 +371,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You found the scholar's way to lose the argument."
+"text": "You found the scholar's way to lose the argument.",
+"tags": [
+"snorts"
+],
+"tag": "snorts"
 },
 {
 "speaker": "Ninsun",
@@ -383,7 +399,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo exhaled through her nose.",
+"text": "En-HEH-doo exhaled through her nose.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -420,7 +436,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing moved."
+"text": "Nothing moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -456,7 +473,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo waited another few seconds."
+"text": "En-HEH-doo waited another few seconds."
 },
 {
 "speaker": "Enhedu",

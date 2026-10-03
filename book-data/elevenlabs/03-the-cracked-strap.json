@@ -18,11 +18,13 @@
 {
 "speaker": "Narrator",
 "text": "The Cracked Strap",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "By mid-morning the heat had climbed into that dry weight that made thinking feel expensive. One of the donkeys started favoring its left hind leg just after they crossed a stretch of hardpan. BAH-lahg noticed first. He always did."
+"text": "By mid-morning the heat had climbed into that dry weight that made thinking feel expensive. One of the donkeys started favoring its left hind leg just after they crossed a stretch of hardpan. BAH-lahg noticed first. He always did.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -30,7 +32,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Not the leg,"
+"text": "Not the leg,",
+"tags": [
+"mutters"
+],
+"tag": "mutters"
 },
 {
 "speaker": "Narrator",
@@ -39,11 +45,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Strap's gone soft. Leather's cracking through."
+"text": "Strap's gone soft. Leather's cracking through.",
+"tags": [
+"mutters"
+],
+"tag": "mutters"
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo squinted at the sun.",
+"text": "En-HEH-doo squinted at the sun.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -92,7 +102,11 @@
 },
 {
 "speaker": "Balag",
-"text": "The leather's losing."
+"text": "The leather's losing.",
+"tags": [
+"snorts"
+],
+"tag": "snorts"
 },
 {
 "speaker": "Zik",
@@ -125,7 +139,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked up."
+"text": "En-HEH-doo looked up."
 },
 {
 "speaker": "Enhedu",
@@ -201,11 +215,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "The silence returned, but it no longer felt like something pressing on their shoulders. It settled beside them instead."
+"text": "The silence returned, but it no longer felt like something pressing on their shoulders. It settled beside them instead.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo picked up the strip of ruined leather and turned it over in her hands."
+"text": "En-HEH-doo picked up the strip of ruined leather and turned it over in her hands."
 },
 {
 "speaker": "Narrator",
@@ -305,7 +320,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo slipped it into her pouch."
+"text": "En-HEH-doo slipped it into her pouch."
 },
 {
 "speaker": "Enhedu",
@@ -351,7 +366,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed."
+"text": "En-HEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed."
 },
 {
 "speaker": "Balag",

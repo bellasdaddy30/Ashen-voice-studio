@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Choice Already Made",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The knocking came again from somewhere ahead of them, three measured blows traveling through the dark with enough force to tremble beneath Zeek's boots. It did not sound nearer than before. The passage had changed direction beneath his hand, bending away from the chamber where the fourth place waited, yet the sound continued to arrive from directly in front of them, as though the City had moved its source to remain useful. BAH-lahg lifted the torch and peered into the narrow turn."
+"text": "The knocking came again from somewhere ahead of them, three measured blows traveling through the dark with enough force to tremble beneath Zeek's boots. It did not sound nearer than before. The passage had changed direction beneath his hand, bending away from the chamber where the fourth place waited, yet the sound continued to arrive from directly in front of them, as though the City had moved its source to remain useful. BAH-lahg lifted the torch and peered into the narrow turn.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -33,6 +35,10 @@
 {
 "speaker": "Narrator",
 "text": "THE FOURTH PLACE IS YOURS.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -41,7 +47,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek closed the cover before it could add anything else. The leather resisted for an instant, not enough to stop him but enough to make the action feel noticed. He tucked the journal beneath his arm and followed BAH-lahg into the new passage, leaving Ninsun and en-HEH-doo to fall in behind them. No one suggested another direction. The darkness that had swallowed the chamber had withdrawn only from this route, and even BAH-lahg's suspicion had limits when the alternative was walking into a wall they could no longer see."
+"text": "Zeek closed the cover before it could add anything else. The leather resisted for an instant, not enough to stop him but enough to make the action feel noticed. He tucked the journal beneath his arm and followed BAH-lahg into the new passage, leaving Ninsun and En-HEH-doo to fall in behind them. No one suggested another direction. The darkness that had swallowed the chamber had withdrawn only from this route, and even BAH-lahg's suspicion had limits when the alternative was walking into a wall they could no longer see."
 },
 {
 "speaker": "Narrator",
@@ -57,7 +63,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Her boots made no sound beyond the scrape of grit under one heel, yet the interruption passed through the group at once. en-HEH-doo nearly walked into her. BAH-lahg took two more steps before noticing the torchlight no longer followed, then turned with the expression of a man prepared to dislike whatever came next."
+"text": "Her boots made no sound beyond the scrape of grit under one heel, yet the interruption passed through the group at once. En-HEH-doo nearly walked into her. BAH-lahg took two more steps before noticing the torchlight no longer followed, then turned with the expression of a man prepared to dislike whatever came next."
 },
 {
 "speaker": "Ninsun",
@@ -104,12 +110,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned one shoulder against the wall, careful to move with its shallow rise and fall.",
+"text": "En-HEH-doo leaned one shoulder against the wall, careful to move with its shallow rise and fall.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "What did we miss?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -176,17 +185,23 @@
 {
 "speaker": "Enhedu",
 "text": "No,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "But we've seen the City do louder things without noise.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -197,6 +212,9 @@
 {
 "speaker": "Enhedu",
 "text": "It's the only one I have.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -262,7 +280,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun did not repeat the question. She waited, allowing Zeek to reconstruct the moment without offering words he might borrow. He closed his eyes and saw the chamber in fragments: torchlight unsteady across the carvings, the journal open in his hands, en-HEH-doo near the threshold, BAH-lahg cursing under his breath. The fourth mark had not entered the wall. That was what troubled him now. He remembered no incision, no shadow forming along an edge."
+"text": "Ninsun did not repeat the question. She waited, allowing Zeek to reconstruct the moment without offering words he might borrow. He closed his eyes and saw the chamber in fragments: torchlight unsteady across the carvings, the journal open in his hands, En-HEH-doo near the threshold, BAH-lahg cursing under his breath. The fourth mark had not entered the wall. That was what troubled him now. He remembered no incision, no shadow forming along an edge."
 },
 {
 "speaker": "Narrator",
@@ -313,12 +331,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo watched her carefully.",
+"text": "En-HEH-doo watched her carefully.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "And now?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -401,12 +422,15 @@
 {
 "speaker": "Enhedu",
 "text": "The colors don't match,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said from the entrance.",
+"text": "En-HEH-doo said from the entrance.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -423,7 +447,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He handed the torch to en-HEH-doo and crouched opposite her. For all his complaints, his expression changed the moment the stone became a practical question. He picked up one of the fragments, turned it between thick fingers, and pressed it against the lowest carving. The color matched closely enough that it seemed to disappear where he held it."
+"text": "He handed the torch to En-HEH-doo and crouched opposite her. For all his complaints, his expression changed the moment the stone became a practical question. He picked up one of the fragments, turned it between thick fingers, and pressed it against the lowest carving. The color matched closely enough that it seemed to disappear where he held it."
 },
 {
 "speaker": "Balag",
@@ -520,12 +544,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo shifted the torch, bringing the fourth mark into steadier light.",
+"text": "En-HEH-doo shifted the torch, bringing the fourth mark into steadier light.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "Ask him whether it feels unfamiliar.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -536,6 +563,9 @@
 {
 "speaker": "Enhedu",
 "text": "There is a difference,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -564,7 +594,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That is worse."
+"text": "That is worse.",
+"tags": [
+"laughs"
+],
+"tag": "laughs"
 },
 {
 "speaker": "Narrator",
@@ -573,12 +607,15 @@
 {
 "speaker": "Enhedu",
 "text": "It was made for him,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -665,12 +702,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo came to stand beside her.",
+"text": "En-HEH-doo came to stand beside her.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "You think recognition completes it.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -730,12 +770,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo heard them.",
+"text": "En-HEH-doo heard them.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "The book objects.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -816,7 +859,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They remained long enough for Ninsun to measure the fresh cuts and brush the chips into a separate fold of cloth. BAH-lahg pressed his fingertips to the surrounding wall and reported no change beyond its ordinary breathing. en-HEH-doo watched the entrance, glancing back at the scarred symbol with an expression that suggested she trusted silence even less than speech."
+"text": "They remained long enough for Ninsun to measure the fresh cuts and brush the chips into a separate fold of cloth. BAH-lahg pressed his fingertips to the surrounding wall and reported no change beyond its ordinary breathing. En-HEH-doo watched the entrance, glancing back at the scarred symbol with an expression that suggested she trusted silence even less than speech."
 },
 {
 "speaker": "Narrator",
@@ -862,7 +905,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg retrieved the torch from en-HEH-doo.",
+"text": "BAH-lahg retrieved the torch from En-HEH-doo.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -872,6 +915,9 @@
 {
 "speaker": "Enhedu",
 "text": "To what?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -882,6 +928,9 @@
 {
 "speaker": "Enhedu",
 "text": "You no longer hate them?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -895,11 +944,14 @@
 },
 {
 "speaker": "Narrator",
-"text": "By the second turn, BAH-lahg had begun talking about food. It was not a serious plan. None of them knew how long their remaining supplies would last, and the City's changing passages made distance meaningless. Still, he described what he intended to eat upon reaching the surface with such unnecessary detail that en-HEH-doo accused him of cruelty."
+"text": "By the second turn, BAH-lahg had begun talking about food. It was not a serious plan. None of them knew how long their remaining supplies would last, and the City's changing passages made distance meaningless. Still, he described what he intended to eat upon reaching the surface with such unnecessary detail that En-HEH-doo accused him of cruelty."
 },
 {
 "speaker": "Enhedu",
 "text": "You cannot name roasted lamb in a place that smells like wet graves,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -915,6 +967,9 @@
 {
 "speaker": "Enhedu",
 "text": "You included onions.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -925,6 +980,9 @@
 {
 "speaker": "Enhedu",
 "text": "You've made the air worse.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -940,6 +998,9 @@
 {
 "speaker": "Enhedu",
 "text": "You assume civilization has improved.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -957,7 +1018,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Their relief did not arrive as celebration. It entered through small things: BAH-lahg's appetite, en-HEH-doo's dry corrections, Ninsun no longer looking at every junction as though it concealed a verdict. Zeek allowed himself to breathe without matching the walls. He shifted the journal beneath his arm and found it cool again."
+"text": "Their relief did not arrive as celebration. It entered through small things: BAH-lahg's appetite, En-HEH-doo's dry corrections, Ninsun no longer looking at every junction as though it concealed a verdict. Zeek allowed himself to breathe without matching the walls. He shifted the journal beneath his arm and found it cool again."
 },
 {
 "speaker": "Narrator",
@@ -1021,12 +1082,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked toward the previous turn.",
+"text": "En-HEH-doo looked toward the previous turn.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "How many marks did you make?",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -1070,12 +1134,15 @@
 {
 "speaker": "Enhedu",
 "text": "The alteration remained,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1128,6 +1195,10 @@
 {
 "speaker": "Narrator",
 "text": "THE REFUSAL WAS RECORDED.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -1178,12 +1249,15 @@
 {
 "speaker": "The Remainder",
 "text": "Do you remember the key?",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
 {
 "speaker": "Narrator",
-"text": "Zeek froze. The voice was not BAH-lahg's, Ninsun's, or en-HEH-doo's. It sounded worn rather than old, each word roughened by disuse. Beneath that wear lay something he almost recognized, a cadence that made the scar in his palm tighten."
+"text": "Zeek froze. The voice was not BAH-lahg's, Ninsun's, or En-HEH-doo's. It sounded worn rather than old, each word roughened by disuse. Beneath that wear lay something he almost recognized, a cadence that made the scar in his palm tighten."
 },
 {
 "speaker": "Zik",
@@ -1191,7 +1265,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Somewhere in the dark, en-HEH-doo asked what he had heard. BAH-lahg told her to be quiet. Their voices overlapped, distant and uncertain."
+"text": "Somewhere in the dark, En-HEH-doo asked what he had heard. BAH-lahg told her to be quiet. Their voices overlapped, distant and uncertain."
 },
 {
 "speaker": "Narrator",
@@ -1200,6 +1274,9 @@
 {
 "speaker": "The Remainder",
 "text": "I asked that once.",
+"tags": [
+"exhausted"
+],
 "tag": "exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },

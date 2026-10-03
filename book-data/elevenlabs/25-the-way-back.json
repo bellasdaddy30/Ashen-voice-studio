@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Way Back",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "Zeek woke before dawn to silence."
+"text": "Zeek woke before dawn to silence.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -68,7 +70,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun agreed before he finished the sentence. She had slept badly; the hollows under her eyes showed it. en-HEH-doo said nothing at all. Her silence had teeth."
+"text": "Ninsun agreed before he finished the sentence. She had slept badly; the hollows under her eyes showed it. En-HEH-doo said nothing at all. Her silence had teeth."
 },
 {
 "speaker": "Narrator",
@@ -152,7 +154,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo, several paces back, smiled.",
+"text": "En-HEH-doo, several paces back, smiled.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -291,7 +293,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo did not move. She stood apart, staring at the empty shimmer of the horizon."
+"text": "En-HEH-doo did not move. She stood apart, staring at the empty shimmer of the horizon."
 },
 {
 "speaker": "Enhedu",
@@ -338,7 +340,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo turned fully toward Zeek. Her eyes had gone bright—not with fear, but with something closer to hunger.",
+"text": "En-HEH-doo turned fully toward Zeek. Her eyes had gone bright—not with fear, but with something closer to hunger.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -380,7 +382,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo shrugged.",
+"text": "En-HEH-doo shrugged.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -389,7 +391,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked between them. BAH-lahg wanted the staircase because walls still made sense to him. Ninsun wanted it because she needed one true thing while the world kept lying. en-HEH-doo wanted it because she had decided the First City was the biggest score of her life—bigger than money, bigger than anything she had ever put a price on."
+"text": "Zeek looked between them. BAH-lahg wanted the staircase because walls still made sense to him. Ninsun wanted it because she needed one true thing while the world kept lying. En-HEH-doo wanted it because she had decided the First City was the biggest score of her life—bigger than money, bigger than anything she had ever put a price on."
 },
 {
 "speaker": "Narrator",
@@ -495,7 +497,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -513,6 +515,7 @@
 {
 "speaker": "Narrator",
 "text": "Nobody spoke. Then BAH-lahg said,",
+"pauseBefore": 1.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -547,7 +550,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Neither was the rest of this,"
+"text": "Neither was the rest of this,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -647,6 +654,10 @@
 {
 "speaker": "Narrator",
 "text": "YOU ARE ALREADY INSIDE.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {

@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Passage We Marked",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They started marking the shifted streets on the fifth day."
+"text": "They started marking the shifted streets on the fifth day.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -52,7 +54,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo crouched where the latest mark should have been and ran her thumb across the brick.",
+"text": "En-HEH-doo crouched where the latest mark should have been and ran her thumb across the brick.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -108,11 +110,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke for a while."
+"text": "No one spoke for a while.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo was the first to break the silence.",
+"text": "En-HEH-doo was the first to break the silence.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -121,7 +124,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Or the city is,"
+"text": "Or the city is,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -151,7 +158,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo lowered it until the flame threw the notches into sharp relief. Ninsun took the bronze stylus from her satchel and held its tip against the first cut without touching the brick."
+"text": "En-HEH-doo lowered it until the flame threw the notches into sharp relief. Ninsun took the bronze stylus from her satchel and held its tip against the first cut without touching the brick."
 },
 {
 "speaker": "Narrator",
@@ -207,7 +214,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at the stylus."
+"text": "En-HEH-doo looked at the stylus."
 },
 {
 "speaker": "Enhedu",
@@ -227,7 +234,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke."
+"text": "No one spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -344,7 +352,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -437,7 +445,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo studied the two marks beside them."
+"text": "En-HEH-doo studied the two marks beside them."
 },
 {
 "speaker": "Enhedu",
@@ -883,7 +891,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo added something too low to make out."
+"text": "En-HEH-doo added something too low to make out."
 },
 {
 "speaker": "Narrator",

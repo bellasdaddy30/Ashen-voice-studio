@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Lie He Told",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun caught up within a dozen paces."
+"text": "Ninsun caught up within a dozen paces.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -116,7 +118,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo did not look back. She simply continued walking, the figurine turning once in her hand and then forgotten again."
+"text": "En-HEH-doo did not look back. She simply continued walking, the figurine turning once in her hand and then forgotten again."
 },
 {
 "speaker": "Narrator",
@@ -149,12 +151,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at the three openings with the remote attention she now gave anything that could not be priced.",
+"text": "En-HEH-doo looked at the three openings with the remote attention she now gave anything that could not be priced.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "Then we pick one and stop standing here.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -191,6 +196,10 @@
 {
 "speaker": "Narrator",
 "text": "THE LEFT PATH BELONGS TO THE ONE WHO WAS NEVER SENT.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -216,7 +225,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He looked at the three openings, at BAH-lahg waiting for direction, at en-HEH-doo already half-turned toward the left-hand passage because someone else would eventually declare one of them relevant."
+"text": "He looked at the three openings, at BAH-lahg waiting for direction, at En-HEH-doo already half-turned toward the left-hand passage because someone else would eventually declare one of them relevant."
 },
 {
 "speaker": "Narrator",

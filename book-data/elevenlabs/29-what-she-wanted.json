@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "What She Wanted",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo moved while the others were still listening to the knock that had answered from beneath the City."
+"text": "En-HEH-doo moved while the others were still listening to the knock that had answered from beneath the City.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -61,6 +63,10 @@
 {
 "speaker": "Narrator",
 "text": "ENHEDU.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -69,7 +75,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "A woman stood in the doorway of that house. For one strange second en-HEH-doo did not recognize her—older, softer, safe in a way that felt like a foreign language. Then she understood. It was her."
+"text": "A woman stood in the doorway of that house. For one strange second En-HEH-doo did not recognize her—older, softer, safe in a way that felt like a foreign language. Then she understood. It was her."
 },
 {
 "speaker": "Narrator",
@@ -77,7 +83,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo smiled."
+"text": "En-HEH-doo smiled."
 },
 {
 "speaker": "Narrator",
@@ -113,7 +119,7 @@
 },
 {
 "speaker": "Zik",
-"text": "en-HEH-doo?"
+"text": "En-HEH-doo?"
 },
 {
 "speaker": "Narrator",
@@ -122,6 +128,9 @@
 {
 "speaker": "Enhedu",
 "text": "I know this matters,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -141,6 +150,9 @@
 {
 "speaker": "Enhedu",
 "text": "I don't remember.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -151,6 +163,9 @@
 {
 "speaker": "Enhedu",
 "text": "I remember the room.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -162,6 +177,9 @@
 {
 "speaker": "Enhedu",
 "text": "I remember wanting it.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -172,6 +190,9 @@
 {
 "speaker": "Enhedu",
 "text": "Everything.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -183,6 +204,9 @@
 {
 "speaker": "Enhedu",
 "text": "I saw the life I wanted. Money. A house. People who couldn't decide I was worthless because they'd never been able to afford me in the first place.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -194,6 +218,9 @@
 {
 "speaker": "Enhedu",
 "text": "And then I had it.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -204,12 +231,16 @@
 {
 "speaker": "Enhedu",
 "text": "I don't care.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "The words sat between them, ugly and small."
+"text": "The words sat between them, ugly and small.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -223,6 +254,9 @@
 {
 "speaker": "Enhedu",
 "text": "What will I possess when I leave this place.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -233,6 +267,9 @@
 {
 "speaker": "Enhedu",
 "text": "You waited for it to ask,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -244,12 +281,15 @@
 {
 "speaker": "Enhedu",
 "text": "I asked first.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg and Ninsun arrived a minute later, drawn by the sound of voices carrying down the passage. BAH-lahg stopped when he saw the figurine. Ninsun's face lit with instinctive scholarly hunger—then died the moment she saw en-HEH-doo's expression underneath it."
+"text": "BAH-lahg and Ninsun arrived a minute later, drawn by the sound of voices carrying down the passage. BAH-lahg stopped when he saw the figurine. Ninsun's face lit with instinctive scholarly hunger—then died the moment she saw En-HEH-doo's expression underneath it."
 },
 {
 "speaker": "Ninsun",
@@ -262,7 +302,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo passed her the figurine without a word."
+"text": "En-HEH-doo passed her the figurine without a word."
 },
 {
 "speaker": "Narrator",
@@ -276,6 +316,9 @@
 {
 "speaker": "Enhedu",
 "text": "Yes.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -285,12 +328,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's mouth twitched, not quite a smile.",
+"text": "En-HEH-doo's mouth twitched, not quite a smile.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "I know.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -306,6 +352,9 @@
 {
 "speaker": "Enhedu",
 "text": "Yes.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -328,7 +377,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He wasn't being cruel. That was the worst part—he genuinely didn't see it yet, and en-HEH-doo found she couldn't even be angry at him for that, because an hour ago she wouldn't have seen it either."
+"text": "He wasn't being cruel. That was the worst part—he genuinely didn't see it yet, and En-HEH-doo found she couldn't even be angry at him for that, because an hour ago she wouldn't have seen it either."
 },
 {
 "speaker": "Balag",
@@ -336,11 +385,14 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at the figurine in Ninsun's hands—gold enough to have bought her out of every bad year she had ever lived—and felt exactly nothing reach for it."
+"text": "En-HEH-doo looked at the figurine in Ninsun's hands—gold enough to have bought her out of every bad year she had ever lived—and felt exactly nothing reach for it."
 },
 {
 "speaker": "Enhedu",
 "text": "It was,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -371,7 +423,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo turned toward the sound."
+"text": "En-HEH-doo turned toward the sound."
 },
 {
 "speaker": "Narrator",
@@ -387,11 +439,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "They moved in uneasy silence after en-HEH-doo's change."
+"text": "They moved in uneasy silence after En-HEH-doo's change."
 },
 {
 "speaker": "Narrator",
-"text": "Nobody suggested asking the City another question. Not even en-HEH-doo, who carried the golden figurine wrapped in cloth the way a man carries a stone in his boot—aware of it with every step, unable to feel anything about it. She knew it was valuable. She remembered wanting it. That was all that remained of the wanting."
+"text": "Nobody suggested asking the City another question. Not even En-HEH-doo, who carried the golden figurine wrapped in cloth the way a man carries a stone in his boot—aware of it with every step, unable to feel anything about it. She knew it was valuable. She remembered wanting it. That was all that remained of the wanting."
 },
 {
 "speaker": "Narrator",
@@ -407,7 +459,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The third showed the corridor they were already standing in—empty. No Zeek. No BAH-lahg. No en-HEH-doo. No Ninsun. The same stretch of stone reaching away into the distance, untouched and silent, as though the four of them had never set foot in it at all."
+"text": "The third showed the corridor they were already standing in—empty. No Zeek. No BAH-lahg. No En-HEH-doo. No Ninsun. The same stretch of stone reaching away into the distance, untouched and silent, as though the four of them had never set foot in it at all."
 },
 {
 "speaker": "Narrator",
@@ -420,12 +472,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced at him. Some of her old dryness surfaced, thinner than before.",
+"text": "En-HEH-doo glanced at him. Some of her old dryness surfaced, thinner than before.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "You don't like the one showing us exactly what we are.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -436,6 +491,9 @@
 {
 "speaker": "Enhedu",
 "text": "That's because you have simple tastes.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -511,7 +569,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Behind him the others waited. en-HEH-doo watched with the flat attention of someone who no longer calculated odds the way she once had. Ninsun's stylus hovered over parchment that had nowhere useful left to write. BAH-lahg's grip on the axe was white-knuckled and certain."
+"text": "Behind him the others waited. En-HEH-doo watched with the flat attention of someone who no longer calculated odds the way she once had. Ninsun's stylus hovered over parchment that had nowhere useful left to write. BAH-lahg's grip on the axe was white-knuckled and certain."
 },
 {
 "speaker": "Narrator",
@@ -571,7 +629,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg came first, then Ninsun, then en-HEH-doo. None of them spoke. The three doors behind them folded shut without a sound, as though the chamber had never held more than one choice to begin with."
+"text": "BAH-lahg came first, then Ninsun, then En-HEH-doo. None of them spoke. The three doors behind them folded shut without a sound, as though the chamber had never held more than one choice to begin with."
 },
 {
 "speaker": "Narrator",
@@ -583,7 +641,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Behind him en-HEH-doo carried the gold she no longer wanted."
+"text": "Behind him En-HEH-doo carried the gold she no longer wanted."
 },
 {
 "speaker": "Narrator",

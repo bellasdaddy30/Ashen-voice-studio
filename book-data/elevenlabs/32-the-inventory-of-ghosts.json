@@ -18,11 +18,13 @@
 {
 "speaker": "Narrator",
 "text": "The Inventory of Ghosts",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The scraping stopped before Zeek could turn."
+"text": "The scraping stopped before Zeek could turn.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -43,7 +45,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The silence that followed was not empty. It had weight, the particular density of a room holding its breath to see which of them would be the first to disturb it."
+"text": "The silence that followed was not empty. It had weight, the particular density of a room holding its breath to see which of them would be the first to disturb it.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -85,7 +88,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He gestured vaguely toward en-HEH-doo, who watched without reacting, the figurine turning slowly in her hands.",
+"text": "He gestured vaguely toward En-HEH-doo, who watched without reacting, the figurine turning slowly in her hands.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -136,6 +139,9 @@
 {
 "speaker": "Ninsun",
 "text": "Zeek,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -147,6 +153,9 @@
 {
 "speaker": "Ninsun",
 "text": "Don't let it count me.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -160,7 +169,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg turned slowly. en-HEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness."
+"text": "BAH-lahg turned slowly. En-HEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness."
 },
 {
 "speaker": "Narrator",
@@ -173,16 +182,24 @@
 {
 "speaker": "Narrator",
 "text": "THREE WERE SENT INTO THE CITY.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "THREE REMAIN.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "He looked at the three people standing around him—BAH-lahg, en-HEH-doo, Ninsun—and then, finally, at himself."
+"text": "He looked at the three people standing around him—BAH-lahg, En-HEH-doo, Ninsun—and then, finally, at himself."
 },
 {
 "speaker": "Narrator",
@@ -228,11 +245,15 @@
 {
 "speaker": "Narrator",
 "text": "ONE OF YOU WAS NEVER SENT.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "The chamber seemed to contract around them. The walls leaned inward as if to hear better. Ninsun made a small, strangled sound. en-HEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash."
+"text": "The chamber seemed to contract around them. The walls leaned inward as if to hear better. Ninsun made a small, strangled sound. En-HEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash."
 },
 {
 "speaker": "Narrator",

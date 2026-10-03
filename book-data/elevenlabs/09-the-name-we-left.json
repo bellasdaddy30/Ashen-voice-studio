@@ -22,11 +22,13 @@
 {
 "speaker": "Narrator",
 "text": "The Name We Left",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "Three days after the shifted alley, they found the second one."
+"text": "Three days after the shifted alley, they found the second one.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -91,7 +93,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -189,7 +191,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo touched the wall."
+"text": "En-HEH-doo touched the wall."
 },
 {
 "speaker": "Enhedu",
@@ -258,7 +260,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -303,7 +305,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced at him."
+"text": "En-HEH-doo glanced at him."
 },
 {
 "speaker": "Enhedu",
@@ -368,7 +370,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo approached more slowly."
+"text": "En-HEH-doo approached more slowly."
 },
 {
 "speaker": "Enhedu",
@@ -384,7 +386,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "This one isn't crossed out."
+"text": "This one isn't crossed out.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -437,7 +443,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -491,7 +497,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo noticed."
+"text": "En-HEH-doo noticed."
 },
 {
 "speaker": "Enhedu",
@@ -608,7 +614,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo had moved to the opposite side of the basin."
+"text": "En-HEH-doo had moved to the opposite side of the basin."
 },
 {
 "speaker": "Narrator",
@@ -686,7 +692,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked toward the passage."
+"text": "En-HEH-doo looked toward the passage."
 },
 {
 "speaker": "Enhedu",
@@ -874,7 +880,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1100,6 +1106,9 @@
 {
 "speaker": "The City",
 "text": "Ammaru.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "The City speaking: not fully human. Whispered, wet, close."
 },
@@ -1114,6 +1123,10 @@
 {
 "speaker": "Ninsun",
 "text": "Ammaru.",
+"tags": [
+"eerie"
+],
+"tag": "eerie",
 "note": "CITY MIMIC of Ninsun's voice from the basin: wet, slightly delayed, not quite human."
 },
 {
@@ -1123,18 +1136,27 @@
 {
 "speaker": "The City",
 "text": "Ammaru.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "The walls repeat the name from different places. The City speaking: not fully human. Whispered, wet, close."
 },
 {
 "speaker": "The City",
 "text": "Ammaru.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "The walls repeat the name from different places. The City speaking: not fully human. Whispered, wet, close."
 },
 {
 "speaker": "The City",
 "text": "Ammaru.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "The walls repeat the name from different places. The City speaking: not fully human. Whispered, wet, close."
 },
@@ -1156,7 +1178,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo backed toward the passage."
+"text": "En-HEH-doo backed toward the passage."
 },
 {
 "speaker": "Enhedu",
@@ -1300,7 +1322,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo followed with her knife drawn, though there was nothing visible to cut."
+"text": "En-HEH-doo followed with her knife drawn, though there was nothing visible to cut."
 },
 {
 "speaker": "Narrator",
@@ -1332,7 +1354,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The chamber went dark."
+"text": "The chamber went dark.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1372,7 +1395,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Bricks slid outward from the walls, closing the space course by course. en-HEH-doo twisted sideways and forced herself past the first constriction. BAH-lahg caught Ninsun beneath the arms and hauled her through the next."
+"text": "Bricks slid outward from the walls, closing the space course by course. En-HEH-doo twisted sideways and forced herself past the first constriction. BAH-lahg caught Ninsun beneath the arms and hauled her through the next."
 },
 {
 "speaker": "Narrator",
@@ -1408,7 +1431,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo grabbed the satchel strap from the other side."
+"text": "En-HEH-doo grabbed the satchel strap from the other side."
 },
 {
 "speaker": "Enhedu",
@@ -1452,7 +1475,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo pulled him through the narrowing gap."
+"text": "En-HEH-doo pulled him through the narrowing gap."
 },
 {
 "speaker": "Narrator",
@@ -1497,6 +1520,9 @@
 {
 "speaker": "The City",
 "text": "Ammaru.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "The City speaking: not fully human. Whispered, wet, close."
 },
@@ -1523,6 +1549,9 @@
 {
 "speaker": "The City",
 "text": "Ninsun.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "The City speaking: not fully human. Whispered, wet, close."
 },
@@ -1569,11 +1598,15 @@
 {
 "speaker": "Narrator",
 "text": "A NAME SPOKEN IS A DOOR LEFT OPEN.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo read over her shoulder."
+"text": "En-HEH-doo read over her shoulder."
 },
 {
 "speaker": "Enhedu",

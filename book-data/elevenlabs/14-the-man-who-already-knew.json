@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Man Who Already Knew",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The Collector found them before they finished packing for the east-side survey."
+"text": "The Collector found them before they finished packing for the east-side survey.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -41,7 +43,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's hand drifted toward the haft of his axe and then stopped. en-HEH-doo's expression went carefully blank. Ninsun simply watched, stylus still in her fingers from the map she had been updating."
+"text": "BAH-lahg's hand drifted toward the haft of his axe and then stopped. En-HEH-doo's expression went carefully blank. Ninsun simply watched, stylus still in her fingers from the map she had been updating."
 },
 {
 "speaker": "Narrator",
@@ -80,11 +82,15 @@
 },
 {
 "speaker": "The Collector",
-"text": "From people who prefer their attention not to be noticed in return."
+"text": "From people who prefer their attention not to be noticed in return.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tilted her head.",
+"text": "En-HEH-doo tilted her head.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -184,7 +190,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said. She was already recalculating something behind her eyes.",
+"text": "En-HEH-doo said. She was already recalculating something behind her eyes.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -218,7 +224,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one argued."
+"text": "No one argued.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -250,7 +257,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. en-HEH-doo counted and sorted the reusable stone the way other people counted coin. Ninsun copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar."
+"text": "BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. En-HEH-doo counted and sorted the reusable stone the way other people counted coin. Ninsun copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar."
 },
 {
 "speaker": "Narrator",
@@ -322,7 +329,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo joined them."
+"text": "En-HEH-doo joined them."
 },
 {
 "speaker": "Enhedu",
@@ -418,7 +425,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo sucked in a breath."
+"text": "En-HEH-doo sucked in a breath."
 },
 {
 "speaker": "Enhedu",
@@ -482,7 +489,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "It's a very ordinary thing."
+"text": "It's a very ordinary thing.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -570,7 +581,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence."
+"text": "Silence.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -595,7 +607,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "That's the same seal language as the broken piece we pulled from the shifted chamber. And the name under it—"
+"text": "That's the same seal language as the broken piece we pulled from the shifted chamber. And the name under it—",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -604,7 +620,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "It's the uncrossed name. The one from the basin. The ordinary one. The potter or the dock worker or whoever the city decided wasn't worth erasing completely."
+"text": "It's the uncrossed name. The one from the basin. The ordinary one. The potter or the dock worker or whoever the city decided wasn't worth erasing completely.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -621,7 +641,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said. She was already looking at the surrounding courses for anything else worth taking.",
+"text": "En-HEH-doo said. She was already looking at the surrounding courses for anything else worth taking.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -643,11 +663,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. en-HEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. Ninsun kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest."
+"text": "They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. En-HEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. Ninsun kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest."
 },
 {
 "speaker": "Narrator",

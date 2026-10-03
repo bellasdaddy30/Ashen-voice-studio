@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Desert Remembers",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The first three days were almost ordinary."
+"text": "The first three days were almost ordinary.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -31,7 +33,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They rode in a loose line. BAH-lahg led the donkeys, muttering the old wards his grandfather had taught him whenever the wind shifted. en-HEH-doo rode ahead, watching the horizon the way a thief watches a locked door. Ninsun kept to the middle, writing whenever they stopped. Zeek brought up the rear, the journal heavy against his ribs and the mark on his palm itching worse with every mile."
+"text": "They rode in a loose line. BAH-lahg led the donkeys, muttering the old wards his grandfather had taught him whenever the wind shifted. En-HEH-doo rode ahead, watching the horizon the way a thief watches a locked door. Ninsun kept to the middle, writing whenever they stopped. Zeek brought up the rear, the journal heavy against his ribs and the mark on his palm itching worse with every mile."
 },
 {
 "speaker": "Narrator",
@@ -74,7 +76,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's voice came from the shadows.",
+"text": "En-HEH-doo's voice came from the shadows.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -100,7 +102,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo considered, then smiled without warmth.",
+"text": "En-HEH-doo considered, then smiled without warmth.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -118,7 +120,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The silence that followed was sharper than the argument."
+"text": "The silence that followed was sharper than the argument.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -177,7 +180,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "That night the donkeys refused to graze. Both animals stood rigid, ears pointed toward the same empty stretch of dark. en-HEH-doo was the first to speak."
+"text": "That night the donkeys refused to graze. Both animals stood rigid, ears pointed toward the same empty stretch of dark. En-HEH-doo was the first to speak."
 },
 {
 "speaker": "Enhedu",
@@ -211,6 +214,10 @@
 {
 "speaker": "Narrator",
 "text": "NOT YET.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {

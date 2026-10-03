@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Ledger's Margin",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The walk back from the east gate took longer than the morning's survey. The rain that had threatened the lower districts since noon finally broke, not in a clean downpour, but in a thin, greasy mist that turned the dust in the unpaved alleys into gray paste."
+"text": "The walk back from the east gate took longer than the morning's survey. The rain that had threatened the lower districts since noon finally broke, not in a clean downpour, but in a thin, greasy mist that turned the dust in the unpaved alleys into gray paste.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -40,7 +42,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said, stepping carefully around a broken drainage tile.",
+"text": "En-HEH-doo said, stepping carefully around a broken drainage tile.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -95,7 +97,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said, leaning against the doorframe while she wrung the mist from the fringe of her shawl.",
+"text": "En-HEH-doo said, leaning against the doorframe while she wrung the mist from the fringe of her shawl.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -109,7 +111,11 @@
 },
 {
 "speaker": "Balag",
-"text": "The city's keeping score. We're just writing down the numbers."
+"text": "The city's keeping score. We're just writing down the numbers.",
+"tags": [
+"laughs"
+],
+"tag": "laughs"
 },
 {
 "speaker": "Narrator",
@@ -147,7 +153,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo pushed off the doorframe, her interest suddenly sharp.",
+"text": "En-HEH-doo pushed off the doorframe, her interest suddenly sharp.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -208,7 +214,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg stood up, his boots hitting the floorboards with a dull, heavy jar, and reached for his spear. en-HEH-doo was already sliding her ledger into her pack."
+"text": "BAH-lahg stood up, his boots hitting the floorboards with a dull, heavy jar, and reached for his spear. En-HEH-doo was already sliding her ledger into her pack."
 },
 {
 "speaker": "Narrator",
@@ -272,7 +278,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned close to the seal."
+"text": "En-HEH-doo leaned close to the seal."
 },
 {
 "speaker": "Enhedu",
@@ -301,7 +307,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That helps us how?"
+"text": "That helps us how?",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -313,7 +323,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at her."
+"text": "En-HEH-doo looked at her."
 },
 {
 "speaker": "Enhedu",
@@ -437,7 +447,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -462,7 +472,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo crouched beside it."
+"text": "En-HEH-doo crouched beside it."
 },
 {
 "speaker": "Enhedu",
@@ -499,7 +509,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo pressed her thumb against the lower hinge."
+"text": "En-HEH-doo pressed her thumb against the lower hinge."
 },
 {
 "speaker": "Narrator",
@@ -527,7 +537,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo worked the pin loose with the tip of her knife. BAH-lahg caught the door before it dropped."
+"text": "En-HEH-doo worked the pin loose with the tip of her knife. BAH-lahg caught the door before it dropped."
 },
 {
 "speaker": "Narrator",
@@ -611,7 +621,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Pre-plague property levy. Grain exemptions. Inheritance disputes. Boundary tax…"
+"text": "Pre-plague property levy. Grain exemptions. Inheritance disputes. Boundary tax…",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -628,11 +642,15 @@
 {
 "speaker": "Narrator",
 "text": "EAST CURTAIN DISTRICT—PRIVATE HOLDINGS BEFORE CONSOLIDATION",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo took the lamp while Ninsun untied the cord."
+"text": "En-HEH-doo took the lamp while Ninsun untied the cord."
 },
 {
 "speaker": "Narrator",
@@ -697,7 +715,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo read over her shoulder."
+"text": "En-HEH-doo read over her shoulder."
 },
 {
 "speaker": "Enhedu",
@@ -771,7 +789,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one moved."
+"text": "No one moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -823,7 +842,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at Zeek."
+"text": "En-HEH-doo looked at Zeek."
 },
 {
 "speaker": "Enhedu",
@@ -881,7 +900,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's expression hardened."
+"text": "En-HEH-doo's expression hardened."
 },
 {
 "speaker": "Enhedu",
@@ -974,7 +993,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo extinguished the lamp."
+"text": "En-HEH-doo extinguished the lamp."
 },
 {
 "speaker": "Narrator",

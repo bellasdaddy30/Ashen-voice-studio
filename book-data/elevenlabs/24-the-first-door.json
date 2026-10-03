@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The First Door",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They reached the ridge at noon on the fifth day, and the land itself was lying."
+"text": "They reached the ridge at noon on the fifth day, and the land itself was lying.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -84,7 +86,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo smiled the way she did when she found the weak seam in a strongbox.",
+"text": "En-HEH-doo smiled the way she did when she found the weak seam in a strongbox.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -93,7 +95,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They worked for hours. The heat made the air shimmer above the stones. They uncovered broken pottery, ordinary foundations, the remains of a storage room, and the scattered bones of mules that had died centuries earlier. Ninsun catalogued everything she could identify. en-HEH-doo searched the collapsed rooms for anything worth carrying. BAH-lahg did most of the heavy work and complained that everyone else had been born with useless hands."
+"text": "They worked for hours. The heat made the air shimmer above the stones. They uncovered broken pottery, ordinary foundations, the remains of a storage room, and the scattered bones of mules that had died centuries earlier. Ninsun catalogued everything she could identify. En-HEH-doo searched the collapsed rooms for anything worth carrying. BAH-lahg did most of the heavy work and complained that everyone else had been born with useless hands."
 },
 {
 "speaker": "Narrator",
@@ -105,7 +107,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "At sunset en-HEH-doo's shovel struck stone with a different sound."
+"text": "At sunset En-HEH-doo's shovel struck stone with a different sound."
 },
 {
 "speaker": "Narrator",
@@ -233,7 +235,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo lowered her knife.",
+"text": "En-HEH-doo lowered her knife.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -255,7 +257,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -334,11 +337,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Zeek!"
+"text": "Zeek!",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun was shouting his name. en-HEH-doo stood over him with one hand on the journal and the other on her knife, apparently unsure which represented the greater threat."
+"text": "Ninsun was shouting his name. En-HEH-doo stood over him with one hand on the journal and the other on her knife, apparently unsure which represented the greater threat."
 },
 {
 "speaker": "Narrator",
@@ -422,7 +429,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at him.",
+"text": "En-HEH-doo looked at him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -465,7 +472,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For several seconds there was only the sound of their breathing. Then a single knock came from directly beneath the floor."
+"text": "For several seconds there was only the sound of their breathing. Then a single knock came from directly beneath the floor.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",

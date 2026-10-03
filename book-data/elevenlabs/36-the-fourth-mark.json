@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "The Fourth Mark",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The left-hand passage opened into a chamber that held a silence so absolute it felt like a physical object—something with weight and edges that had settled into the room ahead of them and simply refused to leave."
+"text": "The left-hand passage opened into a chamber that held a silence so absolute it felt like a physical object—something with weight and edges that had settled into the room ahead of them and simply refused to leave.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -61,6 +63,10 @@
 {
 "speaker": "Narrator",
 "text": "THIS IS THE THIRD TIME YOU HAVE READ THIS.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -78,12 +84,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo studied the wall with the remote attention she now gave anything that could not be priced.",
+"text": "En-HEH-doo studied the wall with the remote attention she now gave anything that could not be priced.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "Two versions of the same decision. Or two people making the same decision and calling it different names.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -186,6 +195,10 @@
 {
 "speaker": "Narrator",
 "text": "THE FOURTH PLACE IS YOURS.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -200,6 +213,9 @@
 {
 "speaker": "Ninsun",
 "text": "Then whose is the mark already forming?",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -209,7 +225,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The chamber went completely dark."
+"text": "The chamber went completely dark.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -262,7 +279,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one argued."
+"text": "No one argued.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -300,17 +318,23 @@
 {
 "speaker": "Enhedu",
 "text": "You didn't object,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "You raised the torch and went first.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -321,6 +345,9 @@
 {
 "speaker": "Enhedu",
 "text": "That seems convenient.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -330,12 +357,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's mouth shifted at one corner.",
+"text": "En-HEH-doo's mouth shifted at one corner.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "I've never had to imagine that.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },

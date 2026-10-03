@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Journal That Remembers",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "Zeek woke with the taste of black water still in his mouth."
+"text": "Zeek woke with the taste of black water still in his mouth.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -436,11 +438,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "For several seconds he sat with both hands pressed against the cover, as if whatever had written inside might force the book open again."
+"text": "For several seconds he sat with both hands pressed against the cover, as if whatever had written inside might force the book open again.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "Nothing moved."
+"text": "Nothing moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -468,7 +472,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg sat on the edge of the fountain with his spear across his knees, wearing the look of a man who had slept badly and intended to blame everyone else. en-HEH-doo leaned against a pillar, sharpening her knife with slow strokes. She had not asked why he summoned them, which meant she already knew something was wrong."
+"text": "BAH-lahg sat on the edge of the fountain with his spear across his knees, wearing the look of a man who had slept badly and intended to blame everyone else. En-HEH-doo leaned against a pillar, sharpening her knife with slow strokes. She had not asked why he summoned them, which meant she already knew something was wrong."
 },
 {
 "speaker": "Narrator",
@@ -542,7 +546,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo lowered her knife."
+"text": "En-HEH-doo lowered her knife."
 },
 {
 "speaker": "Enhedu",
@@ -677,7 +681,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo came closer."
+"text": "En-HEH-doo came closer."
 },
 {
 "speaker": "Enhedu",
@@ -733,7 +737,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -811,7 +815,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo followed his gaze."
+"text": "En-HEH-doo followed his gaze."
 },
 {
 "speaker": "Enhedu",
@@ -875,7 +879,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo moved away from the pillar, knife low at her side."
+"text": "En-HEH-doo moved away from the pillar, knife low at her side."
 },
 {
 "speaker": "Narrator",
@@ -899,7 +903,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "My sister walked into a district that shouldn't have existed three years ago."
+"text": "My sister walked into a district that shouldn't have existed three years ago.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -915,7 +923,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's knife stopped moving."
+"text": "En-HEH-doo's knife stopped moving."
 },
 {
 "speaker": "Narrator",
@@ -1007,7 +1015,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stepped closer, studying the clay footprints."
+"text": "En-HEH-doo stepped closer, studying the clay footprints."
 },
 {
 "speaker": "Enhedu",
@@ -1075,7 +1083,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Let go."
+"text": "Let go.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Zik",
@@ -1200,7 +1212,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one argued."
+"text": "No one argued.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",

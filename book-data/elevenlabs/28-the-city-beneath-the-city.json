@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The City Beneath the City",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They did not return to the plaza, and the City did not force them to."
+"text": "They did not return to the plaza, and the City did not force them to.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -67,7 +69,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's knife was already in her hand.",
+"text": "En-HEH-doo's knife was already in her hand.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -198,7 +200,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's eyes stayed on him.",
+"text": "En-HEH-doo's eyes stayed on him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -237,7 +239,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I was wrong."
+"text": "I was wrong.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -246,7 +252,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "It is a claim of ownership. Not chosen. Assigned."
+"text": "It is a claim of ownership. Not chosen. Assigned.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -310,7 +320,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence settled over the alcove the way dust settles after a collapse."
+"text": "Silence settled over the alcove the way dust settles after a collapse.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -428,6 +439,9 @@
 {
 "speaker": "Ninsun",
 "text": "The knocks are not coming from the walls anymore.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },

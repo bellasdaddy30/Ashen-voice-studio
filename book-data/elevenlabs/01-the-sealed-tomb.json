@@ -21,11 +21,13 @@
 {
 "speaker": "Narrator",
 "text": "The Sealed Tomb",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The desert spat secrets when it felt like it. Today it gave up a ridge of brick half-buried in sand. A windstorm had stripped the dunes down to hard earth and left the upper edge exposed. Zeek crouched at the dig and brushed grit from the mortar with his fingers. The bricks were ordinary baked clay, worn down by time. The mortar wasn't. In places it had turned glassy and black, the kind of change that only came from heat no ordinary fire could make. The joints sat too clean. Too exact. His father's voice returned with the clarity of something said the day before."
+"text": "The desert spat secrets when it felt like it. Today it gave up a ridge of brick half-buried in sand. A windstorm had stripped the dunes down to hard earth and left the upper edge exposed. Zeek crouched at the dig and brushed grit from the mortar with his fingers. The bricks were ordinary baked clay, worn down by time. The mortar wasn't. In places it had turned glassy and black, the kind of change that only came from heat no ordinary fire could make. The joints sat too clean. Too exact. His father's voice returned with the clarity of something said the day before.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Bel-iddin",
@@ -77,7 +79,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's mouth tightened, the expression of someone who had considered several replies and discarded them as not worth the air. A few paces off, en-HEH-doo turned a broken seal over in her hands, knife tucked under one arm. She worked the edges with her thumb the way other people worried a coin, testing for value even in the broken pieces."
+"text": "BAH-lahg's mouth tightened, the expression of someone who had considered several replies and discarded them as not worth the air. A few paces off, En-HEH-doo turned a broken seal over in her hands, knife tucked under one arm. She worked the edges with her thumb the way other people worried a coin, testing for value even in the broken pieces."
 },
 {
 "speaker": "Enhedu",
@@ -98,7 +100,11 @@
 },
 {
 "speaker": "Balag",
-"text": "See?"
+"text": "See?",
+"tags": [
+"mutters"
+],
+"tag": "mutters"
 },
 {
 "speaker": "Narrator",
@@ -107,11 +113,15 @@
 },
 {
 "speaker": "Balag",
-"text": "She has sense."
+"text": "She has sense.",
+"tags": [
+"mutters"
+],
+"tag": "mutters"
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's smile thinned."
+"text": "En-HEH-doo's smile thinned."
 },
 {
 "speaker": "Enhedu",
@@ -220,7 +230,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo wandered over, abandoning the broken seal she'd been studying.",
+"text": "En-HEH-doo wandered over, abandoning the broken seal she'd been studying.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -315,12 +325,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo laughed.",
+"text": "En-HEH-doo laughed.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "I'll remember that.",
+"tags": [
+"laughs"
+],
+"tag": "laughs",
 "note": "Keep the humor dry; do not overplay it."
 },
 {
@@ -390,7 +404,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked sideways at him. The sideways look carried more amusement than surprise.",
+"text": "En-HEH-doo looked sideways at him. The sideways look carried more amusement than surprise.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -469,7 +483,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo nodded slowly.",
+"text": "En-HEH-doo nodded slowly.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -495,7 +509,11 @@
 },
 {
 "speaker": "Balag",
-"text": "The old kings were the thieves."
+"text": "The old kings were the thieves.",
+"tags": [
+"snorts"
+],
+"tag": "snorts"
 },
 {
 "speaker": "Kurash",
@@ -515,7 +533,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo followed his gaze.",
+"text": "En-HEH-doo followed his gaze.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -565,7 +583,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The stairway went farther down than the structure above had any right to allow. Walls narrowed until they walked single file. BAH-lahg took the lead because he was largest and apparently considered it his job to find whatever killed them first. en-HEH-doo came next. Zeek followed. KOO-rash brought up the rear and complained under his breath every time the steps grew steeper. Zeek paid him no mind. He listened."
+"text": "The stairway went farther down than the structure above had any right to allow. Walls narrowed until they walked single file. BAH-lahg took the lead because he was largest and apparently considered it his job to find whatever killed them first. En-HEH-doo came next. Zeek followed. KOO-rash brought up the rear and complained under his breath every time the steps grew steeper. Zeek paid him no mind. He listened."
 },
 {
 "speaker": "Narrator",
@@ -573,11 +591,15 @@
 },
 {
 "speaker": "Enhedu",
-"text": "What?"
+"text": "What?",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo kept her voice low.",
+"text": "En-HEH-doo kept her voice low.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -590,7 +612,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -632,7 +654,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stepped up beside him. Her eyes moved across the bronze, the stone, the symbol.",
+"text": "En-HEH-doo stepped up beside him. Her eyes moved across the bronze, the stone, the symbol.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -650,7 +672,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's smile returned, slow and sharp.",
+"text": "En-HEH-doo's smile returned, slow and sharp.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -659,7 +681,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. en-HEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rash stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond."
+"text": "They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. En-HEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rash stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond."
 },
 {
 "speaker": "Narrator",
@@ -667,7 +689,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rash repeat the warning back to him. KOO-rash did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. en-HEH-doo studied the seams rather than the wealth."
+"text": "The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rash repeat the warning back to him. KOO-rash did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. En-HEH-doo studied the seams rather than the wealth."
 },
 {
 "speaker": "Enhedu",
@@ -705,7 +727,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash nodded. The answer came easily. Believing it was another matter. Gold covered the floor in careful geometric lines across black stone—plates, cups, coins, small statues, chains, jewelry—the wealth of a kingdom arranged with such deliberate care that the hoard looked less like an offering and more like a mechanism left waiting. No one moved at first. BAH-lahg stayed where he was. en-HEH-doo's eyes narrowed. KOO-rash made a sound that almost became a laugh."
+"text": "KOO-rash nodded. The answer came easily. Believing it was another matter. Gold covered the floor in careful geometric lines across black stone—plates, cups, coins, small statues, chains, jewelry—the wealth of a kingdom arranged with such deliberate care that the hoard looked less like an offering and more like a mechanism left waiting. No one moved at first. BAH-lahg stayed where he was. En-HEH-doo's eyes narrowed. KOO-rash made a sound that almost became a laugh."
 },
 {
 "speaker": "Zik",
@@ -757,6 +779,10 @@
 {
 "speaker": "Balag",
 "text": "KOO-rash,",
+"tags": [
+"whispers"
+],
+"tag": "whispers",
 "note": "Balag warning Kurash quietly, with real danger underneath."
 },
 {
@@ -771,12 +797,14 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. en-HEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.",
+"text": "No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. En-HEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.",
+"pauseBefore": 1.5,
 "note": "Aftershock. Cold, controlled narration."
 },
 {
 "speaker": "Zik",
-"text": "Don't touch the gold,"
+"text": "Don't touch the gold,",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -798,7 +826,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "At the far end a stone throne rose from the floor. A skeleton sat upon it, wrapped in the last scraps of royal robes so old they seemed to cling to the bones only because they had forgotten how to fall away. A crown of blackened silver rested on the skull. At its center sat the same spiral and drop. Zeek had seen versions of that mark before. It appeared on private seals belonging to kings whose reigns ended short and incomplete. Some vanished. Others were erased from monuments so thoroughly that later scholars argued over whether they had ever existed. He had always called it politics. Now he was less certain."
+"text": "At the far end a stone throne rose from the floor. A skeleton sat upon it, wrapped in the last scraps of royal robes so old they seemed to cling to the bones only because they had forgotten how to fall away. A crown of blackened silver rested on the skull. At its center sat the same spiral and drop. Zeek had seen versions of that mark before. It appeared on private seals belonging to kings whose reigns ended short and incomplete. Some vanished. Others were erased from monuments so thoroughly that later scholars argued over whether they had ever existed. He had always called it politics. Now he was less certain.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -834,20 +863,30 @@
 {
 "speaker": "Bel-iddin",
 "text": "ZIKIR—WHATEVER YOU DO, DO NOT OPEN THE SECOND DOOR.",
+"tags": [
+"urgently"
+],
+"tag": "urgently",
 "note": "Bel-iddin journal warning; urgent and strained. Same speaker as Zik's remembered father/journal voice."
 },
 {
 "speaker": "Narrator",
-"text": "The words sat there. Zeek read them twice. The chamber stayed quiet around him. Then the torch flame bent sideways. The shadows on the walls were moving, and not with the fire. The skeleton's jaw shifted. BAH-lahg swore under his breath. en-HEH-doo's knife was in her hand before the sound finished leaving his mouth. The empty sockets of the skull turned toward Zeek."
+"text": "The words sat there. Zeek read them twice. The chamber stayed quiet around him. Then the torch flame bent sideways. The shadows on the walls were moving, and not with the fire. The skeleton's jaw shifted. BAH-lahg swore under his breath. En-HEH-doo's knife was in her hand before the sound finished leaving his mouth. The empty sockets of the skull turned toward Zeek.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Dead King",
-"text": "Zee-keer ash-SHOOR,",
+"text": "Zee-keer Ash-SHOOR,",
+"tags": [
+"whispers"
+],
+"tag": "whispers",
 "note": "Very slow, dry, unnatural. Leave a long beat after the name."
 },
 {
 "speaker": "Narrator",
 "text": "the dead mouth rasped.",
+"pauseBefore": 2.0,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {

@@ -21,11 +21,13 @@
 {
 "speaker": "Narrator",
 "text": "The Price of Knowing",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke after BAYL-ID-din's final words."
+"text": "No one spoke after BAYL-ID-din's final words.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Bel-iddin",
@@ -66,7 +68,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stood."
+"text": "En-HEH-doo stood."
 },
 {
 "speaker": "Enhedu",
@@ -94,7 +96,11 @@
 },
 {
 "speaker": "Zik",
-"text": "You know me better than that."
+"text": "You know me better than that.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -745,7 +751,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence."
+"text": "Silence.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",

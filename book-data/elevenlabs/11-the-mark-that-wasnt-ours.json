@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Mark That Wasn't Ours",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They found the first forged notch on the eighth day."
+"text": "They found the first forged notch on the eighth day.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -32,7 +34,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg saw it first. He stopped so suddenly that en-HEH-doo nearly walked into his back."
+"text": "BAH-lahg saw it first. He stopped so suddenly that En-HEH-doo nearly walked into his back."
 },
 {
 "speaker": "Balag",
@@ -49,7 +51,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo exhaled through her nose.",
+"text": "En-HEH-doo exhaled through her nose.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -157,11 +159,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo snorted."
+"text": "En-HEH-doo snorted."
 },
 {
 "speaker": "Enhedu",
-"text": "Helpful."
+"text": "Helpful.",
+"tags": [
+"snorts"
+],
+"tag": "snorts"
 },
 {
 "speaker": "Narrator",
@@ -185,7 +191,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence."
+"text": "Silence.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -325,7 +332,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nobody spoke."
+"text": "Nobody spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -394,6 +402,10 @@
 {
 "speaker": "Narrator",
 "text": "STOP MARKING WHAT DOES NOT BELONG TO YOU.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -418,7 +430,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo reached for it."
+"text": "En-HEH-doo reached for it."
 },
 {
 "speaker": "Enhedu",
@@ -454,7 +466,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tapped one corner."
+"text": "En-HEH-doo tapped one corner."
 },
 {
 "speaker": "Enhedu",
@@ -583,7 +595,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo folded her arms."
+"text": "En-HEH-doo folded her arms."
 },
 {
 "speaker": "Enhedu",
@@ -599,7 +611,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo read it over his shoulder.",
+"text": "En-HEH-doo read it over his shoulder.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -622,6 +634,10 @@
 {
 "speaker": "Narrator",
 "text": "CLAIMED.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {

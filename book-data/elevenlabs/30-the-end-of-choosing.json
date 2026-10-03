@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The End of Choosing",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The City stopped pretending to be passive."
+"text": "The City stopped pretending to be passive.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -65,7 +67,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -115,12 +118,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo laughed once, short and without humor.",
+"text": "En-HEH-doo laughed once, short and without humor.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "The City disagrees.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -130,7 +136,11 @@
 },
 {
 "speaker": "Zik",
-"text": "en-HEH-doo.",
+"text": "En-HEH-doo.",
+"tags": [
+"eerie"
+],
+"tag": "eerie",
 "note": "CITY MIMIC of Zik's voice from the water: wet, stretched, wrong."
 },
 {
@@ -179,7 +189,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They made camp in a chamber that offered two exits and no pools. BAH-lahg took first watch. Ninsun wrote until the stylus refused another line and then sat staring at the blank space as though the parchment itself had begun to withhold cooperation. en-HEH-doo sat with her back to the wall, the figurine in her lap, looking at it the way a person studies an object whose purpose belongs to someone else."
+"text": "They made camp in a chamber that offered two exits and no pools. BAH-lahg took first watch. Ninsun wrote until the stylus refused another line and then sat staring at the blank space as though the parchment itself had begun to withhold cooperation. En-HEH-doo sat with her back to the wall, the figurine in her lap, looking at it the way a person studies an object whose purpose belongs to someone else."
 },
 {
 "speaker": "Narrator",
@@ -196,6 +206,10 @@
 {
 "speaker": "Narrator",
 "text": "THE CITY IS TIRED OF WAITING.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -250,7 +264,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stood, picked up the figurine, studied it with the same blank expression she had worn since the vision, and tucked it into her pack."
+"text": "En-HEH-doo stood, picked up the figurine, studied it with the same blank expression she had worn since the vision, and tucked it into her pack."
 },
 {
 "speaker": "Ninsun",
@@ -263,12 +277,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked down at it as though the answer might be written somewhere on the gold.",
+"text": "En-HEH-doo looked down at it as though the answer might be written somewhere on the gold.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
 "text": "I don't know.",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
@@ -302,7 +319,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Move,"
+"text": "Move,",
+"tags": [
+"hissing"
+],
+"tag": "hissing"
 },
 {
 "speaker": "Narrator",
@@ -316,16 +337,23 @@
 {
 "speaker": "Enhedu",
 "text": "It won't budge,",
+"tags": [
+"flatly"
+],
 "tag": "flatly",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said. She leaned against the damp wall of the corridor, hollowed out by exhaustion now that the last of the adrenaline had burned off and left only the bill behind. She was still clutching the figurine, her thumb tracing the same groove across its surface over and over without seeming to know she was doing it."
+"text": "En-HEH-doo said. She leaned against the damp wall of the corridor, hollowed out by exhaustion now that the last of the adrenaline had burned off and left only the bill behind. She was still clutching the figurine, her thumb tracing the same groove across its surface over and over without seeming to know she was doing it."
 },
 {
 "speaker": "Balag",
-"text": "We have to go through,"
+"text": "We have to go through,",
+"tags": [
+"growls"
+],
+"tag": "growls"
 },
 {
 "speaker": "Narrator",
@@ -435,7 +463,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "These are accounts,"
+"text": "These are accounts,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -444,7 +476,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Not a memorial. A ledger."
+"text": "Not a memorial. A ledger.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -461,7 +497,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's thumb stopped moving on the figurine. She looked at the wall the way she had once looked at locked doors—calculating value even when the desire for value was gone."
+"text": "En-HEH-doo's thumb stopped moving on the figurine. She looked at the wall the way she had once looked at locked doors—calculating value even when the desire for value was gone."
 },
 {
 "speaker": "Narrator",
@@ -570,6 +606,10 @@
 {
 "speaker": "The Statue",
 "text": "You are late.",
+"tags": [
+"flatly"
+],
+"tag": "flatly",
 "note": "Dry, flat, utterly unimpressed, like a clerk ticking a name off a long list."
 },
 {

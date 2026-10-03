@@ -19,15 +19,17 @@
 {
 "speaker": "Narrator",
 "text": "The Fourth Share",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They found her in the lower archives district two days after the Collector paid them."
+"text": "They found her in the lower archives district two days after the Collector paid them.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
-"text": "The building was half-sunk into the slope above the old flood channel, its upper rooms rented to scribes who couldn't afford better light and its lower rooms left to the kind of people who preferred not to be found. Zeek had come looking for a particular copy of a boundary tablet the Collector had mentioned in passing. BAH-lahg waited outside with the packs. en-HEH-doo had already decided the place smelled like unpaid debts and was keeping one eye on the street."
+"text": "The building was half-sunk into the slope above the old flood channel, its upper rooms rented to scribes who couldn't afford better light and its lower rooms left to the kind of people who preferred not to be found. Zeek had come looking for a particular copy of a boundary tablet the Collector had mentioned in passing. BAH-lahg waited outside with the packs. En-HEH-doo had already decided the place smelled like unpaid debts and was keeping one eye on the street."
 },
 {
 "speaker": "Narrator",
@@ -74,7 +76,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo drifted in last, eyes moving over the tablets, the lamp, the ink-stained hands.",
+"text": "En-HEH-doo drifted in last, eyes moving over the tablets, the lamp, the ink-stained hands.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -108,7 +110,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The room went quiet except for the small hiss of the lamp."
+"text": "The room went quiet except for the small hiss of the lamp.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -208,7 +211,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned over the table."
+"text": "En-HEH-doo leaned over the table."
 },
 {
 "speaker": "Enhedu",
@@ -360,7 +363,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo ignored him."
+"text": "En-HEH-doo ignored him."
 },
 {
 "speaker": "Enhedu",
@@ -629,7 +632,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stood. She was shorter than en-HEH-doo and carried herself like someone who had learned to take up less space than she needed.",
+"text": "Ninsun stood. She was shorter than En-HEH-doo and carried herself like someone who had learned to take up less space than she needed.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -643,7 +646,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Confident."
+"text": "Confident.",
+"tags": [
+"laughs"
+],
+"tag": "laughs"
 },
 {
 "speaker": "Ninsun",
@@ -660,7 +667,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.",
+"text": "En-HEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -741,7 +748,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked at en-HEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now."
+"text": "Zeek looked at En-HEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now."
 },
 {
 "speaker": "Narrator",

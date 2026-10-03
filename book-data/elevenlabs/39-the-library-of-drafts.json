@@ -17,11 +17,13 @@
 {
 "speaker": "Narrator",
 "text": "The Library of Drafts",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The library was not a place of learning. It was a graveyard of drafts."
+"text": "The library was not a place of learning. It was a graveyard of drafts.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -50,7 +52,10 @@
 {
 "speaker": "Zik",
 "text": "BAH-lahg.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -65,7 +70,10 @@
 {
 "speaker": "Zik",
 "text": "BAH-lahg.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -75,8 +83,11 @@
 },
 {
 "speaker": "Zik",
-"text": "And en-HEH-doo.",
-"tag": "exhausted",
+"text": "And En-HEH-doo.",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -86,12 +97,16 @@
 {
 "speaker": "Zik",
 "text": "When did we lose them?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "The question hung between them longer than it should have. Ninsun opened her mouth to answer, hesitated, then looked back toward the doorway as though she expected the two of them to emerge from the darkness laughing at some joke neither of them had heard."
+"text": "The question hung between them longer than it should have. Ninsun opened her mouth to answer, hesitated, then looked back toward the doorway as though she expected the two of them to emerge from the darkness laughing at some joke neither of them had heard.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Ninsun",
@@ -109,7 +124,10 @@
 {
 "speaker": "Zik",
 "text": "You think?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -119,7 +137,7 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I remember BAH-lahg complaining about the climb. I remember en-HEH-doo arguing with him about something. Or maybe that was earlier."
+"text": "I remember BAH-lahg complaining about the climb. I remember En-HEH-doo arguing with him about something. Or maybe that was earlier."
 },
 {
 "speaker": "Narrator",
@@ -136,7 +154,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I don't remember a moment they weren't with us,"
+"text": "I don't remember a moment they weren't with us,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -145,7 +167,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "But I also can't remember a single moment they were."
+"text": "But I also can't remember a single moment they were.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -154,7 +180,10 @@
 {
 "speaker": "Zik",
 "text": "That's impossible,",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -164,8 +193,11 @@
 },
 {
 "speaker": "Zik",
-"text": "BAH-lahg doesn't just stop talking. en-HEH-doo doesn't go five minutes without pocketing something she insists has no value.",
-"tag": "exhausted",
+"text": "BAH-lahg doesn't just stop talking. En-HEH-doo doesn't go five minutes without pocketing something she insists has no value.",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -175,7 +207,10 @@
 {
 "speaker": "Zik",
 "text": "No.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -186,7 +221,10 @@
 {
 "speaker": "Zik",
 "text": "We would have noticed.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -217,7 +255,10 @@
 {
 "speaker": "Zik",
 "text": "I've got something.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -226,8 +267,11 @@
 },
 {
 "speaker": "Zik",
-"text": "en-HEH-doo's,",
-"tag": "exhausted",
+"text": "En-HEH-doo's,",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -246,7 +290,10 @@
 {
 "speaker": "Zik",
 "text": "So nobody would think to steal it.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -255,7 +302,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For a long moment Ninsun simply turned the figurine over in her hand, her thumb tracing the worn edges as though expecting the memory of its weight to return with enough patience."
+"text": "For a long moment Ninsun simply turned the figurine over in her hand, her thumb tracing the worn edges as though expecting the memory of its weight to return with enough patience.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -272,7 +320,10 @@
 {
 "speaker": "Zik",
 "text": "No.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -289,7 +340,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They stood there, listening for the break in the silence, the sound of heavy footsteps or en-HEH-doo's dry voice reminding them that they were fools."
+"text": "They stood there, listening for the break in the silence, the sound of heavy footsteps or En-HEH-doo's dry voice reminding them that they were fools."
 },
 {
 "speaker": "Narrator",
@@ -335,7 +386,10 @@
 {
 "speaker": "Zik",
 "text": "They aren't moving,",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -362,7 +416,10 @@
 {
 "speaker": "Zik",
 "text": "They're alive?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -400,21 +457,37 @@
 {
 "speaker": "Narrator",
 "text": "SUBJECT 402",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "VARIANT: STOIC",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "OUTCOME: FAILED",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "ERASURE: IMMINENT",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -441,7 +514,10 @@
 {
 "speaker": "Zik",
 "text": "What are we, then?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -455,7 +531,10 @@
 {
 "speaker": "Zik",
 "text": "No?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -480,7 +559,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "These aren't graves,"
+"text": "These aren't graves,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -489,12 +572,19 @@
 },
 {
 "speaker": "Ninsun",
-"text": "A grave marks something that's finished."
+"text": "A grave marks something that's finished.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Zik",
 "text": "Then what are they?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -522,7 +612,10 @@
 {
 "speaker": "Zik",
 "text": "The City keeps trying until something works.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -561,16 +654,28 @@
 {
 "speaker": "Narrator",
 "text": "FAILED.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "INCOMPLETE.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "PENDING.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -580,7 +685,10 @@
 {
 "speaker": "Zik",
 "text": "What does that mean?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -635,16 +743,28 @@
 {
 "speaker": "Narrator",
 "text": "SUBJECT 001",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "VARIANT: THE FATHER",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "OUTCOME:—",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -662,7 +782,10 @@
 {
 "speaker": "Zik",
 "text": "He's in here.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -676,7 +799,10 @@
 {
 "speaker": "Zik",
 "text": "It could.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -686,7 +812,10 @@
 {
 "speaker": "Zik",
 "text": "I know what it doesn't necessarily mean.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -708,7 +837,11 @@
 {
 "speaker": "Zik",
 "text": "Twelve years,",
-"tag": "exhausted",
+"tags": [
+"weakly",
+"softly"
+],
+"tag": "weakly] [softly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -723,7 +856,10 @@
 {
 "speaker": "Zik",
 "text": "I told myself I was looking for answers.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -734,7 +870,10 @@
 {
 "speaker": "Zik",
 "text": "But I was looking for him.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -744,7 +883,10 @@
 {
 "speaker": "Zik",
 "text": "I don't know what that dash means.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -754,7 +896,10 @@
 {
 "speaker": "Zik",
 "text": "But it isn't an ending.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -772,7 +917,10 @@
 {
 "speaker": "Zik",
 "text": "Then I won't let the City decide what comes after it.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -790,7 +938,10 @@
 {
 "speaker": "Zik",
 "text": "The shelves are emptying,",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -810,7 +961,10 @@
 {
 "speaker": "Zik",
 "text": "What does that mean?",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -857,13 +1011,19 @@
 {
 "speaker": "Zik",
 "text": "No.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Zik",
 "text": "It's where the shelves begin.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -908,7 +1068,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The final entry described their arrival in the library. It described the empty shelves waiting beyond the jars. It described the disappearance of BAH-lahg and en-HEH-doo, the discovery of Subject 001, and words that still echoed in the chamber around them."
+"text": "The final entry described their arrival in the library. It described the empty shelves waiting beyond the jars. It described the disappearance of BAH-lahg and En-HEH-doo, the discovery of Subject 001, and words that still echoed in the chamber around them."
 },
 {
 "speaker": "Narrator",
@@ -921,7 +1081,10 @@
 {
 "speaker": "Zik",
 "text": "It isn't prophecy.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -968,7 +1131,10 @@
 {
 "speaker": "Zik",
 "text": "I don't think it wants one.",
-"tag": "exhausted",
+"tags": [
+"weakly"
+],
+"tag": "weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -990,6 +1156,10 @@
 {
 "speaker": "Narrator",
 "text": "THE AUTHOR MUST BE CONSUMED.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 }
 ]

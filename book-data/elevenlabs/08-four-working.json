@@ -19,11 +19,13 @@
 {
 "speaker": "Narrator",
 "text": "Four Working",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The first shifted street they found together was almost polite about it."
+"text": "The first shifted street they found together was almost polite about it.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -63,7 +65,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -100,7 +102,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned closer to the bricks."
+"text": "En-HEH-doo leaned closer to the bricks."
 },
 {
 "speaker": "Enhedu",
@@ -132,7 +134,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo checked value."
+"text": "En-HEH-doo checked value."
 },
 {
 "speaker": "Narrator",
@@ -156,7 +158,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo watched him."
+"text": "En-HEH-doo watched him."
 },
 {
 "speaker": "Enhedu",
@@ -180,7 +182,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They moved in the order that was already becoming habit: BAH-lahg first, en-HEH-doo second, Ninsun third, Zeek last."
+"text": "They moved in the order that was already becoming habit: BAH-lahg first, En-HEH-doo second, Ninsun third, Zeek last."
 },
 {
 "speaker": "Narrator",
@@ -274,7 +276,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo turned from the passage ahead."
+"text": "En-HEH-doo turned from the passage ahead."
 },
 {
 "speaker": "Enhedu",
@@ -390,7 +392,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's voice drifted back from farther up the passage."
+"text": "En-HEH-doo's voice drifted back from farther up the passage."
 },
 {
 "speaker": "Enhedu",
@@ -402,7 +404,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Some of us prefer the ceiling staying where the builders put it."
+"text": "Some of us prefer the ceiling staying where the builders put it.",
+"tags": [
+"snorts"
+],
+"tag": "snorts"
 },
 {
 "speaker": "Narrator",
@@ -438,7 +444,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo crouched."
+"text": "En-HEH-doo crouched."
 },
 {
 "speaker": "Enhedu",
@@ -492,7 +498,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -533,7 +539,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stood and dusted her hands."
+"text": "En-HEH-doo stood and dusted her hands."
 },
 {
 "speaker": "Enhedu",
@@ -626,7 +632,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stepped closer."
+"text": "En-HEH-doo stepped closer."
 },
 {
 "speaker": "Enhedu",
@@ -762,7 +768,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo covered a laugh with a cough."
+"text": "En-HEH-doo covered a laugh with a cough."
 },
 {
 "speaker": "Narrator",
@@ -782,7 +788,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo checked the corners."
+"text": "En-HEH-doo checked the corners."
 },
 {
 "speaker": "Narrator",
@@ -860,7 +866,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo, still crouched in the far corner, held up a small flat piece of bronze she had worked free from the dirt."
+"text": "En-HEH-doo, still crouched in the far corner, held up a small flat piece of bronze she had worked free from the dirt."
 },
 {
 "speaker": "Narrator",
@@ -892,7 +898,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -949,7 +955,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo saw it."
+"text": "En-HEH-doo saw it."
 },
 {
 "speaker": "Enhedu",
@@ -965,7 +971,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I dislike sentences built that way."
+"text": "I dislike sentences built that way.",
+"tags": [
+"sighs"
+],
+"tag": "sighs"
 },
 {
 "speaker": "Narrator",
@@ -990,7 +1000,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke."
+"text": "No one spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1074,7 +1085,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo came beside him and placed two fingers against the bricks."
+"text": "En-HEH-doo came beside him and placed two fingers against the bricks."
 },
 {
 "speaker": "Narrator",
@@ -1202,7 +1213,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo backed toward the passage."
+"text": "En-HEH-doo backed toward the passage."
 },
 {
 "speaker": "Enhedu",
@@ -1312,7 +1323,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stared at it."
+"text": "En-HEH-doo stared at it."
 },
 {
 "speaker": "Enhedu",
@@ -1396,7 +1407,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo grabbed Zeek by the back of his belt and pulled him onward."
+"text": "En-HEH-doo grabbed Zeek by the back of his belt and pulled him onward."
 },
 {
 "speaker": "Enhedu",
@@ -1412,7 +1423,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg crossed first. Ninsun followed, clutching the rubbing and her tablet to her chest. en-HEH-doo pushed Zeek through just as something struck the passage behind them."
+"text": "BAH-lahg crossed first. Ninsun followed, clutching the rubbing and her tablet to her chest. En-HEH-doo pushed Zeek through just as something struck the passage behind them."
 },
 {
 "speaker": "Narrator",
@@ -1468,7 +1479,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1526,6 +1537,10 @@
 {
 "speaker": "Narrator",
 "text": "THE MOUTH REMEMBERS WHAT THE CITY FORGETS.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -1546,7 +1561,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo fell into step beside Zeek when they started walking again."
+"text": "En-HEH-doo fell into step beside Zeek when they started walking again."
 },
 {
 "speaker": "Enhedu",

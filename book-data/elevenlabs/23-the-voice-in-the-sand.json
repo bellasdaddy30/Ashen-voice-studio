@@ -21,11 +21,13 @@
 {
 "speaker": "Narrator",
 "text": "The Voice in the Sand",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The fourth dawn rose the color of old copper."
+"text": "The fourth dawn rose the color of old copper.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -46,12 +48,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo snorted as she tightened the straps on her pack.",
+"text": "En-HEH-doo snorted as she tightened the straps on her pack.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "They know they're donkeys. That's already more than most men."
+"text": "They know they're donkeys. That's already more than most men.",
+"tags": [
+"snorts"
+],
+"tag": "snorts"
 },
 {
 "speaker": "Narrator",
@@ -126,7 +132,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked over.",
+"text": "En-HEH-doo looked over.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -202,7 +208,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -236,11 +242,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Hold them!"
+"text": "Hold them!",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's knife was in her hand before she seemed to realize she had drawn it. Zeek stood motionless."
+"text": "En-HEH-doo's knife was in her hand before she seemed to realize she had drawn it. Zeek stood motionless."
 },
 {
 "speaker": "Narrator",
@@ -266,6 +276,9 @@
 {
 "speaker": "Ninsun",
 "text": "It's inside,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -281,6 +294,9 @@
 {
 "speaker": "The City",
 "text": "Zee-keer.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Not spoken; written across the inside of his mind. The City speaking: not fully human. Whispered, wet, close."
 },
@@ -290,11 +306,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "The silence that followed pressed harder than the noise had."
+"text": "The silence that followed pressed harder than the noise had.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "The donkeys continued trembling. BAH-lahg stood between them and the open desert, one hand on a bridle, the other on the haft of his axe. en-HEH-doo kept her knife raised. Ninsun slowly lowered her hands."
+"text": "The donkeys continued trembling. BAH-lahg stood between them and the open desert, one hand on a bridle, the other on the haft of his axe. En-HEH-doo kept her knife raised. Ninsun slowly lowered her hands."
 },
 {
 "speaker": "Balag",
@@ -368,7 +385,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The mark beneath the linen began to pulse. Zeek looked toward the others—BAH-lahg asleep beside the donkeys, one hand still near his axe; en-HEH-doo with her knife beneath her arm; Ninsun curled under a blanket, notes scattered beside her."
+"text": "The mark beneath the linen began to pulse. Zeek looked toward the others—BAH-lahg asleep beside the donkeys, one hand still near his axe; En-HEH-doo with her knife beneath her arm; Ninsun curled under a blanket, notes scattered beside her."
 },
 {
 "speaker": "Narrator",
@@ -389,7 +406,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For a long moment he considered waking the others. Then the desert spoke."
+"text": "For a long moment he considered waking the others. Then the desert spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -398,6 +416,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "Everything has a price.",
+"tags": [
+"eerie"
+],
+"tag": "eerie",
 "note": "CITY MIMIC of Bel-iddin's voice: every pause wrong, breaths half a beat late. Process: slight pitch drift, wet reverb."
 },
 {

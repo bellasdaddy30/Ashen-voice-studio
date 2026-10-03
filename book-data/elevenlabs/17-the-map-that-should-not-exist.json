@@ -20,11 +20,13 @@
 {
 "speaker": "Narrator",
 "text": "The Map That Should Not Exist",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They met at dusk in the shaded courtyard of the inn, long after the heat had bled from the stone."
+"text": "They met at dusk in the shaded courtyard of the inn, long after the heat had bled from the stone.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -80,7 +82,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo rested one ankle on her opposite knee."
+"text": "En-HEH-doo rested one ankle on her opposite knee."
 },
 {
 "speaker": "Enhedu",
@@ -140,7 +142,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -205,7 +207,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -407,7 +409,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned over."
+"text": "En-HEH-doo leaned over."
 },
 {
 "speaker": "Enhedu",
@@ -435,7 +437,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence settled over the table."
+"text": "Silence settled over the table.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -507,7 +510,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned forward."
+"text": "En-HEH-doo leaned forward."
 },
 {
 "speaker": "Enhedu",
@@ -555,7 +558,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -621,7 +624,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -707,7 +710,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo saw it."
+"text": "En-HEH-doo saw it."
 },
 {
 "speaker": "Enhedu",
@@ -735,7 +738,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke."
+"text": "No one spoke.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -763,7 +767,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo smiled toward them again."
+"text": "En-HEH-doo smiled toward them again."
 },
 {
 "speaker": "Enhedu",
@@ -803,7 +807,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered him."
+"text": "No one answered him.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -847,7 +852,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced toward the copied ledger hidden in Ninsun's robe."
+"text": "En-HEH-doo glanced toward the copied ledger hidden in Ninsun's robe."
 },
 {
 "speaker": "Enhedu",
@@ -872,7 +877,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's fingers closed around her knife hilt."
+"text": "En-HEH-doo's fingers closed around her knife hilt."
 },
 {
 "speaker": "Narrator",
@@ -892,7 +897,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1072,11 +1077,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nobody moved."
+"text": "Nobody moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo spoke first."
+"text": "En-HEH-doo spoke first."
 },
 {
 "speaker": "Enhedu",
@@ -1129,7 +1135,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke for several breaths."
+"text": "No one spoke for several breaths.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1161,11 +1168,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's voice was barely above a whisper."
+"text": "En-HEH-doo's voice was barely above a whisper."
 },
 {
 "speaker": "Enhedu",
-"text": "Then whatever your father found…"
+"text": "Then whatever your father found…",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",

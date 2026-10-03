@@ -23,11 +23,13 @@
 {
 "speaker": "Narrator",
 "text": "The Price of Dust",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The streets of Uruk-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard."
+"text": "The streets of Uruk-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -43,7 +45,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg and en-HEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. en-HEH-doo noticed everything that might make her rich."
+"text": "BAH-lahg and En-HEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. En-HEH-doo noticed everything that might make her rich."
 },
 {
 "speaker": "Narrator",
@@ -385,7 +387,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not."
+"text": "En-HEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not."
 },
 {
 "speaker": "Enhedu",
@@ -530,7 +532,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo folded her arms."
+"text": "En-HEH-doo folded her arms."
 },
 {
 "speaker": "Enhedu",
@@ -588,7 +590,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence settled over the narrow street."
+"text": "Silence settled over the narrow street.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -660,7 +663,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced sideways at Zeek."
+"text": "En-HEH-doo glanced sideways at Zeek."
 },
 {
 "speaker": "Enhedu",
@@ -688,7 +691,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo walked beside him now."
+"text": "En-HEH-doo walked beside him now."
 },
 {
 "speaker": "Enhedu",
@@ -748,7 +751,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo shrugged.",
+"text": "En-HEH-doo shrugged.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -885,7 +888,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The words sat between them."
+"text": "The words sat between them.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1067,7 +1071,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing happened."
+"text": "Nothing happened.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",

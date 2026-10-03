@@ -18,19 +18,22 @@
 {
 "speaker": "Narrator",
 "text": "The Weight of the Share",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They left the tomb at dusk."
+"text": "They left the tomb at dusk.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
-"text": "The desert wind had already begun erasing their tracks. Sand slid into the open stairway behind them in soft continuous sheets, as if the ground itself preferred the hole filled. BAH-lahg walked ahead with the two remaining donkeys, spear across his shoulders. en-HEH-doo kept to the side, knife loose in her hand, eyes on the darkening ridges. Zeek brought up the rear, the journal and the compass both heavy against his ribs."
+"text": "The desert wind had already begun erasing their tracks. Sand slid into the open stairway behind them in soft continuous sheets, as if the ground itself preferred the hole filled. BAH-lahg walked ahead with the two remaining donkeys, spear across his shoulders. En-HEH-doo kept to the side, knife loose in her hand, eyes on the darkening ridges. Zeek brought up the rear, the journal and the compass both heavy against his ribs."
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke for the first hour."
+"text": "No one spoke for the first hour.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -50,7 +53,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Come on."
+"text": "Come on.",
+"tags": [
+"sighs"
+],
+"tag": "sighs"
 },
 {
 "speaker": "Narrator",
@@ -66,7 +73,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo watched for a moment."
+"text": "En-HEH-doo watched for a moment."
 },
 {
 "speaker": "Enhedu",
@@ -122,7 +129,11 @@
 },
 {
 "speaker": "Zik",
-"text": "It learned from KOO-rash,"
+"text": "It learned from KOO-rash,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -151,7 +162,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Finally en-HEH-doo spoke."
+"text": "Finally En-HEH-doo spoke."
 },
 {
 "speaker": "Enhedu",
@@ -239,7 +250,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "When they finally stopped, BAH-lahg dropped his gear and began checking the animals' hooves with the same methodical care he gave every practical task. en-HEH-doo crouched a short distance away and cleaned dried blood from under her nails with the tip of her knife. The motion was precise, almost delicate."
+"text": "When they finally stopped, BAH-lahg dropped his gear and began checking the animals' hooves with the same methodical care he gave every practical task. En-HEH-doo crouched a short distance away and cleaned dried blood from under her nails with the tip of her knife. The motion was precise, almost delicate."
 },
 {
 "speaker": "Narrator",
@@ -313,7 +324,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's knife paused.",
+"text": "En-HEH-doo's knife paused.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -365,7 +376,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo wiped the last of the blood from her blade and slid it home.",
+"text": "En-HEH-doo wiped the last of the blood from her blade and slid it home.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -394,7 +405,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Toward morning en-HEH-doo relieved him. She sat without speaking for a long time, turning a small copper figurine between her fingers the way other people turned prayer tokens. Time had polished its smiling face nearly smooth."
+"text": "Toward morning En-HEH-doo relieved him. She sat without speaking for a long time, turning a small copper figurine between her fingers the way other people turned prayer tokens. Time had polished its smiling face nearly smooth."
 },
 {
 "speaker": "Enhedu",

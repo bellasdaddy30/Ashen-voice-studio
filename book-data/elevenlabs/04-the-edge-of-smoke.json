@@ -18,11 +18,13 @@
 {
 "speaker": "Narrator",
 "text": "The Edge of Smoke",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The desert didn't end so much as it thinned."
+"text": "The desert didn't end so much as it thinned.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -30,7 +32,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They walked in a loose line. BAH-lahg kept the donkeys moving with short clicks of his tongue. en-HEH-doo had fallen a few paces back. Zeek stayed near the middle, the journal still in the pack where he'd left it the day before."
+"text": "They walked in a loose line. BAH-lahg kept the donkeys moving with short clicks of his tongue. En-HEH-doo had fallen a few paces back. Zeek stayed near the middle, the journal still in the pack where he'd left it the day before."
 },
 {
 "speaker": "Narrator",
@@ -165,7 +167,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo brushed dust from her knees and joined them."
+"text": "En-HEH-doo brushed dust from her knees and joined them."
 },
 {
 "speaker": "Enhedu",
@@ -221,7 +223,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tilted her head."
+"text": "En-HEH-doo tilted her head."
 },
 {
 "speaker": "Enhedu",
@@ -253,7 +255,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo rested a hand on the repaired section of wall."
+"text": "En-HEH-doo rested a hand on the repaired section of wall."
 },
 {
 "speaker": "Enhedu",
@@ -309,7 +311,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo had wandered over during the work. She crouched, picked up one of the loose bricks Zeek had set aside, weighed it in her hand, then set it neatly back into the gap he hadn't needed. No comment. Just the brick returned to where it belonged."
+"text": "En-HEH-doo had wandered over during the work. She crouched, picked up one of the loose bricks Zeek had set aside, weighed it in her hand, then set it neatly back into the gap he hadn't needed. No comment. Just the brick returned to where it belonged."
 },
 {
 "speaker": "Narrator",

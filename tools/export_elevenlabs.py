@@ -23,7 +23,7 @@ def pronunciations():
 
 def respell(text, rules):
     for a, b in rules:
-        text = re.sub(r'\b' + re.escape(a) + r'\b', b, text)
+        text = re.sub(r'\b' + re.escape(a) + r'\b', b[0].upper() + b[1:], text)
     return text
 
 def tag_for(line):

@@ -21,11 +21,13 @@
 {
 "speaker": "Narrator",
 "text": "Impossible Lines",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "They descended through the stairwell's impossible dark and stepped into the First City."
+"text": "They descended through the stairwell's impossible dark and stepped into the First City.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -63,7 +65,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said nothing. She was staring upward at a colonnade that continued past the point where any supporting wall should have ended. Her expression was not fear. It was calculation."
+"text": "En-HEH-doo said nothing. She was staring upward at a colonnade that continued past the point where any supporting wall should have ended. Her expression was not fear. It was calculation."
 },
 {
 "speaker": "Narrator",
@@ -95,7 +97,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The gates,"
+"text": "The gates,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -104,7 +110,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Not metaphors. Actual thresholds. The tablets weren't describing a journey through the underworld. They were describing a map."
+"text": "Not metaphors. Actual thresholds. The tablets weren't describing a journey through the underworld. They were describing a map.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -139,12 +149,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo laughed once, low.",
+"text": "En-HEH-doo laughed once, low.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "You think it asks politely?"
+"text": "You think it asks politely?",
+"tags": [
+"laughs"
+],
+"tag": "laughs"
 },
 {
 "speaker": "Narrator",
@@ -223,7 +237,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -249,6 +263,9 @@
 {
 "speaker": "The City",
 "text": "Payment.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "A word formed behind his eyes; not spoken. The City speaking: not fully human. Whispered, wet, close."
 },
@@ -300,7 +317,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg took the lead, axe ready, moving as if the streets themselves might decide to close. en-HEH-doo walked slightly apart, eyes cataloguing every doorway, every erased name, every place a valuable object might once have been. Ninsun kept close to Zeek, parchment and stylus ready, though she had not written anything since the courtyard repeated itself for the third time."
+"text": "BAH-lahg took the lead, axe ready, moving as if the streets themselves might decide to close. En-HEH-doo walked slightly apart, eyes cataloguing every doorway, every erased name, every place a valuable object might once have been. Ninsun kept close to Zeek, parchment and stylus ready, though she had not written anything since the courtyard repeated itself for the third time."
 },
 {
 "speaker": "Narrator",
@@ -338,7 +355,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo was already examining the nearest doorway. The lintel above it had once carried a name. Only three characters remained, the rest gouged out so deeply that the stone itself looked wounded."
+"text": "En-HEH-doo was already examining the nearest doorway. The lintel above it had once carried a name. Only three characters remained, the rest gouged out so deeply that the stone itself looked wounded."
 },
 {
 "speaker": "Enhedu",
@@ -381,11 +398,19 @@
 {
 "speaker": "Narrator",
 "text": "THE STREET IS A THRESHOLD.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
 "text": "CROSSING IT REQUIRES A NAME.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -416,7 +441,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo tilted her head.",
+"text": "En-HEH-doo tilted her head.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -425,7 +450,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -441,7 +467,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing happened."
+"text": "Nothing happened.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -469,7 +496,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zee-keer ash-SHOOR.",
+"text": "Zee-keer Ash-SHOOR.",
 "note": "Internal thought; intimate, not voiced aloud."
 },
 {
@@ -478,7 +505,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's hand closed hard on his shoulder and pulled him backward. en-HEH-doo made a sharp sound of protest, half-frustrated, half-curious, as if she had wanted to see the threshold complete itself."
+"text": "BAH-lahg's hand closed hard on his shoulder and pulled him backward. En-HEH-doo made a sharp sound of protest, half-frustrated, half-curious, as if she had wanted to see the threshold complete itself."
 },
 {
 "speaker": "Narrator",
@@ -500,6 +527,9 @@
 {
 "speaker": "Ninsun",
 "text": "It almost took it.",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },

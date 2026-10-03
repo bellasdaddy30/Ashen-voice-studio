@@ -22,11 +22,13 @@
 {
 "speaker": "Narrator",
 "text": "The Wrong Depth",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "By the time Zeek returned to the inn, the rain had begun."
+"text": "By the time Zeek returned to the inn, the rain had begun.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -38,7 +40,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Copies of Ammaru's vanished entry lay beside her sketch of the impossible map. She had weighted each corner with a cup, a lamp, or one of BAH-lahg's knives. en-HEH-doo sat sideways on a stool, watching the courtyard entrance. BAH-lahg stood beside the wall with his arms crossed."
+"text": "Copies of Ammaru's vanished entry lay beside her sketch of the impossible map. She had weighted each corner with a cup, a lamp, or one of BAH-lahg's knives. En-HEH-doo sat sideways on a stool, watching the courtyard entrance. BAH-lahg stood beside the wall with his arms crossed."
 },
 {
 "speaker": "Narrator",
@@ -58,7 +60,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo straightened."
+"text": "En-HEH-doo straightened."
 },
 {
 "speaker": "Enhedu",
@@ -139,7 +141,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo leaned forward, forearms on her knees."
+"text": "En-HEH-doo leaned forward, forearms on her knees."
 },
 {
 "speaker": "Enhedu",
@@ -228,7 +230,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked toward the entrance."
+"text": "En-HEH-doo looked toward the entrance."
 },
 {
 "speaker": "Enhedu",
@@ -328,7 +330,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo gestured toward the journal."
+"text": "En-HEH-doo gestured toward the journal."
 },
 {
 "speaker": "Enhedu",
@@ -381,7 +383,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo glanced over."
+"text": "En-HEH-doo glanced over."
 },
 {
 "speaker": "Enhedu",
@@ -517,7 +519,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo rose from her stool."
+"text": "En-HEH-doo rose from her stool."
 },
 {
 "speaker": "Narrator",
@@ -582,7 +584,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo crossed to him and touched the masonry with two fingers."
+"text": "En-HEH-doo crossed to him and touched the masonry with two fingers."
 },
 {
 "speaker": "Enhedu",
@@ -627,7 +629,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -801,7 +803,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo caught the back of Ninsun's robe and pulled her into the kitchen passage."
+"text": "En-HEH-doo caught the back of Ninsun's robe and pulled her into the kitchen passage."
 },
 {
 "speaker": "Narrator",
@@ -858,7 +860,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo said.",
+"text": "En-HEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -911,7 +913,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1002,7 +1004,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo studied the building."
+"text": "En-HEH-doo studied the building."
 },
 {
 "speaker": "Enhedu",
@@ -1062,7 +1064,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stepped onto his clasped hands."
+"text": "En-HEH-doo stepped onto his clasped hands."
 },
 {
 "speaker": "Enhedu",
@@ -1098,7 +1100,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo reached the shutter, drew a narrow hook from her sleeve, and fed it through the gap. A soft scrape came from inside. The catch lifted."
+"text": "En-HEH-doo reached the shutter, drew a narrow hook from her sleeve, and fed it through the gap. A soft scrape came from inside. The catch lifted."
 },
 {
 "speaker": "Narrator",
@@ -1130,7 +1132,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "That was the first indication en-HEH-doo had been right."
+"text": "That was the first indication En-HEH-doo had been right."
 },
 {
 "speaker": "Narrator",
@@ -1240,7 +1242,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo checked the shutter."
+"text": "En-HEH-doo checked the shutter."
 },
 {
 "speaker": "Enhedu",
@@ -1304,7 +1306,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo packed knives, wax, cord, two mirrors, a narrow saw, three hooks, and several tools Zeek could not identify."
+"text": "En-HEH-doo packed knives, wax, cord, two mirrors, a narrow saw, three hooks, and several tools Zeek could not identify."
 },
 {
 "speaker": "Narrator",
@@ -1568,7 +1570,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo extinguished the lamp."
+"text": "En-HEH-doo extinguished the lamp."
 },
 {
 "speaker": "Narrator",

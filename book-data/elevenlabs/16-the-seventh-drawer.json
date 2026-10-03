@@ -21,11 +21,13 @@
 {
 "speaker": "Narrator",
 "text": "The Seventh Drawer",
+"pauseBefore": 1.0,
 "note": "Chapter title. Leave a clean beat before story begins."
 },
 {
 "speaker": "Narrator",
-"text": "The lock turned."
+"text": "The lock turned.",
+"pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
@@ -37,7 +39,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo stood beside the lowest shelf with her knife angled down along her forearm, hidden from anyone entering above. Zeek remained near the foot of the steps, close enough to see the thin line of light beneath the door."
+"text": "En-HEH-doo stood beside the lowest shelf with her knife angled down along her forearm, hidden from anyone entering above. Zeek remained near the foot of the steps, close enough to see the thin line of light beneath the door."
 },
 {
 "speaker": "Narrator",
@@ -53,7 +55,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For several breaths, nothing happened."
+"text": "For several breaths, nothing happened.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -94,7 +97,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo raised her voice just enough to carry through the door."
+"text": "En-HEH-doo raised her voice just enough to carry through the door."
 },
 {
 "speaker": "Enhedu",
@@ -150,7 +153,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then en-HEH-doo's knife."
+"text": "Then En-HEH-doo's knife."
 },
 {
 "speaker": "Narrator",
@@ -270,6 +273,10 @@
 {
 "speaker": "Narrator",
 "text": "AMMARU, SON OF DAGAN-ILI.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -315,6 +322,10 @@
 {
 "speaker": "Narrator",
 "text": "POTTER BY TRADE. KEEPER OF THE LOWER CISTERN STAIR BY HEREDITARY OBLIGATION.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -358,6 +369,10 @@
 {
 "speaker": "Narrator",
 "text": "PROPERTY EXEMPT FROM LEVY WHILE SEVENTH ACCESS REMAINS SEALED.",
+"tags": [
+"slowly"
+],
+"tag": "slowly",
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -457,11 +472,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo lowered her voice."
+"text": "En-HEH-doo lowered her voice."
 },
 {
 "speaker": "Enhedu",
-"text": "You came alone."
+"text": "You came alone.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Mardu",
@@ -655,7 +674,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "When?"
+"text": "When?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Mardu",
@@ -727,7 +750,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo slid her knife back into its sheath."
+"text": "En-HEH-doo slid her knife back into its sheath."
 },
 {
 "speaker": "Enhedu",
@@ -792,7 +815,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Mardu pointed toward the shelves behind en-HEH-doo."
+"text": "Mardu pointed toward the shelves behind En-HEH-doo."
 },
 {
 "speaker": "Mardu",
@@ -800,7 +823,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo turned."
+"text": "En-HEH-doo turned."
 },
 {
 "speaker": "Enhedu",
@@ -832,7 +855,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo found the bundle and pulled."
+"text": "En-HEH-doo found the bundle and pulled."
 },
 {
 "speaker": "Narrator",
@@ -1074,7 +1097,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo followed, keeping one shoulder raised to protect her satchel from the flow. BAH-lahg thrust his spear into the tunnel ahead of him and crawled after her."
+"text": "En-HEH-doo followed, keeping one shoulder raised to protect her satchel from the flow. BAH-lahg thrust his spear into the tunnel ahead of him and crawled after her."
 },
 {
 "speaker": "Narrator",
@@ -1090,7 +1113,11 @@
 },
 {
 "speaker": "Archive Guard",
-"text": "Mardu!"
+"text": "Mardu!",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
@@ -1235,7 +1262,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For several moments, the only sounds were water, breath, and the guard screaming on the other side of the wood."
+"text": "For several moments, the only sounds were water, breath, and the guard screaming on the other side of the wood.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1251,7 +1279,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "There's a turn."
+"text": "There's a turn.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Enhedu",
@@ -1259,7 +1291,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1312,7 +1344,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo's boots scraped across brick."
+"text": "En-HEH-doo's boots scraped across brick."
 },
 {
 "speaker": "Narrator",
@@ -1337,6 +1369,9 @@
 {
 "speaker": "Ninsun",
 "text": "Quiet,",
+"tags": [
+"whispers"
+],
 "tag": "whispers",
 "note": "Whispered."
 },
@@ -1347,7 +1382,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They stood in a buried drain wide enough for two people to walk abreast. A curved brick ceiling vanished into darkness in both directions. Rainwater ran along a central channel, quick and black beneath the weak light en-HEH-doo had uncovered from her shuttered lamp."
+"text": "They stood in a buried drain wide enough for two people to walk abreast. A curved brick ceiling vanished into darkness in both directions. Rainwater ran along a central channel, quick and black beneath the weak light En-HEH-doo had uncovered from her shuttered lamp."
 },
 {
 "speaker": "Narrator",
@@ -1363,7 +1398,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo lifted the lamp."
+"text": "En-HEH-doo lifted the lamp."
 },
 {
 "speaker": "Narrator",
@@ -1431,7 +1466,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo saw it too."
+"text": "En-HEH-doo saw it too."
 },
 {
 "speaker": "Enhedu",
@@ -1484,7 +1519,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo asked.",
+"text": "En-HEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -1525,7 +1560,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek took the lamp from en-HEH-doo."
+"text": "Zeek took the lamp from En-HEH-doo."
 },
 {
 "speaker": "Zik",
@@ -1671,7 +1706,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo looked at him."
+"text": "En-HEH-doo looked at him."
 },
 {
 "speaker": "Enhedu",
@@ -1780,7 +1815,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo joined him."
+"text": "En-HEH-doo joined him."
 },
 {
 "speaker": "Narrator",
@@ -1817,7 +1852,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo climbed first. BAH-lahg made a step with his hands and lifted her through. She disappeared into the rain. Ninsun followed, protecting the copied margin beneath her robe. Zeek handed the lamp out and pushed the satchel ahead of him."
+"text": "En-HEH-doo climbed first. BAH-lahg made a step with his hands and lifted her through. She disappeared into the rain. Ninsun followed, protecting the copied margin beneath her robe. Zeek handed the lamp out and pushed the satchel ahead of him."
 },
 {
 "speaker": "Narrator",
@@ -1841,7 +1876,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He emerged behind a row of abandoned grain jars stacked against the weigh-station's rear wall. en-HEH-doo caught his arm and pulled him clear. BAH-lahg came through last, dragging the loose bricks back into place from outside as best he could."
+"text": "He emerged behind a row of abandoned grain jars stacked against the weigh-station's rear wall. En-HEH-doo caught his arm and pulled him clear. BAH-lahg came through last, dragging the loose bricks back into place from outside as best he could."
 },
 {
 "speaker": "Narrator",
@@ -1869,7 +1904,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "en-HEH-doo pulled her shawl over the lamp."
+"text": "En-HEH-doo pulled her shawl over the lamp."
 },
 {
 "speaker": "Enhedu",
@@ -1921,7 +1956,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "No one answered."
+"text": "No one answered.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
