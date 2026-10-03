@@ -1,0 +1,18 @@
+THE FIRST CITY — CHAPTER 2: THE WEIGHT OF THE SHARE
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+102
+
+SEGMENT COUNTS
+- Narrator: 63
+- Enhedu: 17
+- Balag: 16
+- Zik: 6

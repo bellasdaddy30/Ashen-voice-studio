@@ -1,0 +1,21 @@
+THE FIRST CITY — CHAPTER 23: THE VOICE IN THE SAND
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+99
+
+SEGMENT COUNTS
+- Narrator: 65
+- Zik: 10
+- Ninsun: 9
+- Bel-iddin: 6
+- Balag: 5
+- Enhedu: 3
+- The City: 1

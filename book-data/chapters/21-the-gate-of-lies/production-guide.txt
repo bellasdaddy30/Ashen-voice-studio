@@ -1,0 +1,21 @@
+THE FIRST CITY — CHAPTER 21: THE GATE OF LIES
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+440
+
+SEGMENT COUNTS
+- Narrator: 227
+- Ninsun: 73
+- Zik: 59
+- Balag: 49
+- Enhedu: 30
+- The Collector: 1
+- Bel-iddin: 1

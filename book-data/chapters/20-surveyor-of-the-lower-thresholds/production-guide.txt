@@ -1,0 +1,22 @@
+THE FIRST CITY — CHAPTER 20: SURVEYOR OF THE LOWER THRESHOLDS
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+743
+
+SEGMENT COUNTS
+- Narrator: 432
+- Zik: 103
+- The Collector: 85
+- Ninsun: 50
+- Balag: 42
+- Enhedu: 29
+- False Scribe: 1
+- Bel-iddin: 1

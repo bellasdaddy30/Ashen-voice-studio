@@ -1,0 +1,17 @@
+THE FIRST CITY — CHAPTER 39: THE LIBRARY OF DRAFTS
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+219
+
+SEGMENT COUNTS
+- Narrator: 145
+- Ninsun: 39
+- Zik: 35

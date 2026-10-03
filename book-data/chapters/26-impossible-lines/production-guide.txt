@@ -1,0 +1,21 @@
+THE FIRST CITY — CHAPTER 26: IMPOSSIBLE LINES
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+120
+
+SEGMENT COUNTS
+- Narrator: 92
+- Ninsun: 14
+- Balag: 5
+- Enhedu: 4
+- Zik: 3
+- Bel-iddin: 1
+- The City: 1

@@ -1,0 +1,19 @@
+THE FIRST CITY — CHAPTER 6: THE FOURTH SHARE
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+187
+
+SEGMENT COUNTS
+- Narrator: 92
+- Ninsun: 53
+- Zik: 27
+- Balag: 8
+- Enhedu: 7

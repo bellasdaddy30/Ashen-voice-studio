@@ -1,0 +1,18 @@
+THE FIRST CITY — CHAPTER 3: THE CRACKED STRAP
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+100
+
+SEGMENT COUNTS
+- Narrator: 49
+- Balag: 22
+- Zik: 17
+- Enhedu: 12

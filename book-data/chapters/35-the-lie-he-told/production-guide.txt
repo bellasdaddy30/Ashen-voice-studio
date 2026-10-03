@@ -1,0 +1,19 @@
+THE FIRST CITY — CHAPTER 35: THE LIE HE TOLD
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+62
+
+SEGMENT COUNTS
+- Narrator: 47
+- Ninsun: 10
+- Zik: 2
+- Balag: 2
+- Enhedu: 1

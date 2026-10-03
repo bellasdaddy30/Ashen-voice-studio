@@ -1,0 +1,23 @@
+THE FIRST CITY — CHAPTER 5: THE PRICE OF DUST
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+308
+
+SEGMENT COUNTS
+- Narrator: 183
+- Zik: 49
+- The Collector: 27
+- Old Scribe: 15
+- Enhedu: 14
+- Zik's Mother: 10
+- Apprentice Boy: 4
+- Bel-iddin: 4
+- Balag: 2

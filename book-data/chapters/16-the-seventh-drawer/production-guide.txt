@@ -1,0 +1,21 @@
+THE FIRST CITY — CHAPTER 16: THE SEVENTH DRAWER
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+471
+
+SEGMENT COUNTS
+- Narrator: 306
+- Mardu: 49
+- Ninsun: 35
+- Balag: 30
+- Zik: 23
+- Enhedu: 18
+- Archive Guard: 10

@@ -1,0 +1,22 @@
+THE FIRST CITY — CHAPTER 9: THE NAME WE LEFT
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+406
+
+SEGMENT COUNTS
+- Narrator: 294
+- Ninsun: 40
+- Balag: 20
+- Enhedu: 20
+- Zik: 18
+- The City: 6
+- Water-Seller: 4
+- Water Customer: 4

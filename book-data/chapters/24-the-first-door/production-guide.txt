@@ -1,0 +1,20 @@
+THE FIRST CITY — CHAPTER 24: THE FIRST DOOR
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+109
+
+SEGMENT COUNTS
+- Narrator: 71
+- Ninsun: 12
+- Balag: 10
+- Zik: 9
+- Enhedu: 4
+- Bel-iddin: 3

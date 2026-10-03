@@ -14,6 +14,279 @@
       "manuscript": "chapters/01-the-sealed-tomb/manuscript.txt",
       "pronunciations": "chapters/01-the-sealed-tomb/pronunciations.txt",
       "guide": "chapters/01-the-sealed-tomb/production-guide.txt"
+    },
+    "02-the-weight-of-the-share": {
+      "title": "Chapter 2 — The Weight of the Share",
+      "production": "chapters/02-the-weight-of-the-share/production.json",
+      "manuscript": "chapters/02-the-weight-of-the-share/manuscript.txt",
+      "pronunciations": "chapters/02-the-weight-of-the-share/pronunciations.txt",
+      "guide": "chapters/02-the-weight-of-the-share/production-guide.txt"
+    },
+    "03-the-cracked-strap": {
+      "title": "Chapter 3 — The Cracked Strap",
+      "production": "chapters/03-the-cracked-strap/production.json",
+      "manuscript": "chapters/03-the-cracked-strap/manuscript.txt",
+      "pronunciations": "chapters/03-the-cracked-strap/pronunciations.txt",
+      "guide": "chapters/03-the-cracked-strap/production-guide.txt"
+    },
+    "04-the-edge-of-smoke": {
+      "title": "Chapter 4 — The Edge of Smoke",
+      "production": "chapters/04-the-edge-of-smoke/production.json",
+      "manuscript": "chapters/04-the-edge-of-smoke/manuscript.txt",
+      "pronunciations": "chapters/04-the-edge-of-smoke/pronunciations.txt",
+      "guide": "chapters/04-the-edge-of-smoke/production-guide.txt"
+    },
+    "05-the-price-of-dust": {
+      "title": "Chapter 5 — The Price of Dust",
+      "production": "chapters/05-the-price-of-dust/production.json",
+      "manuscript": "chapters/05-the-price-of-dust/manuscript.txt",
+      "pronunciations": "chapters/05-the-price-of-dust/pronunciations.txt",
+      "guide": "chapters/05-the-price-of-dust/production-guide.txt"
+    },
+    "06-the-fourth-share": {
+      "title": "Chapter 6 — The Fourth Share",
+      "production": "chapters/06-the-fourth-share/production.json",
+      "manuscript": "chapters/06-the-fourth-share/manuscript.txt",
+      "pronunciations": "chapters/06-the-fourth-share/pronunciations.txt",
+      "guide": "chapters/06-the-fourth-share/production-guide.txt"
+    },
+    "07-the-journal-that-remembers": {
+      "title": "Chapter 7 — The Journal That Remembers",
+      "production": "chapters/07-the-journal-that-remembers/production.json",
+      "manuscript": "chapters/07-the-journal-that-remembers/manuscript.txt",
+      "pronunciations": "chapters/07-the-journal-that-remembers/pronunciations.txt",
+      "guide": "chapters/07-the-journal-that-remembers/production-guide.txt"
+    },
+    "08-four-working": {
+      "title": "Chapter 8 — Four Working",
+      "production": "chapters/08-four-working/production.json",
+      "manuscript": "chapters/08-four-working/manuscript.txt",
+      "pronunciations": "chapters/08-four-working/pronunciations.txt",
+      "guide": "chapters/08-four-working/production-guide.txt"
+    },
+    "09-the-name-we-left": {
+      "title": "Chapter 9 — The Name We Left",
+      "production": "chapters/09-the-name-we-left/production.json",
+      "manuscript": "chapters/09-the-name-we-left/manuscript.txt",
+      "pronunciations": "chapters/09-the-name-we-left/pronunciations.txt",
+      "guide": "chapters/09-the-name-we-left/production-guide.txt"
+    },
+    "10-the-passage-we-marked": {
+      "title": "Chapter 10 — The Passage We Marked",
+      "production": "chapters/10-the-passage-we-marked/production.json",
+      "manuscript": "chapters/10-the-passage-we-marked/manuscript.txt",
+      "pronunciations": "chapters/10-the-passage-we-marked/pronunciations.txt",
+      "guide": "chapters/10-the-passage-we-marked/production-guide.txt"
+    },
+    "11-the-mark-that-wasnt-ours": {
+      "title": "Chapter 11 — The Mark That Wasn’t Ours",
+      "production": "chapters/11-the-mark-that-wasnt-ours/production.json",
+      "manuscript": "chapters/11-the-mark-that-wasnt-ours/manuscript.txt",
+      "pronunciations": "chapters/11-the-mark-that-wasnt-ours/pronunciations.txt",
+      "guide": "chapters/11-the-mark-that-wasnt-ours/production-guide.txt"
+    },
+    "12-the-price-of-the-mark": {
+      "title": "Chapter 12 — The Price of the Mark",
+      "production": "chapters/12-the-price-of-the-mark/production.json",
+      "manuscript": "chapters/12-the-price-of-the-mark/manuscript.txt",
+      "pronunciations": "chapters/12-the-price-of-the-mark/pronunciations.txt",
+      "guide": "chapters/12-the-price-of-the-mark/production-guide.txt"
+    },
+    "13-the-third-notch": {
+      "title": "Chapter 13 — The Third Notch",
+      "production": "chapters/13-the-third-notch/production.json",
+      "manuscript": "chapters/13-the-third-notch/manuscript.txt",
+      "pronunciations": "chapters/13-the-third-notch/pronunciations.txt",
+      "guide": "chapters/13-the-third-notch/production-guide.txt"
+    },
+    "14-the-man-who-already-knew": {
+      "title": "Chapter 14 — The Man Who Already Knew",
+      "production": "chapters/14-the-man-who-already-knew/production.json",
+      "manuscript": "chapters/14-the-man-who-already-knew/manuscript.txt",
+      "pronunciations": "chapters/14-the-man-who-already-knew/pronunciations.txt",
+      "guide": "chapters/14-the-man-who-already-knew/production-guide.txt"
+    },
+    "15-the-ledgers-margin": {
+      "title": "Chapter 15 — The Ledger’s Margin",
+      "production": "chapters/15-the-ledgers-margin/production.json",
+      "manuscript": "chapters/15-the-ledgers-margin/manuscript.txt",
+      "pronunciations": "chapters/15-the-ledgers-margin/pronunciations.txt",
+      "guide": "chapters/15-the-ledgers-margin/production-guide.txt"
+    },
+    "16-the-seventh-drawer": {
+      "title": "Chapter 16 — The Seventh Drawer",
+      "production": "chapters/16-the-seventh-drawer/production.json",
+      "manuscript": "chapters/16-the-seventh-drawer/manuscript.txt",
+      "pronunciations": "chapters/16-the-seventh-drawer/pronunciations.txt",
+      "guide": "chapters/16-the-seventh-drawer/production-guide.txt"
+    },
+    "17-the-map-that-should-not-exist": {
+      "title": "Chapter 17 — The Map That Should Not Exist",
+      "production": "chapters/17-the-map-that-should-not-exist/production.json",
+      "manuscript": "chapters/17-the-map-that-should-not-exist/manuscript.txt",
+      "pronunciations": "chapters/17-the-map-that-should-not-exist/pronunciations.txt",
+      "guide": "chapters/17-the-map-that-should-not-exist/production-guide.txt"
+    },
+    "18-the-price-of-knowing": {
+      "title": "Chapter 18 — The Price of Knowing",
+      "production": "chapters/18-the-price-of-knowing/production.json",
+      "manuscript": "chapters/18-the-price-of-knowing/manuscript.txt",
+      "pronunciations": "chapters/18-the-price-of-knowing/pronunciations.txt",
+      "guide": "chapters/18-the-price-of-knowing/production-guide.txt"
+    },
+    "19-the-wrong-depth": {
+      "title": "Chapter 19 — The Wrong Depth",
+      "production": "chapters/19-the-wrong-depth/production.json",
+      "manuscript": "chapters/19-the-wrong-depth/manuscript.txt",
+      "pronunciations": "chapters/19-the-wrong-depth/pronunciations.txt",
+      "guide": "chapters/19-the-wrong-depth/production-guide.txt"
+    },
+    "20-surveyor-of-the-lower-thresholds": {
+      "title": "Chapter 20 — Surveyor of the Lower Thresholds",
+      "production": "chapters/20-surveyor-of-the-lower-thresholds/production.json",
+      "manuscript": "chapters/20-surveyor-of-the-lower-thresholds/manuscript.txt",
+      "pronunciations": "chapters/20-surveyor-of-the-lower-thresholds/pronunciations.txt",
+      "guide": "chapters/20-surveyor-of-the-lower-thresholds/production-guide.txt"
+    },
+    "21-the-gate-of-lies": {
+      "title": "Chapter 21 — The Gate of Lies",
+      "production": "chapters/21-the-gate-of-lies/production.json",
+      "manuscript": "chapters/21-the-gate-of-lies/manuscript.txt",
+      "pronunciations": "chapters/21-the-gate-of-lies/pronunciations.txt",
+      "guide": "chapters/21-the-gate-of-lies/production-guide.txt"
+    },
+    "22-the-desert-remembers": {
+      "title": "Chapter 22 — The Desert Remembers",
+      "production": "chapters/22-the-desert-remembers/production.json",
+      "manuscript": "chapters/22-the-desert-remembers/manuscript.txt",
+      "pronunciations": "chapters/22-the-desert-remembers/pronunciations.txt",
+      "guide": "chapters/22-the-desert-remembers/production-guide.txt"
+    },
+    "23-the-voice-in-the-sand": {
+      "title": "Chapter 23 — The Voice in the Sand",
+      "production": "chapters/23-the-voice-in-the-sand/production.json",
+      "manuscript": "chapters/23-the-voice-in-the-sand/manuscript.txt",
+      "pronunciations": "chapters/23-the-voice-in-the-sand/pronunciations.txt",
+      "guide": "chapters/23-the-voice-in-the-sand/production-guide.txt"
+    },
+    "24-the-first-door": {
+      "title": "Chapter 24 — The First Door",
+      "production": "chapters/24-the-first-door/production.json",
+      "manuscript": "chapters/24-the-first-door/manuscript.txt",
+      "pronunciations": "chapters/24-the-first-door/pronunciations.txt",
+      "guide": "chapters/24-the-first-door/production-guide.txt"
+    },
+    "25-the-way-back": {
+      "title": "Chapter 25 — The Way Back",
+      "production": "chapters/25-the-way-back/production.json",
+      "manuscript": "chapters/25-the-way-back/manuscript.txt",
+      "pronunciations": "chapters/25-the-way-back/pronunciations.txt",
+      "guide": "chapters/25-the-way-back/production-guide.txt"
+    },
+    "26-impossible-lines": {
+      "title": "Chapter 26 — Impossible Lines",
+      "production": "chapters/26-impossible-lines/production.json",
+      "manuscript": "chapters/26-impossible-lines/manuscript.txt",
+      "pronunciations": "chapters/26-impossible-lines/pronunciations.txt",
+      "guide": "chapters/26-impossible-lines/production-guide.txt"
+    },
+    "27-the-man-who-refused": {
+      "title": "Chapter 27 — The Man Who Refused",
+      "production": "chapters/27-the-man-who-refused/production.json",
+      "manuscript": "chapters/27-the-man-who-refused/manuscript.txt",
+      "pronunciations": "chapters/27-the-man-who-refused/pronunciations.txt",
+      "guide": "chapters/27-the-man-who-refused/production-guide.txt"
+    },
+    "28-the-city-beneath-the-city": {
+      "title": "Chapter 28 — The City Beneath the City",
+      "production": "chapters/28-the-city-beneath-the-city/production.json",
+      "manuscript": "chapters/28-the-city-beneath-the-city/manuscript.txt",
+      "pronunciations": "chapters/28-the-city-beneath-the-city/pronunciations.txt",
+      "guide": "chapters/28-the-city-beneath-the-city/production-guide.txt"
+    },
+    "29-what-she-wanted": {
+      "title": "Chapter 29 — What She Wanted",
+      "production": "chapters/29-what-she-wanted/production.json",
+      "manuscript": "chapters/29-what-she-wanted/manuscript.txt",
+      "pronunciations": "chapters/29-what-she-wanted/pronunciations.txt",
+      "guide": "chapters/29-what-she-wanted/production-guide.txt"
+    },
+    "30-the-end-of-choosing": {
+      "title": "Chapter 30 — The End of Choosing",
+      "production": "chapters/30-the-end-of-choosing/production.json",
+      "manuscript": "chapters/30-the-end-of-choosing/manuscript.txt",
+      "pronunciations": "chapters/30-the-end-of-choosing/pronunciations.txt",
+      "guide": "chapters/30-the-end-of-choosing/production-guide.txt"
+    },
+    "31-the-name-that-was-crossed-out": {
+      "title": "Chapter 31 — The Name That Was Crossed Out",
+      "production": "chapters/31-the-name-that-was-crossed-out/production.json",
+      "manuscript": "chapters/31-the-name-that-was-crossed-out/manuscript.txt",
+      "pronunciations": "chapters/31-the-name-that-was-crossed-out/pronunciations.txt",
+      "guide": "chapters/31-the-name-that-was-crossed-out/production-guide.txt"
+    },
+    "32-the-inventory-of-ghosts": {
+      "title": "Chapter 32 — The Inventory of Ghosts",
+      "production": "chapters/32-the-inventory-of-ghosts/production.json",
+      "manuscript": "chapters/32-the-inventory-of-ghosts/manuscript.txt",
+      "pronunciations": "chapters/32-the-inventory-of-ghosts/pronunciations.txt",
+      "guide": "chapters/32-the-inventory-of-ghosts/production-guide.txt"
+    },
+    "33-the-price-of-retention": {
+      "title": "Chapter 33 — The Price of Retention",
+      "production": "chapters/33-the-price-of-retention/production.json",
+      "manuscript": "chapters/33-the-price-of-retention/manuscript.txt",
+      "pronunciations": "chapters/33-the-price-of-retention/pronunciations.txt",
+      "guide": "chapters/33-the-price-of-retention/production-guide.txt"
+    },
+    "34-the-woman-he-chose": {
+      "title": "Chapter 34 — The Woman He Chose",
+      "production": "chapters/34-the-woman-he-chose/production.json",
+      "manuscript": "chapters/34-the-woman-he-chose/manuscript.txt",
+      "pronunciations": "chapters/34-the-woman-he-chose/pronunciations.txt",
+      "guide": "chapters/34-the-woman-he-chose/production-guide.txt"
+    },
+    "35-the-lie-he-told": {
+      "title": "Chapter 35 — The Lie He Told",
+      "production": "chapters/35-the-lie-he-told/production.json",
+      "manuscript": "chapters/35-the-lie-he-told/manuscript.txt",
+      "pronunciations": "chapters/35-the-lie-he-told/pronunciations.txt",
+      "guide": "chapters/35-the-lie-he-told/production-guide.txt"
+    },
+    "36-the-fourth-mark": {
+      "title": "Chapter 36 — The Fourth Mark",
+      "production": "chapters/36-the-fourth-mark/production.json",
+      "manuscript": "chapters/36-the-fourth-mark/manuscript.txt",
+      "pronunciations": "chapters/36-the-fourth-mark/pronunciations.txt",
+      "guide": "chapters/36-the-fourth-mark/production-guide.txt"
+    },
+    "37-the-choice-already-made": {
+      "title": "Chapter 37 — The Choice Already Made",
+      "production": "chapters/37-the-choice-already-made/production.json",
+      "manuscript": "chapters/37-the-choice-already-made/manuscript.txt",
+      "pronunciations": "chapters/37-the-choice-already-made/pronunciations.txt",
+      "guide": "chapters/37-the-choice-already-made/production-guide.txt"
+    },
+    "38-the-rule-that-never-changes": {
+      "title": "Chapter 38 — The Rule That Never Changes",
+      "production": "chapters/38-the-rule-that-never-changes/production.json",
+      "manuscript": "chapters/38-the-rule-that-never-changes/manuscript.txt",
+      "pronunciations": "chapters/38-the-rule-that-never-changes/pronunciations.txt",
+      "guide": "chapters/38-the-rule-that-never-changes/production-guide.txt"
+    },
+    "39-the-library-of-drafts": {
+      "title": "Chapter 39 — The Library of Drafts",
+      "production": "chapters/39-the-library-of-drafts/production.json",
+      "manuscript": "chapters/39-the-library-of-drafts/manuscript.txt",
+      "pronunciations": "chapters/39-the-library-of-drafts/pronunciations.txt",
+      "guide": "chapters/39-the-library-of-drafts/production-guide.txt"
+    },
+    "40-the-authors-toll": {
+      "title": "Chapter 40 — The Author’s Toll",
+      "production": "chapters/40-the-authors-toll/production.json",
+      "manuscript": "chapters/40-the-authors-toll/manuscript.txt",
+      "pronunciations": "chapters/40-the-authors-toll/pronunciations.txt",
+      "guide": "chapters/40-the-authors-toll/production-guide.txt"
     }
   }
 }

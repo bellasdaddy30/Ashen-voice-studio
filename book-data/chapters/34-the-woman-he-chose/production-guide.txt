@@ -1,0 +1,19 @@
+THE FIRST CITY — CHAPTER 34: THE WOMAN HE CHOSE
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+59
+
+SEGMENT COUNTS
+- Narrator: 41
+- Ninsun: 8
+- Zik: 7
+- Balag: 2
+- Enhedu: 1

@@ -1,0 +1,20 @@
+THE FIRST CITY — CHAPTER 38: THE RULE THAT NEVER CHANGES
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+290
+
+SEGMENT COUNTS
+- Narrator: 166
+- Ninsun: 39
+- Balag: 27
+- Zik: 25
+- The Remainder: 24
+- Enhedu: 9

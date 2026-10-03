@@ -1,0 +1,19 @@
+THE FIRST CITY — CHAPTER 13: THE THIRD NOTCH
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+118
+
+SEGMENT COUNTS
+- Narrator: 80
+- Balag: 15
+- Ninsun: 12
+- Zik: 6
+- Enhedu: 5

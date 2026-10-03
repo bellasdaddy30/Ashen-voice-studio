@@ -1,0 +1,20 @@
+THE FIRST CITY — CHAPTER 25: THE WAY BACK
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+152
+
+SEGMENT COUNTS
+- Narrator: 99
+- Ninsun: 15
+- Zik: 14
+- Balag: 12
+- Enhedu: 11
+- Bel-iddin: 1

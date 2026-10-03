@@ -1,0 +1,24 @@
+THE FIRST CITY — CHAPTER 18: THE PRICE OF KNOWING
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+190
+
+SEGMENT COUNTS
+- Narrator: 149
+- Zik: 18
+- False Scribe: 17
+- Bel-iddin: 2
+- Balag: 2
+- Ninsun: 1
+- Enhedu: 1
+
+CHECK BEFORE RENDER
+- …is still waiting below. — Text calls this 'Bel-iddin's final words' though Zik spoke it at the end of Ch.17. CHECK attribution.

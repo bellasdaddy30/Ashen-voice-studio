@@ -1,0 +1,20 @@
+THE FIRST CITY — CHAPTER 17: THE MAP THAT SHOULD NOT EXIST
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+287
+
+SEGMENT COUNTS
+- Narrator: 197
+- Ninsun: 45
+- Zik: 17
+- Enhedu: 17
+- Balag: 10
+- Bel-iddin: 1

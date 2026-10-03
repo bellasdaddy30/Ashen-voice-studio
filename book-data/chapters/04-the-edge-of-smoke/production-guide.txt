@@ -1,0 +1,18 @@
+THE FIRST CITY — CHAPTER 4: THE EDGE OF SMOKE
+ASHEN VOICE — PRODUCTION GUIDE (auto-generated from the parse)
+
+SOURCE POLICY
+- Preserve the published prose.
+- Dialogue tags and action beats stay with Narrator.
+- No unidentified or unknown characters.
+- Bel-iddin's handwriting is performed by Bel-iddin; other written text (ledger, inscriptions, the 'other hand') is Narrator, cold.
+- City mimicry is performed in the imitated character's own voice + processing (see notes).
+
+TOTAL SEGMENTS
+83
+
+SEGMENT COUNTS
+- Narrator: 41
+- Balag: 17
+- Zik: 14
+- Enhedu: 11

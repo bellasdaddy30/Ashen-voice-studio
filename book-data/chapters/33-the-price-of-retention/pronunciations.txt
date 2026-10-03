@@ -1,0 +1,12 @@
+# THE FIRST CITY — CHAPTER 33 — PRONUNCIATIONS
+# Lines containing "->" are imported by Ashen Voice. Global rules load first.
+
+# SUGGESTED readings for names introduced after Chapter 1 (NOT yet canon — confirm or edit).
+Ninsun -> NIN-soon
+Etana -> eh-TAH-nah
+Ammaru -> ah-MAH-roo
+Mardu -> MAR-doo
+Dagan-ili -> DAH-gahn EE-lee
+Naram -> nah-RAHM
+Lugal-Ane -> LOO-gahl AH-neh
+Uruk -> OO-rook
