@@ -119,7 +119,11 @@
 },
 {
 "speaker": "Zik",
-"text": "En-HEH-doo?"
+"text": "En-HEH-doo?",
+"tags": [
+"concerned"
+],
+"tag": "concerned"
 },
 {
 "speaker": "Narrator",

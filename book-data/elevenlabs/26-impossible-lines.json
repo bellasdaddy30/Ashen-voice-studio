@@ -437,7 +437,11 @@
 },
 {
 "speaker": "Balag",
-"text": "We're not giving it names."
+"text": "We're not giving it names.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",

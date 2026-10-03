@@ -340,7 +340,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I objected internally."
+"text": "I objected internally.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Enhedu",

@@ -425,6 +425,10 @@
 {
 "speaker": "False Scribe",
 "text": "Some doors are sealed because what is behind them is dangerous.",
+"tags": [
+"ominous"
+],
+"tag": "ominous",
 "note": "Nervousness gone; suddenly older. Slower, calmer, lower."
 },
 {
@@ -438,6 +442,10 @@
 {
 "speaker": "False Scribe",
 "text": "Some are sealed because the thing behind them is still waiting.",
+"tags": [
+"ominous"
+],
+"tag": "ominous",
 "note": "Nervousness gone; suddenly older. Slower, calmer, lower."
 },
 {

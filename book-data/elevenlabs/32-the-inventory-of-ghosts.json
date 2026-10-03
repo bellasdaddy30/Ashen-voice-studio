@@ -75,7 +75,11 @@
 },
 {
 "speaker": "Balag",
-"text": "No,"
+"text": "No,",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
@@ -93,7 +97,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't know who told you to follow us, but you're a liability."
+"text": "I don't know who told you to follow us, but you're a liability.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",

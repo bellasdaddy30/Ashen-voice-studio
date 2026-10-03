@@ -130,7 +130,11 @@
 },
 {
 "speaker": "Zik",
-"text": "The desert is full of traps. You know how it is."
+"text": "The desert is full of traps. You know how it is.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "The Collector",
@@ -347,7 +351,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Zee-keer."
+"text": "Zee-keer.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -359,7 +367,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Where did you get that?"
+"text": "Where did you get that?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -756,7 +768,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "It's a distinctive expression."
+"text": "It's a distinctive expression.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Narrator",
@@ -855,7 +871,11 @@
 },
 {
 "speaker": "Zik",
-"text": "I'm not him."
+"text": "I'm not him.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -863,7 +883,11 @@
 },
 {
 "speaker": "Zik's Mother",
-"text": "No,"
+"text": "No,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -918,7 +942,11 @@
 },
 {
 "speaker": "Zik's Mother",
-"text": "That's not the same as being brave,"
+"text": "That's not the same as being brave,",
+"tags": [
+"coughs"
+],
+"tag": "coughs"
 },
 {
 "speaker": "Narrator",

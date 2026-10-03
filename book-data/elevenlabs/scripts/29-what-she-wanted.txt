@@ -26,7 +26,7 @@ Narrator: The vision folded.
 Narrator: She was back in the narrow dark of the passage, a small golden figurine solid and cold in her open hand. She knew exactly what it was worth. She knew exactly how many throats would be cut for it. She looked at it the way she would look at a chipped cup.
 Narrator: Nothing there worth the looking.
 Narrator: That was when Zeek found her. He appeared at the far end of the passage without sound, the way everything in this place had learned to move. His eyes went from the figurine to her face. Something in her expression told him more than either object did.
-Zik: En-HEH-doo?
+Zik: [concerned] En-HEH-doo?
 Narrator: She turned toward him. For the first time since he had known her, she looked lost, and she hated that he was the one who got to see it.
 Enhedu: [flatly] I know this matters,
 Narrator: she said, and held out the figurine like proof.

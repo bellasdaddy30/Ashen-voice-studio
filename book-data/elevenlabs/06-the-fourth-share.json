@@ -283,7 +283,11 @@
 },
 {
 "speaker": "Zik",
-"text": "They're changing."
+"text": "They're changing.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
@@ -475,7 +479,11 @@
 },
 {
 "speaker": "Balag",
-"text": "People make mistakes."
+"text": "People make mistakes.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Ninsun",
@@ -654,7 +662,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Desperate,"
+"text": "Desperate,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -684,7 +696,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists."
+"text": "I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -735,7 +751,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Also understood."
+"text": "Also understood.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",

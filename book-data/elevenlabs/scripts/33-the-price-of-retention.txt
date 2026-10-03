@@ -21,7 +21,7 @@ Narrator: He took a slow breath. His hand drifted to the journal, then past it. 
 Narrator: Looking at Ninsun changed the arithmetic.
 Narrator: The shadows in the room seemed to curl toward her. The stone behind her had begun to soften at the edges, the way limestone softened when the ledger was preparing to close an account.
 Narrator: He spoke without raising his voice.
-Zik: Her name is Ninsun. She is with us. She stays.
+Zik: [firmly] Her name is Ninsun. She is with us. She stays.
 Narrator: For a moment nothing answered.
 Narrator: Then BAH-lahg blinked, once, hard, as if something behind his eyes had been forcibly rethreaded. He looked at Ninsun with the startled recognition of a man who has just remembered a debt he did not know he owed.
 Balag: Ninsun,

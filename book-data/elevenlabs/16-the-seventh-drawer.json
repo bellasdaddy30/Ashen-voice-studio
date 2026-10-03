@@ -464,7 +464,11 @@
 },
 {
 "speaker": "Archive Guard",
-"text": "Mardu?"
+"text": "Mardu?",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
@@ -633,7 +637,11 @@
 },
 {
 "speaker": "Archive Guard",
-"text": "Mardu?"
+"text": "Mardu?",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
@@ -730,7 +738,11 @@
 },
 {
 "speaker": "Mardu",
-"text": "I am old. Everything takes too long."
+"text": "I am old. Everything takes too long.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -887,7 +899,11 @@
 },
 {
 "speaker": "Mardu",
-"text": "Many have."
+"text": "Many have.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
@@ -968,7 +984,11 @@
 },
 {
 "speaker": "Archive Guard",
-"text": "Mardu?"
+"text": "Mardu?",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
@@ -1057,7 +1077,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Do not drag me."
+"text": "Do not drag me.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Balag",

@@ -383,7 +383,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "You,"
+"text": "You,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -515,7 +519,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "He erased Ammaru?"
+"text": "He erased Ammaru?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -572,7 +580,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I doubt that."
+"text": "I doubt that.",
+"tags": [
+"offended"
+],
+"tag": "offended"
 },
 {
 "speaker": "Narrator",
@@ -1338,7 +1350,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "That is not an archaeological description."
+"text": "That is not an archaeological description.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "The Collector",
@@ -1653,7 +1669,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I dislike him more than before."
+"text": "I dislike him more than before.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",

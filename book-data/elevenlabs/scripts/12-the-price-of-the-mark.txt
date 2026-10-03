@@ -38,7 +38,7 @@ Narrator: Not stagnant.
 Narrator: Not sour.
 Narrator: Fresh enough to drink.
 Narrator: En-HEH-doo frowned.
-Enhedu: So whoever owned this…
+Enhedu: [skeptical] So whoever owned this…
 Zik: …was here recently.
 Narrator: Ninsun looked up from the tablet.
 Ninsun: Or recently enough that the city hasn't decided otherwise.
@@ -104,7 +104,7 @@ Narrator: BAH-lahg sat down opposite her.
 Balag: You think he was like us.
 Ninsun: I think…
 Narrator: She hesitated.
-Ninsun: …he thought he was the first.
+Ninsun: [hesitant] …he thought he was the first.
 [pause 1.5s]
 Narrator: Silence settled over the room.
 Narrator: Zeek understood the thought immediately.
@@ -120,7 +120,7 @@ Narrator: BAH-lahg cleaned his spear in silence. En-HEH-doo turned the small cop
 Narrator: After a long time En-HEH-doo spoke.
 Enhedu: We keep marking, someone else pays. We stop marking, we walk blind. That's the math.
 Narrator: BAH-lahg grunted.
-Balag: Same fucking math as always. Just higher numbers.
+Balag: [grunts] Same fucking math as always. Just higher numbers.
 Narrator: Ninsun didn't look up from the map.
 Ninsun: I'm not stopping.
 Zik: Didn't think you were,

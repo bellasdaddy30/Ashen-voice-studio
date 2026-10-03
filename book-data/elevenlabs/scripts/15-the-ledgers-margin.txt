@@ -157,7 +157,7 @@ Narrator: The first tablet listed three warehouse owners.
 Narrator: The second recorded a dyer's yard absorbed into temple property.
 Narrator: The third had been scraped smooth and reused for grain tallies.
 Narrator: Ninsun's jaw tightened.
-Ninsun: They overwrote it.
+Ninsun: [tense] They overwrote it.
 Zik: Can you recover anything?
 Narrator: Zeek asked.
 Ninsun: Not without daylight and hours.
@@ -191,9 +191,9 @@ Narrator: No one moved.
 Narrator: Zeek crouched beside her.
 Zik: What does the entry say?
 Narrator: Ninsun read carefully.
-Ninsun: 'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'
+Ninsun: [carefully] 'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'
 Narrator: BAH-lahg frowned.
-Balag: Cistern stair?
+Balag: [skeptical] Cistern stair?
 Narrator: Ninsun read the next line.
 Narrator: Her face changed.
 Zik: What?
@@ -215,7 +215,7 @@ Narrator: One line survived near the lower edge.
 Narrator: She tilted it into the light.
 Ninsun: 'Exemption revoked after keeper refused transfer of the name.'
 Narrator: En-HEH-doo's expression hardened.
-Enhedu: What does that mean?
+Enhedu: [tense] What does that mean?
 Ninsun: I don't know.
 Enhedu: You know what the words mean.
 Ninsun: I don't know what they mean together.

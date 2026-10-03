@@ -41,7 +41,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "You lied,"
+"text": "You lied,",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -63,7 +67,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "You read the journal. You closed it. You decided what the rest of us were allowed to know."
+"text": "You read the journal. You closed it. You decided what the rest of us were allowed to know.",
+"tags": [
+"carefully"
+],
+"tag": "carefully"
 },
 {
 "speaker": "Narrator",
@@ -72,7 +80,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "That is a lie of a different kind. You have never once refused to show me the words before."
+"text": "That is a lie of a different kind. You have never once refused to show me the words before.",
+"tags": [
+"carefully"
+],
+"tag": "carefully"
 },
 {
 "speaker": "Narrator",
@@ -233,7 +245,11 @@
 },
 {
 "speaker": "Zik",
-"text": "It says the left path is safe."
+"text": "It says the left path is safe.",
+"tags": [
+"evenly"
+],
+"tag": "evenly"
 },
 {
 "speaker": "Narrator",

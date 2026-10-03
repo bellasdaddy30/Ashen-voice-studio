@@ -401,7 +401,11 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "Because it may hear you."
+"text": "Because it may hear you.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",

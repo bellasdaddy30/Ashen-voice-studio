@@ -239,7 +239,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Who?"
+"text": "Who?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",

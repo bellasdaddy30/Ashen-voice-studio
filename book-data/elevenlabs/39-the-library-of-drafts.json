@@ -71,9 +71,10 @@
 "speaker": "Zik",
 "text": "BAH-lahg.",
 "tags": [
-"weakly"
+"weakly",
+"skeptical"
 ],
-"tag": "weakly",
+"tag": "weakly] [skeptical",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -432,7 +433,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I don't even know if that's the right question."
+"text": "I don't even know if that's the right question.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
@@ -589,7 +594,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I think…"
+"text": "I think…",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -598,7 +607,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I think they're corrections."
+"text": "I think they're corrections.",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -871,9 +884,10 @@
 "speaker": "Zik",
 "text": "But I was looking for him.",
 "tags": [
+"quietly",
 "weakly"
 ],
-"tag": "weakly",
+"tag": "quietly] [weakly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {

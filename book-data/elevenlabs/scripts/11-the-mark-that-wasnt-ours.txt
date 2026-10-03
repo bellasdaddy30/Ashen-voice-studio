@@ -17,7 +17,7 @@ Narrator: Zeek ran his thumb along the third notch. The stone dust came away cle
 Zik: We leave it,
 Narrator: he said.
 Narrator: BAH-lahg frowned.
-Balag: Just walk away?
+Balag: [skeptical] Just walk away?
 Zik: We mark our own and we move. If we start chasing every cut that isn't ours, we'll still be here when the streets forget our names.
 Narrator: Ninsun carefully added the location to her ugly, incomplete map, noting the forged third mark with a small cross. Her handwriting had gotten smaller and tighter over the last few days, as if she were trying to fit more city onto less paper.
 Narrator: They backed out. Behind them the passage had already narrowed enough that a man would have to turn sideways to enter. By the time they reached the main street it looked like a shallow service recess any local would have sworn had always been there.
@@ -84,13 +84,13 @@ Narrator: Nobody spoke.
 Narrator: The boy finally accepted the coin.
 Messenger Boy: He also said something else.
 Narrator: BAH-lahg stiffened.
-Balag: What?
+Balag: [tense] What?
 Narrator: The boy frowned, trying to remember.
 Messenger Boy: 'Tell them…'
 Narrator: He looked at the ceiling.
 Messenger Boy: '…they've started making the wrong marks.'
 Narrator: He shrugged.
-Messenger Boy: Didn't make much sense.
+Messenger Boy: [casually] Didn't make much sense.
 Narrator: He hurried down the stairs before anyone could stop him.
 Narrator: BAH-lahg remained at the doorway until the footsteps disappeared.
 Narrator: Then he quietly slid the bolt across the door.
@@ -110,7 +110,7 @@ Enhedu: It isn't hurried.
 Narrator: She studied the strokes.
 Enhedu: Whoever wrote this expected we'd read it.
 Narrator: BAH-lahg frowned.
-Balag: People usually expect that from letters.
+Balag: [skeptical] People usually expect that from letters.
 Enhedu: No.
 Narrator: En-HEH-doo tapped one corner.
 Enhedu: They expect we'll understand.
@@ -143,7 +143,7 @@ Narrator: Zeek picked up the note again.
 Zik: You think someone copied your habits.
 Ninsun: I think…
 Narrator: She hesitated.
-Ninsun: …someone has seen enough of my work to imitate it.
+Ninsun: [hesitant] …someone has seen enough of my work to imitate it.
 Narrator: En-HEH-doo folded her arms.
 Enhedu: Or you've seen theirs.
 Narrator: Ninsun didn't answer.

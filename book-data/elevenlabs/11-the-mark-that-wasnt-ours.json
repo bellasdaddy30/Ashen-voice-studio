@@ -82,7 +82,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Just walk away?"
+"text": "Just walk away?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -349,7 +353,11 @@
 },
 {
 "speaker": "Balag",
-"text": "What?"
+"text": "What?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -373,7 +381,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Didn't make much sense."
+"text": "Didn't make much sense.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Narrator",
@@ -458,7 +470,11 @@
 },
 {
 "speaker": "Balag",
-"text": "People usually expect that from letters."
+"text": "People usually expect that from letters.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Enhedu",
@@ -591,7 +607,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "…someone has seen enough of my work to imitate it."
+"text": "…someone has seen enough of my work to imitate it.",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",

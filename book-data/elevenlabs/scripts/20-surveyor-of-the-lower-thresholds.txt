@@ -92,7 +92,7 @@ Narrator: The Collector waited.
 Narrator: Zeek heard water dripping from the eaves into the alley below.
 Narrator: One drop.
 Narrator: Then another.
-The Collector: You,
+The Collector: [softly] You,
 Narrator: the Collector said.
 Narrator: The journal knocked once.
 Narrator: The sound was softer than it had been in the courtyard.
@@ -125,7 +125,7 @@ Narrator: the Collector said.
 Zik: What methods?
 The Collector: He altered records. He paid men to forget routes. He moved objects from one collection to another. He convinced a priesthood that a damaged seal belonged in a provincial storehouse where no one would bother cataloguing it for three generations.
 Narrator: Ninsun's mouth tightened at the insult to cataloguing.
-Ninsun: He erased Ammaru?
+Ninsun: [tense] He erased Ammaru?
 Narrator: she asked.
 The Collector: No.
 Ninsun: Who did?
@@ -139,7 +139,7 @@ Enhedu: No.
 Ninsun: I only want to see his face.
 Enhedu: That has killed better people than you.
 Narrator: Ninsun looked offended.
-Ninsun: I doubt that.
+Ninsun: [offended] I doubt that.
 Narrator: Zeek kept his voice low.
 Zik: [whispers] My father knew the seventh drawer named me.
 The Collector: Yes.
@@ -324,7 +324,7 @@ Zik: What happened?
 Narrator: Zeek asked.
 The Collector: The floor remembered me.
 Narrator: Ninsun frowned.
-Ninsun: That is not an archaeological description.
+Ninsun: [skeptical] That is not an archaeological description.
 The Collector: No,
 Narrator: the Collector said.
 The Collector: It is the only accurate one.
@@ -401,7 +401,7 @@ Narrator: Ninsun came to the window with the bronze seal in her palm.
 Narrator: The handprints ended at the roof.
 Narrator: No marks led across the tiles.
 Narrator: BAH-lahg stepped back from the shutter.
-Balag: I dislike him more than before.
+Balag: [dryly] I dislike him more than before.
 Narrator: Zeek closed it.
 Zik: That still may be the safest conclusion we have reached.
 Narrator: Ninsun placed the bronze seal on the table.

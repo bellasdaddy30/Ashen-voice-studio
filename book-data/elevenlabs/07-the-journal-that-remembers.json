@@ -839,7 +839,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The fog isn't thick enough."
+"text": "The fog isn't thick enough.",
+"tags": [
+"tired"
+],
+"tag": "tired"
 },
 {
 "speaker": "Narrator",
@@ -979,7 +983,11 @@
 },
 {
 "speaker": "Balag",
-"text": "No."
+"text": "No.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Zik",
@@ -1059,7 +1067,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "My sister—"
+"text": "My sister—",
+"tags": [
+"desperate"
+],
+"tag": "desperate"
 },
 {
 "speaker": "Zik",

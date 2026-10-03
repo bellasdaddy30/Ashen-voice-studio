@@ -204,7 +204,7 @@ Narrator: BAH-lahg turned.
 Balag: It still should be.
 Narrator: Ninsun did not look surprised.
 Narrator: She looked tired.
-Ninsun: The fog isn't thick enough.
+Ninsun: [tired] The fog isn't thick enough.
 Narrator: BAH-lahg gripped his spear.
 Balag: What does that mean?
 Ninsun: It usually hides the change.
@@ -238,7 +238,7 @@ Narrator: The impossible doorway began to narrow.
 Narrator: The old bricks slid toward one another without sound.
 Narrator: Zeek stepped forward.
 Narrator: BAH-lahg caught the back of his tunic.
-Balag: No.
+Balag: [firmly] No.
 Zik: There are prints.
 Balag: There are always prints.
 Zik: Not like these.
@@ -258,7 +258,7 @@ Narrator: Black water.
 Narrator: Ninsun took one step toward the passage.
 Narrator: Zeek caught her wrist.
 Narrator: She tried to pull free.
-Ninsun: My sister—
+Ninsun: [desperate] My sister—
 Zik: Is not a pigeon.
 Ninsun: You don't know that she isn't in there.
 Zik: I don't know what 'there' is.

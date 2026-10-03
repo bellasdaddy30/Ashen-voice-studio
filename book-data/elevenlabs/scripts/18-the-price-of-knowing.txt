@@ -100,10 +100,10 @@ Narrator: Zeek stepped aside.
 Narrator: The scribe hurried past him, then stopped at the end of the alley.
 False Scribe: Zee-keer.
 Narrator: Zeek looked over his shoulder. The scribe's face had changed. The nervousness was gone. For just a second he looked older.
-False Scribe: Some doors are sealed because what is behind them is dangerous.
+False Scribe: [ominous] Some doors are sealed because what is behind them is dangerous.
 Narrator: Zeek waited.
 Narrator: The scribe's eyes dropped to the mark on Zeek's palm.
-False Scribe: Some are sealed because the thing behind them is still waiting.
+False Scribe: [ominous] Some are sealed because the thing behind them is still waiting.
 Narrator: Then he walked away.
 Narrator: Zeek remained in the alley.
 Narrator: The words should have sounded like a threat. Instead they sounded familiar. He hated that.

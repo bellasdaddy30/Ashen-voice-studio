@@ -346,7 +346,11 @@
 },
 {
 "speaker": "Zik",
-"text": "An invitation,"
+"text": "An invitation,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",

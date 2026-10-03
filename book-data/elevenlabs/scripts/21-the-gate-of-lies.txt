@@ -254,7 +254,7 @@ Narrator: Zeek asked.
 Balag: First gate took a man's shadow. Second took the voice people knew him by. Third took the hand he trusted. After that, the story changed depending on how much beer my grandfather had.
 Zik: And the fourth?
 Narrator: BAH-lahg's mouth tightened.
-Balag: His name.
+Balag: [gravely] His name.
 Narrator: The gray donkey shifted beside him.
 Narrator: Its hoof struck the ground four times.
 Narrator: Once.
@@ -330,7 +330,7 @@ Enhedu: Can it mean tomb?
 Ninsun: Sometimes.
 Enhedu: Prison?
 Narrator: Ninsun hesitated.
-Ninsun: Yes.
+Ninsun: [hesitant] Yes.
 Narrator: BAH-lahg looked east.
 Balag: And lid?
 Narrator: Another pause.
@@ -413,7 +413,7 @@ Balag: Names. Memories. Fingers. Whatever the stories say these gates take.
 Enhedu: You would notice a missing finger.
 Balag: I would prefer to establish that.
 Narrator: Ninsun pressed two fingers beneath her jaw as though checking for a pulse.
-Ninsun: My name is Ninsun Etana.
+Ninsun: [shaky] My name is Ninsun Etana.
 Balag: BAH-lahg,
 Narrator: BAH-lahg said.
 Narrator: En-HEH-doo looked at them.
@@ -426,7 +426,7 @@ Narrator: She watched him for a moment.
 Enhedu: En-HEH-doo.
 Narrator: BAH-lahg looked at Zeek.
 Narrator: Zeek closed the journal.
-Zik: Zee-keer Ash-SHOOR.
+Zik: [firmly] Zee-keer Ash-SHOOR.
 Narrator: The journal knocked once between his hands.
 Narrator: No answer came from beneath the ground.
 Narrator: The sun broke over the eastern horizon.

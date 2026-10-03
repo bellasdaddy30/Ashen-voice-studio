@@ -68,7 +68,7 @@ Narrator: At first glance the spirals appeared identical.
 Narrator: Then he noticed the tiny variations.
 Zik: No.
 Narrator: He frowned.
-Zik: They're changing.
+Zik: [skeptical] They're changing.
 Narrator: A flicker crossed her face.
 Narrator: The closest thing to approval.
 Ninsun: How?
@@ -116,7 +116,7 @@ Ninsun: I know someone erased it.
 Zik: How?
 Ninsun: I've spent four years copying tablets that no longer agree with tablets copied twenty years earlier.
 Narrator: BAH-lahg frowned.
-Balag: People make mistakes.
+Balag: [skeptical] People make mistakes.
 Ninsun: Scribes do.
 Narrator: Ninsun nodded.
 Ninsun: Kings don't allow the same mistake on three hundred different tablets.
@@ -159,14 +159,14 @@ Narrator: Ninsun stood. She was shorter than En-HEH-doo and carried herself like
 Ninsun: I'm telling you I already know more about the symbol on your skin than the Collector does, and I am coming with you whether you like the arrangement or not.
 Narrator: BAH-lahg made a low sound that might have been a laugh.
 Balag: [laughs] Confident.
-Ninsun: Desperate,
+Ninsun: [quietly] Desperate,
 Narrator: Ninsun corrected.
 Ninsun: There's a difference.
 Narrator: En-HEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.
 Enhedu: What's your cut?
 Ninsun: I don't care about the silver.
 Enhedu: Everyone cares about the silver.
-Ninsun: I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists.
+Ninsun: [intense] I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists.
 Narrator: Ninsun's voice stayed level, but something underneath it had gone hard.
 Ninsun: You can keep the silver. I want the truth the city is trying to edit out of itself.
 Narrator: Zeek looked at her for a long moment.
@@ -178,7 +178,7 @@ Narrator: he said.
 Ninsun: Understood.
 Zik: You get us killed chasing blank tablets, I'll make sure the city remembers your name long enough to regret it.
 Narrator: Ninsun almost smiled. It didn't reach her eyes.
-Ninsun: Also understood.
+Ninsun: [amused] Also understood.
 Narrator: BAH-lahg shifted his weight.
 Balag: We taking her or not?
 Narrator: Zeek looked at En-HEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now.

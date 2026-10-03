@@ -142,7 +142,7 @@ Ninsun: That is what it expects.
 Balag: And damaging it is what?
 Ninsun: Information.
 Narrator: He turned on her.
-Balag: You use that word whenever you want to make danger sound respectable.
+Balag: [tense] You use that word whenever you want to make danger sound respectable.
 Ninsun: Danger does not become less dangerous because we refuse to understand it.
 Balag: It also does not become safer because you measure it.
 Ninsun: No. But sometimes it becomes smaller.
@@ -267,7 +267,7 @@ Narrator: Something knocked from the other side of the wall.
 Narrator: Three measured blows sounded directly behind Zeek's head.
 Narrator: He turned despite her warning. His hand found only empty air where the carved wall should have been. The floor remained beneath his feet, but the chamber's boundaries had vanished. He reached downward for the journal and touched cold stone, then dust, then a narrow metal object that had not been there when the light failed.
 Narrator: A voice spoke close to his left ear.
-The Remainder: [exhausted] Do you remember the key?
+The Remainder: [whispers] [exhausted] Do you remember the key?
 Narrator: Zeek froze. The voice was not BAH-lahg's, Ninsun's, or En-HEH-doo's. It sounded worn rather than old, each word roughened by disuse. Beneath that wear lay something he almost recognized, a cadence that made the scar in his palm tighten.
 Zik: Who are you?
 Narrator: Somewhere in the dark, En-HEH-doo asked what he had heard. BAH-lahg told her to be quiet. Their voices overlapped, distant and uncertain.

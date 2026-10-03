@@ -155,7 +155,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "I meant the wall."
+"text": "I meant the wall.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -214,7 +218,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "It feels like…rock."
+"text": "It feels like…rock.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -311,6 +319,10 @@
 {
 "speaker": "Balag",
 "text": "That's the first honest thing you've said today.",
+"tags": [
+"grunts"
+],
+"tag": "grunts",
 "note": "Keep the humor dry; do not overplay it."
 },
 {
@@ -440,6 +452,10 @@
 {
 "speaker": "Balag",
 "text": "I've been saying that for years.",
+"tags": [
+"laughs"
+],
+"tag": "laughs",
 "note": "Keep the humor dry; do not overplay it."
 },
 {
@@ -458,7 +474,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "Walls lie?"
+"text": "Walls lie?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -677,7 +697,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "Then they chose the wrong door."
+"text": "Then they chose the wrong door.",
+"tags": [
+"confidently"
+],
+"tag": "confidently"
 },
 {
 "speaker": "Narrator",
@@ -758,7 +782,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "Why?"
+"text": "Why?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
@@ -766,11 +794,19 @@
 },
 {
 "speaker": "Kurash",
-"text": "Maybe they died."
+"text": "Maybe they died.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Zik",
-"text": "Then the trap is still here."
+"text": "Then the trap is still here.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -804,6 +840,10 @@
 {
 "speaker": "Zik",
 "text": "Don't touch the gold,",
+"tags": [
+"shaken"
+],
+"tag": "shaken",
 "pauseBefore": 1.5
 },
 {
@@ -818,7 +858,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You think?"
+"text": "You think?",
+"tags": [
+"bitterly"
+],
+"tag": "bitterly"
 },
 {
 "speaker": "Narrator",
@@ -835,7 +879,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Zeek,"
+"text": "Zeek,",
+"tags": [
+"warning"
+],
+"tag": "warning"
 },
 {
 "speaker": "Narrator",
@@ -896,6 +944,10 @@
 {
 "speaker": "Zik",
 "text": "Well,",
+"tags": [
+"shakily"
+],
+"tag": "shakily",
 "note": "Dry understatement after terror."
 },
 {
@@ -906,6 +958,10 @@
 {
 "speaker": "Zik",
 "text": "that's new.",
+"tags": [
+"deadpan"
+],
+"tag": "deadpan",
 "note": "Deadpan. Tiny release of tension, not comedy."
 }
 ]

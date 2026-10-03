@@ -35,7 +35,7 @@ Narrator: he asked.
 Narrator: Zeek didn't look up.
 Zik: I see you smearing dirt back into the joint I just cleaned.
 Narrator: KOO-rash frowned, rubbed harder, and managed only to spread the grit farther.
-Kurash: I meant the wall.
+Kurash: [skeptical] I meant the wall.
 Zik: I know what you meant.
 Narrator: BAH-lahg folded his arms.
 Balag: This should be good.
@@ -49,7 +49,7 @@ Zik: They're ordinary bricks laid by extraordinary masons.
 Narrator: He handed the piece over.
 Zik: Feel it.
 Narrator: KOO-rash pinched it between his fingers. KOO-rash tested the edge harder, then frowned when nothing broke away.
-Kurash: It feels like…rock.
+Kurash: [skeptical] It feels like…rock.
 Zik: It should crumble.
 Kurash: It doesn't.
 Zik: Exactly.
@@ -71,7 +71,7 @@ Kurash: Then what is it?
 Narrator: Zeek smiled faintly.
 Zik: If I already knew, we'd be digging somewhere else.
 Narrator: BAH-lahg grunted.
-Balag: That's the first honest thing you've said today.
+Balag: [grunts] That's the first honest thing you've said today.
 Zik: I've been honest all day.
 Balag: You've been specific. That's different.
 Narrator: En-HEH-doo laughed.
@@ -99,11 +99,11 @@ Kurash: That's impossible.
 Zik: It isn't impossible.
 Kurash: It's unfair.
 Narrator: BAH-lahg barked a laugh. The laugh struck the stone and came back larger.
-Balag: I've been saying that for years.
+Balag: [laughs] I've been saying that for years.
 Narrator: Zeek tucked the knife back into his belt.
 Zik: My father used to say every wall lies.
 Narrator: KOO-rash frowned.
-Kurash: Walls lie?
+Kurash: [skeptical] Walls lie?
 Zik: People build walls to be believed.
 Narrator: He rested a hand on the ancient brickwork. Heat stored in the brick pressed steadily into his palm.
 Zik: They repair them. Reface them. Reuse them. Tear them down and build them again.
@@ -152,7 +152,7 @@ Enhedu: Whatever's inside wasn't trying to leave.
 Narrator: Zeek considered the brackets.
 Zik: Someone worked hard to keep it there.
 Narrator: En-HEH-doo's smile returned, slow and sharp.
-Enhedu: Then they chose the wrong door.
+Enhedu: [confidently] Then they chose the wrong door.
 Narrator: They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. En-HEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rash stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond.
 Narrator: Zeek held everyone at the threshold while he read the room from the doorway. The jamb carried no soot above shoulder height, which meant no ordinary lamp had burned here after the chamber was sealed. A faint gray bloom clung to the lower stones instead. He scraped it with the tip of the awl and rubbed the powder between finger and thumb. Salt, but not the loose desert salt that crept into abandoned masonry. This had risen through the wall from below, drawn upward by water that should not have existed at this depth.
 Narrator: The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rash repeat the warning back to him. KOO-rash did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. En-HEH-doo studied the seams rather than the wealth.
@@ -171,10 +171,10 @@ Narrator: KOO-rash looked at him.
 Kurash: Don't what?
 Zik: Touch anything.
 Narrator: The boy's gaze slid back to the gold.
-Kurash: Why?
+Kurash: [curious] Why?
 Zik: Because no one buries a room like this and walks away without leaving something behind to guard it.
-Kurash: Maybe they died.
-Zik: Then the trap is still here.
+Kurash: [dismissively] Maybe they died.
+Zik: [flatly] Then the trap is still here.
 Narrator: KOO-rash's expression shifted. Zeek watched the calculation happen behind his eyes. The boy no longer saw a warning. He saw a house. A horse. A woman. A life that no longer required following another man's orders. Zeek knew that look. He had believed the same things once.
 Balag: [whispers] KOO-rash,
 Narrator: BAH-lahg said, voice low.
@@ -182,15 +182,15 @@ Narrator: The young man moved anyway. He crossed the threshold and closed his ha
 [pause 1.5s]
 Narrator: No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. En-HEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.
 [pause 1.5s]
-Zik: Don't touch the gold,
+Zik: [shaken] Don't touch the gold,
 Narrator: Zeek said.
 Narrator: BAH-lahg turned on him.
-Balag: You think?
+Balag: [bitterly] You think?
 Narrator: Zeek stepped around the body and entered the chamber. The treasure had been arranged around a central path. The pattern itself made the trap obvious once it had sprung. Whoever built the room had not wanted to keep people out. They had wanted to control the way people came in.
 [pause 1.5s]
 Narrator: At the far end a stone throne rose from the floor. A skeleton sat upon it, wrapped in the last scraps of royal robes so old they seemed to cling to the bones only because they had forgotten how to fall away. A crown of blackened silver rested on the skull. At its center sat the same spiral and drop. Zeek had seen versions of that mark before. It appeared on private seals belonging to kings whose reigns ended short and incomplete. Some vanished. Others were erased from monuments so thoroughly that later scholars argued over whether they had ever existed. He had always called it politics. Now he was less certain.
 Narrator: A leather-bound journal rested in the skeleton's lap. Beside it lay a small brass compass. The torchlight caught the compass and threw a dull gleam across its face. He knew it. He had watched his father carry that same compass through most of his childhood—the worn leather case, the dent along the rim, the tiny scratch across the glass. His father had been carrying it the day he disappeared. Something in Zeek's chest pulled tight, sharp and unexpected. For a moment the chamber seemed too small. He forced the breath out slowly and crossed the room.
-Balag: Zeek,
+Balag: [warning] Zeek,
 Narrator: BAH-lahg said behind him.
 Narrator: He ignored the warning. The compass lay clean amid the dust, as if the years had simply refused to touch it. When he picked it up the metal was cold enough to hurt. The needle spun once, then twice, then settled. It pointed straight down. He stood there longer than he meant to, turning the compass once in his hand, before he told himself the instrument was broken and opened the journal. The leather was cracked and dark with age, but the binding still held. The last page was already waiting. Two lines stood in his father's hand:
 Bel-iddin: IF YOU FIND THIS, DO NOT LOOK FOR ME.
@@ -203,9 +203,9 @@ Dead King: [whispers] Zee-keer Ash-SHOOR,
 [pause 2s]
 Narrator: the dead mouth rasped.
 Narrator: Then the skeleton collapsed. Bones struck stone. Dust rose from the throne and rolled across the floor. Zeek stumbled back, journal clutched to his chest, as the chamber trembled under their feet. Something far below the tomb shifted—slow, massive, almost gentle, like a sleeper turning over beneath the earth. Zeek closed the journal. The sound echoed through the chamber.
-Zik: Well,
+Zik: [shakily] Well,
 Narrator: he said, voice steadier than he felt,
-Zik: that's new.
+Zik: [deadpan] that's new.
 [pause 3s]
 
 
@@ -255,13 +255,13 @@ Enhedu: He couldn't carry a tune to save his life.
 Narrator: Her eyes remained on the horizon.
 Enhedu: My mother always knew he was home because every dog in the neighborhood started barking.
 Narrator: Another stretch of silence.
-Enhedu: He died before he turned twenty.
+Enhedu: [quietly] He died before he turned twenty.
 Narrator: BAH-lahg glanced sideways.
 Balag: You've never mentioned him.
 Enhedu: There hasn't been a reason.
 Balag: And now?
 Narrator: She shrugged.
-Enhedu: There still isn't.
+Enhedu: [casually] There still isn't.
 Balag: But KOO-rash reminded you.
 Narrator: She considered lying.
 Narrator: Instead she nodded once.
@@ -282,16 +282,16 @@ Narrator: Zeek almost denied it. Then he shrugged.
 Zik: If I don't, somebody else will.
 Narrator: The words came out harder than he meant. He heard how cold they sounded and hated himself for a second.
 Narrator: BAH-lahg just grunted.
-Balag: Someone always does. Doesn't mean I have to like watching it.
+Balag: [gruffly] Someone always does. Doesn't mean I have to like watching it.
 Narrator: He was quiet for a few breaths, then added, almost to the sand,
 Balag: First crew I worked on, we lost a boy before we even reached the quarry. Fifteen years old. Same hungry look. Same fucking math.
 Narrator: He shook his head once.
-Balag: Still don't like the sound of it.
+Balag: [quietly] Still don't like the sound of it.
 Narrator: En-HEH-doo's knife paused.
 Enhedu: He would have done the same to any of us if the numbers came out that way.
 Narrator: Zeek looked at her.
 Zik: That supposed to make it easier?
-Enhedu: No. It's supposed to make it true.
+Enhedu: [flatly] No. It's supposed to make it true.
 Narrator: They sat with that for a time. The desert cooled around them. Somewhere far off a night bird called once and did not call again.
 Narrator: BAH-lahg eventually stood and checked the straps on the packs a second time, even though nothing had shifted. Zeek recognized the habit. The big man trusted his hands more than he trusted silence.
 Balag: We'll reach the city in two days if the weather holds,
@@ -376,7 +376,7 @@ Narrator: The crack ran almost perfectly through its center.
 Narrator: She rubbed her thumb along the brittle edge.
 Enhedu: You know why leather fails here?
 Narrator: BAH-lahg shrugged.
-Balag: Because it gets old.
+Balag: [casually] Because it gets old.
 Enhedu: No.
 Narrator: She handed it to Zeek.
 Enhedu: He'll see it.
@@ -390,7 +390,7 @@ Zik: See these lighter lines?
 Narrator: Neither of them answered.
 Zik: It was drying from the inside.
 Narrator: BAH-lahg frowned.
-Balag: Leather can do that?
+Balag: [skeptical] Leather can do that?
 Zik: It loses the oils first.
 Balag: The outside still looks fine.
 Zik: Exactly.
@@ -403,7 +403,7 @@ Balag: For leather?
 Enhedu: For people.
 Narrator: Neither man argued.
 Narrator: BAH-lahg tested the repair with two hard tugs and grunted.
-Balag: It'll hold.
+Balag: [grunts] It'll hold.
 Zik: Until it doesn't,
 Narrator: Zeek said.
 Zik: Same as everything else.
@@ -417,7 +417,7 @@ Narrator: BAH-lahg noticed him staring at nothing in particular.
 Balag: You thinking about the Collector?
 Zik: Thinking about how much silver it takes to keep a mother in medicine and a crew in rope.
 Narrator: BAH-lahg spat into the dust.
-Balag: Same fucking math again.
+Balag: [bitterly] Same fucking math again.
 Zik: Always is.
 Narrator: They moved on once the shadow of the acacia had shrunk to nothing useful. The repaired strap held. The donkeys settled into their usual sullen rhythm. The journal stayed in the pack, quiet for once.
 Narrator: Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. Uruk was still a day out, but the desert had started remembering there were cities in the world.
@@ -478,7 +478,7 @@ Enhedu: He wasn't a farmer.
 Balag: No?
 Enhedu: He copied contracts.
 Narrator: BAH-lahg frowned.
-Balag: Then why repair ditches?
+Balag: [skeptical] Then why repair ditches?
 Enhedu: He said the water couldn't read ownership marks.
 Narrator: Zeek laughed softly.
 Narrator: The sound surprised all three of them.
@@ -547,7 +547,7 @@ The Collector: You're missing one.
 Zik: KOO-rash got greedy.
 Narrator: The Collector looked up.
 Narrator: Zeek shrugged.
-Zik: The desert is full of traps. You know how it is.
+Zik: [casually] The desert is full of traps. You know how it is.
 The Collector: Yes.
 Narrator: The Collector turned the seal over in his fingers.
 The Collector: The desert is famously responsible for the poor decisions of men.
@@ -600,10 +600,10 @@ Zik: I know.
 Narrator: They haggled for nearly twenty minutes, which meant the Collector offered half of what the objects were worth and Zeek threatened to take them elsewhere without ever naming another buyer. Neither of them believed the other. That was the entire point.
 Narrator: In the end Zeek walked away with enough silver to keep his mother in medicine for another month, enough coin to replace the supplies lost in the desert, and enough lies to keep the Collector from asking the questions that mattered.
 Narrator: He was almost through the front room when the Collector spoke again.
-The Collector: Zee-keer.
+The Collector: [softly] Zee-keer.
 Narrator: Zeek stopped. The Collector had not used his full name in years.
 Narrator: He turned slowly. The Collector was still sitting behind the table, one hand resting on the open ledger. His gaze had returned to Zeek's palm.
-The Collector: Where did you get that?
+The Collector: [curious] Where did you get that?
 Narrator: Zeek looked down at his hand. The linen concealed the mark completely.
 Zik: What?
 Narrator: The Collector's eyes narrowed.
@@ -702,7 +702,7 @@ Zik: Then how do you know?
 Enhedu: Because you came out of that tomb looking like a man who couldn't stab what he had seen.
 Narrator: Zeek stared at her.
 Narrator: En-HEH-doo shrugged.
-Enhedu: It's a distinctive expression.
+Enhedu: [casually] It's a distinctive expression.
 Narrator: He started walking again. She followed. Neither of them mentioned the dead king after that.
 Narrator: Zeek's mother's house was a single cramped room above a potter's kiln. The heat never left. Even after sunset the walls radiated the day's warmth into the room, and the air smelled faintly of smoke, clay, and the bitter medicinal herbs his mother had begun boiling more often than she admitted.
 Narrator: She was thinner than she had been the week before. Zeek noticed it immediately. He always noticed.
@@ -726,9 +726,9 @@ Zik's Mother: Same eyes.
 Zik: People have eyes.
 Zik's Mother: Same lie.
 Narrator: Zeek turned toward the window. Outside, the city was settling into evening. Lamps appeared one by one along the streets. Voices drifted upward from below, blurred by the heat.
-Zik: I'm not him.
+Zik: [quietly] I'm not him.
 Narrator: His mother was quiet for a while.
-Zik's Mother: No,
+Zik's Mother: [softly] No,
 Narrator: she said.
 Zik's Mother: You never were.
 Narrator: Zeek looked back at her.
@@ -742,7 +742,7 @@ Narrator: His mother did not answer immediately. When she did, her voice was sof
 Zik's Mother: I think your father believed that knowing gave him the right to touch it.
 Narrator: Zeek said nothing.
 Narrator: She coughed into her sleeve. The sound was small, but it seemed to fill the entire room.
-Zik's Mother: That's not the same as being brave,
+Zik's Mother: [coughs] That's not the same as being brave,
 Narrator: she said.
 Narrator: Zeek looked away.
 Narrator: He left without answering her. He never did.
@@ -905,7 +905,7 @@ Narrator: At first glance the spirals appeared identical.
 Narrator: Then he noticed the tiny variations.
 Zik: No.
 Narrator: He frowned.
-Zik: They're changing.
+Zik: [skeptical] They're changing.
 Narrator: A flicker crossed her face.
 Narrator: The closest thing to approval.
 Ninsun: How?
@@ -953,7 +953,7 @@ Ninsun: I know someone erased it.
 Zik: How?
 Ninsun: I've spent four years copying tablets that no longer agree with tablets copied twenty years earlier.
 Narrator: BAH-lahg frowned.
-Balag: People make mistakes.
+Balag: [skeptical] People make mistakes.
 Ninsun: Scribes do.
 Narrator: Ninsun nodded.
 Ninsun: Kings don't allow the same mistake on three hundred different tablets.
@@ -996,14 +996,14 @@ Narrator: Ninsun stood. She was shorter than En-HEH-doo and carried herself like
 Ninsun: I'm telling you I already know more about the symbol on your skin than the Collector does, and I am coming with you whether you like the arrangement or not.
 Narrator: BAH-lahg made a low sound that might have been a laugh.
 Balag: [laughs] Confident.
-Ninsun: Desperate,
+Ninsun: [quietly] Desperate,
 Narrator: Ninsun corrected.
 Ninsun: There's a difference.
 Narrator: En-HEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.
 Enhedu: What's your cut?
 Ninsun: I don't care about the silver.
 Enhedu: Everyone cares about the silver.
-Ninsun: I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists.
+Ninsun: [intense] I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists.
 Narrator: Ninsun's voice stayed level, but something underneath it had gone hard.
 Ninsun: You can keep the silver. I want the truth the city is trying to edit out of itself.
 Narrator: Zeek looked at her for a long moment.
@@ -1015,7 +1015,7 @@ Narrator: he said.
 Ninsun: Understood.
 Zik: You get us killed chasing blank tablets, I'll make sure the city remembers your name long enough to regret it.
 Narrator: Ninsun almost smiled. It didn't reach her eyes.
-Ninsun: Also understood.
+Ninsun: [amused] Also understood.
 Narrator: BAH-lahg shifted his weight.
 Balag: We taking her or not?
 Narrator: Zeek looked at En-HEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now.
@@ -1236,7 +1236,7 @@ Narrator: BAH-lahg turned.
 Balag: It still should be.
 Narrator: Ninsun did not look surprised.
 Narrator: She looked tired.
-Ninsun: The fog isn't thick enough.
+Ninsun: [tired] The fog isn't thick enough.
 Narrator: BAH-lahg gripped his spear.
 Balag: What does that mean?
 Ninsun: It usually hides the change.
@@ -1270,7 +1270,7 @@ Narrator: The impossible doorway began to narrow.
 Narrator: The old bricks slid toward one another without sound.
 Narrator: Zeek stepped forward.
 Narrator: BAH-lahg caught the back of his tunic.
-Balag: No.
+Balag: [firmly] No.
 Zik: There are prints.
 Balag: There are always prints.
 Zik: Not like these.
@@ -1290,7 +1290,7 @@ Narrator: Black water.
 Narrator: Ninsun took one step toward the passage.
 Narrator: Zeek caught her wrist.
 Narrator: She tried to pull free.
-Ninsun: My sister—
+Ninsun: [desperate] My sister—
 Zik: Is not a pigeon.
 Ninsun: You don't know that she isn't in there.
 Zik: I don't know what 'there' is.
@@ -1562,7 +1562,7 @@ Ninsun: This is an administrative seal.
 Narrator: Ninsun angled it toward the lamp.
 Ninsun: The border is doubled. Private contracts used a single line. Temple inventories used three.
 Narrator: BAH-lahg frowned.
-Balag: So?
+Balag: [skeptical] So?
 Ninsun: So this belonged to a civic office.
 Narrator: Zeek stepped closer.
 Zik: Which office?
@@ -1955,10 +1955,10 @@ Narrator: Her hair hung wet against her cheeks.
 Narrator: Ninsun stopped breathing.
 Narrator: Zeek caught her shoulder.
 Narrator: She jerked away.
-Ninsun: I saw her.
+Ninsun: [shaky] I saw her.
 Enhedu: What?
 Narrator: En-HEH-doo asked.
-Ninsun: My sister.
+Ninsun: [breathless] My sister.
 Narrator: The water stilled.
 Narrator: Only Ninsun's reflection remained.
 Narrator: BAH-lahg moved between her and the basin.
@@ -1982,7 +1982,7 @@ Ninsun: No.
 Narrator: She lunged for the stone.
 Narrator: Zeek caught her wrist before her fingers touched the carving.
 Narrator: The crack widened across the first sign.
-Ninsun: They're crossing it out,
+Ninsun: [panicked] They're crossing it out,
 Narrator: she said.
 Zik: Who?
 Ninsun: I don't know.
@@ -1995,7 +1995,7 @@ Ninsun: That isn't the same.
 Narrator: The next groove formed across the second sign.
 Narrator: Stone dust curled from the cut, though no tool touched it.
 Narrator: Ninsun twisted free and pressed the parchment against her chest.
-Ninsun: Ammaru,
+Ninsun: [defiantly] Ammaru,
 Narrator: she said aloud.
 Narrator: The cutting stopped.
 Narrator: Everyone went still.
@@ -2041,7 +2041,7 @@ Narrator: A spiral-drop mark covered it.
 Narrator: Ninsun's expression broke.
 Narrator: Not into grief.
 Narrator: Recognition.
-Ninsun: She never had that.
+Ninsun: [horrified] She never had that.
 Narrator: The face smiled.
 Narrator: Ninsun recoiled.
 Narrator: The water surged over the rim.
@@ -2139,7 +2139,7 @@ Ninsun: Because the moment I do, someone with a better title will decide it belo
 Narrator: She tucked the parchment deeper into the satchel.
 Ninsun: I'd rather it stay on a piece of paper I control.
 Narrator: BAH-lahg grunted.
-Balag: That's either smart or the kind of thinking that gets people buried under better titles.
+Balag: [grunts] That's either smart or the kind of thinking that gets people buried under better titles.
 Ninsun: Probably both.
 Narrator: They stepped fully back into the ordinary flow of the street.
 Narrator: The dark mouth in the wall had become a shallow recess. A basket seller had already set three empty crates against it. Any local would have sworn the recess had always been there.
@@ -2189,7 +2189,7 @@ Enhedu: Either we're forgetting our own marks, or someone else is using the same
 Ninsun: [softly] Or the city is,
 Narrator: Ninsun said quietly.
 Narrator: BAH-lahg spat into the dust.
-Balag: I hate every version of that sentence.
+Balag: [disgusted] I hate every version of that sentence.
 Narrator: Zeek ran his fingers over the two clean notches. The edges were sharp. Recent. The same depth and angle Ninsun used. He looked at her. She shook her head once. Not hers.
 Narrator: Ninsun crouched beside the marks.
 Ninsun: Give me the lamp.
@@ -2412,7 +2412,7 @@ Narrator: Zeek ran his thumb along the third notch. The stone dust came away cle
 Zik: We leave it,
 Narrator: he said.
 Narrator: BAH-lahg frowned.
-Balag: Just walk away?
+Balag: [skeptical] Just walk away?
 Zik: We mark our own and we move. If we start chasing every cut that isn't ours, we'll still be here when the streets forget our names.
 Narrator: Ninsun carefully added the location to her ugly, incomplete map, noting the forged third mark with a small cross. Her handwriting had gotten smaller and tighter over the last few days, as if she were trying to fit more city onto less paper.
 Narrator: They backed out. Behind them the passage had already narrowed enough that a man would have to turn sideways to enter. By the time they reached the main street it looked like a shallow service recess any local would have sworn had always been there.
@@ -2479,13 +2479,13 @@ Narrator: Nobody spoke.
 Narrator: The boy finally accepted the coin.
 Messenger Boy: He also said something else.
 Narrator: BAH-lahg stiffened.
-Balag: What?
+Balag: [tense] What?
 Narrator: The boy frowned, trying to remember.
 Messenger Boy: 'Tell them…'
 Narrator: He looked at the ceiling.
 Messenger Boy: '…they've started making the wrong marks.'
 Narrator: He shrugged.
-Messenger Boy: Didn't make much sense.
+Messenger Boy: [casually] Didn't make much sense.
 Narrator: He hurried down the stairs before anyone could stop him.
 Narrator: BAH-lahg remained at the doorway until the footsteps disappeared.
 Narrator: Then he quietly slid the bolt across the door.
@@ -2505,7 +2505,7 @@ Enhedu: It isn't hurried.
 Narrator: She studied the strokes.
 Enhedu: Whoever wrote this expected we'd read it.
 Narrator: BAH-lahg frowned.
-Balag: People usually expect that from letters.
+Balag: [skeptical] People usually expect that from letters.
 Enhedu: No.
 Narrator: En-HEH-doo tapped one corner.
 Enhedu: They expect we'll understand.
@@ -2538,7 +2538,7 @@ Narrator: Zeek picked up the note again.
 Zik: You think someone copied your habits.
 Ninsun: I think…
 Narrator: She hesitated.
-Ninsun: …someone has seen enough of my work to imitate it.
+Ninsun: [hesitant] …someone has seen enough of my work to imitate it.
 Narrator: En-HEH-doo folded her arms.
 Enhedu: Or you've seen theirs.
 Narrator: Ninsun didn't answer.
@@ -2600,7 +2600,7 @@ Narrator: Not stagnant.
 Narrator: Not sour.
 Narrator: Fresh enough to drink.
 Narrator: En-HEH-doo frowned.
-Enhedu: So whoever owned this…
+Enhedu: [skeptical] So whoever owned this…
 Zik: …was here recently.
 Narrator: Ninsun looked up from the tablet.
 Ninsun: Or recently enough that the city hasn't decided otherwise.
@@ -2666,7 +2666,7 @@ Narrator: BAH-lahg sat down opposite her.
 Balag: You think he was like us.
 Ninsun: I think…
 Narrator: She hesitated.
-Ninsun: …he thought he was the first.
+Ninsun: [hesitant] …he thought he was the first.
 [pause 1.5s]
 Narrator: Silence settled over the room.
 Narrator: Zeek understood the thought immediately.
@@ -2682,7 +2682,7 @@ Narrator: BAH-lahg cleaned his spear in silence. En-HEH-doo turned the small cop
 Narrator: After a long time En-HEH-doo spoke.
 Enhedu: We keep marking, someone else pays. We stop marking, we walk blind. That's the math.
 Narrator: BAH-lahg grunted.
-Balag: Same fucking math as always. Just higher numbers.
+Balag: [grunts] Same fucking math as always. Just higher numbers.
 Narrator: Ninsun didn't look up from the map.
 Ninsun: I'm not stopping.
 Zik: Didn't think you were,
@@ -2742,7 +2742,7 @@ Balag: If we'd walked farther into the basin room, you wouldn't have come back.
 Ninsun: You don't know that.
 Balag: No.
 Narrator: His voice stayed calm.
-Balag: I know we almost didn't.
+Balag: [calmly] I know we almost didn't.
 Narrator: En-HEH-doo watched them without interrupting.
 Narrator: She had seen the argument before.
 Narrator: Not the words.
@@ -2782,7 +2782,7 @@ Narrator: [slowly] LIMIT.
 Narrator: She stared at the word for several moments.
 Narrator: Then she crossed it out.
 Narrator: BAH-lahg frowned.
-Balag: Changed your mind?
+Balag: [skeptical] Changed your mind?
 Ninsun: No.
 Narrator: She wrote again.
 Narrator: Not LIMIT.
@@ -2875,7 +2875,7 @@ The Collector: I hope you're smarter than he was. Or luckier. I'm not certain wh
 Narrator: Then he was gone.
 Narrator: The lane felt smaller after he left.
 Narrator: BAH-lahg exhaled through his nose.
-Balag: I fucking hate that man.
+Balag: [annoyed] I fucking hate that man.
 Enhedu: He's not wrong about the attention,
 Narrator: En-HEH-doo said. She was already recalculating something behind her eyes.
 Enhedu: We've been loud in places that prefer quiet.
@@ -2949,7 +2949,7 @@ Zik: If these were construction marks, they'd be beneath this plaster.
 Narrator: Instead they sat on top of it.
 Zik: They wanted someone to erase them.
 Narrator: BAH-lahg frowned.
-Balag: That's a strange thing to want.
+Balag: [skeptical] That's a strange thing to want.
 Ninsun: No.
 Narrator: Ninsun's voice was almost a whisper.
 Ninsun: [whispers] It's a very ordinary thing.
@@ -3169,7 +3169,7 @@ Narrator: The first tablet listed three warehouse owners.
 Narrator: The second recorded a dyer's yard absorbed into temple property.
 Narrator: The third had been scraped smooth and reused for grain tallies.
 Narrator: Ninsun's jaw tightened.
-Ninsun: They overwrote it.
+Ninsun: [tense] They overwrote it.
 Zik: Can you recover anything?
 Narrator: Zeek asked.
 Ninsun: Not without daylight and hours.
@@ -3203,9 +3203,9 @@ Narrator: No one moved.
 Narrator: Zeek crouched beside her.
 Zik: What does the entry say?
 Narrator: Ninsun read carefully.
-Ninsun: 'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'
+Ninsun: [carefully] 'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'
 Narrator: BAH-lahg frowned.
-Balag: Cistern stair?
+Balag: [skeptical] Cistern stair?
 Narrator: Ninsun read the next line.
 Narrator: Her face changed.
 Zik: What?
@@ -3227,7 +3227,7 @@ Narrator: One line survived near the lower edge.
 Narrator: She tilted it into the light.
 Ninsun: 'Exemption revoked after keeper refused transfer of the name.'
 Narrator: En-HEH-doo's expression hardened.
-Enhedu: What does that mean?
+Enhedu: [tense] What does that mean?
 Ninsun: I don't know.
 Enhedu: You know what the words mean.
 Ninsun: I don't know what they mean together.
@@ -3369,7 +3369,7 @@ Narrator: The custodian's head turned slightly.
 Narrator: Someone dragged one of the broken scales aside.
 Narrator: A man coughed.
 Narrator: Another voice called,
-Archive Guard: Mardu?
+Archive Guard: [shouts] Mardu?
 Narrator: The old custodian did not answer.
 Narrator: En-HEH-doo lowered her voice.
 Enhedu: [whispers] You came alone.
@@ -3410,7 +3410,7 @@ Narrator: Zeek stared at him.
 Zik: He wasn't born when those ledgers were written.
 Mardu: I told him the same thing.
 Narrator: The guard above came closer. His boots struck the floor directly over the archive door.
-Archive Guard: Mardu?
+Archive Guard: [shouts] Mardu?
 Narrator: The custodian raised the lamp.
 Narrator: His shadow stretched down the steps, long enough to reach the seven drawers.
 Mardu: He opened it anyway,
@@ -3433,7 +3433,7 @@ Narrator: A pause.
 Archive Guard: Need help?
 Mardu: No.
 Archive Guard: You've been down there too long.
-Mardu: I am old. Everything takes too long.
+Mardu: [dryly] I am old. Everything takes too long.
 Narrator: BAH-lahg's mouth twitched despite himself.
 Narrator: The guard muttered something to the clerk. Their footsteps moved away, but not far.
 Narrator: Mardu looked down at the four of them.
@@ -3472,7 +3472,7 @@ Narrator: Behind the shelf lay a rectangular opening barely high enough to crawl
 Narrator: BAH-lahg peered inside.
 Balag: Smells like an animal died in there.
 Narrator: Mardu looked down from the doorway.
-Mardu: Many have.
+Mardu: [dryly] Many have.
 Balag: Better and better.
 Narrator: The guard above returned.
 Archive Guard: Mardu.
@@ -3492,7 +3492,7 @@ Narrator: The door closed.
 Narrator: The lock turned.
 Narrator: Darkness dropped into the chamber.
 Narrator: A fist struck the wood from above.
-Archive Guard: Mardu?
+Archive Guard: [shouts] Mardu?
 Narrator: The custodian's voice came muffled through the door.
 Mardu: The pin is stuck.
 Narrator: BAH-lahg crouched beside the culvert.
@@ -3514,7 +3514,7 @@ Narrator: Harder.
 Narrator: Wood creaked.
 Narrator: BAH-lahg caught Ninsun by the upper arm and steered her toward the opening.
 Narrator: She twisted free.
-Ninsun: Do not drag me.
+Ninsun: [sharply] Do not drag me.
 Balag: Then crawl.
 Narrator: She dropped to her knees and pushed the copied ledger scrap deep inside her robe. The blank tablet she left on the floor.
 Narrator: Zeek noticed.
@@ -3784,7 +3784,7 @@ Ninsun: No.
 Narrator: She pointed toward the spine.
 Ninsun: The surface has stretched.
 Narrator: Zeek frowned.
-Zik: I don't see—
+Zik: [skeptical] I don't see—
 Ninsun: The stitching.
 Narrator: He looked again.
 Narrator: The thread along the spine no longer sat perfectly straight. It rose and settled almost imperceptibly, as though something beneath the cover had shifted.
@@ -3826,7 +3826,7 @@ Ninsun: It is not a surface plan.
 Narrator: Zeek leaned closer.
 Zik: Old surveyors liked details.
 Narrator: She frowned.
-Ninsun: No.
+Ninsun: [skeptical] No.
 Narrator: Zeek looked up.
 Zik: No?
 Ninsun: I answered too quickly.
@@ -3870,7 +3870,7 @@ Narrator: The boxes Ninsun had drawn on her map—CLAIMED, COST, LIMIT—corresp
 Narrator: En-HEH-doo leaned forward.
 Enhedu: It has our passages.
 Narrator: Ninsun's face hardened.
-Ninsun: It has more than our passages.
+Ninsun: [tense] It has more than our passages.
 Narrator: Below each known shifted street, the map showed additional routes.
 Narrator: Closed corridors.
 Narrator: Collapsed stairs.
@@ -3900,7 +3900,7 @@ Ninsun: No.
 Narrator: Ninsun lowered herself until her eyes were level with the page.
 Ninsun: The tissue thickened along both sides.
 Narrator: BAH-lahg frowned.
-Balag: You can tell that?
+Balag: [skeptical] You can tell that?
 Ninsun: Parchment damage splits fibers. This closed before the material was cured.
 Narrator: She looked at Zeek.
 Ninsun: It healed.
@@ -3928,7 +3928,7 @@ Narrator: No one spoke.
 Narrator: Zeek looked at his father's old handwriting between the spreading lines.
 Zik: What body?
 Narrator: Ninsun stared at the parchment.
-Ninsun: A human one.
+Ninsun: [shaken] A human one.
 Narrator: The carters near the well stopped arguing.
 Narrator: One lifted his head.
 Narrator: En-HEH-doo smiled toward them again.
@@ -4035,7 +4035,7 @@ Ninsun: We stopped one level too soon.
 Narrator: En-HEH-doo's voice was barely above a whisper.
 Enhedu: [whispers] Then whatever your father found…
 Narrator: Zeek finished the thought.
-Zik: …is still waiting below.
+Zik: [quietly] …is still waiting below.
 [pause 3s]
 
 
@@ -4141,10 +4141,10 @@ Narrator: Zeek stepped aside.
 Narrator: The scribe hurried past him, then stopped at the end of the alley.
 False Scribe: Zee-keer.
 Narrator: Zeek looked over his shoulder. The scribe's face had changed. The nervousness was gone. For just a second he looked older.
-False Scribe: Some doors are sealed because what is behind them is dangerous.
+False Scribe: [ominous] Some doors are sealed because what is behind them is dangerous.
 Narrator: Zeek waited.
 Narrator: The scribe's eyes dropped to the mark on Zeek's palm.
-False Scribe: Some are sealed because the thing behind them is still waiting.
+False Scribe: [ominous] Some are sealed because the thing behind them is still waiting.
 Narrator: Then he walked away.
 Narrator: Zeek remained in the alley.
 Narrator: The words should have sounded like a threat. Instead they sounded familiar. He hated that.
@@ -4440,7 +4440,7 @@ Narrator: They passed between steaming pots and hanging pans. The heat struck Ze
 Narrator: A bundle of onions dropped from its hook.
 Narrator: The boy cursed.
 Narrator: The cook turned from the hearth with a ladle raised like a weapon.
-Inn Cook: Out.
+Inn Cook: [shouts] Out.
 Zik: Already doing that,
 Narrator: Zeek said.
 Narrator: Something struck the courtyard wall behind them.
@@ -4732,7 +4732,7 @@ Narrator: The Collector waited.
 Narrator: Zeek heard water dripping from the eaves into the alley below.
 Narrator: One drop.
 Narrator: Then another.
-The Collector: You,
+The Collector: [softly] You,
 Narrator: the Collector said.
 Narrator: The journal knocked once.
 Narrator: The sound was softer than it had been in the courtyard.
@@ -4765,7 +4765,7 @@ Narrator: the Collector said.
 Zik: What methods?
 The Collector: He altered records. He paid men to forget routes. He moved objects from one collection to another. He convinced a priesthood that a damaged seal belonged in a provincial storehouse where no one would bother cataloguing it for three generations.
 Narrator: Ninsun's mouth tightened at the insult to cataloguing.
-Ninsun: He erased Ammaru?
+Ninsun: [tense] He erased Ammaru?
 Narrator: she asked.
 The Collector: No.
 Ninsun: Who did?
@@ -4779,7 +4779,7 @@ Enhedu: No.
 Ninsun: I only want to see his face.
 Enhedu: That has killed better people than you.
 Narrator: Ninsun looked offended.
-Ninsun: I doubt that.
+Ninsun: [offended] I doubt that.
 Narrator: Zeek kept his voice low.
 Zik: [whispers] My father knew the seventh drawer named me.
 The Collector: Yes.
@@ -4964,7 +4964,7 @@ Zik: What happened?
 Narrator: Zeek asked.
 The Collector: The floor remembered me.
 Narrator: Ninsun frowned.
-Ninsun: That is not an archaeological description.
+Ninsun: [skeptical] That is not an archaeological description.
 The Collector: No,
 Narrator: the Collector said.
 The Collector: It is the only accurate one.
@@ -5041,7 +5041,7 @@ Narrator: Ninsun came to the window with the bronze seal in her palm.
 Narrator: The handprints ended at the roof.
 Narrator: No marks led across the tiles.
 Narrator: BAH-lahg stepped back from the shutter.
-Balag: I dislike him more than before.
+Balag: [dryly] I dislike him more than before.
 Narrator: Zeek closed it.
 Zik: That still may be the safest conclusion we have reached.
 Narrator: Ninsun placed the bronze seal on the table.
@@ -5650,7 +5650,7 @@ Narrator: Zeek asked.
 Balag: First gate took a man's shadow. Second took the voice people knew him by. Third took the hand he trusted. After that, the story changed depending on how much beer my grandfather had.
 Zik: And the fourth?
 Narrator: BAH-lahg's mouth tightened.
-Balag: His name.
+Balag: [gravely] His name.
 Narrator: The gray donkey shifted beside him.
 Narrator: Its hoof struck the ground four times.
 Narrator: Once.
@@ -5726,7 +5726,7 @@ Enhedu: Can it mean tomb?
 Ninsun: Sometimes.
 Enhedu: Prison?
 Narrator: Ninsun hesitated.
-Ninsun: Yes.
+Ninsun: [hesitant] Yes.
 Narrator: BAH-lahg looked east.
 Balag: And lid?
 Narrator: Another pause.
@@ -5809,7 +5809,7 @@ Balag: Names. Memories. Fingers. Whatever the stories say these gates take.
 Enhedu: You would notice a missing finger.
 Balag: I would prefer to establish that.
 Narrator: Ninsun pressed two fingers beneath her jaw as though checking for a pulse.
-Ninsun: My name is Ninsun Etana.
+Ninsun: [shaky] My name is Ninsun Etana.
 Balag: BAH-lahg,
 Narrator: BAH-lahg said.
 Narrator: En-HEH-doo looked at them.
@@ -5822,7 +5822,7 @@ Narrator: She watched him for a moment.
 Enhedu: En-HEH-doo.
 Narrator: BAH-lahg looked at Zeek.
 Narrator: Zeek closed the journal.
-Zik: Zee-keer Ash-SHOOR.
+Zik: [firmly] Zee-keer Ash-SHOOR.
 Narrator: The journal knocked once between his hands.
 Narrator: No answer came from beneath the ground.
 Narrator: The sun broke over the eastern horizon.
@@ -5977,7 +5977,7 @@ Narrator: Zeek answered. His own voice sounded strange to him.
 Narrator: Ninsun turned toward him.
 Ninsun: What did you hear?
 Narrator: Zeek looked at the desert. The dunes had not changed. The sky was clear. Nothing moved except the wind beginning to lift dust from the crest of the nearest ridge.
-Zik: An invitation,
+Zik: [quietly] An invitation,
 Narrator: he said.
 Narrator: They made camp early that evening. No one argued. The sun descended behind the dunes, turning the sky the color of tarnished metal. They built a small fire and kept the animals close. No one talked much.
 Narrator: Later, after the others had gone quiet, Zeek sat apart with the journal open across his knees. The stars above the desert were impossibly clear. He turned the pages.
@@ -6083,7 +6083,7 @@ Narrator: For a moment he was no longer standing in the stairwell. He saw the gr
 Narrator: Massive stones were dragged across the ground by teams of exhausted workers. Ropes groaned. Men shouted. Overseers struck anyone who stopped moving. There was no celebration, no ceremony, no dedication—only the silence men used when they were afraid of being heard.
 Narrator: One worker paused and looked down into the darkness of the unfinished structure. Then he dropped his tools and began screaming. The others turned. Several men dragged him away while he kicked and clawed at the ground. He screamed until the sound became raw and animal. A priest struck him across the mouth. The worker kept screaming.
 Narrator: His father stood in the same place. He was older than Zeek remembered—hair streaked with gray, face thinner, clothing torn and stained with dust. He looked like a man who had been walking for years without ever reaching the place he intended to go. Then he looked straight toward Zeek across the impossible distance. His expression was not fear. It was sorrow.
-Bel-iddin: You shouldn't be able to see this,
+Bel-iddin: [sorrowful] You shouldn't be able to see this,
 Narrator: he said.
 Narrator: The vision ended.
 Narrator: Zeek woke on the ground with BAH-lahg's heavy hands pinning his shoulders.
@@ -6204,20 +6204,20 @@ Enhedu: Your father. The journal. The warnings. Every time this place scares you
 Zik: Most things trying to kill us are traps.
 Enhedu: Most things trying to kill us are honest enough to just attack.
 Narrator: Ninsun frowned.
-Ninsun: That makes no sense.
+Ninsun: [skeptical] That makes no sense.
 Enhedu: It makes perfect sense.
 Narrator: En-HEH-doo turned fully toward Zeek. Her eyes had gone bright—not with fear, but with something closer to hunger.
 Enhedu: You keep assuming we need to escape from the First City. What if it isn't?
 Zik: What do you think it is, then?
 Narrator: She smiled the way a woman smiles when she has already picked her side.
-Enhedu: A kingdom.
+Enhedu: [hungrily] A kingdom.
 Narrator: BAH-lahg made a low sound in his throat. Ninsun stared at her.
 Ninsun: You want to go back,
 Narrator: Ninsun said.
 Enhedu: I want to know what's down there.
 Ninsun: You want to walk into the place that erased an entire city from history.
 Narrator: En-HEH-doo shrugged.
-Enhedu: You say that like it wasn't impressive.
+Enhedu: [casually] You say that like it wasn't impressive.
 Narrator: Zeek looked between them. BAH-lahg wanted the staircase because walls still made sense to him. Ninsun wanted it because she needed one true thing while the world kept lying. En-HEH-doo wanted it because she had decided the First City was the biggest score of her life—bigger than money, bigger than anything she had ever put a price on.
 Narrator: Zeek wanted it because his father had been there.
 Narrator: None of them said their real reason out loud. They turned back anyway.
@@ -6274,7 +6274,7 @@ Narrator: Nothing. Flat sand stretched unbroken in every direction. No footprint
 Narrator: BAH-lahg turned a slow circle.
 Balag: Then how did we get back?
 Narrator: Zeek looked down into the stairwell's black throat.
-Zik: I don't think we did.
+Zik: [quietly] I don't think we did.
 Narrator: From somewhere far below came three measured knocks.
 Narrator: Three more answered from the open desert behind them.
 Narrator: Zeek looked down into the stairwell. Then he turned and looked behind them, at the empty dark where the desert simply stopped being anything at all.
@@ -6382,7 +6382,7 @@ Ninsun: What does it say?
 Narrator: Ninsun asked.
 Narrator: He told them.
 Narrator: BAH-lahg's expression hardened.
-Balag: We're not giving it names.
+Balag: [tense] We're not giving it names.
 Narrator: En-HEH-doo tilted her head.
 Enhedu: What if it already has them?
 [pause 1.5s]
@@ -6445,7 +6445,7 @@ Narrator: No one asked her to continue.
 Narrator: The street narrowed further. Torchlight sank into the oily stone and did not return. Somewhere ahead, water dripped with the slow regularity of a clock that no longer measured hours anyone recognized.
 Narrator: Then they heard the voice.
 Narrator: It was thin, human, and exhausted, and it came from a side passage so narrow they would have walked past it without noticing.
-The Man Who Refused: Don't give it your name.
+The Man Who Refused: [hoarse] Don't give it your name.
 Narrator: BAH-lahg's axe was up before the last word finished. En-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment.
 Narrator: Zeek raised the torch.
 Narrator: The passage ended after only a few paces in a shallow alcove. A man sat against the back wall, knees drawn up, wrists resting loosely on them. His clothes were the same dust-fused linen they had seen on the gatekeeper, but his skin was still skin—gray, stretched thin, cracked at the corners of the mouth. His eyes tracked the torchlight with the slow recognition of someone who had not expected living faces again.
@@ -6473,13 +6473,13 @@ The Man Who Refused: The first threshold accepted your offering,
 Narrator: he said. Then, to Zeek:
 The Man Who Refused: First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—
 Narrator: He stopped. His mouth worked around a word that would not come.
-The Man Who Refused: I can still see her face,
+The Man Who Refused: [sadly] I can still see her face,
 Narrator: he said at last.
 The Man Who Refused: I just can't remember what anyone ever called her.
 [pause 1.5s]
 Narrator: Silence settled over the alcove.
 Narrator: Ninsun spoke carefully.
-Ninsun: And the fourth?
+Ninsun: [carefully] And the fourth?
 Narrator: The man looked at Zeek's wrapped hand, at the journal, at the mark that still pulsed faintly beneath the linen.
 The Man Who Refused: The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep.
 Narrator: He leaned his head back against the stone.
@@ -6488,7 +6488,7 @@ Narrator: he said to Zeek.
 The Man Who Refused: That means an account is already open. Everything after this is collection.
 Narrator: The journal pressed once against Zeek's ribs—deliberate, almost like confirmation.
 Narrator: The man closed his eyes.
-The Man Who Refused: Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving.
+The Man Who Refused: [hoarse] Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving.
 Narrator: BAH-lahg lowered the axe and offered his hand.
 Balag: Come with us.
 Narrator: The man stared at the open hand for a long time.
@@ -6595,7 +6595,7 @@ The Man Who Refused: Do not ask what lies beneath the last city.
 Narrator: Zeek turned.
 Zik: Why?
 Narrator: For the first time the man's composure cracked. His eyes shifted toward the darkness beyond the alcove, and something that resembled genuine fear moved across the wasted face.
-The Man Who Refused: Because it may hear you.
+The Man Who Refused: [whispers] Because it may hear you.
 Narrator: The first knock sounded from somewhere beyond the chamber.
 Narrator: Three measured strikes. Not loud. Not hurried. The sound traveled through the black stone without echoing, through the soles of their feet and the bones of their bodies.
 Narrator: Ninsun turned slowly toward Zeek. He was staring at his left hand.
@@ -6645,7 +6645,7 @@ Narrator: The vision folded.
 Narrator: She was back in the narrow dark of the passage, a small golden figurine solid and cold in her open hand. She knew exactly what it was worth. She knew exactly how many throats would be cut for it. She looked at it the way she would look at a chipped cup.
 Narrator: Nothing there worth the looking.
 Narrator: That was when Zeek found her. He appeared at the far end of the passage without sound, the way everything in this place had learned to move. His eyes went from the figurine to her face. Something in her expression told him more than either object did.
-Zik: En-HEH-doo?
+Zik: [concerned] En-HEH-doo?
 Narrator: She turned toward him. For the first time since he had known her, she looked lost, and she hated that he was the one who got to see it.
 Enhedu: [flatly] I know this matters,
 Narrator: she said, and held out the figurine like proof.
@@ -6952,7 +6952,7 @@ Narrator: Zeek followed her gaze. He could almost retrieve the shape—someone y
 Narrator: En-HEH-doo frowned at the empty space.
 Enhedu: [flatly] I remember a knife. Not the hand that carried it.
 Narrator: BAH-lahg stared at them as though they had begun speaking a language he had never learned.
-Balag: Who?
+Balag: [confused] Who?
 Narrator: The City had not merely been changing the walls around them.
 Narrator: It had been cutting pieces directly out of their heads.
 Narrator: Not only names.
@@ -6990,11 +6990,11 @@ Narrator: Zeek said. The words tasted like ash.
 Zik: Ninsun. She's been with us since the gate.
 Narrator: He kept his voice level, the way he might speak to a spooked animal, though he was no longer certain whether the effort was for BAH-lahg's benefit or his own.
 Narrator: BAH-lahg frowned. The information seemed to travel a great distance to reach him, losing pieces of itself along the way.
-Balag: No,
+Balag: [skeptical] No,
 Narrator: he said slowly.
 Balag: We were three. You, me, and the knife-woman.
 Narrator: He gestured vaguely toward En-HEH-doo, who watched without reacting, the figurine turning slowly in her hands.
-Balag: I don't know who told you to follow us, but you're a liability.
+Balag: [coldly] I don't know who told you to follow us, but you're a liability.
 Narrator: Ninsun stepped forward and reached for his arm. He flinched away as though her hand carried contagion.
 Balag: Don't.
 Narrator: Zeek's mind moved through the cold arithmetic of the situation the way he had once turned over the mechanics of a trap before deciding where to place his foot. If the City had edited BAH-lahg's memory, what exactly had it put in the empty space where Ninsun used to be? A simple blank? Or an alternate history, complete and self-consistent, in which she had never existed and the three of them had always been three?
@@ -7055,7 +7055,7 @@ Narrator: He took a slow breath. His hand drifted to the journal, then past it. 
 Narrator: Looking at Ninsun changed the arithmetic.
 Narrator: The shadows in the room seemed to curl toward her. The stone behind her had begun to soften at the edges, the way limestone softened when the ledger was preparing to close an account.
 Narrator: He spoke without raising his voice.
-Zik: Her name is Ninsun. She is with us. She stays.
+Zik: [firmly] Her name is Ninsun. She is with us. She stays.
 Narrator: For a moment nothing answered.
 Narrator: Then BAH-lahg blinked, once, hard, as if something behind his eyes had been forcibly rethreaded. He looked at Ninsun with the startled recognition of a man who has just remembered a debt he did not know he owed.
 Balag: Ninsun,
@@ -7154,14 +7154,14 @@ Narrator: Ninsun caught up within a dozen paces.
 Narrator: She did not run and she did not shout. She simply walked alongside him, her presence a weight he had not asked for and could not put down.
 Narrator: The corridor stretched ahead, narrow and oppressive. Torchlight died against the darkness before it could reach the walls.
 Narrator: Zeek kept his eyes fixed forward.
-Ninsun: You lied,
+Ninsun: [flatly] You lied,
 Narrator: Ninsun said.
 Narrator: Her voice contained no anger. That was worse. It was flat and clinical, the voice of someone examining a wound and deciding, with professional detachment, how deep it went and whether it would scar.
 Narrator: Zeek kept walking.
 Zik: I haven't said anything.
-Ninsun: You read the journal. You closed it. You decided what the rest of us were allowed to know.
+Ninsun: [carefully] You read the journal. You closed it. You decided what the rest of us were allowed to know.
 Narrator: She placed each word carefully.
-Ninsun: That is a lie of a different kind. You have never once refused to show me the words before.
+Ninsun: [carefully] That is a lie of a different kind. You have never once refused to show me the words before.
 Narrator: He stopped.
 Narrator: The journal was warm against his fingers when he pulled it free. The mark under the linen on his palm pulsed once, slow and deliberate, as if the account were taking notice of the intention itself.
 Narrator: He intended to open it. He intended to end the accusation with evidence.
@@ -7197,7 +7197,7 @@ Ninsun: What does it say?
 Narrator: He could have told her. He could have shown her the page. He could have treated the information as shared rather than private.
 Narrator: He looked at the three openings, at BAH-lahg waiting for direction, at En-HEH-doo already half-turned toward the left-hand passage because someone else would eventually declare one of them relevant.
 Narrator: He converted ownership into safety because safety was the word that would make the others follow.
-Zik: It says the left path is safe.
+Zik: [evenly] It says the left path is safe.
 Narrator: Ninsun stared at him.
 Narrator: For a moment he thought she might argue, might reach for the journal again, might demand he open it and prove the accusation one way or the other.
 Narrator: Then she simply looked away, and something in her posture folded inward, the way paper folds when it has finally given up resisting the crease.
@@ -7289,7 +7289,7 @@ Balag: That I objected to following the invisible thing that knocks.
 Enhedu: [flatly] You didn't object,
 Narrator: En-HEH-doo said.
 Enhedu: [flatly] You raised the torch and went first.
-Balag: I objected internally.
+Balag: [dryly] I objected internally.
 Enhedu: [flatly] That seems convenient.
 Balag: It saves time. Imagine how slow we'd move if I explained every damn sensible thought I had.
 Narrator: En-HEH-doo's mouth shifted at one corner.
@@ -7447,7 +7447,7 @@ Ninsun: That is what it expects.
 Balag: And damaging it is what?
 Ninsun: Information.
 Narrator: He turned on her.
-Balag: You use that word whenever you want to make danger sound respectable.
+Balag: [tense] You use that word whenever you want to make danger sound respectable.
 Ninsun: Danger does not become less dangerous because we refuse to understand it.
 Balag: It also does not become safer because you measure it.
 Ninsun: No. But sometimes it becomes smaller.
@@ -7572,7 +7572,7 @@ Narrator: Something knocked from the other side of the wall.
 Narrator: Three measured blows sounded directly behind Zeek's head.
 Narrator: He turned despite her warning. His hand found only empty air where the carved wall should have been. The floor remained beneath his feet, but the chamber's boundaries had vanished. He reached downward for the journal and touched cold stone, then dust, then a narrow metal object that had not been there when the light failed.
 Narrator: A voice spoke close to his left ear.
-The Remainder: [exhausted] Do you remember the key?
+The Remainder: [whispers] [exhausted] Do you remember the key?
 Narrator: Zeek froze. The voice was not BAH-lahg's, Ninsun's, or En-HEH-doo's. It sounded worn rather than old, each word roughened by disuse. Beneath that wear lay something he almost recognized, a cadence that made the scar in his palm tighten.
 Zik: Who are you?
 Narrator: Somewhere in the dark, En-HEH-doo asked what he had heard. BAH-lahg told her to be quiet. Their voices overlapped, distant and uncertain.
@@ -7620,9 +7620,9 @@ Enhedu: [flatly] And where would you cook?
 Balag: The room.
 Narrator: She shook her head.
 Enhedu: [flatly] You'd burn your own house down.
-Balag: Maybe.
+Balag: [casually] Maybe.
 Narrator: He shrugged.
-Balag: Still sounds better than this.
+Balag: [casually] Still sounds better than this.
 Narrator: His voice faded as the passage narrowed.
 Narrator: The walls had changed. Earlier they had been cut with the straight, deliberate lines of worked masonry, but here the stone curved inward in slow, uneven folds. Moisture gathered in shallow depressions and reflected the torchlight in dull patches that looked almost metallic. Every few steps Zeek caught himself studying those reflections, convinced for an instant that something had shifted just beyond the reach of the light.
 Narrator: Nothing ever had.
@@ -7640,7 +7640,7 @@ Ninsun: It isn't reading your mind.
 Narrator: She let her fingertips trail lightly across the wall as she walked.
 Ninsun: It doesn't care what you know. It cares about the part of you that's still trying to know more.
 Narrator: BAH-lahg frowned.
-Balag: That's a ridiculous sentence.
+Balag: [skeptical] That's a ridiculous sentence.
 Ninsun: I know.
 Balag: Then explain it like I'm an idiot.
 Ninsun: You've never touched a hot cooking pot twice.
@@ -7648,7 +7648,7 @@ Balag: I have.
 Narrator: She looked over her shoulder.
 Ninsun: On purpose?
 Narrator: BAH-lahg hesitated.
-Balag: …No.
+Balag: [hesitant] …No.
 Ninsun: You lost the part of yourself that believed it was worth trying again.
 Narrator: He scratched at his beard.
 Balag: …That's annoyingly sensible.
@@ -7858,7 +7858,7 @@ Zik: That is not an answer.
 The Remainder: [exhausted] It is the only one the City permits.
 Narrator: The journal trembled in his hand. Fresh ink rose beneath the earlier message, but the letters formed and erased themselves too quickly to read. The pages seemed to be arguing with one another, revising the moment before it could settle into a single truth.
 Narrator: The remainder's expression tightened. For the first time, impatience broke through the exhaustion.
-The Remainder: [exhausted] Take the damned key, Zeek.
+The Remainder: [impatiently] [exhausted] Take the damned key, Zeek.
 Narrator: He looked at the offered object, then at the matching scar on the man's wrist.
 Zik: How long have you been here?
 Narrator: The remainder glanced toward the blank wall.
@@ -7875,7 +7875,7 @@ Ninsun: Zeek, please.
 Narrator: He reached out.
 Narrator: The key was colder than stone should have been. The moment it touched his palm, the scar there burned, and the chamber lurched around him. For an instant he stood on both sides of the transaction: receiving the key and surrendering it, arriving and remaining, hearing his own voice ask a question he had already answered.
 Narrator: The remainder closed Zeek's fingers around the object with surprising gentleness.
-The Remainder: [exhausted] Don't make me wait here again.
+The Remainder: [pleading] [exhausted] Don't make me wait here again.
 Narrator: A seam of pale light appeared in the wall behind him. It ran from floor to ceiling in a line no wider than a hair, then widened with a sigh of displaced air. The black stone folded inward without hinges, revealing a narrow passage beyond.
 Narrator: Ninsun stumbled forward as the invisible weight released her. BAH-lahg's hammer struck the floor with enough force to jar it from his hands, while En-HEH-doo collapsed onto one hip and stared at the ceiling as though expecting it to follow.
 Narrator: None of them looked at the remainder.
@@ -7914,7 +7914,7 @@ Narrator: He stopped.
 Zik: [weakly] BAH-lahg.
 Narrator: Ninsun looked back at him, distracted.
 Ninsun: What?
-Zik: [weakly] BAH-lahg.
+Zik: [weakly] [skeptical] BAH-lahg.
 Narrator: He frowned.
 Zik: [weakly] And En-HEH-doo.
 Narrator: She waited.
@@ -7984,7 +7984,7 @@ Narrator: He joined her. Inside the nearest jar a man stood in the middle of a d
 Zik: [weakly] They're alive?
 Ninsun: I don't know.
 Narrator: She frowned.
-Ninsun: I don't even know if that's the right question.
+Ninsun: [skeptical] I don't even know if that's the right question.
 Narrator: Her torchlight drifted across the labels until she found one that seemed to catch her attention. She leaned closer, brushing a thin film of gray dust from the glass with the back of her fingers.
 Ninsun: Here.
 Narrator: Inside stood a miniature version of Zeek.
@@ -8012,9 +8012,9 @@ Ninsun: [softly] These aren't graves,
 Narrator: Ninsun continued quietly.
 Ninsun: [softly] A grave marks something that's finished.
 Zik: [weakly] Then what are they?
-Ninsun: I think…
+Ninsun: [hesitant] I think…
 Narrator: She hesitated, an unusual uncertainty creeping into her voice.
-Ninsun: I think they're corrections.
+Ninsun: [hesitant] I think they're corrections.
 Narrator: She withdrew her hand.
 Ninsun: Or attempts at correction.
 Zik: [weakly] The City keeps trying until something works.
@@ -8064,7 +8064,7 @@ Narrator: he said quietly.
 Narrator: Ninsun looked at him.
 Zik: [weakly] I told myself I was looking for answers.
 Narrator: His hand closed around the calcified key fused to his arm.
-Zik: [weakly] But I was looking for him.
+Zik: [quietly] [weakly] But I was looking for him.
 Narrator: He nodded toward the unfinished line beneath the label.
 Zik: [weakly] I don't know what that dash means.
 Ninsun: No.
@@ -8288,7 +8288,7 @@ Narrator: She pulled the cuff back. The fabric ended around emptiness. No wound 
 Narrator: Zeek looked once. Whatever he saw stripped the color from his face.
 Ninsun: Does it hurt?
 Narrator: she asked.
-Zik: [weakly] I can't remember what it felt like.
+Zik: [hollow] [weakly] I can't remember what it felt like.
 Narrator: The answer frightened her more than a scream would have.
 Narrator: A second line formed across the page. Ninsun caught fragments as the ink settled: OUTWARD, RECORD, something that might have been RETURN before a stroke crossed through it and turned it into another word. Zeek's hand moved with less resistance now. The muscles of his right arm still strained, but the quill had found a rhythm his body could not interrupt.
 Narrator: Ninsun wrapped both hands around his wrist and pulled.
@@ -8325,7 +8325,7 @@ Zik: [weakly] It is making a way.
 Ninsun: It is taking you apart.
 Zik: [weakly] Both can be true.
 Narrator: She turned on him.
-Ninsun: Do not become reasonable now.
+Ninsun: [tense] Do not become reasonable now.
 Narrator: His mouth twitched, but the expression cost him. The gray around his eye spread toward his temple.
 Narrator: The quill began a third line.
 Narrator: Ninsun watched his fingers lose their shape where they met the shaft. The skin did not crumble. It thinned into the dark stroke descending from the nib, as though each letter were being formed from some measure taken directly from him.
@@ -8340,28 +8340,28 @@ Ninsun: I'm carrying enough of the dead.
 Zik: [weakly] Then carry one more thing.
 Narrator: The passage behind her shortened. The distant pale light now stood no more than twenty paces away, framed by an arch whose upper stones were carved with signs Ninsun could not read quickly enough. The marks erased themselves as she looked.
 Narrator: Zeek turned his face toward her.
-Zik: [weakly] En-HEH-doo hated being carried.
+Zik: [fondly] [weakly] En-HEH-doo hated being carried.
 Ninsun: She hated not being paid.
 Zik: [weakly] Then tell her I still owe her.
-Ninsun: You can tell her yourself.
+Ninsun: [tearfully] You can tell her yourself.
 Narrator: The quill stopped.
 [pause 1.5s]
 Narrator: Silence gathered so completely that Ninsun heard the small metal knock of the figurine against the buckle inside her pocket.
 Narrator: A final ruled line impressed itself into the page.
 Narrator: Zeek's hand began to move again.
 Narrator: The first letter had barely formed when he said,
-Zik: [weakly] Go.
+Zik: [urgently] [weakly] Go.
 Narrator: She held his gaze.
 Narrator: His voice came more quietly.
 Zik: [weakly] You know what this place does when we hesitate.
 Narrator: Behind him, the jar that had held Subject 001 stood dark upon its shelf. The dash on its label remained, but the name beside it had blurred beyond recognition. Ninsun looked from the jar to the Ledger and understood that the library was not waiting for her agreement. It had already begun removing the evidence that any other choice had existed.
 Narrator: She pulled BAH-lahg's axe head from Zeek's pack and shoved it beneath her belt. The weight struck her hip.
-Ninsun: I will come back,
+Ninsun: [determined] I will come back,
 Narrator: she said.
 Zik: [weakly] Don't promise the City anything.
 Ninsun: I wasn't speaking to the City.
 Narrator: His right eye closed briefly. When it opened, more gray had entered it.
-Zik: [weakly] Then don't look back.
+Zik: [gently] [weakly] Then don't look back.
 Narrator: Ninsun stepped away from the desk.
 Narrator: The distance of one pace felt like betrayal. The second felt worse. By the third, the passage had begun to contract behind her, shelves drawing inward without moving. She turned and ran before the opening could decide it had never existed.
 Narrator: The corridor changed beneath each footfall. Numbers carved beside the shelves vanished as she passed. One arch narrowed until her shoulder struck stone that had not been there when she entered it. A row of jars appeared ahead, blocking the passage, and for a sickening moment she saw the father's label among them—SUBJECT 001, the dash still waiting—before every vessel darkened and the row became a wall.
@@ -8390,7 +8390,7 @@ Narrator: None came.
 Narrator: She waited for his voice, for a hand against the stone, for the blunt scrape of his boots crossing the threshold. The wind passed between the rocks and carried nothing with it.
 Narrator: The doorway narrowed by the width of a finger.
 Narrator: Ninsun pressed her forehead against the sun-warmed stone beside it.
-Ninsun: Zeek.
+Ninsun: [whispers] Zeek.
 Narrator: The gray surface inside the opening rippled once.
 Narrator: Something struck the other side.
 Narrator: Not a fist. Not a body. A single dull vibration traveled through the rock and into her hand, followed by the faint sound of a page being turned.

@@ -14,7 +14,7 @@ Narrator: He stopped.
 Zik: [weakly] BAH-lahg.
 Narrator: Ninsun looked back at him, distracted.
 Ninsun: What?
-Zik: [weakly] BAH-lahg.
+Zik: [weakly] [skeptical] BAH-lahg.
 Narrator: He frowned.
 Zik: [weakly] And En-HEH-doo.
 Narrator: She waited.
@@ -84,7 +84,7 @@ Narrator: He joined her. Inside the nearest jar a man stood in the middle of a d
 Zik: [weakly] They're alive?
 Ninsun: I don't know.
 Narrator: She frowned.
-Ninsun: I don't even know if that's the right question.
+Ninsun: [skeptical] I don't even know if that's the right question.
 Narrator: Her torchlight drifted across the labels until she found one that seemed to catch her attention. She leaned closer, brushing a thin film of gray dust from the glass with the back of her fingers.
 Ninsun: Here.
 Narrator: Inside stood a miniature version of Zeek.
@@ -112,9 +112,9 @@ Ninsun: [softly] These aren't graves,
 Narrator: Ninsun continued quietly.
 Ninsun: [softly] A grave marks something that's finished.
 Zik: [weakly] Then what are they?
-Ninsun: I think…
+Ninsun: [hesitant] I think…
 Narrator: She hesitated, an unusual uncertainty creeping into her voice.
-Ninsun: I think they're corrections.
+Ninsun: [hesitant] I think they're corrections.
 Narrator: She withdrew her hand.
 Ninsun: Or attempts at correction.
 Zik: [weakly] The City keeps trying until something works.
@@ -164,7 +164,7 @@ Narrator: he said quietly.
 Narrator: Ninsun looked at him.
 Zik: [weakly] I told myself I was looking for answers.
 Narrator: His hand closed around the calcified key fused to his arm.
-Zik: [weakly] But I was looking for him.
+Zik: [quietly] [weakly] But I was looking for him.
 Narrator: He nodded toward the unfinished line beneath the label.
 Zik: [weakly] I don't know what that dash means.
 Ninsun: No.

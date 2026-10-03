@@ -55,7 +55,7 @@ Narrator: The crack ran almost perfectly through its center.
 Narrator: She rubbed her thumb along the brittle edge.
 Enhedu: You know why leather fails here?
 Narrator: BAH-lahg shrugged.
-Balag: Because it gets old.
+Balag: [casually] Because it gets old.
 Enhedu: No.
 Narrator: She handed it to Zeek.
 Enhedu: He'll see it.
@@ -69,7 +69,7 @@ Zik: See these lighter lines?
 Narrator: Neither of them answered.
 Zik: It was drying from the inside.
 Narrator: BAH-lahg frowned.
-Balag: Leather can do that?
+Balag: [skeptical] Leather can do that?
 Zik: It loses the oils first.
 Balag: The outside still looks fine.
 Zik: Exactly.
@@ -82,7 +82,7 @@ Balag: For leather?
 Enhedu: For people.
 Narrator: Neither man argued.
 Narrator: BAH-lahg tested the repair with two hard tugs and grunted.
-Balag: It'll hold.
+Balag: [grunts] It'll hold.
 Zik: Until it doesn't,
 Narrator: Zeek said.
 Zik: Same as everything else.
@@ -96,7 +96,7 @@ Narrator: BAH-lahg noticed him staring at nothing in particular.
 Balag: You thinking about the Collector?
 Zik: Thinking about how much silver it takes to keep a mother in medicine and a crew in rope.
 Narrator: BAH-lahg spat into the dust.
-Balag: Same fucking math again.
+Balag: [bitterly] Same fucking math again.
 Zik: Always is.
 Narrator: They moved on once the shadow of the acacia had shrunk to nothing useful. The repaired strap held. The donkeys settled into their usual sullen rhythm. The journal stayed in the pack, quiet for once.
 Narrator: Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. Uruk was still a day out, but the desert had started remembering there were cities in the world.

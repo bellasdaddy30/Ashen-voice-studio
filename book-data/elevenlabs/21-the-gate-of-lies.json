@@ -1044,7 +1044,11 @@
 },
 {
 "speaker": "Balag",
-"text": "His name."
+"text": "His name.",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Narrator",
@@ -1351,7 +1355,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Yes."
+"text": "Yes.",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -1691,7 +1699,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "My name is Ninsun Etana."
+"text": "My name is Ninsun Etana.",
+"tags": [
+"shaky"
+],
+"tag": "shaky"
 },
 {
 "speaker": "Balag",
@@ -1745,7 +1757,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Zee-keer Ash-SHOOR."
+"text": "Zee-keer Ash-SHOOR.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",

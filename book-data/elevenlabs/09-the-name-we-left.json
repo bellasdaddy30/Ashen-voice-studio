@@ -872,7 +872,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I saw her."
+"text": "I saw her.",
+"tags": [
+"shaky"
+],
+"tag": "shaky"
 },
 {
 "speaker": "Enhedu",
@@ -885,7 +889,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "My sister."
+"text": "My sister.",
+"tags": [
+"breathless"
+],
+"tag": "breathless"
 },
 {
 "speaker": "Narrator",
@@ -982,7 +990,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "They're crossing it out,"
+"text": "They're crossing it out,",
+"tags": [
+"panicked"
+],
+"tag": "panicked"
 },
 {
 "speaker": "Narrator",
@@ -1035,7 +1047,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Ammaru,"
+"text": "Ammaru,",
+"tags": [
+"defiantly"
+],
+"tag": "defiantly"
 },
 {
 "speaker": "Narrator",
@@ -1246,7 +1262,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "She never had that."
+"text": "She never had that.",
+"tags": [
+"horrified"
+],
+"tag": "horrified"
 },
 {
 "speaker": "Narrator",
@@ -1650,7 +1670,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That's either smart or the kind of thinking that gets people buried under better titles."
+"text": "That's either smart or the kind of thinking that gets people buried under better titles.",
+"tags": [
+"grunts"
+],
+"tag": "grunts"
 },
 {
 "speaker": "Ninsun",

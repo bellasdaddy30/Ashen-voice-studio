@@ -8,14 +8,14 @@ Narrator: Ninsun caught up within a dozen paces.
 Narrator: She did not run and she did not shout. She simply walked alongside him, her presence a weight he had not asked for and could not put down.
 Narrator: The corridor stretched ahead, narrow and oppressive. Torchlight died against the darkness before it could reach the walls.
 Narrator: Zeek kept his eyes fixed forward.
-Ninsun: You lied,
+Ninsun: [flatly] You lied,
 Narrator: Ninsun said.
 Narrator: Her voice contained no anger. That was worse. It was flat and clinical, the voice of someone examining a wound and deciding, with professional detachment, how deep it went and whether it would scar.
 Narrator: Zeek kept walking.
 Zik: I haven't said anything.
-Ninsun: You read the journal. You closed it. You decided what the rest of us were allowed to know.
+Ninsun: [carefully] You read the journal. You closed it. You decided what the rest of us were allowed to know.
 Narrator: She placed each word carefully.
-Ninsun: That is a lie of a different kind. You have never once refused to show me the words before.
+Ninsun: [carefully] That is a lie of a different kind. You have never once refused to show me the words before.
 Narrator: He stopped.
 Narrator: The journal was warm against his fingers when he pulled it free. The mark under the linen on his palm pulsed once, slow and deliberate, as if the account were taking notice of the intention itself.
 Narrator: He intended to open it. He intended to end the accusation with evidence.
@@ -51,7 +51,7 @@ Ninsun: What does it say?
 Narrator: He could have told her. He could have shown her the page. He could have treated the information as shared rather than private.
 Narrator: He looked at the three openings, at BAH-lahg waiting for direction, at En-HEH-doo already half-turned toward the left-hand passage because someone else would eventually declare one of them relevant.
 Narrator: He converted ownership into safety because safety was the word that would make the others follow.
-Zik: It says the left path is safe.
+Zik: [evenly] It says the left path is safe.
 Narrator: Ninsun stared at him.
 Narrator: For a moment he thought she might argue, might reach for the journal again, might demand he open it and prove the accusation one way or the other.
 Narrator: Then she simply looked away, and something in her posture folded inward, the way paper folds when it has finally given up resisting the crease.

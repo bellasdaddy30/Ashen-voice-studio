@@ -21,9 +21,9 @@ Enhedu: [flatly] And where would you cook?
 Balag: The room.
 Narrator: She shook her head.
 Enhedu: [flatly] You'd burn your own house down.
-Balag: Maybe.
+Balag: [casually] Maybe.
 Narrator: He shrugged.
-Balag: Still sounds better than this.
+Balag: [casually] Still sounds better than this.
 Narrator: His voice faded as the passage narrowed.
 Narrator: The walls had changed. Earlier they had been cut with the straight, deliberate lines of worked masonry, but here the stone curved inward in slow, uneven folds. Moisture gathered in shallow depressions and reflected the torchlight in dull patches that looked almost metallic. Every few steps Zeek caught himself studying those reflections, convinced for an instant that something had shifted just beyond the reach of the light.
 Narrator: Nothing ever had.
@@ -41,7 +41,7 @@ Ninsun: It isn't reading your mind.
 Narrator: She let her fingertips trail lightly across the wall as she walked.
 Ninsun: It doesn't care what you know. It cares about the part of you that's still trying to know more.
 Narrator: BAH-lahg frowned.
-Balag: That's a ridiculous sentence.
+Balag: [skeptical] That's a ridiculous sentence.
 Ninsun: I know.
 Balag: Then explain it like I'm an idiot.
 Ninsun: You've never touched a hot cooking pot twice.
@@ -49,7 +49,7 @@ Balag: I have.
 Narrator: She looked over her shoulder.
 Ninsun: On purpose?
 Narrator: BAH-lahg hesitated.
-Balag: …No.
+Balag: [hesitant] …No.
 Ninsun: You lost the part of yourself that believed it was worth trying again.
 Narrator: He scratched at his beard.
 Balag: …That's annoyingly sensible.
@@ -259,7 +259,7 @@ Zik: That is not an answer.
 The Remainder: [exhausted] It is the only one the City permits.
 Narrator: The journal trembled in his hand. Fresh ink rose beneath the earlier message, but the letters formed and erased themselves too quickly to read. The pages seemed to be arguing with one another, revising the moment before it could settle into a single truth.
 Narrator: The remainder's expression tightened. For the first time, impatience broke through the exhaustion.
-The Remainder: [exhausted] Take the damned key, Zeek.
+The Remainder: [impatiently] [exhausted] Take the damned key, Zeek.
 Narrator: He looked at the offered object, then at the matching scar on the man's wrist.
 Zik: How long have you been here?
 Narrator: The remainder glanced toward the blank wall.
@@ -276,7 +276,7 @@ Ninsun: Zeek, please.
 Narrator: He reached out.
 Narrator: The key was colder than stone should have been. The moment it touched his palm, the scar there burned, and the chamber lurched around him. For an instant he stood on both sides of the transaction: receiving the key and surrendering it, arriving and remaining, hearing his own voice ask a question he had already answered.
 Narrator: The remainder closed Zeek's fingers around the object with surprising gentleness.
-The Remainder: [exhausted] Don't make me wait here again.
+The Remainder: [pleading] [exhausted] Don't make me wait here again.
 Narrator: A seam of pale light appeared in the wall behind him. It ran from floor to ceiling in a line no wider than a hair, then widened with a sigh of displaced air. The black stone folded inward without hinges, revealing a narrow passage beyond.
 Narrator: Ninsun stumbled forward as the invisible weight released her. BAH-lahg's hammer struck the floor with enough force to jar it from his hands, while En-HEH-doo collapsed onto one hip and stared at the ceiling as though expecting it to follow.
 Narrator: None of them looked at the remainder.

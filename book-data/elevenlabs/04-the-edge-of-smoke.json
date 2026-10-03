@@ -207,7 +207,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Then why repair ditches?"
+"text": "Then why repair ditches?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Enhedu",

@@ -106,7 +106,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Maybe."
+"text": "Maybe.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Narrator",
@@ -115,7 +119,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Still sounds better than this."
+"text": "Still sounds better than this.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Narrator",
@@ -189,7 +197,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That's a ridiculous sentence."
+"text": "That's a ridiculous sentence.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Ninsun",
@@ -221,7 +233,11 @@
 },
 {
 "speaker": "Balag",
-"text": "…No."
+"text": "…No.",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Ninsun",
@@ -1228,9 +1244,10 @@
 "speaker": "The Remainder",
 "text": "Take the damned key, Zeek.",
 "tags": [
+"impatiently",
 "exhausted"
 ],
-"tag": "exhausted",
+"tag": "impatiently] [exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
 {
@@ -1318,9 +1335,10 @@
 "speaker": "The Remainder",
 "text": "Don't make me wait here again.",
 "tags": [
+"pleading",
 "exhausted"
 ],
-"tag": "exhausted",
+"tag": "pleading] [exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
 {

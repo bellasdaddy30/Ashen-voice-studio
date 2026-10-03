@@ -142,7 +142,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I hate every version of that sentence."
+"text": "I hate every version of that sentence.",
+"tags": [
+"disgusted"
+],
+"tag": "disgusted"
 },
 {
 "speaker": "Narrator",

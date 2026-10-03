@@ -201,7 +201,7 @@ Narrator: They passed between steaming pots and hanging pans. The heat struck Ze
 Narrator: A bundle of onions dropped from its hook.
 Narrator: The boy cursed.
 Narrator: The cook turned from the hearth with a ladle raised like a weapon.
-Inn Cook: Out.
+Inn Cook: [shouts] Out.
 Zik: Already doing that,
 Narrator: Zeek said.
 Narrator: Something struck the courtyard wall behind them.

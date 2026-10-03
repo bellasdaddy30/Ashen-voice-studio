@@ -320,7 +320,11 @@
 },
 {
 "speaker": "Bel-iddin",
-"text": "You shouldn't be able to see this,"
+"text": "You shouldn't be able to see this,",
+"tags": [
+"sorrowful"
+],
+"tag": "sorrowful"
 },
 {
 "speaker": "Narrator",

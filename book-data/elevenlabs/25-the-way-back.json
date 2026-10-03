@@ -332,7 +332,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "That makes no sense."
+"text": "That makes no sense.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Enhedu",
@@ -357,7 +361,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "A kingdom."
+"text": "A kingdom.",
+"tags": [
+"hungrily"
+],
+"tag": "hungrily"
 },
 {
 "speaker": "Narrator",
@@ -387,7 +395,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "You say that like it wasn't impressive."
+"text": "You say that like it wasn't impressive.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Narrator",
@@ -629,7 +641,11 @@
 },
 {
 "speaker": "Zik",
-"text": "I don't think we did."
+"text": "I don't think we did.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",

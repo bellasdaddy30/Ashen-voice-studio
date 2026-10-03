@@ -77,20 +77,20 @@ Enhedu: Your father. The journal. The warnings. Every time this place scares you
 Zik: Most things trying to kill us are traps.
 Enhedu: Most things trying to kill us are honest enough to just attack.
 Narrator: Ninsun frowned.
-Ninsun: That makes no sense.
+Ninsun: [skeptical] That makes no sense.
 Enhedu: It makes perfect sense.
 Narrator: En-HEH-doo turned fully toward Zeek. Her eyes had gone bright—not with fear, but with something closer to hunger.
 Enhedu: You keep assuming we need to escape from the First City. What if it isn't?
 Zik: What do you think it is, then?
 Narrator: She smiled the way a woman smiles when she has already picked her side.
-Enhedu: A kingdom.
+Enhedu: [hungrily] A kingdom.
 Narrator: BAH-lahg made a low sound in his throat. Ninsun stared at her.
 Ninsun: You want to go back,
 Narrator: Ninsun said.
 Enhedu: I want to know what's down there.
 Ninsun: You want to walk into the place that erased an entire city from history.
 Narrator: En-HEH-doo shrugged.
-Enhedu: You say that like it wasn't impressive.
+Enhedu: [casually] You say that like it wasn't impressive.
 Narrator: Zeek looked between them. BAH-lahg wanted the staircase because walls still made sense to him. Ninsun wanted it because she needed one true thing while the world kept lying. En-HEH-doo wanted it because she had decided the First City was the biggest score of her life—bigger than money, bigger than anything she had ever put a price on.
 Narrator: Zeek wanted it because his father had been there.
 Narrator: None of them said their real reason out loud. They turned back anyway.
@@ -147,7 +147,7 @@ Narrator: Nothing. Flat sand stretched unbroken in every direction. No footprint
 Narrator: BAH-lahg turned a slow circle.
 Balag: Then how did we get back?
 Narrator: Zeek looked down into the stairwell's black throat.
-Zik: I don't think we did.
+Zik: [quietly] I don't think we did.
 Narrator: From somewhere far below came three measured knocks.
 Narrator: Three more answered from the open desert behind them.
 Narrator: Zeek looked down into the stairwell. Then he turned and looked behind them, at the empty dark where the desert simply stopped being anything at all.

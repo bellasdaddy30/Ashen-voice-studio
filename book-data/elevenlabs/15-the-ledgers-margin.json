@@ -670,7 +670,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "They overwrote it."
+"text": "They overwrote it.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
@@ -806,7 +810,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'"
+"text": "'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'",
+"tags": [
+"carefully"
+],
+"tag": "carefully"
 },
 {
 "speaker": "Narrator",
@@ -814,7 +822,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Cistern stair?"
+"text": "Cistern stair?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
@@ -904,7 +916,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "What does that mean?"
+"text": "What does that mean?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Ninsun",

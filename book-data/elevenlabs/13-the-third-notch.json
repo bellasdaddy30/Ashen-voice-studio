@@ -145,7 +145,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I know we almost didn't."
+"text": "I know we almost didn't.",
+"tags": [
+"calmly"
+],
+"tag": "calmly"
 },
 {
 "speaker": "Narrator",
@@ -314,7 +318,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Changed your mind?"
+"text": "Changed your mind?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Ninsun",

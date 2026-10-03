@@ -668,7 +668,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You use that word whenever you want to make danger sound respectable."
+"text": "You use that word whenever you want to make danger sound respectable.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Ninsun",
@@ -1250,9 +1254,10 @@
 "speaker": "The Remainder",
 "text": "Do you remember the key?",
 "tags": [
+"whispers",
 "exhausted"
 ],
-"tag": "exhausted",
+"tag": "whispers] [exhausted",
 "note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
 },
 {

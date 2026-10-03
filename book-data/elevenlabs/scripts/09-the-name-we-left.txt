@@ -211,10 +211,10 @@ Narrator: Her hair hung wet against her cheeks.
 Narrator: Ninsun stopped breathing.
 Narrator: Zeek caught her shoulder.
 Narrator: She jerked away.
-Ninsun: I saw her.
+Ninsun: [shaky] I saw her.
 Enhedu: What?
 Narrator: En-HEH-doo asked.
-Ninsun: My sister.
+Ninsun: [breathless] My sister.
 Narrator: The water stilled.
 Narrator: Only Ninsun's reflection remained.
 Narrator: BAH-lahg moved between her and the basin.
@@ -238,7 +238,7 @@ Ninsun: No.
 Narrator: She lunged for the stone.
 Narrator: Zeek caught her wrist before her fingers touched the carving.
 Narrator: The crack widened across the first sign.
-Ninsun: They're crossing it out,
+Ninsun: [panicked] They're crossing it out,
 Narrator: she said.
 Zik: Who?
 Ninsun: I don't know.
@@ -251,7 +251,7 @@ Ninsun: That isn't the same.
 Narrator: The next groove formed across the second sign.
 Narrator: Stone dust curled from the cut, though no tool touched it.
 Narrator: Ninsun twisted free and pressed the parchment against her chest.
-Ninsun: Ammaru,
+Ninsun: [defiantly] Ammaru,
 Narrator: she said aloud.
 Narrator: The cutting stopped.
 Narrator: Everyone went still.
@@ -297,7 +297,7 @@ Narrator: A spiral-drop mark covered it.
 Narrator: Ninsun's expression broke.
 Narrator: Not into grief.
 Narrator: Recognition.
-Ninsun: She never had that.
+Ninsun: [horrified] She never had that.
 Narrator: The face smiled.
 Narrator: Ninsun recoiled.
 Narrator: The water surged over the rim.
@@ -395,7 +395,7 @@ Ninsun: Because the moment I do, someone with a better title will decide it belo
 Narrator: She tucked the parchment deeper into the satchel.
 Ninsun: I'd rather it stay on a piece of paper I control.
 Narrator: BAH-lahg grunted.
-Balag: That's either smart or the kind of thinking that gets people buried under better titles.
+Balag: [grunts] That's either smart or the kind of thinking that gets people buried under better titles.
 Ninsun: Probably both.
 Narrator: They stepped fully back into the ordinary flow of the street.
 Narrator: The dark mouth in the wall had become a shallow recess. A basket seller had already set three empty crates against it. Any local would have sworn the recess had always been there.

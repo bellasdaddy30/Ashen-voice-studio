@@ -28,7 +28,7 @@ The Collector: You're missing one.
 Zik: KOO-rash got greedy.
 Narrator: The Collector looked up.
 Narrator: Zeek shrugged.
-Zik: The desert is full of traps. You know how it is.
+Zik: [casually] The desert is full of traps. You know how it is.
 The Collector: Yes.
 Narrator: The Collector turned the seal over in his fingers.
 The Collector: The desert is famously responsible for the poor decisions of men.
@@ -81,10 +81,10 @@ Zik: I know.
 Narrator: They haggled for nearly twenty minutes, which meant the Collector offered half of what the objects were worth and Zeek threatened to take them elsewhere without ever naming another buyer. Neither of them believed the other. That was the entire point.
 Narrator: In the end Zeek walked away with enough silver to keep his mother in medicine for another month, enough coin to replace the supplies lost in the desert, and enough lies to keep the Collector from asking the questions that mattered.
 Narrator: He was almost through the front room when the Collector spoke again.
-The Collector: Zee-keer.
+The Collector: [softly] Zee-keer.
 Narrator: Zeek stopped. The Collector had not used his full name in years.
 Narrator: He turned slowly. The Collector was still sitting behind the table, one hand resting on the open ledger. His gaze had returned to Zeek's palm.
-The Collector: Where did you get that?
+The Collector: [curious] Where did you get that?
 Narrator: Zeek looked down at his hand. The linen concealed the mark completely.
 Zik: What?
 Narrator: The Collector's eyes narrowed.
@@ -183,7 +183,7 @@ Zik: Then how do you know?
 Enhedu: Because you came out of that tomb looking like a man who couldn't stab what he had seen.
 Narrator: Zeek stared at her.
 Narrator: En-HEH-doo shrugged.
-Enhedu: It's a distinctive expression.
+Enhedu: [casually] It's a distinctive expression.
 Narrator: He started walking again. She followed. Neither of them mentioned the dead king after that.
 Narrator: Zeek's mother's house was a single cramped room above a potter's kiln. The heat never left. Even after sunset the walls radiated the day's warmth into the room, and the air smelled faintly of smoke, clay, and the bitter medicinal herbs his mother had begun boiling more often than she admitted.
 Narrator: She was thinner than she had been the week before. Zeek noticed it immediately. He always noticed.
@@ -207,9 +207,9 @@ Zik's Mother: Same eyes.
 Zik: People have eyes.
 Zik's Mother: Same lie.
 Narrator: Zeek turned toward the window. Outside, the city was settling into evening. Lamps appeared one by one along the streets. Voices drifted upward from below, blurred by the heat.
-Zik: I'm not him.
+Zik: [quietly] I'm not him.
 Narrator: His mother was quiet for a while.
-Zik's Mother: No,
+Zik's Mother: [softly] No,
 Narrator: she said.
 Zik's Mother: You never were.
 Narrator: Zeek looked back at her.
@@ -223,7 +223,7 @@ Narrator: His mother did not answer immediately. When she did, her voice was sof
 Zik's Mother: I think your father believed that knowing gave him the right to touch it.
 Narrator: Zeek said nothing.
 Narrator: She coughed into her sleeve. The sound was small, but it seemed to fill the entire room.
-Zik's Mother: That's not the same as being brave,
+Zik's Mother: [coughs] That's not the same as being brave,
 Narrator: she said.
 Narrator: Zeek looked away.
 Narrator: He left without answering her. He never did.

@@ -42,7 +42,7 @@ Ninsun: No.
 Narrator: She pointed toward the spine.
 Ninsun: The surface has stretched.
 Narrator: Zeek frowned.
-Zik: I don't see—
+Zik: [skeptical] I don't see—
 Ninsun: The stitching.
 Narrator: He looked again.
 Narrator: The thread along the spine no longer sat perfectly straight. It rose and settled almost imperceptibly, as though something beneath the cover had shifted.
@@ -84,7 +84,7 @@ Ninsun: It is not a surface plan.
 Narrator: Zeek leaned closer.
 Zik: Old surveyors liked details.
 Narrator: She frowned.
-Ninsun: No.
+Ninsun: [skeptical] No.
 Narrator: Zeek looked up.
 Zik: No?
 Ninsun: I answered too quickly.
@@ -128,7 +128,7 @@ Narrator: The boxes Ninsun had drawn on her map—CLAIMED, COST, LIMIT—corresp
 Narrator: En-HEH-doo leaned forward.
 Enhedu: It has our passages.
 Narrator: Ninsun's face hardened.
-Ninsun: It has more than our passages.
+Ninsun: [tense] It has more than our passages.
 Narrator: Below each known shifted street, the map showed additional routes.
 Narrator: Closed corridors.
 Narrator: Collapsed stairs.
@@ -158,7 +158,7 @@ Ninsun: No.
 Narrator: Ninsun lowered herself until her eyes were level with the page.
 Ninsun: The tissue thickened along both sides.
 Narrator: BAH-lahg frowned.
-Balag: You can tell that?
+Balag: [skeptical] You can tell that?
 Ninsun: Parchment damage splits fibers. This closed before the material was cured.
 Narrator: She looked at Zeek.
 Ninsun: It healed.
@@ -186,7 +186,7 @@ Narrator: No one spoke.
 Narrator: Zeek looked at his father's old handwriting between the spreading lines.
 Zik: What body?
 Narrator: Ninsun stared at the parchment.
-Ninsun: A human one.
+Ninsun: [shaken] A human one.
 Narrator: The carters near the well stopped arguing.
 Narrator: One lifted his head.
 Narrator: En-HEH-doo smiled toward them again.
@@ -293,5 +293,5 @@ Ninsun: We stopped one level too soon.
 Narrator: En-HEH-doo's voice was barely above a whisper.
 Enhedu: [whispers] Then whatever your father found…
 Narrator: Zeek finished the thought.
-Zik: …is still waiting below.
+Zik: [quietly] …is still waiting below.
 [pause 3s]

@@ -34,7 +34,7 @@ Balag: If we'd walked farther into the basin room, you wouldn't have come back.
 Ninsun: You don't know that.
 Balag: No.
 Narrator: His voice stayed calm.
-Balag: I know we almost didn't.
+Balag: [calmly] I know we almost didn't.
 Narrator: En-HEH-doo watched them without interrupting.
 Narrator: She had seen the argument before.
 Narrator: Not the words.
@@ -74,7 +74,7 @@ Narrator: [slowly] LIMIT.
 Narrator: She stared at the word for several moments.
 Narrator: Then she crossed it out.
 Narrator: BAH-lahg frowned.
-Balag: Changed your mind?
+Balag: [skeptical] Changed your mind?
 Ninsun: No.
 Narrator: She wrote again.
 Narrator: Not LIMIT.

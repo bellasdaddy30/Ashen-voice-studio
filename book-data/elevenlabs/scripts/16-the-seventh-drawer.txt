@@ -108,7 +108,7 @@ Narrator: The custodian's head turned slightly.
 Narrator: Someone dragged one of the broken scales aside.
 Narrator: A man coughed.
 Narrator: Another voice called,
-Archive Guard: Mardu?
+Archive Guard: [shouts] Mardu?
 Narrator: The old custodian did not answer.
 Narrator: En-HEH-doo lowered her voice.
 Enhedu: [whispers] You came alone.
@@ -149,7 +149,7 @@ Narrator: Zeek stared at him.
 Zik: He wasn't born when those ledgers were written.
 Mardu: I told him the same thing.
 Narrator: The guard above came closer. His boots struck the floor directly over the archive door.
-Archive Guard: Mardu?
+Archive Guard: [shouts] Mardu?
 Narrator: The custodian raised the lamp.
 Narrator: His shadow stretched down the steps, long enough to reach the seven drawers.
 Mardu: He opened it anyway,
@@ -172,7 +172,7 @@ Narrator: A pause.
 Archive Guard: Need help?
 Mardu: No.
 Archive Guard: You've been down there too long.
-Mardu: I am old. Everything takes too long.
+Mardu: [dryly] I am old. Everything takes too long.
 Narrator: BAH-lahg's mouth twitched despite himself.
 Narrator: The guard muttered something to the clerk. Their footsteps moved away, but not far.
 Narrator: Mardu looked down at the four of them.
@@ -211,7 +211,7 @@ Narrator: Behind the shelf lay a rectangular opening barely high enough to crawl
 Narrator: BAH-lahg peered inside.
 Balag: Smells like an animal died in there.
 Narrator: Mardu looked down from the doorway.
-Mardu: Many have.
+Mardu: [dryly] Many have.
 Balag: Better and better.
 Narrator: The guard above returned.
 Archive Guard: Mardu.
@@ -231,7 +231,7 @@ Narrator: The door closed.
 Narrator: The lock turned.
 Narrator: Darkness dropped into the chamber.
 Narrator: A fist struck the wood from above.
-Archive Guard: Mardu?
+Archive Guard: [shouts] Mardu?
 Narrator: The custodian's voice came muffled through the door.
 Mardu: The pin is stuck.
 Narrator: BAH-lahg crouched beside the culvert.
@@ -253,7 +253,7 @@ Narrator: Harder.
 Narrator: Wood creaked.
 Narrator: BAH-lahg caught Ninsun by the upper arm and steered her toward the opening.
 Narrator: She twisted free.
-Ninsun: Do not drag me.
+Ninsun: [sharply] Do not drag me.
 Balag: Then crawl.
 Narrator: She dropped to her knees and pushed the copied ledger scrap deep inside her robe. The blank tablet she left on the floor.
 Narrator: Zeek noticed.

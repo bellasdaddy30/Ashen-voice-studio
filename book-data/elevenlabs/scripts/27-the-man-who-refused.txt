@@ -29,7 +29,7 @@ Narrator: No one asked her to continue.
 Narrator: The street narrowed further. Torchlight sank into the oily stone and did not return. Somewhere ahead, water dripped with the slow regularity of a clock that no longer measured hours anyone recognized.
 Narrator: Then they heard the voice.
 Narrator: It was thin, human, and exhausted, and it came from a side passage so narrow they would have walked past it without noticing.
-The Man Who Refused: Don't give it your name.
+The Man Who Refused: [hoarse] Don't give it your name.
 Narrator: BAH-lahg's axe was up before the last word finished. En-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment.
 Narrator: Zeek raised the torch.
 Narrator: The passage ended after only a few paces in a shallow alcove. A man sat against the back wall, knees drawn up, wrists resting loosely on them. His clothes were the same dust-fused linen they had seen on the gatekeeper, but his skin was still skin—gray, stretched thin, cracked at the corners of the mouth. His eyes tracked the torchlight with the slow recognition of someone who had not expected living faces again.
@@ -57,13 +57,13 @@ The Man Who Refused: The first threshold accepted your offering,
 Narrator: he said. Then, to Zeek:
 The Man Who Refused: First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—
 Narrator: He stopped. His mouth worked around a word that would not come.
-The Man Who Refused: I can still see her face,
+The Man Who Refused: [sadly] I can still see her face,
 Narrator: he said at last.
 The Man Who Refused: I just can't remember what anyone ever called her.
 [pause 1.5s]
 Narrator: Silence settled over the alcove.
 Narrator: Ninsun spoke carefully.
-Ninsun: And the fourth?
+Ninsun: [carefully] And the fourth?
 Narrator: The man looked at Zeek's wrapped hand, at the journal, at the mark that still pulsed faintly beneath the linen.
 The Man Who Refused: The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep.
 Narrator: He leaned his head back against the stone.
@@ -72,7 +72,7 @@ Narrator: he said to Zeek.
 The Man Who Refused: That means an account is already open. Everything after this is collection.
 Narrator: The journal pressed once against Zeek's ribs—deliberate, almost like confirmation.
 Narrator: The man closed his eyes.
-The Man Who Refused: Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving.
+The Man Who Refused: [hoarse] Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving.
 Narrator: BAH-lahg lowered the axe and offered his hand.
 Balag: Come with us.
 Narrator: The man stared at the open hand for a long time.

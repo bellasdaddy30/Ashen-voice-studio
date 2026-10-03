@@ -823,7 +823,11 @@
 },
 {
 "speaker": "Inn Cook",
-"text": "Out."
+"text": "Out.",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Zik",

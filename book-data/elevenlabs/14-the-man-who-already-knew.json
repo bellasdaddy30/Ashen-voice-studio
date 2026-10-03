@@ -182,7 +182,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I fucking hate that man."
+"text": "I fucking hate that man.",
+"tags": [
+"annoyed"
+],
+"tag": "annoyed"
 },
 {
 "speaker": "Enhedu",
@@ -477,7 +481,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That's a strange thing to want."
+"text": "That's a strange thing to want.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Ninsun",

@@ -76,7 +76,7 @@ Narrator: Zeek answered. His own voice sounded strange to him.
 Narrator: Ninsun turned toward him.
 Ninsun: What did you hear?
 Narrator: Zeek looked at the desert. The dunes had not changed. The sky was clear. Nothing moved except the wind beginning to lift dust from the crest of the nearest ridge.
-Zik: An invitation,
+Zik: [quietly] An invitation,
 Narrator: he said.
 Narrator: They made camp early that evening. No one argued. The sun descended behind the dunes, turning the sky the color of tarnished metal. They built a small fire and kept the animals close. No one talked much.
 Narrator: Later, after the others had gone quiet, Zeek sat apart with the journal open across his knees. The stars above the desert were impossibly clear. He turned the pages.

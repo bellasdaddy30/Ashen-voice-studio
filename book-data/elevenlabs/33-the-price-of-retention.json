@@ -104,7 +104,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Her name is Ninsun. She is with us. She stays."
+"text": "Her name is Ninsun. She is with us. She stays.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",

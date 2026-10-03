@@ -224,7 +224,7 @@ Ninsun: This is an administrative seal.
 Narrator: Ninsun angled it toward the lamp.
 Ninsun: The border is doubled. Private contracts used a single line. Temple inventories used three.
 Narrator: BAH-lahg frowned.
-Balag: So?
+Balag: [skeptical] So?
 Ninsun: So this belonged to a civic office.
 Narrator: Zeek stepped closer.
 Zik: Which office?

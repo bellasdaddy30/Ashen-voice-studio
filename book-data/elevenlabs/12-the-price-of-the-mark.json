@@ -179,7 +179,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "So whoever owned this…"
+"text": "So whoever owned this…",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -442,7 +446,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "…he thought he was the first."
+"text": "…he thought he was the first.",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -509,7 +517,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Same fucking math as always. Just higher numbers."
+"text": "Same fucking math as always. Just higher numbers.",
+"tags": [
+"grunts"
+],
+"tag": "grunts"
 },
 {
 "speaker": "Narrator",

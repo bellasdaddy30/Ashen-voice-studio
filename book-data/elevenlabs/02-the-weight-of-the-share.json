@@ -190,7 +190,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He died before he turned twenty."
+"text": "He died before he turned twenty.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -214,7 +218,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "There still isn't."
+"text": "There still isn't.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Balag",
@@ -302,7 +310,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Someone always does. Doesn't mean I have to like watching it."
+"text": "Someone always does. Doesn't mean I have to like watching it.",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
@@ -320,7 +332,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Still don't like the sound of it."
+"text": "Still don't like the sound of it.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -342,7 +358,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "No. It's supposed to make it true."
+"text": "No. It's supposed to make it true.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",

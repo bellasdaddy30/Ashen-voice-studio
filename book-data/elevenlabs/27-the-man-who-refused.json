@@ -135,7 +135,11 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "Don't give it your name."
+"text": "Don't give it your name.",
+"tags": [
+"hoarse"
+],
+"tag": "hoarse"
 },
 {
 "speaker": "Narrator",
@@ -256,7 +260,11 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I can still see her face,"
+"text": "I can still see her face,",
+"tags": [
+"sadly"
+],
+"tag": "sadly"
 },
 {
 "speaker": "Narrator",
@@ -279,7 +287,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "And the fourth?"
+"text": "And the fourth?",
+"tags": [
+"carefully"
+],
+"tag": "carefully"
 },
 {
 "speaker": "Narrator",
@@ -316,7 +328,11 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving."
+"text": "Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving.",
+"tags": [
+"hoarse"
+],
+"tag": "hoarse"
 },
 {
 "speaker": "Narrator",

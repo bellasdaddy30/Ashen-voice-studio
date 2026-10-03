@@ -160,7 +160,7 @@ Narrator: She pulled the cuff back. The fabric ended around emptiness. No wound 
 Narrator: Zeek looked once. Whatever he saw stripped the color from his face.
 Ninsun: Does it hurt?
 Narrator: she asked.
-Zik: [weakly] I can't remember what it felt like.
+Zik: [hollow] [weakly] I can't remember what it felt like.
 Narrator: The answer frightened her more than a scream would have.
 Narrator: A second line formed across the page. Ninsun caught fragments as the ink settled: OUTWARD, RECORD, something that might have been RETURN before a stroke crossed through it and turned it into another word. Zeek's hand moved with less resistance now. The muscles of his right arm still strained, but the quill had found a rhythm his body could not interrupt.
 Narrator: Ninsun wrapped both hands around his wrist and pulled.
@@ -197,7 +197,7 @@ Zik: [weakly] It is making a way.
 Ninsun: It is taking you apart.
 Zik: [weakly] Both can be true.
 Narrator: She turned on him.
-Ninsun: Do not become reasonable now.
+Ninsun: [tense] Do not become reasonable now.
 Narrator: His mouth twitched, but the expression cost him. The gray around his eye spread toward his temple.
 Narrator: The quill began a third line.
 Narrator: Ninsun watched his fingers lose their shape where they met the shaft. The skin did not crumble. It thinned into the dark stroke descending from the nib, as though each letter were being formed from some measure taken directly from him.
@@ -212,28 +212,28 @@ Ninsun: I'm carrying enough of the dead.
 Zik: [weakly] Then carry one more thing.
 Narrator: The passage behind her shortened. The distant pale light now stood no more than twenty paces away, framed by an arch whose upper stones were carved with signs Ninsun could not read quickly enough. The marks erased themselves as she looked.
 Narrator: Zeek turned his face toward her.
-Zik: [weakly] En-HEH-doo hated being carried.
+Zik: [fondly] [weakly] En-HEH-doo hated being carried.
 Ninsun: She hated not being paid.
 Zik: [weakly] Then tell her I still owe her.
-Ninsun: You can tell her yourself.
+Ninsun: [tearfully] You can tell her yourself.
 Narrator: The quill stopped.
 [pause 1.5s]
 Narrator: Silence gathered so completely that Ninsun heard the small metal knock of the figurine against the buckle inside her pocket.
 Narrator: A final ruled line impressed itself into the page.
 Narrator: Zeek's hand began to move again.
 Narrator: The first letter had barely formed when he said,
-Zik: [weakly] Go.
+Zik: [urgently] [weakly] Go.
 Narrator: She held his gaze.
 Narrator: His voice came more quietly.
 Zik: [weakly] You know what this place does when we hesitate.
 Narrator: Behind him, the jar that had held Subject 001 stood dark upon its shelf. The dash on its label remained, but the name beside it had blurred beyond recognition. Ninsun looked from the jar to the Ledger and understood that the library was not waiting for her agreement. It had already begun removing the evidence that any other choice had existed.
 Narrator: She pulled BAH-lahg's axe head from Zeek's pack and shoved it beneath her belt. The weight struck her hip.
-Ninsun: I will come back,
+Ninsun: [determined] I will come back,
 Narrator: she said.
 Zik: [weakly] Don't promise the City anything.
 Ninsun: I wasn't speaking to the City.
 Narrator: His right eye closed briefly. When it opened, more gray had entered it.
-Zik: [weakly] Then don't look back.
+Zik: [gently] [weakly] Then don't look back.
 Narrator: Ninsun stepped away from the desk.
 Narrator: The distance of one pace felt like betrayal. The second felt worse. By the third, the passage had begun to contract behind her, shelves drawing inward without moving. She turned and ran before the opening could decide it had never existed.
 Narrator: The corridor changed beneath each footfall. Numbers carved beside the shelves vanished as she passed. One arch narrowed until her shoulder struck stone that had not been there when she entered it. A row of jars appeared ahead, blocking the passage, and for a sickening moment she saw the father's label among them—SUBJECT 001, the dash still waiting—before every vessel darkened and the row became a wall.
@@ -262,7 +262,7 @@ Narrator: None came.
 Narrator: She waited for his voice, for a hand against the stone, for the blunt scrape of his boots crossing the threshold. The wind passed between the rocks and carried nothing with it.
 Narrator: The doorway narrowed by the width of a finger.
 Narrator: Ninsun pressed her forehead against the sun-warmed stone beside it.
-Ninsun: Zeek.
+Ninsun: [whispers] Zeek.
 Narrator: The gray surface inside the opening rippled once.
 Narrator: Something struck the other side.
 Narrator: Not a fist. Not a body. A single dull vibration traveled through the rock and into her hand, followed by the faint sound of a page being turned.

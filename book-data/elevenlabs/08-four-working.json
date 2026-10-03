@@ -919,7 +919,11 @@
 },
 {
 "speaker": "Balag",
-"text": "So?"
+"text": "So?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Ninsun",
