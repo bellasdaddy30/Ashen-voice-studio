@@ -4,80 +4,81 @@ Narrator: CHAPTER 5
 [pause 1s]
 Narrator: The Price of Dust
 [pause 2s]
-Narrator: The streets of Uruk-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard.
+Narrator: The streets of OO-rook-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard.
 Narrator: Merchants shouted over one another beneath patched awnings. Donkeys pushed through the crowd with the confidence of creatures that had never once considered whether anyone else had somewhere to be. Children slipped between adult legs. Smoke from cooking fires drifted low, carrying the smell of roasted meat and burning oil. Somewhere nearby a woman was screaming at a man who had either stolen from her or married her. Zeek did not stop to find out which.
 Narrator: He moved through the market with his father's journal tucked against his ribs and the brass compass heavy in his pouch. The mark on his palm itched beneath the linen wrapping, a hot, persistent irritation that had followed him out of the tomb and refused every ordinary explanation. The third time he checked it, the shape matched the symbol on the dead king's crown exactly. He decided not to look again.
 Narrator: That was how he handled most problems. If something refused to make sense, he gave it time to become someone else's problem.
-Narrator: BAH-lahg and En-HEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. En-HEH-doo noticed everything that might make her rich.
+Narrator: BAH-lahg and En-KHEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. En-KHEH-doo noticed everything that might make her rich.
 Narrator: The Collector waited in the back room of a wine shop that pretended to be respectable. The front room was crowded with merchants drinking watered wine beneath a faded painted sign of a smiling woman holding a cup. The woman had lost most of her face to age and smoke, but the smile remained. Zeek had always thought that was a fair summary of the city.
 Narrator: He pushed through the curtain at the back.
 Narrator: The Collector looked up from his ledger. He was a narrow man with a narrow face, a narrow beard, and the sort of eyes that made people check whether their purses were still attached. His name had been forgotten by nearly everyone who dealt with him. That was deliberate. A man who bought stolen antiquities for a living had no use for a name people could remember.
-The Collector: You're late,
+The Collector: [dryly] You're late,
 Narrator: he said.
 Narrator: Zeek dropped a small leather sack onto the table. It landed with a dull clatter.
-Zik: You're alive.
+Zik: [dryly] You're alive.
 Narrator: The Collector glanced at the sack, then back at him.
-The Collector: I was beginning to worry.
-Zik: That's unlike you.
-The Collector: It isn't.
+The Collector: [smoothly] I was beginning to worry.
+Zik: [skeptical] That's unlike you.
+The Collector: [smoothly] It isn't.
 Narrator: He opened the sack and began removing the contents one piece at a time: beads, a cylinder seal, two unbroken oil lamps, and a handful of minor bronze pieces that would fetch more than they deserved from the right buyer.
-The Collector: You usually arrive with four men.
+The Collector: [pointedly] You usually arrive with four men.
 Narrator: Zeek said nothing.
 Narrator: The Collector's fingers paused over the cylinder seal.
-The Collector: You're missing one.
-Zik: KOO-rash got greedy.
+The Collector: [coldly] You're missing one.
+Zik: [flatly] KOO-rahsh got greedy.
 Narrator: The Collector looked up.
+[pause 0.5s]
 Narrator: Zeek shrugged.
 Zik: [casually] The desert is full of traps. You know how it is.
 The Collector: Yes.
 Narrator: The Collector turned the seal over in his fingers.
-The Collector: The desert is famously responsible for the poor decisions of men.
-Zik: That one was.
+The Collector: [sarcastic] The desert is famously responsible for the poor decisions of men.
+Zik: [flatly] That one was.
 Narrator: The Collector's eyes moved toward Zeek's left hand.
-The Collector: One less share means more for you.
+The Collector: [insinuating] One less share means more for you.
 Narrator: Zeek smiled the way a man smiled when he was holding a knife behind his back.
-Zik: That's how the world works.
-The Collector: Is it?
-Zik: Everything has a price.
+Zik: [coldly] That's how the world works.
+The Collector: [skeptical] Is it?
+Zik: [flatly] Everything has a price.
 Narrator: The Collector's smile was thin.
-The Collector: You sound like your father.
+The Collector: [smoothly] You sound like your father.
 Narrator: The room seemed to become a little smaller.
 Narrator: Zeek kept his face still.
-Zik: Then you should know better than to insult me.
+Zik: [coldly] Then you should know better than to insult me.
 Narrator: The Collector chuckled and returned his attention to the finds.
 Narrator: The Collector held up one of the bronze pieces between two fingers.
-The Collector: Corrosion.
-Zik: It's three thousand years old.
-The Collector: So it is.
-Zik: You expected polish?
-The Collector: I expected better preservation.
+The Collector: [dismissively] Corrosion.
+Zik: [annoyed] It's three thousand years old.
+The Collector: [smoothly] So it is.
+Zik: [sarcastic] You expected polish?
+The Collector: [dryly] I expected better preservation.
 Zik: It survived three thousand years.
-The Collector: It barely survived you.
+The Collector: [dryly] It barely survived you.
 Narrator: Zeek leaned one hand against the table.
-Zik: You've already decided who you're selling it to.
-The Collector: I've considered possibilities.
+Zik: [knowingly] You've already decided who you're selling it to.
+The Collector: [evasive] I've considered possibilities.
 Zik: Temple collector.
 The Collector: No.
 Zik: Foreign merchant.
 The Collector: No.
 Zik: Noble trying to impress a second wife.
 Narrator: The Collector smiled.
-The Collector: Closer.
+The Collector: [amused] Closer.
 Narrator: Zeek nodded toward the bronze.
-Zik: Then stop pretending it's worthless.
-The Collector: It is worthless.
-Zik: You just called it desirable.
-The Collector: I called the buyer foolish.
-Zik: That's a valuable distinction.
+Zik: [impatient] Then stop pretending it's worthless.
+The Collector: [smoothly] It is worthless.
+Zik: [sharply] You just called it desirable.
+The Collector: [smoothly] I called the buyer foolish.
+Zik: [dryly] That's a valuable distinction.
 Narrator: The Collector reached for the cylinder seal instead.
-The Collector: This one I like.
+The Collector: [pleased] This one I like.
 Zik: I know.
-The Collector: Unfortunately.
+The Collector: [dryly] Unfortunately.
 Zik: So you'll pay for it.
 The Collector: I'll pay enough.
 Zik: You'll pay honestly.
-The Collector: I've never done that.
-Zik: I know.
+The Collector: [amused] I've never done that.
+Zik: [dryly] I know.
 Narrator: They haggled for nearly twenty minutes, which meant the Collector offered half of what the objects were worth and Zeek threatened to take them elsewhere without ever naming another buyer. Neither of them believed the other. That was the entire point.
 Narrator: In the end Zeek walked away with enough silver to keep his mother in medicine for another month, enough coin to replace the supplies lost in the desert, and enough lies to keep the Collector from asking the questions that mattered.
 Narrator: He was almost through the front room when the Collector spoke again.
@@ -86,217 +87,249 @@ Narrator: Zeek stopped. The Collector had not used his full name in years.
 Narrator: He turned slowly. The Collector was still sitting behind the table, one hand resting on the open ledger. His gaze had returned to Zeek's palm.
 The Collector: [curious] Where did you get that?
 Narrator: Zeek looked down at his hand. The linen concealed the mark completely.
-Zik: What?
+Zik: [guarded] What?
 Narrator: The Collector's eyes narrowed.
-The Collector: Nothing.
+The Collector: [smoothly] Nothing.
 Narrator: Zeek held his stare for another second, then turned and walked out. He did not hurry. Hurrying suggested guilt.
 Narrator: He waited until he was three streets away before checking the wrapping. The linen was still tied exactly as he had left it. Beneath it, the mark was warm.
-Narrator: En-HEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not.
-Enhedu: You kept the good stuff,
+Narrator: En-KHEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not.
+Enhedu: [teasing] You kept the good stuff,
 Narrator: she said.
-Zik: Always do.
+Zik: [dryly] Always do.
 Enhedu: That wasn't an accusation.
-Zik: It sounded like one.
-Enhedu: Then you should have heard the version I didn't say.
+Zik: [dryly] It sounded like one.
+Enhedu: [amused] Then you should have heard the version I didn't say.
 Narrator: Zeek kept walking. The Street of Scribes opened ahead of them, narrower and quieter than the main market. Clay tablets sat in neat rows beneath awnings, covered in the wedge marks of contracts, inventories, prayers, and curses—the kind of writing that turned ownership into something people could pretend was natural.
 Narrator: A line of apprentices sat cross-legged outside one of the scriptoria, each with a damp clay tablet balanced on a board across their knees. A gray-bearded instructor drifted slowly behind them with a reed cane tucked beneath one arm. He didn't strike anyone with it. He simply reached over shoulders, erased wedges with a wet thumb, and made the students begin again.
 Narrator: One boy looked up as Zeek passed.
-Apprentice Boy: Master Zee-keer.
+Apprentice Boy: [shyly] Master Zee-keer.
 Narrator: Zeek stopped.
 Narrator: The boy couldn't have been older than twelve. His fingertips were stained gray with clay, and one side of his face carried the unmistakable imprint of having fallen asleep on a tablet.
-Zik: I know you?
-Apprentice Boy: No, Master.
+Zik: [surprised] I know you?
+Apprentice Boy: [shyly] No, Master.
 Narrator: The title still sounded strange.
-Apprentice Boy: But my instructor does.
+Apprentice Boy: [shyly] But my instructor does.
 Narrator: The old scribe finally looked over, squinting against the afternoon light.
+[pause 0.5s]
 Narrator: Recognition came slowly.
-Old Scribe: …BAYL-ID-din's son.
+Old Scribe: [slowly] …BAYL-ID-din's son.
 Narrator: Zeek inclined his head.
 Zik: I am.
 Narrator: The old man studied him for a long moment.
-Old Scribe: I thought you'd left archaeology.
+Old Scribe: [skeptical] I thought you'd left archaeology.
 Zik: I've thought the same thing.
 Narrator: That earned the faintest twitch at the corner of the scribe's mouth.
-Old Scribe: He used to stand exactly there.
+Old Scribe: [wistful] He used to stand exactly there.
 Narrator: The old man pointed to a worn patch of paving stones outside the school.
-Old Scribe: Every market day.
+Old Scribe: [wistful] Every market day.
 Zik: My father?
-Old Scribe: He'd argue with anyone willing to waste an afternoon.
+Old Scribe: [fondly] He'd argue with anyone willing to waste an afternoon.
 Zik: What about?
 Narrator: The old man snorted.
-Old Scribe: What didn't he argue about?
+Old Scribe: [amused] What didn't he argue about?
 Narrator: He leaned more heavily on his cane.
-Old Scribe: Mostly history.
-Narrator: En-HEH-doo folded her arms.
-Enhedu: History?
-Old Scribe: He claimed scribes lied.
-Bel-iddin: I never said that.
+Old Scribe: [fondly] Mostly history.
+Narrator: En-KHEH-doo folded her arms.
+Enhedu: [curious] History?
+Old Scribe: [amused] He claimed scribes lied.
+Bel-iddin: [gruffly] I never said that.
 Narrator: The old man's voice shifted effortlessly into a rough imitation.
 Bel-iddin: Scribes don't lie. They simply decide which truths survive.
 Narrator: The imitation was so precise that Zeek almost turned, expecting to find his father standing beside him.
 Narrator: Instead there was only the old man.
-Zik: He said that often?
-Old Scribe: Often enough that I stopped inviting him inside.
-Zik: What happened?
-Old Scribe: He disappeared.
+Zik: [curious] He said that often?
+Old Scribe: [dryly] Often enough that I stopped inviting him inside.
+Zik: [quietly] What happened?
+Old Scribe: [flatly] He disappeared.
 Narrator: The old scribe shrugged.
-Old Scribe: Before that, he stopped smiling.
+Old Scribe: [sadly] Before that, he stopped smiling.
 [pause 1.5s]
 Narrator: Silence settled over the narrow street.
 Narrator: One of the apprentices finally dared to ask,
-Apprentice Boy: Master…
+Apprentice Boy: [shyly] Master…
 Narrator: The old scribe waved him quiet without looking away from Zeek.
-Old Scribe: I always wondered whether he'd found what he was looking for.
+Old Scribe: [wistful] I always wondered whether he'd found what he was looking for.
 Narrator: Zeek rested a hand against the journal hidden beneath his tunic.
-Zik: So do I.
+Zik: [quietly] So do I.
 Narrator: The old man nodded once.
-Old Scribe: If you discover the answer…
+Old Scribe: [gravely] If you discover the answer…
 Narrator: His eyes drifted toward the crowded street beyond.
-Old Scribe: …write it down before someone important changes it.
+Old Scribe: [gravely] …write it down before someone important changes it.
 Narrator: Without another word he turned back to his students.
-Old Scribe: Again.
+Old Scribe: [firmly] Again.
 Narrator: A chorus of groans rose from the apprentices as fresh tablets were passed out.
 Narrator: BAH-lahg waited until they had walked half the length of the street before speaking.
-Balag: I liked him.
-Zik: You don't know him.
-Balag: I know anyone who annoys scribes that much can't be all bad.
-Narrator: En-HEH-doo glanced sideways at Zeek.
-Enhedu: He sounded like your father.
-Zik: He did.
-Enhedu: You smiled.
-Zik: I did?
-Enhedu: For half a heartbeat.
-Zik: I'll try not to make a habit of it.
-Narrator: En-HEH-doo walked beside him now.
-Enhedu: That room didn't want us there.
+Balag: [fondly] I liked him.
+Zik: [dryly] You don't know him.
+Balag: [amused] I know anyone who annoys scribes that much can't be all bad.
+Narrator: En-KHEH-doo glanced sideways at Zeek.
+Enhedu: [gently] He sounded like your father.
+Zik: [quietly] He did.
+Enhedu: [teasing] You smiled.
+Zik: [surprised] I did?
+Enhedu: [teasing] For half a heartbeat.
+Zik: [dryly] I'll try not to make a habit of it.
+Narrator: En-KHEH-doo walked beside him now.
+Enhedu: [uneasy] That room didn't want us there.
 Narrator: Zeek's expression did not change.
-Enhedu: And it especially didn't want you.
-Zik: Desert tricks.
-Enhedu: That's what you said before.
-Zik: Sand, heat, imagination.
-Enhedu: You forgot the dead king.
+Enhedu: [quietly] And it especially didn't want you.
+Zik: [dismissively] Desert tricks.
+Enhedu: [skeptical] That's what you said before.
+Zik: [dismissively] Sand, heat, imagination.
+Enhedu: [quietly] You forgot the dead king.
 Narrator: Zeek stopped walking.
 Narrator: For a moment the noise of the market seemed to press in around them.
-Zik: Who told you?
-Enhedu: Nobody.
-Zik: Then how do you know?
-Enhedu: Because you came out of that tomb looking like a man who couldn't stab what he had seen.
+Zik: [sharply] Who told you?
+Enhedu: [dryly] Nobody.
+Zik: [suspicious] Then how do you know?
+Enhedu: [knowingly] Because you came out of that tomb looking like a man who couldn't stab what he had seen.
 Narrator: Zeek stared at her.
-Narrator: En-HEH-doo shrugged.
+[pause 0.5s]
+Narrator: En-KHEH-doo shrugged.
 Enhedu: [casually] It's a distinctive expression.
 Narrator: He started walking again. She followed. Neither of them mentioned the dead king after that.
 Narrator: Zeek's mother's house was a single cramped room above a potter's kiln. The heat never left. Even after sunset the walls radiated the day's warmth into the room, and the air smelled faintly of smoke, clay, and the bitter medicinal herbs his mother had begun boiling more often than she admitted.
 Narrator: She was thinner than she had been the week before. Zeek noticed it immediately. He always noticed.
 Narrator: She sat on her pallet beside the small window, wrapped in a faded shawl despite the heat. Her skin had taken on the dry, papery quality of old parchment, and the hollows beneath her eyes had deepened.
 Narrator: Zeek set the medicine pouch beside her.
-Zik: This should last you another month.
+Zik: [gently] This should last you another month.
 Narrator: His mother looked at the pouch, then at him.
-Zik's Mother: You found something.
+Zik's Mother: [knowingly] You found something.
 Narrator: Zeek removed his cloak.
-Zik: I found enough.
-Zik's Mother: That's not what I said.
-Zik: It is what I answered.
+Zik: [evasive] I found enough.
+Zik's Mother: [sharply] That's not what I said.
+Zik: [dryly] It is what I answered.
 Narrator: She reached for his hand.
 Narrator: Zeek moved before he thought about it.
 Narrator: Her fingers closed around his wrist instead. For one terrible second neither of them moved. Her hand was cold. His skin beneath the linen was burning.
 Narrator: His mother looked down at the wrapping, then up at him.
-Zik's Mother: You look like your father when he came back from that last trip.
+Zik's Mother: [sadly] You look like your father when he came back from that last trip.
 Narrator: Zeek gently pulled his arm free.
-Zik: That's unfortunate.
-Zik's Mother: Same eyes.
-Zik: People have eyes.
-Zik's Mother: Same lie.
+Zik: [dryly] That's unfortunate.
+Zik's Mother: [quietly] Same eyes.
+Zik: [dryly] People have eyes.
+Zik's Mother: [softly] Same lie.
 Narrator: Zeek turned toward the window. Outside, the city was settling into evening. Lamps appeared one by one along the streets. Voices drifted upward from below, blurred by the heat.
 Zik: [quietly] I'm not him.
 Narrator: His mother was quiet for a while.
 Zik's Mother: [softly] No,
 Narrator: she said.
-Zik's Mother: You never were.
+Zik's Mother: [softly] You never were.
 Narrator: Zeek looked back at her.
 Narrator: She had turned toward the wall.
-Zik's Mother: He believed some things should stay buried.
+Zik's Mother: [wistful] He believed some things should stay buried.
 [pause 1.5s]
 Narrator: The words sat between them.
 Narrator: Zeek touched the journal beneath his tunic.
-Zik: You think he was wrong?
+Zik: [quietly] You think he was wrong?
 Narrator: His mother did not answer immediately. When she did, her voice was soft.
 Zik's Mother: I think your father believed that knowing gave him the right to touch it.
 Narrator: Zeek said nothing.
 Narrator: She coughed into her sleeve. The sound was small, but it seemed to fill the entire room.
-Zik's Mother: [coughs] That's not the same as being brave,
+Zik's Mother: [coughs] [softly] That's not the same as being brave,
 Narrator: she said.
+[pause 0.5s]
 Narrator: Zeek looked away.
 Narrator: He left without answering her. He never did.
-Narrator: That night he sat on the roof above the kiln with the journal open in his lap. Uruk stretched beneath him in layers of firelight and shadow. The city was beautiful from above, if a person was willing to ignore the smoke, the sewage, the screaming, and the fact that most of its wealth had been built by people who had never been allowed to keep any of it.
+[pause 1.5s]
+Narrator: That night he sat on the roof above the kiln with the journal open in his lap. OO-rook stretched beneath him in layers of firelight and shadow. The city was beautiful from above, if a person was willing to ignore the smoke, the sewage, the screaming, and the fact that most of its wealth had been built by people who had never been allowed to keep any of it.
 Narrator: Zeek pulled out his own compass and set it beside his father's. His pointed north. His father's pointed straight down.
 Narrator: The needle trembled inside its brass housing as if it were trying to drill through the roof.
+[pause 0.5s]
 Narrator: Zeek frowned.
 Narrator: Broken things usually behaved more honestly than this.
 Narrator: He set both compasses on the roof tiles side by side.
 Narrator: His own settled almost immediately.
+[pause 0.5s]
 Narrator: North.
+[pause 0.5s]
 Narrator: Steady.
+[pause 0.5s]
 Narrator: Predictable.
 Narrator: His father's wandered in a slow uncertain circle before dropping once more toward the earth beneath the city.
 Narrator: He rotated them together.
+[pause 0.5s]
 Narrator: North remained north.
 Narrator: The other ignored the movement completely.
 Narrator: He turned them again.
+[pause 0.6s]
 Narrator: Nothing.
 Narrator: The second compass refused every rule that made a compass worth carrying.
 Narrator: Zeek picked it up and listened.
+[pause 0.5s]
 Narrator: No loose weight.
+[pause 0.5s]
 Narrator: No broken pivot.
 Narrator: The needle moved too smoothly for damage.
 Narrator: He held it beside the brass buckle on his pack.
+[pause 0.5s]
 Narrator: No change.
+[pause 0.5s]
 Narrator: Beside his knife.
+[pause 0.6s]
 Narrator: Nothing.
 Narrator: He fished one of the bronze beads from the leather pouch he'd kept hidden from the Collector.
+[pause 0.5s]
 Narrator: Still nothing.
 Narrator: He tried the cylinder seal.
 Narrator: The needle quivered for barely an instant before sinking downward again.
-Zik: Hm.
+Zik: [thoughtful] Hm.
 Narrator: That was interesting.
+[pause 0.5s]
 Narrator: Not useful.
+[pause 0.5s]
 Narrator: Interesting.
 Narrator: He opened the journal and laid it beside the compass.
 [pause 1.5s]
 Narrator: Nothing happened.
 Narrator: He slid the book farther away.
+[pause 0.5s]
 Narrator: Still nothing.
 Narrator: His fingers drummed absently against the linen wrapped around his left hand.
 Narrator: The mark beneath it burned faintly.
 Narrator: Without thinking, he rested that hand beside the compass.
+[pause 0.5s]
 Narrator: The needle twitched.
+[pause 0.5s]
 Narrator: Zeek froze.
 Narrator: Very slowly, he lowered his palm.
 Narrator: The brass needle climbed.
+[pause 0.5s]
 Narrator: Not toward north.
+[pause 0.5s]
 Narrator: Toward him.
 Narrator: It stopped directly beneath the center of his wrapped hand.
+[pause 0.5s]
 Narrator: His pulse quickened.
 Narrator: He lifted his hand.
+[pause 0.5s]
 Narrator: The needle dropped.
 Narrator: He lowered it again.
+[pause 0.5s]
 Narrator: The same result.
+[pause 0.5s]
 Narrator: Again.
+[pause 0.5s]
 Narrator: The same.
 Narrator: He unwrapped one corner of the linen just enough to expose the edge of the black spiral burned into his skin.
+[pause 0.5s]
 Narrator: The mark pulsed.
+[pause 0.5s]
 Narrator: The compass answered.
 Narrator: The needle snapped upward so violently it struck the inside of the glass with a tiny metallic click.
+[pause 0.5s]
 Narrator: Zeek stared.
 Narrator: He wrapped the linen back over the mark immediately.
 Narrator: The needle drifted downward once more, settling toward the stone beneath the house as though nothing unusual had happened.
+[pause 0.5s]
 Narrator: He sat motionless.
 Narrator: Whatever his father had been searching for…
 Narrator: the compass no longer believed it was merely buried.
 Narrator: It believed part of it was sitting on the roof.
 Narrator: He told himself it was broken. He almost believed it.
 Narrator: The journal lay open beside him. He had not read the new lines again. He had read them enough.
-Bel-iddin: IF YOU FIND THIS, DO NOT LOOK FOR ME.
-Bel-iddin: FIND THE CITY.
+Bel-iddin: [solemn] IF YOU FIND THIS, DO NOT LOOK FOR ME.
+Bel-iddin: [solemn] FIND THE CITY.
 Narrator: He had spent twelve years looking for his father. Now, apparently, his father had spent at least some portion of those twelve years trying to make sure he was not found.
 Narrator: Zeek closed the journal.
 Narrator: The mark beneath the linen pulsed once. He froze.
@@ -312,5 +345,6 @@ Narrator: When sleep finally took him, he dreamed of black water moving around h
 Narrator: He woke with the taste of that water still in his mouth. The mark under the linen was warm.
 Narrator: Below the floor, a single knock.
 Narrator: Zeek sat up. The sound did not come again.
+[pause 1.2s]
 Narrator: He reached for his father's journal.
 [pause 3s]

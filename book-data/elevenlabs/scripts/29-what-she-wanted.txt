@@ -4,8 +4,8 @@ Narrator: CHAPTER 29
 [pause 1s]
 Narrator: What She Wanted
 [pause 2s]
-Narrator: En-HEH-doo moved while the others were still listening to the knock that had answered from beneath the City.
-Narrator: Zeek was staring at the new ridge rising under the skin of his palm. Ninsun was still translating the last line that had carved itself into the wall. BAH-lahg stood between them and the man in the alcove with the patient stillness of someone who had already decided the ground was wrong. For a few breaths no one watched her.
+Narrator: En-KHEH-doo moved while the others were still listening to the knock that had answered from beneath the City.
+Narrator: Zeek was staring at the new ridge rising under the skin of his palm. NEEN-soon was still translating the last line that had carved itself into the wall. BAH-lahg stood between them and the man in the alcove with the patient stillness of someone who had already decided the ground was wrong. For a few breaths no one watched her.
 Narrator: She had spent her whole life noticing the exact moment when attention slipped. She used it the way other people used doors.
 Narrator: The passage past the alcove narrowed at once. Walls pressed close enough that her shoulders brushed both sides. The torchlight behind her thinned, then vanished. She kept walking until the voices were gone, swallowed by stone the way everything in this place eventually got swallowed, and only then let herself stop.
 Narrator: She did not take the journal. She took the question that had been sitting behind her teeth since the gatekeeper first said the word Payment.
@@ -13,110 +13,118 @@ Narrator: What will I possess when I leave this place?
 Narrator: She did not speak it aloud. She simply held the thought the way she had once held a lockpick—firm, quiet, without apology—and waited to see whether the City would answer a request that had never been asked of it in words.
 Narrator: The air changed first.
 Narrator: The stone against her back went warm, then soft, then absent. Blue sky opened overhead, so bright it hurt. She was walking through a gate of white stone veined with gold. Bronze doors stood open. Servants bowed. Above the entrance, cut deep enough to last a thousand years, her own name:
+[pause 0.5s]
 Narrator: [slowly] ENHEDU.
 Narrator: The air smelled of clean cistern water. Caravans rolled past loaded with lapis and ivory. Men who had once looked through her now waited in line, hats in hand. A ring slid onto her finger, cool at first and then warm. A house north of the river. Walls high enough to keep the starving world outside where it belonged.
-Narrator: A woman stood in the doorway of that house. For one strange second En-HEH-doo did not recognize her—older, softer, safe in a way that felt like a foreign language. Then she understood. It was her.
+Narrator: A woman stood in the doorway of that house. For one strange second En-KHEH-doo did not recognize her—older, softer, safe in a way that felt like a foreign language. Then she understood. It was her.
 Narrator: Coin was the one thing in the world that never pretended to love you first. It had all led here.
-Narrator: En-HEH-doo smiled.
+[pause 0.5s]
+Narrator: En-KHEH-doo smiled.
 Narrator: Then, somewhere behind her ribs, everything went quiet.
 Narrator: The change arrived so fast she almost missed it under the noise of her own triumph. She was still standing in the palace. She could still see the gold, still price it out of habit—the ring worth a season's rent, the vase worth a man's life if sold to the right buyer. She knew the house was beautiful. She knew the people around her were powerful.
 Narrator: She felt none of it.
 Narrator: The fire that had carried her through every bad deal and every worse night—the thing that had kept her moving when moving was the only thing keeping her fed—had simply gone out, like someone had reached into her chest and pinched the wick.
+[pause 0.5s]
 Narrator: The vision folded.
 Narrator: She was back in the narrow dark of the passage, a small golden figurine solid and cold in her open hand. She knew exactly what it was worth. She knew exactly how many throats would be cut for it. She looked at it the way she would look at a chipped cup.
 Narrator: Nothing there worth the looking.
+[pause 1.5s]
 Narrator: That was when Zeek found her. He appeared at the far end of the passage without sound, the way everything in this place had learned to move. His eyes went from the figurine to her face. Something in her expression told him more than either object did.
-Zik: [concerned] En-HEH-doo?
+Zik: [concerned] En-KHEH-doo?
 Narrator: She turned toward him. For the first time since he had known her, she looked lost, and she hated that he was the one who got to see it.
-Enhedu: [flatly] I know this matters,
+Enhedu: [flatly] [desperate] I know this matters,
 Narrator: she said, and held out the figurine like proof.
 Narrator: He took it, turned it once in the torchlight. Even here, in a place that swallowed light whole, the gold seemed to drink the dark rather than push it back.
-Zik: Where did you get this?
+Zik: [concerned] Where did you get this?
 Enhedu: [flatly] I don't remember.
-Zik: You don't remember taking it?
+Zik: [concerned] You don't remember taking it?
 Enhedu: [flatly] I remember the room.
 Narrator: Her gaze slid past him into the dark.
 Enhedu: [flatly] I remember wanting it.
-Zik: Wanting what?
+Zik: [gently] Wanting what?
 Enhedu: [flatly] Everything.
 Narrator: She looked down at her own empty hands as if they belonged to someone else.
 Enhedu: [flatly] I saw the life I wanted. Money. A house. People who couldn't decide I was worthless because they'd never been able to afford me in the first place.
 Narrator: Her voice stayed level. Whatever was underneath it had gone completely flat.
 Enhedu: [flatly] And then I had it.
-Zik: And?
+Zik: [gently] And?
 Enhedu: [flatly] I don't care.
 [pause 1.5s]
 Narrator: The words sat between them, ugly and small.
 Narrator: Zeek's eyes moved to the mark on his own palm, still faintly raised where the knock had pressed outward from inside the skin.
-Zik: What did you ask?
+Zik: [quietly] What did you ask?
 Enhedu: [flatly] What will I possess when I leave this place.
 Narrator: He looked at her for a long moment.
 Enhedu: [flatly] You waited for it to ask,
 Narrator: she said.
 Enhedu: [flatly] I asked first.
-Narrator: BAH-lahg and Ninsun arrived a minute later, drawn by the sound of voices carrying down the passage. BAH-lahg stopped when he saw the figurine. Ninsun's face lit with instinctive scholarly hunger—then died the moment she saw En-HEH-doo's expression underneath it.
-Ninsun: What happened?
-Narrator: Ninsun asked.
-Narrator: En-HEH-doo passed her the figurine without a word.
-Narrator: Ninsun turned it over, ran a thumb along the tooling.
-Ninsun: This is extraordinarily valuable.
+Narrator: BAH-lahg and NEEN-soon arrived a minute later, drawn by the sound of voices carrying down the passage. BAH-lahg stopped when he saw the figurine. NEEN-soon's face lit with instinctive scholarly hunger—then died the moment she saw En-KHEH-doo's expression underneath it.
+Ninsun: [alarmed] What happened?
+Narrator: NEEN-soon asked.
+Narrator: En-KHEH-doo passed her the figurine without a word.
+Narrator: NEEN-soon turned it over, ran a thumb along the tooling.
+Ninsun: [excited] This is extraordinarily valuable.
 Enhedu: [flatly] Yes.
-Ninsun: You don't seem pleased.
-Narrator: En-HEH-doo's mouth twitched, not quite a smile.
+Ninsun: [puzzled] You don't seem pleased.
+Narrator: En-KHEH-doo's mouth twitched, not quite a smile.
 Enhedu: [flatly] I know.
 Narrator: BAH-lahg looked between the three of them, working through it the way he worked through everything—one slow, honest step at a time.
-Balag: So you got what you wanted.
+Balag: [confused] So you got what you wanted.
 Enhedu: [flatly] Yes.
-Balag: Then what's the problem? Sell it. Buy the house. Be done with it.
-Ninsun: BAH-lahg.
-Narrator: Ninsun's voice had an edge.
-Balag: I'm asking a real question.
-Narrator: He wasn't being cruel. That was the worst part—he genuinely didn't see it yet, and En-HEH-doo found she couldn't even be angry at him for that, because an hour ago she wouldn't have seen it either.
-Balag: You wanted things. Now you have one. Isn't that the whole point of wanting?
-Narrator: En-HEH-doo looked at the figurine in Ninsun's hands—gold enough to have bought her out of every bad year she had ever lived—and felt exactly nothing reach for it.
+Balag: [confused] Then what's the problem? Sell it. Buy the house. Be done with it.
+Ninsun: [sharply] BAH-lahg.
+Narrator: NEEN-soon's voice had an edge.
+Balag: [defensive] I'm asking a real question.
+Narrator: He wasn't being cruel. That was the worst part—he genuinely didn't see it yet, and En-KHEH-doo found she couldn't even be angry at him for that, because an hour ago she wouldn't have seen it either.
+Balag: [confused] You wanted things. Now you have one. Isn't that the whole point of wanting?
+Narrator: En-KHEH-doo looked at the figurine in NEEN-soon's hands—gold enough to have bought her out of every bad year she had ever lived—and felt exactly nothing reach for it.
 Enhedu: [flatly] It was,
 Narrator: she said.
 Narrator: BAH-lahg frowned, sensing he had missed something without being able to name it, and let the silence do what his questions could not.
 Narrator: Somewhere beyond the alcove the triple knock began again.
+[pause 0.6s]
 Narrator: Once.
+[pause 0.6s]
 Narrator: Twice.
+[pause 0.6s]
 Narrator: Three times.
-Narrator: En-HEH-doo turned toward the sound.
+Narrator: En-KHEH-doo turned toward the sound.
 Narrator: She did not reach for her knife.
 Narrator: She did not reach for the gold.
 Narrator: She simply stood there while the City waited to see what else she no longer cared enough to protect.
-Narrator: They moved in uneasy silence after En-HEH-doo's change.
-Narrator: Nobody suggested asking the City another question. Not even En-HEH-doo, who carried the golden figurine wrapped in cloth the way a man carries a stone in his boot—aware of it with every step, unable to feel anything about it. She knew it was valuable. She remembered wanting it. That was all that remained of the wanting.
+Narrator: They moved in uneasy silence after En-KHEH-doo's change.
+Narrator: Nobody suggested asking the City another question. Not even En-KHEH-doo, who carried the golden figurine wrapped in cloth the way a man carries a stone in his boot—aware of it with every step, unable to feel anything about it. She knew it was valuable. She remembered wanting it. That was all that remained of the wanting.
 Narrator: The passage opened into a chamber with three doors, identical in size and nothing alike in what waited beyond them.
 Narrator: The first opened onto a sunlit courtyard. Trees heavy with leaves. Water moving somewhere out of sight. Birds cut through the branches. Laughter drifted from beyond the doorway, easy and unhurried, the sound of people who had never once had to calculate the weight of anything. Beautiful. Completely impossible. They were too deep beneath the First City for sunlight to exist at all, let alone this much of it—warm and gold and entirely unbothered by the stone pressing down from above.
 Narrator: The second door opened onto a sheer drop into blackness. No floor beyond the threshold. No far wall. No bottom that torchlight or imagination could find. The dark simply continued, patient as everything else in this place.
-Narrator: The third showed the corridor they were already standing in—empty. No Zeek. No BAH-lahg. No En-HEH-doo. No Ninsun. The same stretch of stone reaching away into the distance, untouched and silent, as though the four of them had never set foot in it at all.
+Narrator: The third showed the corridor they were already standing in—empty. No Zeek. No BAH-lahg. No En-KHEH-doo. No NEEN-soon. The same stretch of stone reaching away into the distance, untouched and silent, as though the four of them had never set foot in it at all.
 Narrator: BAH-lahg stared at the third door longest.
-Balag: I don't like that one.
-Narrator: En-HEH-doo glanced at him. Some of her old dryness surfaced, thinner than before.
+Balag: [uneasy] I don't like that one.
+Narrator: En-KHEH-doo glanced at him. Some of her old dryness surfaced, thinner than before.
 Enhedu: [flatly] You don't like the one showing us exactly what we are.
-Balag: I don't like the one showing us nothing.
+Balag: [uneasy] I don't like the one showing us nothing.
 Enhedu: [flatly] That's because you have simple tastes.
 Narrator: His hand drifted toward his axe.
-Ninsun: Enough,
-Narrator: Ninsun said. She stood between the three doorways, studying the carvings above each one—symbols she had already copied twice, comparing them against every fragment of the City's language she had catalogued. None of it matched. When she began to trace one familiar root with her stylus, the mark on the parchment went blank under the tip. She stared at the empty space for a long moment, then closed the scroll without comment.
-Ninsun: The inscriptions aren't telling us which door to take.
+Ninsun: [sharply] Enough,
+Narrator: NEEN-soon said. She stood between the three doorways, studying the carvings above each one—symbols she had already copied twice, comparing them against every fragment of the City's language she had catalogued. None of it matched. When she began to trace one familiar root with her stylus, the mark on the parchment went blank under the tip. She stared at the empty space for a long moment, then closed the scroll without comment.
+Ninsun: [frustrated] The inscriptions aren't telling us which door to take.
 Narrator: Zeek looked at her.
-Zik: Then what are they telling us?
-Ninsun: I don't know.
+Zik: [curious] Then what are they telling us?
+Ninsun: [quietly] I don't know.
 Narrator: She lifted the compass instead. The needle swung from the courtyard to the black drop to the empty corridor and back again, circling once before settling—pointing straight down, through the floor, toward nothing any of them could name.
 Narrator: The mark on Zeek's palm pulsed once, slow and deliberate.
 Narrator: He stepped toward the third door.
 Narrator: BAH-lahg caught his arm.
-Balag: That one shows us gone.
-Zik: I know.
+Balag: [urgently] That one shows us gone.
+Zik: [quietly] I know.
 Narrator: The words of the man who had refused returned without invitation: That threshold does not ask. It only records the answer you already gave by arriving.
 Narrator: Zeek set his foot on the threshold of the empty corridor.
+[pause 0.5s]
 Narrator: The floor held.
 Narrator: He took another step.
-Narrator: Behind him the others waited. En-HEH-doo watched with the flat attention of someone who no longer calculated odds the way she once had. Ninsun's stylus hovered over parchment that had nowhere useful left to write. BAH-lahg's grip on the axe was white-knuckled and certain.
+Narrator: Behind him the others waited. En-KHEH-doo watched with the flat attention of someone who no longer calculated odds the way she once had. NEEN-soon's stylus hovered over parchment that had nowhere useful left to write. BAH-lahg's grip on the axe was white-knuckled and certain.
 Narrator: Zeek looked back once.
-Zik: Stay behind me.
+Zik: [firmly] Stay behind me.
 Narrator: He stepped fully through.
 Narrator: The corridor beyond was the same corridor they had left. The same oily stone. The same slow drip of water that measured no hours anyone recognized. For three paces nothing changed.
 Narrator: On the fourth the lesson was gone.
@@ -127,13 +135,16 @@ Narrator: Only the specific knowledge of how to test a floor—the exact sequenc
 Narrator: He knew that something important had been taken. He could feel the absence the way he felt the mark under the linen. He knew it had once been the difference between walking and falling. The exact edges of the missing thing were already going soft, the way a word goes soft in the mouth right before it is lost entirely.
 Narrator: His body still remembered.
 Narrator: His hand still knew how to test the next stone. His feet still knew where not to fall. The lesson remained somewhere the City had not yet reached—buried in muscle and instinct too deep for the current extraction to dig out.
+[pause 0.5s]
 Narrator: For now.
 Narrator: He stood in the corridor and waited for the others.
-Narrator: BAH-lahg came first, then Ninsun, then En-HEH-doo. None of them spoke. The three doors behind them folded shut without a sound, as though the chamber had never held more than one choice to begin with.
+Narrator: BAH-lahg came first, then NEEN-soon, then En-KHEH-doo. None of them spoke. The three doors behind them folded shut without a sound, as though the chamber had never held more than one choice to begin with.
 Narrator: From somewhere ahead, deeper than the corridor they now occupied, three measured knocks answered the mark.
+[pause 0.5s]
 Narrator: Zeek kept walking.
-Narrator: Behind him En-HEH-doo carried the gold she no longer wanted.
-Narrator: Beside him Ninsun carried symbols that no longer yielded meaning.
+Narrator: Behind him En-KHEH-doo carried the gold she no longer wanted.
+Narrator: Beside him NEEN-soon carried symbols that no longer yielded meaning.
 Narrator: His body still knew which stones would hold.
+[pause 1.2s]
 Narrator: Zeek no longer knew what it was listening for.
 [pause 3s]

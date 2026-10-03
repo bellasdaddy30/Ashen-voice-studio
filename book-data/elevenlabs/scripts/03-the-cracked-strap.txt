@@ -9,58 +9,59 @@ Narrator: They stopped in the thin shade of a dead acacia that looked like it ha
 Balag: [mutters] Not the leg,
 Narrator: he muttered.
 Balag: [mutters] Strap's gone soft. Leather's cracking through.
-Narrator: En-HEH-doo squinted at the sun.
+Narrator: En-KHEH-doo squinted at the sun.
 Enhedu: Spare?
 Balag: One. Older than this one.
 Narrator: Zeek dropped his pack and knelt without being asked. He pulled the damaged strap free and turned it over. The leather had dried and split along the stress line where the buckle bit. Not finished yet, but another day of this heat and it would go completely.
 Narrator: He dug out a short length of braided cord and the small bronze awl he kept for quiet failures like this. The others watched while he worked. He scored the cracked section, cut away the worst of the dry edge, drove new holes, then rebound the strap in a tight overlapping pattern that would take the load better than the original leather ever had.
 Narrator: It wasn't pretty. It didn't need to be.
 Narrator: BAH-lahg rolled the repaired strap between his hands, pressing a thumb against every new stitch.
-Balag: You always sew like you're angry.
-Zik: I'm not sewing.
-Balag: No?
-Zik: I'm arguing with bad leather.
+Balag: [teasing] You always sew like you're angry.
+Zik: [dryly] I'm not sewing.
+Balag: [amused] No?
+Zik: [dryly] I'm arguing with bad leather.
 Narrator: BAH-lahg snorted.
 Balag: [snorts] The leather's losing.
-Zik: It usually does.
+Zik: [dryly] It usually does.
 Narrator: He looped the strap back through the buckle and cinched it tight around the pack frame. The leather creaked in protest but held.
-Balag: Good enough,
+Balag: [satisfied] Good enough,
 Narrator: BAH-lahg said.
-Zik: It'll outlive the donkey.
-Balag: The donkey heard that.
+Zik: [dryly] It'll outlive the donkey.
+Balag: [mock-offended] The donkey heard that.
 Narrator: As if to object, the animal swung its head toward Zeek and gave a long, offended bray.
-Narrator: En-HEH-doo looked up.
-Enhedu: I think it agrees with BAH-lahg.
-Zik: It always agrees with whoever isn't asking it to work.
+[pause 0.5s]
+Narrator: En-KHEH-doo looked up.
+Enhedu: [amused] I think it agrees with BAH-lahg.
+Zik: [dryly] It always agrees with whoever isn't asking it to work.
 Narrator: BAH-lahg scratched the animal behind one ear.
-Balag: You'd complain too if someone expected you to carry half a mountain through the desert.
-Enhedu: I don't complain.
-Balag: You complain constantly.
-Enhedu: I make observations.
-Balag: Very loudly.
+Balag: [fondly] You'd complain too if someone expected you to carry half a mountain through the desert.
+Enhedu: [indignant] I don't complain.
+Balag: [teasing] You complain constantly.
+Enhedu: [primly] I make observations.
+Balag: [teasing] Very loudly.
 Enhedu: They're important observations.
-Balag: They're mostly about me.
-Enhedu: They're the easiest ones to verify.
+Balag: [grumbling] They're mostly about me.
+Enhedu: [smugly] They're the easiest ones to verify.
 Narrator: For the first time since leaving the tomb, BAH-lahg laughed without forcing it.
 Narrator: The sound caught all three of them by surprise.
 Narrator: It died almost as quickly as it had come.
 Narrator: Zeek busied himself trimming one loose strand from the braided cord.
-Zik: I'd forgotten what that sounded like.
+Zik: [softly] I'd forgotten what that sounded like.
 Narrator: BAH-lahg looked away.
-Balag: So had I.
+Balag: [quietly] So had I.
 [pause 1.5s]
 Narrator: The silence returned, but it no longer felt like something pressing on their shoulders. It settled beside them instead.
-Narrator: En-HEH-doo picked up the strip of ruined leather and turned it over in her hands.
+Narrator: En-KHEH-doo picked up the strip of ruined leather and turned it over in her hands.
 Narrator: The crack ran almost perfectly through its center.
 Narrator: She rubbed her thumb along the brittle edge.
-Enhedu: You know why leather fails here?
+Enhedu: [thoughtful] You know why leather fails here?
 Narrator: BAH-lahg shrugged.
 Balag: [casually] Because it gets old.
 Enhedu: No.
 Narrator: She handed it to Zeek.
-Enhedu: He'll see it.
+Enhedu: [knowingly] He'll see it.
 Narrator: Zeek studied the split.
-Zik: It wasn't the weight.
+Zik: [thoughtful] It wasn't the weight.
 Narrator: BAH-lahg folded his arms.
 Balag: Go on.
 Zik: It wasn't the heat either.
@@ -74,33 +75,37 @@ Zik: It loses the oils first.
 Balag: The outside still looks fine.
 Zik: Exactly.
 Narrator: He handed the scrap back.
-Zik: It fails long before it looks broken.
-Narrator: En-HEH-doo slipped it into her pouch.
-Enhedu: Useful thing to remember.
+Zik: [meaningfully] It fails long before it looks broken.
+Narrator: En-KHEH-doo slipped it into her pouch.
+Enhedu: [thoughtful] Useful thing to remember.
 Narrator: BAH-lahg raised an eyebrow.
-Balag: For leather?
-Enhedu: For people.
+Balag: [skeptical] For leather?
+Enhedu: [quietly] For people.
 Narrator: Neither man argued.
 Narrator: BAH-lahg tested the repair with two hard tugs and grunted.
 Balag: [grunts] It'll hold.
-Zik: Until it doesn't,
+Zik: [dryly] Until it doesn't,
 Narrator: Zeek said.
-Zik: Same as everything else.
-Narrator: En-HEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed.
-Balag: What the hell do you want with that?
-Enhedu: Waste bothers me.
+Zik: [darkly] Same as everything else.
+Narrator: En-KHEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed.
+Balag: [puzzled] What the hell do you want with that?
+Enhedu: [flatly] Waste bothers me.
 Narrator: That was all she offered. She turned the scrap once between her fingers, then left it alone.
+[pause 1.5s]
 Narrator: They rested longer than the schedule allowed. The animals needed it more than anyone wanted to admit. Zeek sat with his back against the dead tree and took the journal out only long enough to confirm the last page hadn't changed. Three lines. No new ink. He closed it and, for the first time since the tomb, deliberately left it in the pack instead of keeping it against his ribs.
 Narrator: The decision felt small. It also felt like the first thing he had chosen rather than reacted to since the skeleton spoke his name.
 Narrator: BAH-lahg noticed him staring at nothing in particular.
 Balag: You thinking about the Collector?
-Zik: Thinking about how much silver it takes to keep a mother in medicine and a crew in rope.
+Zik: [tired] Thinking about how much silver it takes to keep a mother in medicine and a crew in rope.
 Narrator: BAH-lahg spat into the dust.
 Balag: [bitterly] Same fucking math again.
-Zik: Always is.
+Zik: [wearily] Always is.
+[pause 1.5s]
 Narrator: They moved on once the shadow of the acacia had shrunk to nothing useful. The repaired strap held. The donkeys settled into their usual sullen rhythm. The journal stayed in the pack, quiet for once.
-Narrator: Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. Uruk was still a day out, but the desert had started remembering there were cities in the world.
+[pause 1.5s]
+Narrator: Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. OO-rook was still a day out, but the desert had started remembering there were cities in the world.
 Narrator: Zeek flexed his left hand inside the linen. The mark was warm again. Not painful. Just present, like a second pulse that hadn't been invited.
 Narrator: He did not check the compass.
+[pause 1.2s]
 Narrator: He already knew which way it pointed.
 [pause 3s]

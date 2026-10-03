@@ -9,31 +9,32 @@ Narrator: This one was less polite.
 Narrator: The passage opened in the middle of a functioning street while a water-seller was still arguing with a customer about measures. One moment the wall was ordinary brick. The next it had a dark mouth in it, narrow and already breathing cooler air.
 Narrator: The water-seller glanced toward it once.
 Narrator: His voice rose immediately.
-Water-Seller: I filled the cup to the line.
-Water Customer: The line is crooked,
+Water-Seller: [indignant] I filled the cup to the line.
+Water Customer: [sarcastic] The line is crooked,
 Narrator: the customer said.
-Water-Seller: The cup is old.
-Water Customer: So is your cheating.
+Water-Seller: [defensive] The cup is old.
+Water Customer: [sarcastic] So is your cheating.
 Narrator: People moved around the opening without slowing. A woman carrying reeds shifted her basket to avoid brushing the dark threshold. A pair of boys chased a wooden hoop past it and did not look inside.
 Narrator: That was how the outer districts survived: by deciding certain things were someone else's problem.
 Narrator: BAH-lahg stopped the nearest donkey with a hand on its neck.
-Balag: That's new.
+Balag: [uneasy] That's new.
 Narrator: The donkey leaned away from the passage hard enough to tighten its tether. Its ears flattened. A tremor moved beneath the skin of its neck.
-Enhedu: It's always new,
-Narrator: En-HEH-doo said.
+Enhedu: [dryly] It's always new,
+Narrator: En-KHEH-doo said.
 Narrator: She was already approaching the opening, eyes moving over the lintel, the floor, the edges where ordinary masonry had folded around something older.
-Narrator: Ninsun did not wait for discussion.
+Narrator: NEEN-soon did not wait for discussion.
 Narrator: She was three steps inside before the rest of them finished looking at one another.
 Narrator: BAH-lahg stared after her.
-Balag: She does know we usually check whether the floor exists.
-Zik: She knows,
+Balag: [grumbling] She does know we usually check whether the floor exists.
+Zik: [dryly] She knows,
 Narrator: Zeek said.
-Balag: That makes it worse.
+Balag: [grumbling] That makes it worse.
 Narrator: Zeek followed last, the way he had started doing without deciding to.
 Narrator: The mark under the linen gave one low pulse and then went quiet again, as though it had registered the place and found nothing worth arguing about yet.
 Narrator: He paused at the threshold and marked the wall with chalk.
 Narrator: The line appeared pale against the dark brick.
 Narrator: For an instant, another line showed beneath it.
+[pause 0.5s]
 Narrator: Older.
 Narrator: Cut into the brick rather than drawn.
 Narrator: Then it vanished under his fingers.
@@ -44,37 +45,43 @@ Narrator: The passage was shorter than the first.
 Narrator: Ten steps in, the street noise dulled.
 Narrator: At fifteen, it stopped entirely.
 Narrator: The walls were smooth and undecorated, their bricks laid without mortar. The ceiling sloped downward until BAH-lahg had to lower his head. The cold there was not the natural coolness of buried rooms. It gathered around their ankles first, then climbed slowly, as if rising from deep water.
-Narrator: En-HEH-doo touched the wall.
-Enhedu: Dry.
-Narrator: Ninsun held her lamp closer.
-Ninsun: No salt marks.
-Balag: Then why does it smell flooded?
+Narrator: En-KHEH-doo touched the wall.
+Enhedu: [quietly] Dry.
+Narrator: NEEN-soon held her lamp closer.
+Ninsun: [quietly] No salt marks.
+Balag: [uneasy] Then why does it smell flooded?
 Narrator: BAH-lahg asked.
 Narrator: The passage smelled of clay after rain.
 Narrator: And beneath that, faint but unmistakable, the sour mineral stink of stagnant water.
 Narrator: Zeek counted the steps.
+[pause 0.5s]
 Narrator: Twenty-one.
+[pause 0.5s]
 Narrator: Twenty-two.
 Narrator: At twenty-three, his boot struck something.
+[pause 0.5s]
 Narrator: He looked down.
 Narrator: A thin groove crossed the floor from wall to wall. It was too straight to be a crack and too shallow to be a drain.
-Narrator: Ninsun crouched.
-Ninsun: Threshold.
-Enhedu: To what?
-Narrator: En-HEH-doo asked.
-Narrator: Ninsun studied the blank walls.
-Ninsun: I don't know.
+[pause 0.5s]
+Narrator: NEEN-soon crouched.
+Ninsun: [quietly] Threshold.
+Enhedu: [curious] To what?
+Narrator: En-KHEH-doo asked.
+Narrator: NEEN-soon studied the blank walls.
+Ninsun: [uneasy] I don't know.
 Narrator: BAH-lahg tapped the groove with his spear.
 Narrator: The sound came back from below.
 Narrator: A second sound followed a moment later.
+[pause 0.5s]
 Narrator: The same tap.
+[pause 0.5s]
 Narrator: Softer.
 Narrator: As though something under the floor had answered.
 Narrator: BAH-lahg lifted the spear.
-Balag: No.
-Narrator: En-HEH-doo glanced at him.
-Enhedu: No what?
-Balag: No returning the greeting.
+Balag: [whispers] [firmly] No.
+Narrator: En-KHEH-doo glanced at him.
+Enhedu: [curious] No what?
+Balag: [whispers] No returning the greeting.
 Narrator: They continued.
 Narrator: The passage ended in a low chamber with a single stone basin set into the floor.
 Narrator: The room was circular, though the bricks had been laid in straight courses, each one narrowing slightly to imitate the curve. The ceiling domed overhead. Dark stains radiated from the center like the traces of smoke from a fire that had burned downward instead of up.
@@ -83,330 +90,386 @@ Narrator: Around its rim someone had cut a ring of names in the old script—doz
 Narrator: Some had been struck through once.
 Narrator: Others had been attacked repeatedly until the letters disappeared beneath grooves and chips.
 Narrator: One name near the far edge was still clear.
-Narrator: Ninsun crouched beside it and went still.
-Balag: What?
+Narrator: NEEN-soon crouched beside it and went still.
+Balag: [quietly] What?
 Narrator: BAH-lahg asked.
 Narrator: She did not answer.
 Narrator: Her hand hovered above the carving.
-Narrator: En-HEH-doo approached more slowly.
-Enhedu: Anyone we know?
-Ninsun: No.
-Narrator: Ninsun's voice had gone flat.
+Narrator: En-KHEH-doo approached more slowly.
+Enhedu: [cautiously] Anyone we know?
+Ninsun: [quietly] No.
+Narrator: NEEN-soon's voice had gone flat.
 Ninsun: [flatly] This one isn't crossed out.
 Narrator: Zeek moved beside her and studied the letters.
 Narrator: The name was ordinary.
-Narrator: Ammaru.
+[pause 0.5s]
+Narrator: Ahm-MAH-roo.
 Narrator: The kind of name that belonged to a potter, a dock worker, or someone who sold onions in the lower market. The kind of name the city usually did not bother remembering long enough to carve into stone.
-Ninsun: The hand is recent,
-Narrator: Ninsun said.
+Ninsun: [intently] The hand is recent,
+Narrator: NEEN-soon said.
 Narrator: Her finger hovered over the first sign without touching it.
-Ninsun: The edges haven't taken dust yet.
+Ninsun: [intently] The edges haven't taken dust yet.
 Narrator: Zeek crouched and blew lightly across the carving.
 Narrator: Fine powder lifted from the older names.
-Narrator: None came from Ammaru's.
-Enhedu: Today?
-Narrator: En-HEH-doo asked.
-Ninsun: Possibly.
+Narrator: None came from Ahm-MAH-roo's.
+Enhedu: [curious] Today?
+Narrator: En-KHEH-doo asked.
+Ninsun: [quietly] Possibly.
 Narrator: BAH-lahg tested the walls with the butt of his spear.
 Balag: We taking anything?
-Ninsun: No,
-Narrator: Ninsun said.
+Ninsun: [firmly] No,
+Narrator: NEEN-soon said.
 Narrator: She had already pulled a scrap of parchment from her satchel.
-Ninsun: But I'm not leaving it unrecorded.
+Ninsun: [firmly] But I'm not leaving it unrecorded.
 Narrator: She copied the name with quick, exact strokes.
 Narrator: Zeek examined the basin.
 Narrator: It had been cut from a single block of dark stone, harder than the limestone commonly used in the lower districts. The interior was shallow and polished. No drainage hole. No channels. Nothing to explain what it was meant to hold.
 Narrator: He ran the edge of his awl around the inside.
 Narrator: A dark residue gathered at the tip.
-Narrator: En-HEH-doo noticed.
-Enhedu: Blood?
-Zik: No.
-Enhedu: Oil?
+[pause 0.5s]
+Narrator: En-KHEH-doo noticed.
+Enhedu: [curious] Blood?
+Zik: [quietly] No.
+Enhedu: [curious] Oil?
 Narrator: Zeek smelled it.
 Narrator: The brackish taste from his dream returned so suddenly that his throat closed.
-Zik: Water.
+Zik: [shaken] Water.
 Narrator: BAH-lahg peered into the empty basin.
-Balag: There is no water.
-Zik: There was.
-Balag: When?
+Balag: [skeptical] There is no water.
+Zik: [quietly] There was.
+Balag: [uneasy] When?
 Narrator: Zeek looked at the dark residue.
-Zik: I don't know.
-Narrator: Ninsun stopped writing.
-Ninsun: What is it?
-Zik: Nothing.
-Ninsun: That answer is becoming insulting.
+Zik: [quietly] I don't know.
+Narrator: NEEN-soon stopped writing.
+Ninsun: [sharply] What is it?
+Zik: [evasive] Nothing.
+Ninsun: [sharply] That answer is becoming insulting.
 Narrator: Zeek wiped the awl clean on a scrap of cloth.
-Zik: The basin held mineral water.
-Ninsun: From below?
+Zik: [quietly] The basin held mineral water.
+Ninsun: [intently] From below?
 Narrator: she asked.
-Zik: Probably.
-Narrator: Ninsun looked around the sealed chamber.
-Ninsun: There's no channel.
-Zik: No.
-Ninsun: No pipe.
-Zik: No.
+Zik: [quietly] Probably.
+Narrator: NEEN-soon looked around the sealed chamber.
+Ninsun: [uneasy] There's no channel.
+Zik: [quietly] No.
+Ninsun: [uneasy] No pipe.
+Zik: [quietly] No.
 Narrator: BAH-lahg shifted his spear.
-Balag: Then perhaps we stop asking how the water entered and leave before it remembers.
-Narrator: En-HEH-doo had moved to the opposite side of the basin.
+Balag: [uneasy] Then perhaps we stop asking how the water entered and leave before it remembers.
+Narrator: En-KHEH-doo had moved to the opposite side of the basin.
 Narrator: She traced one of the crossed-out names with the point of her knife.
-Enhedu: These cuts weren't made by the same person.
-Narrator: Ninsun joined her.
-Ninsun: How can you tell?
-Enhedu: Different depths. Different tools. Some used chisels. Some used blades.
+Enhedu: [thoughtful] These cuts weren't made by the same person.
+Narrator: NEEN-soon joined her.
+Ninsun: [curious] How can you tell?
+Enhedu: [knowingly] Different depths. Different tools. Some used chisels. Some used blades.
 Narrator: She pointed to a name almost completely destroyed.
-Enhedu: This one was hammered out.
+Enhedu: [grimly] This one was hammered out.
 Narrator: Another.
-Enhedu: This one was scratched away slowly.
+Enhedu: [grimly] This one was scratched away slowly.
 Narrator: Zeek studied the pattern.
 Narrator: The marks did not look administrative.
+[pause 0.5s]
 Narrator: They looked angry.
+[pause 0.5s]
 Narrator: Or frightened.
-Balag: Maybe the names were condemned,
+Balag: [thoughtful] Maybe the names were condemned,
 Narrator: BAH-lahg said.
-Ninsun: Then why leave one?
-Narrator: Ninsun asked.
-Balag: Someone hadn't reached it yet.
-Narrator: En-HEH-doo looked toward the passage.
-Enhedu: Or it was only just added.
+Ninsun: [pointedly] Then why leave one?
+Narrator: NEEN-soon asked.
+Balag: [uneasy] Someone hadn't reached it yet.
+Narrator: En-KHEH-doo looked toward the passage.
+Enhedu: [ominous] Or it was only just added.
 Narrator: The air shifted.
+[pause 0.5s]
 Narrator: Not a breeze.
+[pause 0.5s]
 Narrator: A pressure change.
 Narrator: The lamp flame bent toward the basin.
 Narrator: All four of them watched it.
 Narrator: The flame stretched nearly horizontal.
-Narrator: Ninsun folded the parchment and slipped it into her satchel.
+Narrator: NEEN-soon folded the parchment and slipped it into her satchel.
 Narrator: Zeek leaned over the basin.
-Narrator: Its polished interior reflected the lamp, Ninsun's hands, the lower edge of his own face.
+Narrator: Its polished interior reflected the lamp, NEEN-soon's hands, the lower edge of his own face.
 Narrator: Then the reflection deepened.
 Narrator: Blackness gathered across the stone.
 Narrator: Water rose without sound.
 Narrator: It did not pour from a crack or seep through the sides. One moment the basin was dry. The next, a thin layer of dark liquid covered the bottom.
+[pause 0.5s]
 Narrator: BAH-lahg stepped back.
-Balag: That seems enough.
+Balag: [uneasy] That seems enough.
 Narrator: The water continued rising.
 Narrator: Zeek could smell it now.
+[pause 0.5s]
 Narrator: Brackish.
+[pause 0.5s]
 Narrator: Heavy.
 Narrator: Exactly as it had tasted in the dream.
 Narrator: The mark beneath his linen warmed.
-Narrator: Ninsun stared into the basin.
-Ninsun: There's writing.
+Narrator: NEEN-soon stared into the basin.
+Ninsun: [breathless] There's writing.
 Narrator: Ripples passed across the surface.
 Narrator: Beneath them, pale lines emerged as if carved into the bottom of the stone.
+[pause 0.5s]
 Narrator: Not cuneiform.
+[pause 0.5s]
 Narrator: Names.
+[pause 0.5s]
 Narrator: Dozens of them.
 Narrator: They appeared beneath the water, crowding over one another, too many to read.
 Narrator: Then one separated from the rest.
-Narrator: Ammaru.
+[pause 0.5s]
+Narrator: Ahm-MAH-roo.
 Narrator: The letters floated beneath the surface.
-Narrator: Ninsun leaned closer.
+[pause 0.5s]
+Narrator: NEEN-soon leaned closer.
 Narrator: The water reflected her face.
+[pause 0.5s]
 Narrator: Then it changed.
 Narrator: Another woman stared up from the basin.
+[pause 0.5s]
 Narrator: Same dark eyes.
+[pause 0.5s]
 Narrator: Same narrow jaw.
+[pause 0.5s]
 Narrator: Younger.
 Narrator: Her hair hung wet against her cheeks.
-Narrator: Ninsun stopped breathing.
+[pause 0.5s]
+Narrator: NEEN-soon stopped breathing.
 Narrator: Zeek caught her shoulder.
+[pause 0.5s]
 Narrator: She jerked away.
 Ninsun: [shaky] I saw her.
-Enhedu: What?
-Narrator: En-HEH-doo asked.
+Enhedu: [sharply] What?
+Narrator: En-KHEH-doo asked.
 Ninsun: [breathless] My sister.
 Narrator: The water stilled.
-Narrator: Only Ninsun's reflection remained.
+Narrator: Only NEEN-soon's reflection remained.
 Narrator: BAH-lahg moved between her and the basin.
-Balag: What did it show you?
-Ninsun: She was there.
-Balag: In the water?
-Ninsun: She looked at me.
-Zik: Ninsun,
+Balag: [urgently] What did it show you?
+Ninsun: [dazed] She was there.
+Balag: [gently] In the water?
+Ninsun: [dazed] She looked at me.
+Zik: [gently] NEEN-soon,
 Narrator: Zeek said,
-Zik: did she speak?
-Narrator: Ninsun stared past BAH-lahg.
-Ninsun: No.
+Zik: [gently] did she speak?
+Narrator: NEEN-soon stared past BAH-lahg.
+Ninsun: [dazed] No.
 Narrator: The basin made a faint sound.
 Narrator: A breath drawn through closed teeth.
 Narrator: The uncrossed name on the rim darkened.
 Narrator: Moisture filled the grooves of the letters.
 Narrator: Zeek watched the first stroke of the name deepen.
 Narrator: A crack formed through it.
-Narrator: Ninsun saw it.
-Ninsun: No.
+[pause 0.5s]
+Narrator: NEEN-soon saw it.
+Ninsun: [panicked] No.
 Narrator: She lunged for the stone.
 Narrator: Zeek caught her wrist before her fingers touched the carving.
 Narrator: The crack widened across the first sign.
 Ninsun: [panicked] They're crossing it out,
 Narrator: she said.
-Zik: Who?
-Ninsun: I don't know.
+Zik: [sharply] Who?
+Ninsun: [desperate] I don't know.
 Narrator: She pulled against him.
-Ninsun: Let go.
-Zik: The basin wants you close.
-Ninsun: The name will disappear.
-Zik: You copied it.
-Ninsun: That isn't the same.
+Ninsun: [desperate] Let go.
+Zik: [firmly] The basin wants you close.
+Ninsun: [desperate] The name will disappear.
+Zik: [firmly] You copied it.
+Ninsun: [desperate] That isn't the same.
+[pause 1.5s]
 Narrator: The next groove formed across the second sign.
 Narrator: Stone dust curled from the cut, though no tool touched it.
-Narrator: Ninsun twisted free and pressed the parchment against her chest.
-Ninsun: [defiantly] Ammaru,
+Narrator: NEEN-soon twisted free and pressed the parchment against her chest.
+Ninsun: [defiantly] Ahm-MAH-roo,
 Narrator: she said aloud.
+[pause 0.5s]
 Narrator: The cutting stopped.
+[pause 0.5s]
 Narrator: Everyone went still.
-Narrator: Ninsun repeated it.
-Ninsun: Ammaru.
+[pause 0.5s]
+Narrator: NEEN-soon repeated it.
+Ninsun: [defiantly] Ahm-MAH-roo.
 Narrator: The black water trembled.
+[pause 0.5s]
 Narrator: The name remained.
 Narrator: BAH-lahg looked at Zeek.
-Balag: That seemed unwise.
-Ninsun: It worked,
-Narrator: Ninsun said.
-Zik: For now.
+Balag: [uneasy] That seemed unwise.
+Ninsun: [triumphant] It worked,
+Narrator: NEEN-soon said.
+Zik: [grimly] For now.
 Narrator: The basin answered.
 Narrator: A voice rose from the water.
+[pause 0.5s]
 Narrator: Not loud.
+[pause 0.5s]
 Narrator: Not fully human.
-The City: [whispers] Ammaru.
+The City: [whispers] Ahm-MAH-roo.
 Narrator: It pronounced the name perfectly.
-Narrator: Then again, in Ninsun's voice.
-Ninsun: [eerie] Ammaru.
+Narrator: Then again, in NEEN-soon's voice.
+Ninsun: [eerie] Ahm-MAH-roo.
 Narrator: The chamber walls returned it.
-The City: [whispers] Ammaru.
-The City: [whispers] Ammaru.
-The City: [whispers] Ammaru.
+The City: [whispers] Ahm-MAH-roo.
+The City: [whispers] Ahm-MAH-roo.
+The City: [whispers] Ahm-MAH-roo.
 Narrator: Each repetition came from a different place.
 Narrator: One from beneath the floor.
 Narrator: One behind the blocked bricks.
 Narrator: One directly beside Zeek's ear.
-Narrator: En-HEH-doo backed toward the passage.
-Enhedu: We're leaving.
-Narrator: Ninsun did not move.
+Narrator: En-KHEH-doo backed toward the passage.
+Enhedu: [urgently] We're leaving.
+Narrator: NEEN-soon did not move.
 Narrator: The water changed again.
 Narrator: Her sister's face appeared beneath the surface.
 Narrator: This time the woman's lips moved.
-Narrator: Ninsun stepped forward.
+[pause 0.5s]
+Narrator: NEEN-soon stepped forward.
 Narrator: Zeek tightened his grip on her wrist.
-Zik: What is she saying?
-Narrator: Ninsun stared.
-Ninsun: I can't hear.
+Zik: [urgently] What is she saying?
+Narrator: NEEN-soon stared.
+Ninsun: [desperate] I can't hear.
 Narrator: The woman beneath the water raised one hand.
 Narrator: Her palm pressed against the underside of the surface.
 Narrator: A spiral-drop mark covered it.
-Narrator: Ninsun's expression broke.
+[pause 0.5s]
+Narrator: NEEN-soon's expression broke.
+[pause 0.5s]
 Narrator: Not into grief.
+[pause 0.5s]
 Narrator: Recognition.
 Ninsun: [horrified] She never had that.
 Narrator: The face smiled.
-Narrator: Ninsun recoiled.
+[pause 0.5s]
+Narrator: NEEN-soon recoiled.
 Narrator: The water surged over the rim.
 Narrator: BAH-lahg shoved her toward the passage.
-Balag: Now.
+Balag: [shouts] Now.
 Narrator: The black liquid struck the stone floor and spread in a perfect circle.
 Narrator: It avoided their boots.
+[pause 0.5s]
 Narrator: Not by chance.
 Narrator: It bent around them in four narrow streams, each one curving toward a different person.
+[pause 0.5s]
 Narrator: Zeek backed away.
 Narrator: The stream aimed at him stopped at the edge of his sandal.
 Narrator: The mark beneath his linen flared.
 Narrator: The water rose into a thin upright shape.
+[pause 0.5s]
 Narrator: Like a finger.
 Narrator: It pointed toward the satchel holding his father's journal.
+[pause 0.5s]
 Narrator: Then collapsed.
+[pause 0.5s]
 Narrator: They moved quickly.
-Narrator: BAH-lahg first, pushing Ninsun ahead of him.
-Narrator: En-HEH-doo followed with her knife drawn, though there was nothing visible to cut.
+Narrator: BAH-lahg first, pushing NEEN-soon ahead of him.
+Narrator: En-KHEH-doo followed with her knife drawn, though there was nothing visible to cut.
 Narrator: Zeek remained at the chamber threshold long enough to look back.
 Narrator: The basin was empty again.
-Narrator: The name Ammaru remained uncrossed.
+Narrator: The name Ahm-MAH-roo remained uncrossed.
 Narrator: But a new name had appeared beside it.
+[pause 0.5s]
 Narrator: Freshly carved.
-Narrator: Ninsun.
+[pause 0.5s]
+Narrator: NEEN-soon.
 Narrator: Zeek stepped back into the passage.
 [pause 1.5s]
 Narrator: The chamber went dark.
+[pause 0.5s]
 Narrator: He said nothing.
+[pause 1.5s]
 Narrator: They reached the groove in the floor.
 Narrator: As BAH-lahg crossed it, the echoing tap sounded from below.
 Narrator: This time it did not wait for his spear.
+[pause 0.5s]
 Narrator: One knock.
+[pause 0.6s]
 Narrator: Then four.
 Narrator: The floor shifted under Zeek's boots.
-Narrator: He pushed Ninsun forward.
+Narrator: He pushed NEEN-soon forward.
 Narrator: The passage behind them began to narrow.
-Narrator: Bricks slid outward from the walls, closing the space course by course. En-HEH-doo twisted sideways and forced herself past the first constriction. BAH-lahg caught Ninsun beneath the arms and hauled her through the next.
+Narrator: Bricks slid outward from the walls, closing the space course by course. En-KHEH-doo twisted sideways and forced herself past the first constriction. BAH-lahg caught NEEN-soon beneath the arms and hauled her through the next.
+[pause 0.5s]
 Narrator: Zeek's satchel snagged.
 Narrator: The strap tightened across his chest.
+[pause 0.5s]
 Narrator: He turned.
 Narrator: One brick had pushed through the leather flap and caught the journal beneath it.
 Narrator: The mark on his palm burned.
+[pause 0.5s]
 Narrator: Zeek pulled once.
 Narrator: The journal did not move.
 Narrator: The passage continued closing.
-Narrator: En-HEH-doo grabbed the satchel strap from the other side.
-Enhedu: Leave it.
-Zik: No.
-Enhedu: Zeek.
+Narrator: En-KHEH-doo grabbed the satchel strap from the other side.
+Enhedu: [urgently] Leave it.
+Zik: [strained] No.
+Enhedu: [shouts] Zeek.
 Narrator: He drove the bronze awl into the mortar beside the brick and levered downward. The mortar cracked. Black water leaked from the seam and ran over his hand.
+[pause 0.5s]
 Narrator: The linen darkened.
 Narrator: The spiral beneath it pulsed.
+[pause 0.5s]
 Narrator: The brick withdrew.
+[pause 0.5s]
 Narrator: Not broke.
 Narrator: Withdrew into the wall as though reconsidering.
 Narrator: Zeek yanked the satchel free.
-Narrator: En-HEH-doo pulled him through the narrowing gap.
+Narrator: En-KHEH-doo pulled him through the narrowing gap.
 Narrator: They stumbled into the street together.
 Narrator: The water-seller was still shouting.
-Water-Seller: I measured it in front of you.
-Water Customer: With your thumb in the cup.
-Water-Seller: My thumb is not that large.
-Water Customer: It has always been that large.
+Water-Seller: [indignant] I measured it in front of you.
+Water Customer: [sarcastic] With your thumb in the cup.
+Water-Seller: [indignant] My thumb is not that large.
+Water Customer: [sarcastic] It has always been that large.
 Narrator: Behind them, the dark opening narrowed.
-Narrator: Ninsun turned toward it.
+Narrator: NEEN-soon turned toward it.
 Narrator: The chamber was no longer visible. Only a strip of black passage remained.
 Narrator: A voice came through.
-The City: [whispers] Ammaru.
-Narrator: Ninsun took a step forward.
+The City: [whispers] Ahm-MAH-roo.
+Narrator: NEEN-soon took a step forward.
 Narrator: BAH-lahg blocked her with the shaft of his spear.
-Balag: No.
+Balag: [firmly] No.
 Narrator: The passage repeated the name.
+[pause 0.6s]
 Narrator: Then another.
-The City: [whispers] Ninsun.
+The City: [whispers] NEEN-soon.
 Narrator: Her face went pale.
+[pause 0.5s]
 Narrator: The opening closed.
 Narrator: Ordinary brick filled the wall.
 Narrator: The water-seller's customer shoved a cup into his chest and stalked away.
 Narrator: No one else looked at the four of them.
-Narrator: Ninsun opened her satchel.
+Narrator: NEEN-soon opened her satchel.
 Narrator: The scrap of parchment was damp.
 Narrator: The name remained in her handwriting.
 Narrator: Beneath it, a second line had appeared.
 Narrator: The ink was not hers.
 Narrator: [slowly] A NAME SPOKEN IS A DOOR LEFT OPEN.
-Narrator: En-HEH-doo read over her shoulder.
-Enhedu: That sounds less like advice than a threat.
-Narrator: Ninsun folded the parchment carefully.
-Ninsun: You asked whether I would tell anyone.
-Enhedu: I did.
-Ninsun: Not yet.
-Enhedu: Why not?
-Ninsun: Because the moment I do, someone with a better title will decide it belongs in a locked drawer.
+Narrator: En-KHEH-doo read over her shoulder.
+Enhedu: [dryly] That sounds less like advice than a threat.
+Narrator: NEEN-soon folded the parchment carefully.
+Ninsun: [quietly] You asked whether I would tell anyone.
+Enhedu: [flatly] I did.
+Ninsun: [firmly] Not yet.
+Enhedu: [curious] Why not?
+Ninsun: [bitterly] Because the moment I do, someone with a better title will decide it belongs in a locked drawer.
 Narrator: She tucked the parchment deeper into the satchel.
-Ninsun: I'd rather it stay on a piece of paper I control.
+Ninsun: [firmly] I'd rather it stay on a piece of paper I control.
 Narrator: BAH-lahg grunted.
 Balag: [grunts] That's either smart or the kind of thinking that gets people buried under better titles.
-Ninsun: Probably both.
+Ninsun: [dryly] Probably both.
 Narrator: They stepped fully back into the ordinary flow of the street.
 Narrator: The dark mouth in the wall had become a shallow recess. A basket seller had already set three empty crates against it. Any local would have sworn the recess had always been there.
 Narrator: Zeek flexed his left hand inside the wet linen.
 Narrator: The mark stayed quiet.
-Narrator: Ninsun walked ahead, one hand resting over her satchel.
+Narrator: NEEN-soon walked ahead, one hand resting over her satchel.
+[pause 0.5s]
 Narrator: Zeek watched her.
 Narrator: He considered telling her about the second name on the basin.
 Narrator: He considered how quickly the chamber had learned her voice.
+[pause 0.5s]
 Narrator: He said nothing.
+[pause 0.5s]
 Narrator: They walked on.
 Narrator: Behind them, in a room the city no longer admitted existed, one name remained uncrossed.
+[pause 1.2s]
 Narrator: And beside it, another waited.
 [pause 3s]

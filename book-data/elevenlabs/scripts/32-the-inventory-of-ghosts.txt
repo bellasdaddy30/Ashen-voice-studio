@@ -6,54 +6,59 @@ Narrator: The Inventory of Ghosts
 [pause 2s]
 Narrator: The scraping stopped before Zeek could turn.
 Narrator: Whatever the wall had done to his name, it left no mark he could see. The limestone remained smooth where his own account should have been. Only the residual heat under the linen on his palm told him the chisel had finished its first pass.
-Narrator: BAH-lahg was still staring at Ninsun.
-Balag: Who?
+Narrator: BAH-lahg was still staring at NEEN-soon.
+Balag: [confused] Who?
 Narrator: he asked again.
 [pause 1.5s]
 Narrator: The silence that followed was not empty. It had weight, the particular density of a room holding its breath to see which of them would be the first to disturb it.
-Narrator: BAH-lahg's grip on his axe had gone loose. He regarded Ninsun with the polite, distant curiosity reserved for a stranger bumped into in a crowded market—a flicker of acknowledgment, nothing more, no history behind the eyes at all.
-Zik: She's a scholar,
+Narrator: BAH-lahg's grip on his axe had gone loose. He regarded NEEN-soon with the polite, distant curiosity reserved for a stranger bumped into in a crowded market—a flicker of acknowledgment, nothing more, no history behind the eyes at all.
+Zik: [quietly] She's a scholar,
 Narrator: Zeek said. The words tasted like ash.
-Zik: Ninsun. She's been with us since the gate.
+Zik: [quietly] NEEN-soon. She's been with us since the gate.
 Narrator: He kept his voice level, the way he might speak to a spooked animal, though he was no longer certain whether the effort was for BAH-lahg's benefit or his own.
 Narrator: BAH-lahg frowned. The information seemed to travel a great distance to reach him, losing pieces of itself along the way.
 Balag: [skeptical] No,
 Narrator: he said slowly.
-Balag: We were three. You, me, and the knife-woman.
-Narrator: He gestured vaguely toward En-HEH-doo, who watched without reacting, the figurine turning slowly in her hands.
+Balag: [confused] We were three. You, me, and the knife-woman.
+Narrator: He gestured vaguely toward En-KHEH-doo, who watched without reacting, the figurine turning slowly in her hands.
 Balag: [coldly] I don't know who told you to follow us, but you're a liability.
-Narrator: Ninsun stepped forward and reached for his arm. He flinched away as though her hand carried contagion.
-Balag: Don't.
-Narrator: Zeek's mind moved through the cold arithmetic of the situation the way he had once turned over the mechanics of a trap before deciding where to place his foot. If the City had edited BAH-lahg's memory, what exactly had it put in the empty space where Ninsun used to be? A simple blank? Or an alternate history, complete and self-consistent, in which she had never existed and the three of them had always been three?
+Narrator: NEEN-soon stepped forward and reached for his arm. He flinched away as though her hand carried contagion.
+Balag: [sharply] Don't.
+Narrator: Zeek's mind moved through the cold arithmetic of the situation the way he had once turned over the mechanics of a trap before deciding where to place his foot. If the City had edited BAH-lahg's memory, what exactly had it put in the empty space where NEEN-soon used to be? A simple blank? Or an alternate history, complete and self-consistent, in which she had never existed and the three of them had always been three?
 Narrator: The second possibility was worse.
-Narrator: Ninsun turned to him.
-Ninsun: Tell him.
-Zik: I already did.
-Ninsun: Tell him again.
-Narrator: Zeek opened his mouth. For a moment the words would not form. The shape of Ninsun's presence was still there—the scholar who had argued for knowledge over silver, who had copied the map until her fingers stained, who had watched his face as if trying to memorize it—but the specific reasons she belonged with them had begun to soften at the edges, the way a word softens in the mouth right before it is lost.
+Narrator: NEEN-soon turned to him.
+Ninsun: [desperate] Tell him.
+Zik: [quietly] I already did.
+Ninsun: [desperate] Tell him again.
+Narrator: Zeek opened his mouth. For a moment the words would not form. The shape of NEEN-soon's presence was still there—the scholar who had argued for knowledge over silver, who had copied the map until her fingers stained, who had watched his face as if trying to memorize it—but the specific reasons she belonged with them had begun to soften at the edges, the way a word softens in the mouth right before it is lost.
 Narrator: He stared at her face and felt the absence of a reason even while knowing, with a certainty that had nothing to do with evidence, that there had once been one. The way a man missing a tooth can feel the exact size and shape of the gap without being able to describe the tooth itself.
 Ninsun: [whispers] Zeek,
-Narrator: Ninsun whispered.
+Narrator: NEEN-soon whispered.
 Ninsun: [whispers] Don't let it count me.
 Narrator: The scratching stopped.
 Narrator: Every sound in the chamber vanished with it, all at once, the way a held breath finally lets go.
-Narrator: BAH-lahg turned slowly. En-HEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness.
+Narrator: BAH-lahg turned slowly. En-KHEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness.
 Narrator: He reached for the journal.
 Narrator: The words on the page began to change before his eyes, wet ink spreading and reforming with the slow, deliberate patience of a hand that had all the time in the world:
 Narrator: [slowly] THREE WERE SENT INTO THE CITY.
+[pause 0.5s]
 Narrator: [slowly] THREE REMAIN.
-Narrator: He looked at the three people standing around him—BAH-lahg, En-HEH-doo, Ninsun—and then, finally, at himself.
+Narrator: He looked at the three people standing around him—BAH-lahg, En-KHEH-doo, NEEN-soon—and then, finally, at himself.
 Narrator: Which of us is not one of the three?
 Narrator: Something knocked from inside BAH-lahg's pack.
+[pause 0.6s]
 Narrator: Once.
+[pause 0.6s]
 Narrator: Twice.
+[pause 0.6s]
 Narrator: Three times.
 Narrator: Each strike as precise and unhurried as the last.
 Narrator: BAH-lahg reached slowly for the straps, his face gone slack with a curiosity that had no fear in it yet. Zeek grabbed his wrist before he could open it.
-Zik: Don't.
-Balag: Why?
+Zik: [urgently] Don't.
+Balag: [confused] Why?
 Narrator: Zeek looked down at the journal as the final line finished writing itself, the ink drawing out each letter with excruciating deliberation:
 Narrator: [slowly] ONE OF YOU WAS NEVER SENT.
-Narrator: The chamber seemed to contract around them. The walls leaned inward as if to hear better. Ninsun made a small, strangled sound. En-HEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash.
+Narrator: The chamber seemed to contract around them. The walls leaned inward as if to hear better. NEEN-soon made a small, strangled sound. En-KHEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash.
+[pause 1.2s]
 Narrator: From inside the pack came a fourth knock.
 [pause 3s]

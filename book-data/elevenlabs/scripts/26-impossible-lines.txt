@@ -6,53 +6,57 @@ Narrator: Impossible Lines
 [pause 2s]
 Narrator: They descended through the stairwell's impossible dark and stepped into the First City.
 Narrator: Or what remained of it.
-Narrator: The scale hit first, and it hit wrong. Streets wider than any avenue in Uruk opened ahead of them, yet the buildings pressed too close, leaning out over the thoroughfares like men bent forward to eavesdrop. Towers rose at angles that should have brought them down centuries ago, upper stories jutting out in layers that made no architectural sense. Bridges crossed themselves in midair—vanishing into one structure and emerging from another several stories higher, as if the city had been built by someone who had only ever heard geometry described secondhand.
+Narrator: The scale hit first, and it hit wrong. Streets wider than any avenue in OO-rook opened ahead of them, yet the buildings pressed too close, leaning out over the thoroughfares like men bent forward to eavesdrop. Towers rose at angles that should have brought them down centuries ago, upper stories jutting out in layers that made no architectural sense. Bridges crossed themselves in midair—vanishing into one structure and emerging from another several stories higher, as if the city had been built by someone who had only ever heard geometry described secondhand.
 Narrator: Every surface carried the same dull, oily sheen as the wall they had pressed against above. Torchlight sank into the stone rather than reflecting from it. The air tasted of dust and something colder, like the inside of a sealed jar that had never been opened.
 Narrator: BAH-lahg stopped three paces past the threshold.
-Balag: This isn't a ruin,
+Balag: [awed] This isn't a ruin,
 Narrator: he said.
-Narrator: Ninsun was already turning in a slow circle, eyes moving from street to arch to impossible bridge.
-Ninsun: No. Ruins collapse according to rules. This is still following rules. Just not ours.
-Narrator: En-HEH-doo said nothing. She was staring upward at a colonnade that continued past the point where any supporting wall should have ended. Her expression was not fear. It was calculation.
+Narrator: NEEN-soon was already turning in a slow circle, eyes moving from street to arch to impossible bridge.
+Ninsun: [intently] No. Ruins collapse according to rules. This is still following rules. Just not ours.
+Narrator: En-KHEH-doo said nothing. She was staring upward at a colonnade that continued past the point where any supporting wall should have ended. Her expression was not fear. It was calculation.
+[pause 0.5s]
 Narrator: Zeek looked back.
 Narrator: The stairwell they had descended was gone. In its place stood a solid wall of the same dark stone, seamless, as if the passage had never existed. The only evidence they had come from above was the cold still clinging to their clothes and the faint vibration of the mark on his palm.
+[pause 0.5s]
 Narrator: They were inside.
 Narrator: No one stated the obvious.
 Narrator: They moved carefully along the nearest street. The paving stones were large and fitted with the same impossible precision they had seen on the buried road above. No weeds grew between them. No dust had collected in the joints. The city looked abandoned and yet maintained, as though something still walked these streets after the living had left.
 Narrator: Doorways stood too narrow for the buildings they belonged to. Along one wall a row of shallow niches faced downward instead of outward, each the size of a household altar. Names had been scratched out of the lintels above several entrances, the cuts deep and deliberate, as if the act of erasure had mattered more than the names themselves.
-Narrator: Ninsun stopped at the first intersection and crouched beside a low wall. Carved into the stone at regular intervals were the same incomplete spiral-drop symbols they had seen on the door above. Seven of them. Each slightly different. Each facing a different direction.
+Narrator: NEEN-soon stopped at the first intersection and crouched beside a low wall. Carved into the stone at regular intervals were the same incomplete spiral-drop symbols they had seen on the door above. Seven of them. Each slightly different. Each facing a different direction.
 Ninsun: [softly] The gates,
 Narrator: she said quietly.
 Ninsun: [softly] Not metaphors. Actual thresholds. The tablets weren't describing a journey through the underworld. They were describing a map.
 Narrator: Zeek studied the nearest carving. The spiral was unfinished in the same place as the one above. A deliberate omission.
-Zik: What does incomplete mean?
+Zik: [quietly] What does incomplete mean?
 Narrator: he asked.
-Narrator: Ninsun shook her head.
-Ninsun: The texts disagree. Some say each gate took clothing, then rank, then name. Others mention memory. One damaged tablet claims the last gate took whatever remained of the traveler that still made them recognizable as themselves. The incomplete mark could mean the threshold is still closed. Or that it is waiting for the missing piece. I can't tell which version is older.
+Narrator: NEEN-soon shook her head.
+Ninsun: [intently] The texts disagree. Some say each gate took clothing, then rank, then name. Others mention memory. One damaged tablet claims the last gate took whatever remained of the traveler that still made them recognizable as themselves. The incomplete mark could mean the threshold is still closed. Or that it is waiting for the missing piece. I can't tell which version is older.
 Narrator: BAH-lahg's hand rested on the haft of his axe.
-Balag: Then we don't give it anything.
-Narrator: En-HEH-doo laughed once, low.
+Balag: [firmly] Then we don't give it anything.
+Narrator: En-KHEH-doo laughed once, low.
 Enhedu: [laughs] You think it asks politely?
 Narrator: They continued.
 Narrator: The deeper they walked, the more the geometry refused to settle. A street that appeared straight when viewed from one end curved sharply when they reached its middle. A courtyard they passed on their left reappeared on their right ten minutes later, identical down to a cracked basin in its center. Zeek tried marking their path with small stones. When he looked back, the stones were gone.
 Narrator: Or they had never been placed.
-Narrator: Ninsun kept a running record on a scrap of parchment, noting every turn, every symbol, every impossible junction. After the third time the same courtyard returned, she stopped writing.
-Ninsun: The map is changing as we move,
+Narrator: NEEN-soon kept a running record on a scrap of parchment, noting every turn, every symbol, every impossible junction. After the third time the same courtyard returned, she stopped writing.
+Ninsun: [frustrated] The map is changing as we move,
 Narrator: she said.
-Ninsun: Or we are changing relative to it. I can't tell which.
+Ninsun: [frustrated] Or we are changing relative to it. I can't tell which.
 Narrator: Zeek opened the journal.
-Narrator: The pages that had once shown the cross-section of the city beneath Uruk were different now. The upper layers—the desert, the outpost, the first staircase—had faded almost to invisibility. In their place the ink had thickened into a dense network of streets, chambers, and descending lines that continued far past the edge of the paper. At the center of the densest tangle the spiral-drop symbol appeared again, complete this time, and larger than any they had seen.
+Narrator: The pages that had once shown the cross-section of the city beneath OO-rook were different now. The upper layers—the desert, the outpost, the first staircase—had faded almost to invisibility. In their place the ink had thickened into a dense network of streets, chambers, and descending lines that continued far past the edge of the paper. At the center of the densest tangle the spiral-drop symbol appeared again, complete this time, and larger than any they had seen.
 Narrator: Beneath it, in his father's hand:
 Bel-iddin: THE SECOND DOOR IS NOT A DOOR.
 Narrator: Zeek closed the book before anyone else could read it. The choice surprised him even as he made it. The knowledge felt private, like a debt that belonged only to him.
+[pause 1.5s]
 Narrator: They found the first living thing an hour later.
 Narrator: Or what had once been living.
 Narrator: A figure stood in the center of a wide plaza, facing a blank wall rather than the open space. Its feet were fused into the paving stones as if the city had grown around them. The body itself seemed assembled from several architectural surfaces—part column, part lintel, part threshold—rather than carved as a single statue. It wore the remains of a linen robe so old the fabric had fused with the dust that covered it. Around its neck hung a single bead of black glass, identical to the one BAH-lahg had left at the well.
-Narrator: Ninsun exhaled slowly.
-Ninsun: A gatekeeper.
-Enhedu: Is it dead?
-Narrator: En-HEH-doo asked.
-Ninsun: I don't think dead is the right word.
+[pause 0.5s]
+Narrator: NEEN-soon exhaled slowly.
+Ninsun: [whispers] [awed] A gatekeeper.
+Enhedu: [whispers] Is it dead?
+Narrator: En-KHEH-doo asked.
+Ninsun: [whispers] I don't think dead is the right word.
 Narrator: Zeek stepped closer.
 Narrator: The figure's head turned while the rest of its body remained locked in the stone. The motion was exact, mechanical, as if the joint had been waiting centuries for the correct pressure. Empty sockets regarded him. The mouth opened.
 Narrator: No sound came out.
@@ -61,29 +65,31 @@ The City: [whispers] Payment.
 Narrator: He stepped back.
 Narrator: The figure remained motionless, head still turned toward him, waiting.
 Narrator: BAH-lahg's voice was very quiet.
-Balag: What does it want?
-Narrator: Ninsun answered without looking away from the stone face.
-Ninsun: The same thing the tablets said every threshold wants. Something that cannot be bought back.
+Balag: [whispers] [fearful] What does it want?
+Narrator: NEEN-soon answered without looking away from the stone face.
+Ninsun: [whispers] [ominous] The same thing the tablets said every threshold wants. Something that cannot be bought back.
 Narrator: Zeek looked down at his marked hand, then at the incomplete spirals carved into the walls around the plaza, then at the journal pressed against his ribs.
 Narrator: The city had let them in.
 Narrator: Now it was waiting to see what they would leave behind.
+[pause 1.5s]
 Narrator: They left the plaza without touching the gatekeeper again.
 Narrator: The figure remained exactly as they had found it—head turned, empty sockets fixed on the space Zeek had occupied, black bead resting against stone that had once been a neck. It did not follow. It did not need to. The word Payment still sat behind Zeek's eyes like a coin that refused to be spent.
-Narrator: BAH-lahg took the lead, axe ready, moving as if the streets themselves might decide to close. En-HEH-doo walked slightly apart, eyes cataloguing every doorway, every erased name, every place a valuable object might once have been. Ninsun kept close to Zeek, parchment and stylus ready, though she had not written anything since the courtyard repeated itself for the third time.
+Narrator: BAH-lahg took the lead, axe ready, moving as if the streets themselves might decide to close. En-KHEH-doo walked slightly apart, eyes cataloguing every doorway, every erased name, every place a valuable object might once have been. NEEN-soon kept close to Zeek, parchment and stylus ready, though she had not written anything since the courtyard repeated itself for the third time.
 Narrator: The street they chose ran straight for nearly a hundred paces before it simply ended.
 Narrator: Not in a wall. Not in a collapsed building. The paving continued for three more stones and then became blank stone floor, seamless and unmarked, as if the street had never been intended to go farther. On either side the buildings leaned inward until their upper stories nearly touched, forming a tunnel of shadow that smelled of old water and something metallic.
+[pause 0.5s]
 Narrator: Zeek stopped.
-Zik: This wasn't here a moment ago.
-Narrator: Ninsun checked her notes, then the walls, then the incomplete spiral carved at what should have been the next intersection.
-Ninsun: It was. Or a different version of it was. The symbol has changed orientation.
+Zik: [uneasy] This wasn't here a moment ago.
+Narrator: NEEN-soon checked her notes, then the walls, then the incomplete spiral carved at what should have been the next intersection.
+Ninsun: [intently] It was. Or a different version of it was. The symbol has changed orientation.
 Narrator: BAH-lahg tested the blank floor with the butt of his axe. The stone gave back a dull, solid sound.
-Balag: Dead end.
-Narrator: En-HEH-doo was already examining the nearest doorway. The lintel above it had once carried a name. Only three characters remained, the rest gouged out so deeply that the stone itself looked wounded.
-Enhedu: Someone wanted these people forgotten,
+Balag: [grimly] Dead end.
+Narrator: En-KHEH-doo was already examining the nearest doorway. The lintel above it had once carried a name. Only three characters remained, the rest gouged out so deeply that the stone itself looked wounded.
+Enhedu: [quietly] Someone wanted these people forgotten,
 Narrator: she said.
-Ninsun: Or the people wanted to be forgotten,
-Narrator: Ninsun answered.
-Ninsun: In some of the older tablets, voluntary erasure is listed as a form of payment. A way to pass a threshold without losing something more essential. One damaged account claims that once a name was taken, no one who had known the person could speak it again. The word simply would not form.
+Ninsun: [quietly] Or the people wanted to be forgotten,
+Narrator: NEEN-soon answered.
+Ninsun: [intently] In some of the older tablets, voluntary erasure is listed as a form of payment. A way to pass a threshold without losing something more essential. One damaged account claims that once a name was taken, no one who had known the person could speak it again. The word simply would not form.
 Narrator: Zeek looked at the incomplete spiral on the wall. The missing section felt deliberate, like a blank space left for a signature.
 Narrator: He opened the journal.
 Narrator: The map had shifted again. The dense network of streets now showed a single clear path leading away from the plaza they had just left. The path ended at a mark that was not a spiral. It was a simple vertical line descending into a small open circle.
@@ -91,16 +97,19 @@ Narrator: Beneath it, new writing had appeared in a hand that was neither his fa
 Narrator: [slowly] THE STREET IS A THRESHOLD.
 Narrator: [slowly] CROSSING IT REQUIRES A NAME.
 Narrator: Zeek closed the book. This time he did not try to hide the act. The others had seen him look.
-Ninsun: What does it say?
-Narrator: Ninsun asked.
+Ninsun: [urgently] What does it say?
+Narrator: NEEN-soon asked.
+[pause 0.5s]
 Narrator: He told them.
+[pause 0.5s]
 Narrator: BAH-lahg's expression hardened.
 Balag: [tense] We're not giving it names.
-Narrator: En-HEH-doo tilted her head.
-Enhedu: What if it already has them?
+Narrator: En-KHEH-doo tilted her head.
+Enhedu: [ominous] What if it already has them?
 [pause 1.5s]
 Narrator: No one answered.
 Narrator: They stood at the edge of the blank floor for a long time. The air in the unfinished tunnel felt colder than the rest of the City. Torchlight sank into the stone and did not return. Somewhere far behind them, back toward the plaza, a single measured knock sounded—soft, almost polite.
+[pause 0.6s]
 Narrator: Then another.
 Narrator: Zeek stepped onto the first of the final three paving stones.
 [pause 1.5s]
@@ -111,17 +120,19 @@ Narrator: He stepped onto the third.
 Narrator: The blank floor ahead of him changed.
 Narrator: It did not open. It did not crack. It simply acquired depth, the way a reflection acquires depth when the light is right. The stone remained stone, yet somehow continued downward into a darkness that had not been there a breath earlier. The incomplete spiral glowed faintly on the vertical face of the drop.
 Narrator: A name rose in his mind unbidden—his own full name, the one his father had used only when frightened or trying to make certain he was listening.
-Narrator: Zee-keer Ash-SHOOR.
+[pause 0.5s]
+Narrator: Zee-keer AHSH-shoor.
 Narrator: The City was waiting for him to offer it.
-Narrator: BAH-lahg's hand closed hard on his shoulder and pulled him backward. En-HEH-doo made a sharp sound of protest, half-frustrated, half-curious, as if she had wanted to see the threshold complete itself.
+Narrator: BAH-lahg's hand closed hard on his shoulder and pulled him backward. En-KHEH-doo made a sharp sound of protest, half-frustrated, half-curious, as if she had wanted to see the threshold complete itself.
 Narrator: Zeek closed his mouth and let himself be dragged onto solid ground.
 Narrator: The depth vanished. The floor became blank stone again. The mark on his palm cooled.
 Narrator: Behind them the knocking continued, steady now, as if counting the heartbeats until someone decided what they were willing to leave behind.
-Narrator: Ninsun's voice was barely above a whisper.
+Narrator: NEEN-soon's voice was barely above a whisper.
 Ninsun: [whispers] It almost took it.
-Zik: Almost,
+Zik: [quietly] [shaken] Almost,
 Narrator: Zeek said.
 Narrator: He looked at the erased names on the lintels, at the gatekeeper still waiting in the plaza they could no longer see, at the three ordinary paving stones that had nearly cost him the only name his father still used when he was afraid.
 Narrator: The City had shown them the shape of the next payment.
+[pause 1.2s]
 Narrator: It had not yet collected.
 [pause 3s]

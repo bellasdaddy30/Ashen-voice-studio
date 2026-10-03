@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "40-the-authors-toll",
 "title": "Chapter 40 — The Author’s Toll",
-"chars": 21115,
+"chars": 21242,
 "speakers": [
 "Narrator",
 "Ninsun",
@@ -22,7 +22,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun read the final line again because the words refused to become more sensible through repetition.",
+"text": "NEEN-soon read the final line again because the words refused to become more sensible through repetition.",
 "pauseBefore": 2.0
 },
 {
@@ -36,7 +36,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The ink remained wet beneath the library's colorless light. It had pooled slightly at the hooks of the letters, as if the Ledger had written in haste, though nothing else in the chamber suggested urgency. The jars stood motionless on their shelves. The tiny figures within them continued their unfinished gestures, repeating movements too small to make a sound. Even the walls had quieted. Ninsun could hear Zeek's breathing beside her and, beneath it, the faint settling of the copper figurine in her fist whenever her grip shifted."
+"text": "The ink remained wet beneath the library's colorless light. It had pooled slightly at the hooks of the letters, as if the Ledger had written in haste, though nothing else in the chamber suggested urgency. The jars stood motionless on their shelves. The tiny figures within them continued their unfinished gestures, repeating movements too small to make a sound. Even the walls had quieted. NEEN-soon could hear Zeek's breathing beside her and, beneath it, the faint settling of the copper figurine in her fist whenever her grip shifted."
 },
 {
 "speaker": "Narrator",
@@ -44,7 +44,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun forced herself to look away from him and examine the desk."
+"text": "NEEN-soon forced herself to look away from him and examine the desk."
 },
 {
 "speaker": "Narrator",
@@ -52,7 +52,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Don't touch it,"
+"text": "Don't touch it,",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -68,40 +72,54 @@
 "speaker": "Zik",
 "text": "I haven't.",
 "tags": [
-"weakly"
+"weakly",
+"defensive"
 ],
-"tag": "weakly",
+"tag": "weakly] [defensive",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "You were about to."
+"text": "You were about to.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Zik",
 "text": "I was thinking.",
 "tags": [
-"weakly"
+"weakly",
+"flatly"
 ],
-"tag": "weakly",
+"tag": "weakly] [flatly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "With your hand halfway across the desk."
+"text": "With your hand halfway across the desk.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "He withdrew his right hand by the width of two fingers. The movement was slow enough that Ninsun could not tell whether he had reconsidered or whether his body had simply failed to obey him quickly. His left shoulder sat lower than the right. When he tried to straighten, the arm beneath his sleeve did not follow."
+"text": "He withdrew his right hand by the width of two fingers. The movement was slow enough that NEEN-soon could not tell whether he had reconsidered or whether his body had simply failed to obey him quickly. His left shoulder sat lower than the right. When he tried to straighten, the arm beneath his sleeve did not follow."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun set En-HEH-doo's figurine on the desk, well away from the Ledger, and leaned close without touching the page.",
+"text": "NEEN-soon set En-KHEH-doo's figurine on the desk, well away from the Ledger, and leaned close without touching the page.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The sentence may not be addressed to you."
+"text": "The sentence may not be addressed to you.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -112,40 +130,55 @@
 "speaker": "Zik",
 "text": "Whom else would it be addressed to?",
 "tags": [
-"weakly"
+"weakly",
+"skeptical"
 ],
-"tag": "weakly",
+"tag": "weakly] [skeptical",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "The last person who wrote in the book. The maker of the quill. The subject in the first jar. Anyone whose name we haven't found because this place keeps its explanations three rooms away from the thing being explained."
+"text": "The last person who wrote in the book. The maker of the quill. The subject in the first jar. Anyone whose name we haven't found because this place keeps its explanations three rooms away from the thing being explained.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Zik",
 "text": "You think Subject 001 wrote it?",
 "tags": [
-"weakly"
+"weakly",
+"curious"
 ],
-"tag": "weakly",
+"tag": "weakly] [curious",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I think guessing is how people die in ruins."
+"text": "I think guessing is how people die in ruins.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
 "text": "Investigation hasn't done much better for us.",
 "tags": [
-"weakly"
+"weakly",
+"dryly"
 ],
-"tag": "weakly",
+"tag": "weakly] [dryly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "No, but it has made our deaths more informed."
+"text": "No, but it has made our deaths more informed.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -153,11 +186,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun followed his gaze. BAH-lahg's axe head lay inside Zeek's pack near the desk. En-HEH-doo's figurine had left a green mark across Ninsun's palm. Those objects were the only proof that the library had not invented two absences and persuaded them to mourn afterward. She picked up the figurine again."
+"text": "NEEN-soon followed his gaze. BAH-lahg's axe head lay inside Zeek's pack near the desk. En-KHEH-doo's figurine had left a green mark across NEEN-soon's palm. Those objects were the only proof that the library had not invented two absences and persuaded them to mourn afterward. She picked up the figurine again."
 },
 {
 "speaker": "Ninsun",
-"text": "Help me turn the page,"
+"text": "Help me turn the page,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -167,46 +204,62 @@
 {
 "speaker": "Narrator",
 "text": "Zeek's attention sharpened.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
 "text": "The command is on the last written page.",
 "tags": [
-"weakly"
+"weakly",
+"alert"
 ],
-"tag": "weakly",
+"tag": "weakly] [alert",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "The next pages are blank. I want to know whether they remain blank when the book is closed."
+"text": "The next pages are blank. I want to know whether they remain blank when the book is closed.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Zik",
 "text": "That sounds like guessing with extra steps.",
 "tags": [
-"weakly"
+"weakly",
+"dryly"
 ],
-"tag": "weakly",
+"tag": "weakly] [dryly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "It is called a test."
+"text": "It is called a test.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
 "text": "With what control?",
 "tags": [
-"weakly"
+"weakly",
+"dryly"
 ],
-"tag": "weakly",
+"tag": "weakly] [dryly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "Survival has lowered my standards."
+"text": "Survival has lowered my standards.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -218,15 +271,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked at the slope of the desk. Dust lay evenly across the wood. Nothing else had moved. She bent until her eye was level with the surface and saw that the quill had crossed the thin clean line it had left in the dust."
+"text": "NEEN-soon looked at the slope of the desk. Dust lay evenly across the wood. Nothing else had moved. She bent until her eye was level with the surface and saw that the quill had crossed the thin clean line it had left in the dust."
 },
 {
 "speaker": "Zik",
 "text": "Did the table move?",
 "tags": [
-"weakly"
+"weakly",
+"alert"
 ],
-"tag": "weakly",
+"tag": "weakly] [alert",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -236,33 +290,47 @@
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
 "text": "The floor?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
 "text": "The walls have moved before.",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "They are not moving now."
+"text": "They are not moving now.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -274,7 +342,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun reached for it."
+"text": "NEEN-soon reached for it."
 },
 {
 "speaker": "Narrator",
@@ -285,57 +353,77 @@
 "speaker": "Zik",
 "text": "No.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "We need to know whether it reacts to either of us."
+"text": "We need to know whether it reacts to either of us.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
 "text": "It already reacted to me.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "You were standing nearest to it."
+"text": "You were standing nearest to it.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
 "text": "The key answered.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I didn't hear anything."
+"text": "I didn't hear anything.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
 "text": "Neither did I.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "His eyes dropped to the fused object pinning his left hand beside the Ledger. Ninsun had seen pain wear many faces on him during their descent: clenched teeth, irritation, jokes sharpened until they could cut around fear. What she saw now was different. He looked at the key with the wary recognition reserved for something that had once belonged to him and had returned with altered intentions."
+"text": "His eyes dropped to the fused object pinning his left hand beside the Ledger. NEEN-soon had seen pain wear many faces on him during their descent: clenched teeth, irritation, jokes sharpened until they could cut around fear. What she saw now was different. He looked at the key with the wary recognition reserved for something that had once belonged to him and had returned with altered intentions."
 },
 {
 "speaker": "Ninsun",
-"text": "What did it do?"
+"text": "What did it do?",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
@@ -346,22 +434,28 @@
 "speaker": "Zik",
 "text": "It felt complete.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "That isn't an observation."
+"text": "That isn't an observation.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Zik",
 "text": "It is the only one I have.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -371,28 +465,38 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Then release me."
+"text": "Then release me.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Zik",
 "text": "No.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "Your hand is turning to stone."
+"text": "Your hand is turning to stone.",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Zik",
 "text": "Not stone.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -401,12 +505,17 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun went still.",
+"text": "NEEN-soon went still.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What, then?"
+"text": "What, then?",
+"tags": [
+"scared"
+],
+"tag": "scared"
 },
 {
 "speaker": "Narrator",
@@ -416,9 +525,10 @@
 "speaker": "Zik",
 "text": "It doesn't feel hard,",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -430,22 +540,28 @@
 "speaker": "Zik",
 "text": "It doesn't feel like anything.",
 "tags": [
-"weakly"
+"weakly",
+"hollow"
 ],
-"tag": "weakly",
+"tag": "weakly] [hollow",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "That is not better."
+"text": "That is not better.",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Zik",
 "text": "I know.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -466,7 +582,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun turned. One of the labels had changed."
+"text": "NEEN-soon turned. One of the labels had changed."
 },
 {
 "speaker": "Narrator",
@@ -474,15 +590,20 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Zeek."
+"text": "Zeek.",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Zik",
 "text": "I see it.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -493,9 +614,10 @@
 "speaker": "Zik",
 "text": "It changed back,",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -505,11 +627,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "No. Look at the jar beside it."
+"text": "No. Look at the jar beside it.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
-"text": "That label now read SUBJECT 218: COMPLIANT. The woman inside repeatedly raised both hands toward someone beyond the glass. She had been Subject 219 a moment earlier. Ninsun was certain of it. She had used her as a reference point."
+"text": "That label now read SUBJECT 218: COMPLIANT. The woman inside repeatedly raised both hands toward someone beyond the glass. She had been Subject 219 a moment earlier. NEEN-soon was certain of it. She had used her as a reference point."
 },
 {
 "speaker": "Narrator",
@@ -517,11 +643,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "A second shelf clicked farther down the aisle. Then another answered from somewhere behind the wall. The sounds passed through the library in orderly succession, too measured to be damage. Ninsun heard wood shifting, glass touching glass, stone sliding through stone without grinding."
+"text": "A second shelf clicked farther down the aisle. Then another answered from somewhere behind the wall. The sounds passed through the library in orderly succession, too measured to be damage. NEEN-soon heard wood shifting, glass touching glass, stone sliding through stone without grinding."
 },
 {
 "speaker": "Ninsun",
-"text": "The library is reordering the entries,"
+"text": "The library is reordering the entries,",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -532,14 +662,19 @@
 "speaker": "Zik",
 "text": "Because you moved the quill?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I didn't move it. I failed to."
+"text": "I didn't move it. I failed to.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Narrator",
@@ -547,42 +682,56 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun caught his arm before his fingers could close.",
+"text": "NEEN-soon caught his arm before his fingers could close.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "We can leave the desk."
+"text": "We can leave the desk.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
 "text": "And go where?",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "Away from this room."
+"text": "Away from this room.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
 "text": "The corridors brought us here.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "They brought us to the Ledger. That doesn't mean they require an answer."
+"text": "They brought us to the Ledger. That doesn't mean they require an answer.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
-"text": "Behind them, another label clicked. Ninsun looked back despite herself. The words OUTCOME: FAILED were disappearing from a jar one letter at a time. No new judgment replaced them. The glass beneath the erased letters remained clear."
+"text": "Behind them, another label clicked. NEEN-soon looked back despite herself. The words OUTCOME: FAILED were disappearing from a jar one letter at a time. No new judgment replaced them. The glass beneath the erased letters remained clear."
 },
 {
 "speaker": "Narrator",
@@ -593,27 +742,37 @@
 "speaker": "Zik",
 "text": "It has already begun.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "What has?"
+"text": "What has?",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Zik",
 "text": "I don't know.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "Then stop speaking as if you do."
+"text": "Then stop speaking as if you do.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -624,31 +783,37 @@
 "speaker": "Zik",
 "text": "The book gave us a command. The quill moved when I approached it. The shelves began changing when we tried to keep it away from me. I don't need to know the whole mechanism to recognize which part of it I've been placed beside.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "You have not been placed anywhere. You walked here."
+"text": "You have not been placed anywhere. You walked here.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Zik",
 "text": "Did I?",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun opened her mouth and found no useful answer."
+"text": "NEEN-soon opened her mouth and found no useful answer."
 },
 {
 "speaker": "Narrator",
-"text": "Neither of them remembered losing BAH-lahg or En-HEH-doo. The library had not dragged them away. It had removed the moment in which they were lost, leaving only their belongings and the conviction that four people had once stood where two remained. Ninsun looked toward the shelves and wondered whether the jars contained failures or merely those whose disappearance had been made orderly enough to classify."
+"text": "Neither of them remembered losing BAH-lahg or En-KHEH-doo. The library had not dragged them away. It had removed the moment in which they were lost, leaving only their belongings and the conviction that four people had once stood where two remained. NEEN-soon looked toward the shelves and wondered whether the jars contained failures or merely those whose disappearance had been made orderly enough to classify."
 },
 {
 "speaker": "Narrator",
@@ -657,7 +822,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "We leave together."
+"text": "We leave together.",
+"tags": [
+"determined"
+],
+"tag": "determined"
 },
 {
 "speaker": "Narrator",
@@ -669,7 +838,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun struck it with the knife."
+"text": "NEEN-soon struck it with the knife."
 },
 {
 "speaker": "Narrator",
@@ -693,11 +862,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "The sound that came from him was small and involuntary. His knees bent. Ninsun caught his shoulder before he struck the desk, but the flesh beneath her hand felt wrong—not cold or rigid, but thin, as though the distance from cloth to bone had increased."
+"text": "The sound that came from him was small and involuntary. His knees bent. NEEN-soon caught his shoulder before he struck the desk, but the flesh beneath her hand felt wrong—not cold or rigid, but thin, as though the distance from cloth to bone had increased."
 },
 {
 "speaker": "Ninsun",
-"text": "Let go,"
+"text": "Let go,",
+"tags": [
+"pleading"
+],
+"tag": "pleading"
 },
 {
 "speaker": "Narrator",
@@ -708,9 +881,10 @@
 "speaker": "Zik",
 "text": "I can't.",
 "tags": [
-"weakly"
+"weakly",
+"strained"
 ],
-"tag": "weakly",
+"tag": "weakly] [strained",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -719,7 +893,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Then move your hand away from the page."
+"text": "Then move your hand away from the page.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Narrator",
@@ -735,20 +913,25 @@
 },
 {
 "speaker": "Ninsun",
-"text": "What are you writing?"
+"text": "What are you writing?",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun asked.",
+"text": "NEEN-soon asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
 "text": "Nothing.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -757,15 +940,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "He fought the motion visibly now, shoulder straining, breath breaking through his teeth. The script did not resemble the careful signs he used when copying inscriptions. It moved too quickly, each stroke connecting to the next before the shape had settled. Ninsun leaned over the page and caught a word—DOOR—before the letters around it blurred and rearranged. What had looked like a sentence became a row of unfamiliar characters, then returned to Akkadian with different spacing."
+"text": "He fought the motion visibly now, shoulder straining, breath breaking through his teeth. The script did not resemble the careful signs he used when copying inscriptions. It moved too quickly, each stroke connecting to the next before the shape had settled. NEEN-soon leaned over the page and caught a word—DOOR—before the letters around it blurred and rearranged. What had looked like a sentence became a row of unfamiliar characters, then returned to Akkadian with different spacing."
 },
 {
 "speaker": "Zik",
 "text": "Can you read it?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -775,28 +959,38 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Not while it changes."
+"text": "Not while it changes.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
 "text": "I'm not choosing the words.",
 "tags": [
-"weakly"
+"weakly",
+"scared"
 ],
-"tag": "weakly",
+"tag": "weakly] [scared",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "Are you thinking them?"
+"text": "Are you thinking them?",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
 "text": "I'm trying not to think anything.",
 "tags": [
-"weakly"
+"weakly",
+"strained"
 ],
-"tag": "weakly",
+"tag": "weakly] [strained",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -813,11 +1007,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun released Zeek long enough to snatch En-HEH-doo's figurine from the desk and thrust it into her pocket. The floor shifted beneath her boots. Not enough to throw her, but enough to alter the angle of the room. The farthest aisle now sloped upward where it had been level. A shelf she remembered against the eastern wall stood several paces nearer, though no track marked its passage through the dust."
+"text": "NEEN-soon released Zeek long enough to snatch En-KHEH-doo's figurine from the desk and thrust it into her pocket. The floor shifted beneath her boots. Not enough to throw her, but enough to alter the angle of the room. The farthest aisle now sloped upward where it had been level. A shelf she remembered against the eastern wall stood several paces nearer, though no track marked its passage through the dust."
 },
 {
 "speaker": "Ninsun",
-"text": "Zeek, we have to move."
+"text": "Zeek, we have to move.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Narrator",
@@ -829,7 +1027,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stared. The cloth lay flat against the desk where his forearm should have supported it. The calcified key remained pressed to the Ledger, but nothing visible connected it to his elbow. She grabbed the sleeve and felt along its length."
+"text": "NEEN-soon stared. The cloth lay flat against the desk where his forearm should have supported it. The calcified key remained pressed to the Ledger, but nothing visible connected it to his elbow. She grabbed the sleeve and felt along its length."
 },
 {
 "speaker": "Narrator",
@@ -845,7 +1043,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Does it hurt?"
+"text": "Does it hurt?",
+"tags": [
+"scared"
+],
+"tag": "scared"
 },
 {
 "speaker": "Narrator",
@@ -856,10 +1058,10 @@
 "speaker": "Zik",
 "text": "I can't remember what it felt like.",
 "tags": [
-"hollow",
-"weakly"
+"weakly",
+"hollow"
 ],
-"tag": "hollow] [weakly",
+"tag": "weakly] [hollow",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -868,11 +1070,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "A second line formed across the page. Ninsun caught fragments as the ink settled: OUTWARD, RECORD, something that might have been RETURN before a stroke crossed through it and turned it into another word. Zeek's hand moved with less resistance now. The muscles of his right arm still strained, but the quill had found a rhythm his body could not interrupt."
+"text": "A second line formed across the page. NEEN-soon caught fragments as the ink settled: OUTWARD, RECORD, something that might have been RETURN before a stroke crossed through it and turned it into another word. Zeek's hand moved with less resistance now. The muscles of his right arm still strained, but the quill had found a rhythm his body could not interrupt."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun wrapped both hands around his wrist and pulled."
+"text": "NEEN-soon wrapped both hands around his wrist and pulled."
 },
 {
 "speaker": "Narrator",
@@ -880,7 +1082,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The library exhaled."
+"text": "The library exhaled.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -894,9 +1097,10 @@
 "speaker": "Zik",
 "text": "Listen to me,",
 "tags": [
-"weakly"
+"weakly",
+"urgently"
 ],
-"tag": "weakly",
+"tag": "weakly] [urgently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -906,37 +1110,51 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I am trying to remove your hand from a book."
+"text": "I am trying to remove your hand from a book.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Zik",
 "text": "The opening.",
 "tags": [
-"weakly"
+"weakly",
+"distantly"
 ],
-"tag": "weakly",
+"tag": "weakly] [distantly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "It may lead to another shelf."
+"text": "It may lead to another shelf.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Zik",
 "text": "It smells like outside.",
 "tags": [
-"weakly"
+"weakly",
+"wistful"
 ],
-"tag": "weakly",
+"tag": "weakly] [wistful",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Only then did Ninsun notice the air. Dust, yes, but not the sealed mineral dust of the City. This carried heat. Dry weeds. Sun-warmed stone. The scent reached her so faintly that she might have mistaken it for memory if the fabric at the edge of the new passage had not stirred toward them."
+"text": "Only then did NEEN-soon notice the air. Dust, yes, but not the sealed mineral dust of the City. This carried heat. Dry weeds. Sun-warmed stone. The scent reached her so faintly that she might have mistaken it for memory if the fabric at the edge of the new passage had not stirred toward them."
 },
 {
 "speaker": "Ninsun",
-"text": "We go together,"
+"text": "We go together,",
+"tags": [
+"pleading"
+],
+"tag": "pleading"
 },
 {
 "speaker": "Narrator",
@@ -952,22 +1170,28 @@
 "speaker": "Zik",
 "text": "I don't think I can leave the desk.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "You haven't tried."
+"text": "You haven't tried.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Zik",
 "text": "I am trying now.",
 "tags": [
-"weakly"
+"weakly",
+"strained"
 ],
-"tag": "weakly",
+"tag": "weakly] [strained",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -976,7 +1200,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun reached around his waist and pulled with all the force she had left. For a heartbeat he came away from the desk. The quill dragged a jagged stroke across the paper."
+"text": "NEEN-soon reached around his waist and pulled with all the force she had left. For a heartbeat he came away from the desk. The quill dragged a jagged stroke across the paper."
 },
 {
 "speaker": "Narrator",
@@ -994,9 +1218,10 @@
 "speaker": "Zik",
 "text": "Stop,",
 "tags": [
-"weakly"
+"weakly",
+"firmly"
 ],
-"tag": "weakly",
+"tag": "weakly] [firmly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -1006,20 +1231,29 @@
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"defiant"
+],
+"tag": "defiant"
 },
 {
 "speaker": "Zik",
-"text": "Ninsun.",
+"text": "NEEN-soon.",
 "tags": [
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"defiant"
+],
+"tag": "defiant"
 },
 {
 "speaker": "Narrator",
@@ -1028,28 +1262,35 @@
 {
 "speaker": "Narrator",
 "text": "Zeek's voice dropped.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
 "text": "It is making a way.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "It is taking you apart."
+"text": "It is taking you apart.",
+"tags": [
+"desperately"
+],
+"tag": "desperately"
 },
 {
 "speaker": "Zik",
 "text": "Both can be true.",
 "tags": [
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -1061,9 +1302,9 @@
 "speaker": "Ninsun",
 "text": "Do not become reasonable now.",
 "tags": [
-"tense"
+"angrily"
 ],
-"tag": "tense"
+"tag": "angrily"
 },
 {
 "speaker": "Narrator",
@@ -1075,7 +1316,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun watched his fingers lose their shape where they met the shaft. The skin did not crumble. It thinned into the dark stroke descending from the nib, as though each letter were being formed from some measure taken directly from him."
+"text": "NEEN-soon watched his fingers lose their shape where they met the shaft. The skin did not crumble. It thinned into the dark stroke descending from the nib, as though each letter were being formed from some measure taken directly from him."
 },
 {
 "speaker": "Narrator",
@@ -1090,53 +1331,69 @@
 "speaker": "Zik",
 "text": "When the passage changes, run.",
 "tags": [
-"weakly"
+"weakly",
+"urgently"
 ],
-"tag": "weakly",
+"tag": "weakly] [urgently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I'm not leaving."
+"text": "I'm not leaving.",
+"tags": [
+"tearfully"
+],
+"tag": "tearfully"
 },
 {
 "speaker": "Zik",
 "text": "You have BAH-lahg's axe.",
 "tags": [
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "In your pack."
+"text": "In your pack.",
+"tags": [
+"tearfully"
+],
+"tag": "tearfully"
 },
 {
 "speaker": "Zik",
 "text": "Take it.",
 "tags": [
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I'm carrying enough of the dead."
+"text": "I'm carrying enough of the dead.",
+"tags": [
+"sorrowful"
+],
+"tag": "sorrowful"
 },
 {
 "speaker": "Zik",
 "text": "Then carry one more thing.",
 "tags": [
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "The passage behind her shortened. The distant pale light now stood no more than twenty paces away, framed by an arch whose upper stones were carved with signs Ninsun could not read quickly enough. The marks erased themselves as she looked."
+"text": "The passage behind her shortened. The distant pale light now stood no more than twenty paces away, framed by an arch whose upper stones were carved with signs NEEN-soon could not read quickly enough. The marks erased themselves as she looked."
 },
 {
 "speaker": "Narrator",
@@ -1145,25 +1402,31 @@
 },
 {
 "speaker": "Zik",
-"text": "En-HEH-doo hated being carried.",
+"text": "En-KHEH-doo hated being carried.",
 "tags": [
-"fondly",
-"weakly"
+"weakly",
+"fondly"
 ],
-"tag": "fondly] [weakly",
+"tag": "weakly] [fondly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "She hated not being paid."
+"text": "She hated not being paid.",
+"tags": [
+"tearfully",
+"laughs"
+],
+"tag": "tearfully] [laughs"
 },
 {
 "speaker": "Zik",
 "text": "Then tell her I still owe her.",
 "tags": [
-"weakly"
+"weakly",
+"fondly"
 ],
-"tag": "weakly",
+"tag": "weakly] [fondly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -1180,7 +1443,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Silence gathered so completely that Ninsun heard the small metal knock of the figurine against the buckle inside her pocket.",
+"text": "Silence gathered so completely that NEEN-soon heard the small metal knock of the figurine against the buckle inside her pocket.",
 "pauseBefore": 1.5
 },
 {
@@ -1200,10 +1463,10 @@
 "speaker": "Zik",
 "text": "Go.",
 "tags": [
-"urgently",
-"weakly"
+"weakly",
+"urgently"
 ],
-"tag": "urgently] [weakly",
+"tag": "weakly] [urgently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -1219,14 +1482,15 @@
 "speaker": "Zik",
 "text": "You know what this place does when we hesitate.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Behind him, the jar that had held Subject 001 stood dark upon its shelf. The dash on its label remained, but the name beside it had blurred beyond recognition. Ninsun looked from the jar to the Ledger and understood that the library was not waiting for her agreement. It had already begun removing the evidence that any other choice had existed."
+"text": "Behind him, the jar that had held Subject 001 stood dark upon its shelf. The dash on its label remained, but the name beside it had blurred beyond recognition. NEEN-soon looked from the jar to the Ledger and understood that the library was not waiting for her agreement. It had already begun removing the evidence that any other choice had existed."
 },
 {
 "speaker": "Narrator",
@@ -1249,14 +1513,19 @@
 "speaker": "Zik",
 "text": "Don't promise the City anything.",
 "tags": [
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I wasn't speaking to the City."
+"text": "I wasn't speaking to the City.",
+"tags": [
+"tearfully"
+],
+"tag": "tearfully"
 },
 {
 "speaker": "Narrator",
@@ -1267,15 +1536,15 @@
 "speaker": "Zik",
 "text": "Then don't look back.",
 "tags": [
-"gently",
-"weakly"
+"weakly",
+"gently"
 ],
-"tag": "gently] [weakly",
+"tag": "weakly] [gently",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stepped away from the desk."
+"text": "NEEN-soon stepped away from the desk."
 },
 {
 "speaker": "Narrator",
@@ -1287,7 +1556,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun swerved through an opening to her right."
+"text": "NEEN-soon swerved through an opening to her right."
 },
 {
 "speaker": "Narrator",
@@ -1303,7 +1572,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "A staircase rose beneath her without warning. She stumbled onto the first step, caught herself against the wall, and climbed as the lower steps flattened behind her. Halfway up, the staircase angled sideways. Ninsun braced both hands against the narrowing stone and forced herself through. BAH-lahg's axe head struck the wall with every movement. En-HEH-doo's figurine cut into her palm inside her pocket."
+"text": "A staircase rose beneath her without warning. She stumbled onto the first step, caught herself against the wall, and climbed as the lower steps flattened behind her. Halfway up, the staircase angled sideways. NEEN-soon braced both hands against the narrowing stone and forced herself through. BAH-lahg's axe head struck the wall with every movement. En-KHEH-doo's figurine cut into her palm inside her pocket."
 },
 {
 "speaker": "Narrator",
@@ -1319,7 +1588,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun threw herself through as the stone narrowed against her shoulders. Heat struck her face. Sand scraped beneath her palms when she landed. She rolled, came to her knees, and dragged one boot free an instant before the threshold sealed behind it."
+"text": "NEEN-soon threw herself through as the stone narrowed against her shoulders. Heat struck her face. Sand scraped beneath her palms when she landed. She rolled, came to her knees, and dragged one boot free an instant before the threshold sealed behind it."
 },
 {
 "speaker": "Narrator",
@@ -1340,7 +1609,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun rose."
+"text": "NEEN-soon rose.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1357,6 +1627,10 @@
 {
 "speaker": "Zik",
 "text": "Don't look back.",
+"tags": [
+"whispers"
+],
+"tag": "whispers",
 "note": "Ninsun remembering Zik's last instruction. Exhausted irritation, not ceremony."
 },
 {
@@ -1369,7 +1643,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "None came."
+"text": "None came.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1381,16 +1656,17 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun pressed her forehead against the sun-warmed stone beside it.",
+"text": "NEEN-soon pressed her forehead against the sun-warmed stone beside it.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
 "text": "Zeek.",
 "tags": [
-"whispers"
+"whispers",
+"sorrowful"
 ],
-"tag": "whispers"
+"tag": "whispers] [sorrowful"
 },
 {
 "speaker": "Narrator",
@@ -1414,11 +1690,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun remained there until the rock grew too hot to touch. When she finally lowered her hand, En-HEH-doo's copper figurine had marked her palm, and BAH-lahg's axe head pulled heavily at her belt. She did not search the stone for another entrance. She did not call Zeek's name again."
+"text": "NEEN-soon remained there until the rock grew too hot to touch. When she finally lowered her hand, En-KHEH-doo's copper figurine had marked her palm, and BAH-lahg's axe head pulled heavily at her belt. She did not search the stone for another entrance. She did not call Zeek's name again."
 },
 {
 "speaker": "Narrator",
-"text": "She turned toward the desert with the City sealed behind her and began walking before it could decide to remember the door."
+"text": "She turned toward the desert with the City sealed behind her and began walking before it could decide to remember the door.",
+"pauseBefore": 1.2
 }
 ]
 }

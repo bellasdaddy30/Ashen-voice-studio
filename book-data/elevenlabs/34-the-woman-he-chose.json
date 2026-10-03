@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "34-the-woman-he-chose",
 "title": "Chapter 34 — The Woman He Chose",
-"chars": 4830,
+"chars": 4856,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -37,7 +37,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The journal no longer felt like a book. It felt like a hook set somewhere behind his ribs, its weight tugging with every step. Every step reminded him of the price he had paid to keep Ninsun real. Every step also reminded him that the reason for that price was gone."
+"text": "The journal no longer felt like a book. It felt like a hook set somewhere behind his ribs, its weight tugging with every step. Every step reminded him of the price he had paid to keep NEEN-soon real. Every step also reminded him that the reason for that price was gone."
 },
 {
 "speaker": "Narrator",
@@ -45,7 +45,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Behind him, Ninsun kept pace."
+"text": "Behind him, NEEN-soon kept pace."
 },
 {
 "speaker": "Narrator",
@@ -57,7 +57,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He knew her name–Ninsun. Nothing followed the name."
+"text": "He knew her name–NEEN-soon. Nothing followed the name."
 },
 {
 "speaker": "Narrator",
@@ -73,7 +73,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo kept to the side, the golden figurine still in her possession. She simply carried it, as though carrying it had become part of a route whose purpose belonged to someone else."
+"text": "En-KHEH-doo kept to the side, the golden figurine still in her possession. She simply carried it, as though carrying it had become part of a route whose purpose belonged to someone else."
 },
 {
 "speaker": "Narrator",
@@ -89,11 +89,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun spoke for the first time since they had left the ledger chamber."
+"text": "NEEN-soon spoke for the first time since they had left the ledger chamber."
 },
 {
 "speaker": "Ninsun",
-"text": "You don't remember why."
+"text": "You don't remember why.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -101,15 +105,27 @@
 },
 {
 "speaker": "Zik",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "But you remember that you chose."
+"text": "But you remember that you chose.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "Yes."
+"text": "Yes.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -118,7 +134,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Does that still count?"
+"text": "Does that still count?",
+"tags": [
+"vulnerable"
+],
+"tag": "vulnerable"
 },
 {
 "speaker": "Narrator",
@@ -126,7 +146,12 @@
 },
 {
 "speaker": "Zik",
-"text": "It counts to me,"
+"text": "It counts to me,",
+"tags": [
+"quietly",
+"uncertain"
+],
+"tag": "quietly] [uncertain"
 },
 {
 "speaker": "Narrator",
@@ -139,12 +164,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun did not press. She walked a few paces farther and then said, almost to herself,",
+"text": "NEEN-soon did not press. She walked a few paces farther and then said, almost to herself,",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The tablets never mentioned this part. The part where you keep the person and lose the reason."
+"text": "The tablets never mentioned this part. The part where you keep the person and lose the reason.",
+"tags": [
+"sadly"
+],
+"tag": "sadly"
 },
 {
 "speaker": "Narrator",
@@ -153,7 +182,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You two finished? The floor ahead looks wrong."
+"text": "You two finished? The floor ahead looks wrong.",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "Narrator",
@@ -165,7 +198,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Behind him Ninsun's breathing stayed steady. He counted it without meaning to: the quiet intake, the quieter release. As long as he could hear it, the payment was still holding."
+"text": "Behind him NEEN-soon's breathing stayed steady. He counted it without meaning to: the quiet intake, the quieter release. As long as he could hear it, the payment was still holding."
 },
 {
 "speaker": "Narrator",
@@ -177,7 +210,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The corridor turned."
+"text": "The corridor turned.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -186,15 +220,20 @@
 {
 "speaker": "Narrator",
 "text": "BAH-lahg stopped.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Balag",
-"text": "This is new."
+"text": "This is new.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo tilted her head, studying the darkness.",
+"text": "En-KHEH-doo tilted her head, studying the darkness.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -208,7 +247,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun came up beside Zeek. She did not touch him. She simply stood close enough that he could feel the fact of her presence without needing the memory of its value."
+"text": "NEEN-soon came up beside Zeek. She did not touch him. She simply stood close enough that he could feel the fact of her presence without needing the memory of its value."
 },
 {
 "speaker": "Ninsun",
@@ -225,15 +264,27 @@
 },
 {
 "speaker": "Zik",
-"text": "I did."
+"text": "I did.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "Even without the reason."
+"text": "Even without the reason.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "Even without the reason."
+"text": "Even without the reason.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -242,15 +293,27 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The City will not stop at one payment. You know that."
+"text": "The City will not stop at one payment. You know that.",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Zik",
-"text": "I know."
+"text": "I know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "When it asks again, what will you give it?"
+"text": "When it asks again, what will you give it?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -258,7 +321,12 @@
 },
 {
 "speaker": "Zik",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly",
+"uncertain"
+],
+"tag": "quietly] [uncertain"
 },
 {
 "speaker": "Narrator",
@@ -266,7 +334,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then Zeek stepped into the dark, listening for Ninsun's next breath."
+"text": "Then Zeek stepped into the dark, listening for NEEN-soon's next breath.",
+"pauseBefore": 1.2
 }
 ]
 }

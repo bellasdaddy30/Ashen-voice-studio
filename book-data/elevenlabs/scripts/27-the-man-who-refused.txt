@@ -7,21 +7,21 @@ Narrator: The Man Who Refused
 Narrator: They did not return to the plaza.
 Narrator: The knocking faded after a time, as if the City had noted their refusal and simply transferred the account to a later column. The three paving stones looked ordinary again. Only the erased names on the lintels remained as proof that someone had once answered when asked.
 Narrator: BAH-lahg kept his hand on Zeek's shoulder until they were well clear of the unfinished street.
-Balag: Next time you test a threshold,
+Balag: [firmly] Next time you test a threshold,
 Narrator: he said,
-Balag: you say so first.
+Balag: [firmly] you say so first.
 Narrator: Zeek nodded. He still tasted the shape of his own full name at the back of his throat.
-Narrator: En-HEH-doo glanced back once at the blank floor.
-Enhedu: We still don't know what happens if someone actually pays.
-Ninsun: We know enough,
-Narrator: Ninsun answered. She was writing again, stylus moving in short, precise strokes.
-Ninsun: That distinction survives in every damaged tablet that still mentions the gates.
+Narrator: En-KHEH-doo glanced back once at the blank floor.
+Enhedu: [uneasy] We still don't know what happens if someone actually pays.
+Ninsun: [quietly] We know enough,
+Narrator: NEEN-soon answered. She was writing again, stylus moving in short, precise strokes.
+Ninsun: [intently] That distinction survives in every damaged tablet that still mentions the gates.
 Narrator: They chose a narrower street that at least possessed two walls and a visible far end. The geometry continued to refuse ordinary rules. A covered walkway they passed beneath reappeared ahead of them a short while later, identical down to one cracked tile. Zeek stopped leaving trail markers. There was no longer any point.
 Narrator: The deeper they went, the more traces of ordinary life surfaced—and the more wrong those traces felt. A market stall carved directly into a building's side still held the faint outlines of jars that no longer existed. A child's handprint was pressed into a wall at waist height, the fingers too small, the impression too deep. Doorways showed thresholds worn smooth by generations of feet, yet their upper lintels remained sharp, as if the people who lived here had eventually stopped looking up.
-Narrator: Ninsun slowed beside a low wall covered in faint wedge-shaped marks. She brushed dust away with careful fingers.
-Ninsun: Inventory,
+Narrator: NEEN-soon slowed beside a low wall covered in faint wedge-shaped marks. She brushed dust away with careful fingers.
+Ninsun: [quietly] Inventory,
 Narrator: she said.
-Ninsun: Grain. Oil. Rope. The same lists every household kept.
+Ninsun: [quietly] Grain. Oil. Rope. The same lists every household kept.
 Narrator: Near the bottom three lines had been crossed out so thoroughly the surface beneath was scraped raw. Beside the erasure someone had later cut a single incomplete spiral.
 Ninsun: [softly] They inventoried people,
 Narrator: she said quietly.
@@ -30,58 +30,61 @@ Narrator: The street narrowed further. Torchlight sank into the oily stone and d
 Narrator: Then they heard the voice.
 Narrator: It was thin, human, and exhausted, and it came from a side passage so narrow they would have walked past it without noticing.
 The Man Who Refused: [hoarse] Don't give it your name.
-Narrator: BAH-lahg's axe was up before the last word finished. En-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment.
+Narrator: BAH-lahg's axe was up before the last word finished. En-KHEH-doo had already angled herself for a fight. NEEN-soon froze with the stylus still pressed to parchment.
 Narrator: Zeek raised the torch.
 Narrator: The passage ended after only a few paces in a shallow alcove. A man sat against the back wall, knees drawn up, wrists resting loosely on them. His clothes were the same dust-fused linen they had seen on the gatekeeper, but his skin was still skin—gray, stretched thin, cracked at the corners of the mouth. His eyes tracked the torchlight with the slow recognition of someone who had not expected living faces again.
-The Man Who Refused: You're real,
+The Man Who Refused: [hoarse] [disbelieving] You're real,
 Narrator: the man said. His voice sounded unused.
-The Man Who Refused: I thought the City had finally learned how to make better copies.
+The Man Who Refused: [hoarse] [dryly] I thought the City had finally learned how to make better copies.
 Narrator: Zeek crouched just out of reach.
-Zik: Who are you?
+Zik: [cautiously] Who are you?
 Narrator: The man gave a one-sided smile.
-The Man Who Refused: That depends which name you're asking for. The one I arrived with, or the one it left me.
-Narrator: Ninsun's stylus hovered.
-Ninsun: How long have you been here?
-The Man Who Refused: I stopped counting after the second winter that never ended.
+The Man Who Refused: [hoarse] [dryly] That depends which name you're asking for. The one I arrived with, or the one it left me.
+Narrator: NEEN-soon's stylus hovered.
+Ninsun: [gently] How long have you been here?
+The Man Who Refused: [hoarse] [weary] I stopped counting after the second winter that never ended.
 Narrator: He looked past them toward the main street.
-The Man Who Refused: You're still carrying your names. That's rarer than it should be. Most who reach this depth have already paid at least once.
+The Man Who Refused: [hoarse] [weary] You're still carrying your names. That's rarer than it should be. Most who reach this depth have already paid at least once.
 Narrator: BAH-lahg kept the axe ready.
-Balag: Are there others?
-The Man Who Refused: There were.
+Balag: [tense] Are there others?
+The Man Who Refused: [hoarse] There were.
 Narrator: The man lifted one thin hand and pointed farther down the narrowing street.
-The Man Who Refused: The City keeps what it collects. Sometimes it lets the emptier ones walk for a while. Sometimes it uses them as markers. Sometimes it just leaves them where they fall.
-Narrator: En-HEH-doo studied him the way she studied anything that might still hold value.
-Enhedu: What did you pay?
+The Man Who Refused: [hoarse] [ominous] The City keeps what it collects. Sometimes it lets the emptier ones walk for a while. Sometimes it uses them as markers. Sometimes it just leaves them where they fall.
+Narrator: En-KHEH-doo studied him the way she studied anything that might still hold value.
+Enhedu: [shrewdly] What did you pay?
 Narrator: The man's gaze settled on BAH-lahg.
-The Man Who Refused: The first threshold accepted your offering,
+The Man Who Refused: [hoarse] The first threshold accepted your offering,
 Narrator: he said. Then, to Zeek:
-The Man Who Refused: First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—
+The Man Who Refused: [hoarse] [weary] First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—
 Narrator: He stopped. His mouth worked around a word that would not come.
 The Man Who Refused: [sadly] I can still see her face,
 Narrator: he said at last.
-The Man Who Refused: I just can't remember what anyone ever called her.
+The Man Who Refused: [hoarse] [sadly] I just can't remember what anyone ever called her.
 [pause 1.5s]
 Narrator: Silence settled over the alcove.
-Narrator: Ninsun spoke carefully.
+[pause 0.5s]
+Narrator: NEEN-soon spoke carefully.
 Ninsun: [carefully] And the fourth?
 Narrator: The man looked at Zeek's wrapped hand, at the journal, at the mark that still pulsed faintly beneath the linen.
-The Man Who Refused: The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep.
+The Man Who Refused: [hoarse] [weary] The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep.
 Narrator: He leaned his head back against the stone.
-The Man Who Refused: You're marked,
+The Man Who Refused: [hoarse] [gravely] You're marked,
 Narrator: he said to Zeek.
-The Man Who Refused: That means an account is already open. Everything after this is collection.
+The Man Who Refused: [hoarse] [ominous] That means an account is already open. Everything after this is collection.
 Narrator: The journal pressed once against Zeek's ribs—deliberate, almost like confirmation.
 Narrator: The man closed his eyes.
 The Man Who Refused: [hoarse] Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving.
 Narrator: BAH-lahg lowered the axe and offered his hand.
-Balag: Come with us.
+Balag: [gently] Come with us.
 Narrator: The man stared at the open hand for a long time.
-The Man Who Refused: I have followed strangers out of this alcove before,
+The Man Who Refused: [hoarse] [weary] I have followed strangers out of this alcove before,
 Narrator: he said.
-The Man Who Refused: They always bring me back.
+The Man Who Refused: [hoarse] [resigned] They always bring me back.
 Narrator: He did not take the hand.
+[pause 1.5s]
 Narrator: They left him there.
-Narrator: As they moved back into the main street, Ninsun spoke almost to herself.
-Ninsun: The tablets never mentioned survivors.
+Narrator: As they moved back into the main street, NEEN-soon spoke almost to herself.
+Ninsun: [quietly] [shaken] The tablets never mentioned survivors.
+[pause 1.2s]
 Narrator: Behind them, in the narrow alcove, the man began to hum—soft, tuneless, keeping time with a clock only he could still hear.
 [pause 3s]

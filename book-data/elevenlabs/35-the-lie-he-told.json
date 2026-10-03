@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "35-the-lie-he-told",
 "title": "Chapter 35 — The Lie He Told",
-"chars": 4364,
+"chars": 4397,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -24,7 +24,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun caught up within a dozen paces.",
+"text": "NEEN-soon caught up within a dozen paces.",
 "pauseBefore": 2.0
 },
 {
@@ -49,7 +49,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said.",
+"text": "NEEN-soon said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -59,11 +59,16 @@
 {
 "speaker": "Narrator",
 "text": "Zeek kept walking.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
-"text": "I haven't said anything."
+"text": "I haven't said anything.",
+"tags": [
+"defensive"
+],
+"tag": "defensive"
 },
 {
 "speaker": "Ninsun",
@@ -104,11 +109,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun watched the decision form on his face."
+"text": "NEEN-soon watched the decision form on his face."
 },
 {
 "speaker": "Ninsun",
-"text": "You're still deciding,"
+"text": "You're still deciding,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -117,7 +126,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Even now."
+"text": "Even now.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -126,11 +139,15 @@
 },
 {
 "speaker": "Balag",
-"text": "If the two of you are going to stand there arguing about paper, the rest of us are moving."
+"text": "If the two of you are going to stand there arguing about paper, the rest of us are moving.",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo did not look back. She simply continued walking, the figurine turning once in her hand and then forgotten again."
+"text": "En-KHEH-doo did not look back. She simply continued walking, the figurine turning once in her hand and then forgotten again."
 },
 {
 "speaker": "Narrator",
@@ -146,11 +163,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stepped forward and studied the stone above each opening. When she began to copy one of the incomplete symbols, the mark on her parchment went blank under the stylus."
+"text": "NEEN-soon stepped forward and studied the stone above each opening. When she began to copy one of the incomplete symbols, the mark on her parchment went blank under the stylus."
 },
 {
 "speaker": "Ninsun",
-"text": "They're the same,"
+"text": "They're the same,",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Narrator",
@@ -159,11 +180,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Or the City wants us to believe they're the same."
+"text": "Or the City wants us to believe they're the same.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked at the three openings with the remote attention she now gave anything that could not be priced.",
+"text": "En-KHEH-doo looked at the three openings with the remote attention she now gave anything that could not be priced.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -182,20 +207,32 @@
 },
 {
 "speaker": "Balag",
-"text": "Last time we picked, the walls rearranged themselves behind us. I'd rather know which one is the trap."
+"text": "Last time we picked, the walls rearranged themselves behind us. I'd rather know which one is the trap.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Ninsun",
-"text": "They're all traps,"
+"text": "They're all traps,",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said.",
+"text": "NEEN-soon said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The only question is which trap the City prefers us to choose."
+"text": "The only question is which trap the City prefers us to choose.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -224,12 +261,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun was watching his face.",
+"text": "NEEN-soon was watching his face.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What does it say?"
+"text": "What does it say?",
+"tags": [
+"suspicious"
+],
+"tag": "suspicious"
 },
 {
 "speaker": "Narrator",
@@ -237,7 +278,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "He looked at the three openings, at BAH-lahg waiting for direction, at En-HEH-doo already half-turned toward the left-hand passage because someone else would eventually declare one of them relevant."
+"text": "He looked at the three openings, at BAH-lahg waiting for direction, at En-KHEH-doo already half-turned toward the left-hand passage because someone else would eventually declare one of them relevant."
 },
 {
 "speaker": "Narrator",
@@ -253,7 +294,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stared at him."
+"text": "NEEN-soon stared at him."
 },
 {
 "speaker": "Narrator",
@@ -273,11 +314,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "Behind him Ninsun remained standing for a long moment before her footsteps finally started again—quieter now, more careful, as though she had learned something about the ground beneath her that she had not known before."
+"text": "Behind him NEEN-soon remained standing for a long moment before her footsteps finally started again—quieter now, more careful, as though she had learned something about the ground beneath her that she had not known before."
 },
 {
 "speaker": "Narrator",
-"text": "Zeek reached the mouth of the left-hand passage and stopped because some remaining part of him expected Ninsun beside him."
+"text": "Zeek reached the mouth of the left-hand passage and stopped because some remaining part of him expected NEEN-soon beside him."
 },
 {
 "speaker": "Narrator",
@@ -285,11 +326,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "He looked back."
+"text": "He looked back.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun was still there, a dozen paces behind him, her arms wrapped around herself against a cold that had nothing to do with temperature."
+"text": "NEEN-soon was still there, a dozen paces behind him, her arms wrapped around herself against a cold that had nothing to do with temperature."
 },
 {
 "speaker": "Narrator",
@@ -297,7 +339,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then he walked on."
+"text": "Then he walked on.",
+"pauseBefore": 1.2
 }
 ]
 }

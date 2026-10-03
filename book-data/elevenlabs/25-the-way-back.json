@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "25-the-way-back",
 "title": "Chapter 25 — The Way Back",
-"chars": 9548,
+"chars": 9606,
 "speakers": [
 "Balag",
 "Bel-iddin",
@@ -46,7 +46,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then he checked his father's compass. The needle no longer pointed into the earth. It pointed back toward Uruk—steady, almost eager."
+"text": "Then he checked his father's compass. The needle no longer pointed into the earth. It pointed back toward OO-rook—steady, almost eager."
 },
 {
 "speaker": "Narrator",
@@ -58,11 +58,19 @@
 },
 {
 "speaker": "Balag",
-"text": "What?"
+"text": "What?",
+"tags": [
+"groggy"
+],
+"tag": "groggy"
 },
 {
 "speaker": "Zik",
-"text": "We're leaving."
+"text": "We're leaving.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -70,11 +78,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun agreed before he finished the sentence. She had slept badly; the hollows under her eyes showed it. En-HEH-doo said nothing at all. Her silence had teeth."
+"text": "NEEN-soon agreed before he finished the sentence. She had slept badly; the hollows under her eyes showed it. En-KHEH-doo said nothing at all. Her silence had teeth."
 },
 {
 "speaker": "Narrator",
-"text": "They broke camp in the dark and put their backs to the ridge."
+"text": "They broke camp in the dark and put their backs to the ridge.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -94,24 +103,40 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun came up beside him.",
+"text": "NEEN-soon came up beside him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What is it?"
+"text": "What is it?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "Route marker."
+"text": "Route marker.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Ninsun",
-"text": "Does it point toward Uruk?"
+"text": "Does it point toward OO-rook?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "It should."
+"text": "It should.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -120,11 +145,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Should?"
+"text": "Should?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked at the horizon, then back at the marker. It pointed east. Uruk was west. Had been west every day of his life."
+"text": "Zeek looked at the horizon, then back at the marker. It pointed east. OO-rook was west. Had been west every day of his life."
 },
 {
 "speaker": "Narrator",
@@ -133,7 +162,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Maybe we read it wrong."
+"text": "Maybe we read it wrong.",
+"tags": [
+"uncertain"
+],
+"tag": "uncertain"
 },
 {
 "speaker": "Narrator",
@@ -141,7 +174,11 @@
 },
 {
 "speaker": "Balag",
-"text": "It happens,"
+"text": "It happens,",
+"tags": [
+"reassuring"
+],
+"tag": "reassuring"
 },
 {
 "speaker": "Narrator",
@@ -150,16 +187,24 @@
 },
 {
 "speaker": "Zik",
-"text": "Not to me."
+"text": "Not to me.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo, several paces back, smiled.",
+"text": "En-KHEH-doo, several paces back, smiled.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "There he is."
+"text": "There he is.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -171,7 +216,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "They reached the place the map, the sun, and four separate memories agreed it should be."
+"text": "They reached the place the map, the sun, and four separate memories agreed it should be.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -188,24 +234,37 @@
 },
 {
 "speaker": "Balag",
-"text": "We're off course."
+"text": "We're off course.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Ninsun",
-"text": "We're not."
+"text": "We're not.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun had already taken sightings off the sun and the ridgeline.",
+"text": "NEEN-soon had already taken sightings off the sun and the ridgeline.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The desert has stopped agreeing with itself."
+"text": "The desert has stopped agreeing with itself.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
-"text": "They found the well again when the sun stood directly overhead, throwing no shadows at all. It sat several miles off their line of travel, in a place none of them remembered crossing. The stones around its mouth were wet."
+"text": "They found the well again when the sun stood directly overhead, throwing no shadows at all. It sat several miles off their line of travel, in a place none of them remembered crossing. The stones around its mouth were wet.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -217,7 +276,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Don't,"
+"text": "Don't,",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -226,19 +289,31 @@
 },
 {
 "speaker": "Balag",
-"text": "Wasn't going to drink."
+"text": "Wasn't going to drink.",
+"tags": [
+"defensive"
+],
+"tag": "defensive"
 },
 {
 "speaker": "Zik",
-"text": "Good."
+"text": "Good.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Carved fresh into the stone rim, dust still pale and scattered around the cuts, was the spiral-drop symbol. Ninsun crouched and held her fingers a hair above the grooves without touching them."
+"text": "Carved fresh into the stone rim, dust still pale and scattered around the cuts, was the spiral-drop symbol. NEEN-soon crouched and held her fingers a hair above the grooves without touching them."
 },
 {
 "speaker": "Ninsun",
-"text": "This was made recently. Hours."
+"text": "This was made recently. Hours.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -254,20 +329,29 @@
 },
 {
 "speaker": "Narrator",
-"text": "That was when the retreat stopped being a plan."
+"text": "That was when the retreat stopped being a plan.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg wanted the staircase. Ninsun agreed with him at once.",
+"text": "BAH-lahg wanted the staircase. NEEN-soon agreed with him at once.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "It's the only fixed point we have left. Everything else keeps changing under us."
+"text": "It's the only fixed point we have left. Everything else keeps changing under us.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
-"text": "The staircase changed too,"
+"text": "The staircase changed too,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -276,11 +360,19 @@
 },
 {
 "speaker": "Zik",
-"text": "It just didn't disappear."
+"text": "It just didn't disappear.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Balag",
-"text": "It's more than we've got anywhere else out here."
+"text": "It's more than we've got anywhere else out here.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -289,15 +381,23 @@
 },
 {
 "speaker": "Balag",
-"text": "We go back."
+"text": "We go back.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo did not move. She stood apart, staring at the empty shimmer of the horizon."
+"text": "En-KHEH-doo did not move. She stood apart, staring at the empty shimmer of the horizon."
 },
 {
 "speaker": "Enhedu",
-"text": "You keep calling it a prison because your father did,"
+"text": "You keep calling it a prison because your father did,",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -311,23 +411,39 @@
 },
 {
 "speaker": "Zik",
-"text": "What?"
+"text": "What?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Enhedu",
-"text": "Your father. The journal. The warnings. Every time this place scares you, you decide that means it's a trap."
+"text": "Your father. The journal. The warnings. Every time this place scares you, you decide that means it's a trap.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Zik",
-"text": "Most things trying to kill us are traps."
+"text": "Most things trying to kill us are traps.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Enhedu",
-"text": "Most things trying to kill us are honest enough to just attack."
+"text": "Most things trying to kill us are honest enough to just attack.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun frowned.",
+"text": "NEEN-soon frowned.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -340,20 +456,32 @@
 },
 {
 "speaker": "Enhedu",
-"text": "It makes perfect sense."
+"text": "It makes perfect sense.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo turned fully toward Zeek. Her eyes had gone bright—not with fear, but with something closer to hunger.",
+"text": "En-KHEH-doo turned fully toward Zeek. Her eyes had gone bright—not with fear, but with something closer to hunger.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "You keep assuming we need to escape from the First City. What if it isn't?"
+"text": "You keep assuming we need to escape from the First City. What if it isn't?",
+"tags": [
+"excited"
+],
+"tag": "excited"
 },
 {
 "speaker": "Zik",
-"text": "What do you think it is, then?"
+"text": "What do you think it is, then?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
@@ -369,28 +497,40 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg made a low sound in his throat. Ninsun stared at her."
+"text": "BAH-lahg made a low sound in his throat. NEEN-soon stared at her."
 },
 {
 "speaker": "Ninsun",
-"text": "You want to go back,"
+"text": "You want to go back,",
+"tags": [
+"accusing"
+],
+"tag": "accusing"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said.",
+"text": "NEEN-soon said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "I want to know what's down there."
+"text": "I want to know what's down there.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Ninsun",
-"text": "You want to walk into the place that erased an entire city from history."
+"text": "You want to walk into the place that erased an entire city from history.",
+"tags": [
+"horrified"
+],
+"tag": "horrified"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo shrugged.",
+"text": "En-KHEH-doo shrugged.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -403,7 +543,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked between them. BAH-lahg wanted the staircase because walls still made sense to him. Ninsun wanted it because she needed one true thing while the world kept lying. En-HEH-doo wanted it because she had decided the First City was the biggest score of her life—bigger than money, bigger than anything she had ever put a price on."
+"text": "Zeek looked between them. BAH-lahg wanted the staircase because walls still made sense to him. NEEN-soon wanted it because she needed one true thing while the world kept lying. En-KHEH-doo wanted it because she had decided the First City was the biggest score of her life—bigger than money, bigger than anything she had ever put a price on."
 },
 {
 "speaker": "Narrator",
@@ -423,16 +563,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun dropped to her knees at one of the joints.",
+"text": "NEEN-soon dropped to her knees at one of the joints.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "This is older than the known dynasties."
+"text": "This is older than the known dynasties.",
+"tags": [
+"awed"
+],
+"tag": "awed"
 },
 {
 "speaker": "Balag",
-"text": "How old?"
+"text": "How old?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -441,7 +589,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -450,7 +602,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The road ran the wrong direction—away from Uruk, away from the ridge, toward nothing they recognized. Beside it, pressed into the sand, were footprints. Bare feet. One set. Fresh."
+"text": "The road ran the wrong direction—away from OO-rook, away from the ridge, toward nothing they recognized. Beside it, pressed into the sand, were footprints. Bare feet. One set. Fresh."
 },
 {
 "speaker": "Narrator",
@@ -458,7 +610,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek stopped breathing."
+"text": "Zeek stopped breathing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -466,7 +619,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "His father's cloak."
+"text": "His father's cloak.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -475,16 +629,25 @@
 {
 "speaker": "Bel-iddin",
 "text": "Desert remembers the sun. Doesn't mean it owes you warmth after dark.",
+"tags": [
+"warmly",
+"wistful"
+],
+"tag": "warmly] [wistful",
 "note": "Memory of Bel-iddin by the fire when Zik was a boy. Warm, dry."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun watched him.",
+"text": "NEEN-soon watched him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Is it his?"
+"text": "Is it his?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Narrator",
@@ -497,24 +660,41 @@
 },
 {
 "speaker": "Balag",
-"text": "Then he was here."
+"text": "Then he was here.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "It wanted me to think he was."
+"text": "It wanted me to think he was.",
+"tags": [
+"quietly",
+"bitterly"
+],
+"tag": "quietly] [bitterly"
 },
 {
 "speaker": "Enhedu",
-"text": "Does it matter which?"
+"text": "Does it matter which?",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo asked.",
+"text": "En-KHEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "If your father left it, he was here. If something else placed it, then what's out there knows him well enough to make you believe it. Either way, this place stopped just waiting for us a while ago."
+"text": "If your father left it, he was here. If something else placed it, then what's out there knows him well enough to make you believe it. Either way, this place stopped just waiting for us a while ago.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -532,7 +712,11 @@
 },
 {
 "speaker": "Balag",
-"text": "We're going back,"
+"text": "We're going back,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -541,7 +725,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "It took until nightfall to reach the ridge. The outpost was still there. For a moment Zeek let himself believe that was good news."
+"text": "It took until nightfall to reach the ridge. The outpost was still there. For a moment Zeek let himself believe that was good news.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -553,12 +738,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stood at the edge.",
+"text": "NEEN-soon stood at the edge.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "That wasn't there."
+"text": "That wasn't there.",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Balag",
@@ -595,20 +784,29 @@
 },
 {
 "speaker": "Narrator",
-"text": "That was wise."
+"text": "That was wise.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun read over his shoulder.",
+"text": "NEEN-soon read over his shoulder.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "That's not comforting."
+"text": "That's not comforting.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -633,7 +831,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Then how did we get back?"
+"text": "Then how did we get back?",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Narrator",
@@ -678,7 +880,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The knocking began again—from everywhere at once."
+"text": "The knocking began again—from everywhere at once.",
+"pauseBefore": 1.2
 }
 ]
 }

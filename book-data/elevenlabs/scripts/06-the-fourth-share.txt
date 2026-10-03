@@ -5,94 +5,101 @@ Narrator: CHAPTER 6
 Narrator: The Fourth Share
 [pause 2s]
 Narrator: They found her in the lower archives district two days after the Collector paid them.
-Narrator: The building was half-sunk into the slope above the old flood channel, its upper rooms rented to scribes who couldn't afford better light and its lower rooms left to the kind of people who preferred not to be found. Zeek had come looking for a particular copy of a boundary tablet the Collector had mentioned in passing. BAH-lahg waited outside with the packs. En-HEH-doo had already decided the place smelled like unpaid debts and was keeping one eye on the street.
-Narrator: Ninsun was in the back room, seated at a low table covered in clay tablets and scrap parchment. Ink stained both wrists. A small oil lamp burned with the kind of careful thrift that said the oil was more expensive than the work. She looked up when Zeek's shadow crossed the tablets, and for a moment neither of them spoke.
-Ninsun: You're the one who came out of the sealed tomb,
+Narrator: The building was half-sunk into the slope above the old flood channel, its upper rooms rented to scribes who couldn't afford better light and its lower rooms left to the kind of people who preferred not to be found. Zeek had come looking for a particular copy of a boundary tablet the Collector had mentioned in passing. BAH-lahg waited outside with the packs. En-KHEH-doo had already decided the place smelled like unpaid debts and was keeping one eye on the street.
+Narrator: NEEN-soon was in the back room, seated at a low table covered in clay tablets and scrap parchment. Ink stained both wrists. A small oil lamp burned with the kind of careful thrift that said the oil was more expensive than the work. She looked up when Zeek's shadow crossed the tablets, and for a moment neither of them spoke.
+Ninsun: [knowingly] You're the one who came out of the sealed tomb,
 Narrator: she said.
 Narrator: It wasn't a question.
 Narrator: Zeek kept his expression flat.
-Zik: People talk too much.
-Ninsun: People talk exactly enough.
+Zik: [flatly] People talk too much.
+Ninsun: [dryly] People talk exactly enough.
 Narrator: She set the stylus down.
-Ninsun: The mark on your hand matches a symbol that appears on seven private royal seals and nowhere else in the public record. The same symbol that shows up in the oldest underworld fragments the temple pretends not to keep. I've been looking for someone who actually saw it in the ground instead of on a tablet.
+Ninsun: [intense] The mark on your hand matches a symbol that appears on seven private royal seals and nowhere else in the public record. The same symbol that shows up in the oldest underworld fragments the temple pretends not to keep. I've been looking for someone who actually saw it in the ground instead of on a tablet.
 Narrator: BAH-lahg's bulk filled the doorway behind Zeek. He didn't speak, but the way he stood said he had already decided this woman was either useful or a problem.
-Narrator: En-HEH-doo drifted in last, eyes moving over the tablets, the lamp, the ink-stained hands.
-Enhedu: You're not temple.
+Narrator: En-KHEH-doo drifted in last, eyes moving over the tablets, the lamp, the ink-stained hands.
+Enhedu: [suspicious] You're not temple.
 Ninsun: No.
-Enhedu: University?
-Ninsun: Not anymore.
-Enhedu: Then what are you?
-Narrator: Ninsun looked at each of them in turn.
-Ninsun: Someone who spent three years watching a district rearrange itself around my sister until the city records forgot she had ever lived there. Someone who is finished being told the old texts are only metaphor.
+Enhedu: [curious] University?
+Ninsun: [flatly] Not anymore.
+Enhedu: [skeptical] Then what are you?
+Narrator: NEEN-soon looked at each of them in turn.
+Ninsun: [intense] Someone who spent three years watching a district rearrange itself around my sister until the city records forgot she had ever lived there. Someone who is finished being told the old texts are only metaphor.
 [pause 1.5s]
 Narrator: The room went quiet except for the small hiss of the lamp.
 Narrator: Zeek let the silence stretch.
 Narrator: People often rushed to fill silence.
+[pause 0.5s]
 Narrator: She didn't.
 Narrator: That interested him more than anything she'd said so far.
+[pause 0.5s]
 Narrator: Finally he spoke.
-Zik: You've seen the symbol.
+Zik: [guarded] You've seen the symbol.
 Ninsun: Yes.
-Zik: Where?
-Ninsun: A dozen places.
-Zik: I asked where.
-Narrator: Ninsun reached beneath one of the stacked tablets and produced a narrow wooden board wrapped in faded linen.
+Zik: [sharply] Where?
+Ninsun: [evasive] A dozen places.
+Zik: [impatient] I asked where.
+Narrator: NEEN-soon reached beneath one of the stacked tablets and produced a narrow wooden board wrapped in faded linen.
 Narrator: She hesitated only long enough to brush dust from it before laying it carefully on the table.
 Narrator: The linen came away.
 Narrator: Inside rested seven clay impressions, each no larger than a man's thumb.
+[pause 0.5s]
 Narrator: Cylinder seals.
+[pause 0.5s]
 Narrator: Old ones.
+[pause 0.5s]
 Narrator: Very old.
+[pause 0.5s]
 Narrator: BAH-lahg stepped closer.
-Balag: You keep those here?
+Balag: [surprised] You keep those here?
 Ninsun: I copied them.
-Balag: You copied royal seals?
-Ninsun: I copied the impressions.
-Balag: That's still illegal.
-Ninsun: Only if someone important notices.
-Narrator: En-HEH-doo leaned over the table.
-Enhedu: They're different.
+Balag: [alarmed] You copied royal seals?
+Ninsun: [dryly] I copied the impressions.
+Balag: [skeptical] That's still illegal.
+Ninsun: [dryly] Only if someone important notices.
+Narrator: En-KHEH-doo leaned over the table.
+Enhedu: [curious] They're different.
 Ninsun: They are.
-Narrator: Ninsun pointed to the first impression.
-Ninsun: This belongs to King Lugal-Ane.
+Narrator: NEEN-soon pointed to the first impression.
+Ninsun: This belongs to King LOO-gahl AH-neh.
 Narrator: Her finger moved to the next.
 Ninsun: This one was catalogued as belonging to his grandson.
+[pause 0.6s]
 Narrator: Then another.
 Ninsun: Different century.
 Narrator: Another.
 Ninsun: Different dynasty.
 Narrator: She looked at Zeek.
-Ninsun: What do you see?
+Ninsun: [testing] What do you see?
 Narrator: He studied them.
 Narrator: At first glance the spirals appeared identical.
 Narrator: Then he noticed the tiny variations.
-Zik: No.
+Zik: [slowly] No.
 Narrator: He frowned.
-Zik: [skeptical] They're changing.
+Zik: [intrigued] They're changing.
 Narrator: A flicker crossed her face.
 Narrator: The closest thing to approval.
-Ninsun: How?
+Ninsun: [testing] How?
 Zik: The outer ring.
 Narrator: He leaned lower.
-Zik: It grows.
+Zik: [intrigued] It grows.
 Narrator: She nodded.
-Ninsun: Again.
+Ninsun: [approvingly] Again.
 Narrator: He looked farther along the line.
 Zik: The center loses a turn.
 Ninsun: Again.
-Zik: The spacing…
+Zik: [slowly] The spacing…
 Narrator: He stopped.
-Zik: …they aren't copies.
-Zik: They're revisions.
-Narrator: Ninsun folded her arms.
-Ninsun: Exactly.
+Zik: [realizing] …they aren't copies.
+Zik: [quietly] They're revisions.
+Narrator: NEEN-soon folded her arms.
+Ninsun: [satisfied] Exactly.
 Narrator: BAH-lahg looked from one to the other.
-Balag: I feel like I'm listening to two people discuss sheep.
-Narrator: En-HEH-doo ignored him.
-Enhedu: Why revise a royal seal?
+Balag: [grumbling] I feel like I'm listening to two people discuss sheep.
+Narrator: En-KHEH-doo ignored him.
+Enhedu: [curious] Why revise a royal seal?
 Ninsun: You don't.
-Narrator: Ninsun answered immediately.
-Ninsun: You revise a story.
+Narrator: NEEN-soon answered immediately.
+Ninsun: [firmly] You revise a story.
 Narrator: She tapped the oldest impression.
 Ninsun: This symbol appears nowhere before this reign.
 Narrator: Another tap.
@@ -104,90 +111,96 @@ Ninsun: Then only in private records.
 Narrator: Finally she touched the last impression.
 Ninsun: And then…
 Narrator: She looked up.
-Ninsun: …it disappears.
+Ninsun: [quietly] …it disappears.
 Narrator: Zeek's eyes remained fixed on the clay.
-Zik: But the kings are still there.
+Zik: [skeptical] But the kings are still there.
 Ninsun: The kings survive.
-Zik: The symbol doesn't.
-Ninsun: The official symbol doesn't.
+Zik: [thoughtful] The symbol doesn't.
+Ninsun: [pointedly] The official symbol doesn't.
 Narrator: He looked at her.
-Zik: You think someone erased it.
-Ninsun: I know someone erased it.
-Zik: How?
-Ninsun: I've spent four years copying tablets that no longer agree with tablets copied twenty years earlier.
+Zik: [quietly] You think someone erased it.
+Ninsun: [firmly] I know someone erased it.
+Zik: [skeptical] How?
+Ninsun: [intense] I've spent four years copying tablets that no longer agree with tablets copied twenty years earlier.
 Narrator: BAH-lahg frowned.
 Balag: [skeptical] People make mistakes.
-Ninsun: Scribes do.
-Narrator: Ninsun nodded.
-Ninsun: Kings don't allow the same mistake on three hundred different tablets.
+Ninsun: [dryly] Scribes do.
+Narrator: NEEN-soon nodded.
+Ninsun: [firmly] Kings don't allow the same mistake on three hundred different tablets.
 Narrator: She reached beneath the table again.
 Narrator: This time she produced a broken fragment no larger than her palm.
-Ninsun: The temple archives catalogued this as an inventory.
-Zik: It isn't?
+Ninsun: [dryly] The temple archives catalogued this as an inventory.
+Zik: [puzzled] It isn't?
 Ninsun: It is.
 Narrator: She turned it over.
 Narrator: The reverse side carried faint scratches.
+[pause 0.5s]
 Narrator: Not cuneiform.
+[pause 0.5s]
 Narrator: Something older.
+[pause 0.5s]
 Narrator: The same spiral.
+[pause 0.5s]
 Narrator: Zeek stared.
-Zik: I've seen that carving.
-Ninsun: I know.
-Zik: In the tomb.
-Ninsun: I know.
+Zik: [stunned] I've seen that carving.
+Ninsun: [calmly] I know.
+Zik: [quietly] In the tomb.
+Ninsun: [calmly] I know.
 Narrator: He looked up sharply.
-Zik: No.
-Zik: You don't know.
-Ninsun: I do.
-Zik: You couldn't.
-Ninsun: I couldn't…
+Zik: [sharply] No.
+Zik: [sharply] You don't know.
+Ninsun: [calmly] I do.
+Zik: [defensive] You couldn't.
+Ninsun: [slowly] I couldn't…
 Narrator: She smiled for the first time.
+[pause 0.5s]
 Narrator: It wasn't pleasant.
-Ninsun: …unless I've been following exactly the same trail as your father.
+Ninsun: [coldly] …unless I've been following exactly the same trail as your father.
 Narrator: The room became very quiet.
 Narrator: Even the lamp seemed smaller.
 Narrator: BAH-lahg looked at Zeek.
-Balag: You never mentioned your father.
-Zik: I didn't.
-Narrator: Ninsun's eyes stayed on him.
-Ninsun: I didn't need you to.
+Balag: [suspicious] You never mentioned your father.
+Zik: [guarded] I didn't.
+Narrator: NEEN-soon's eyes stayed on him.
+Ninsun: [knowingly] I didn't need you to.
 Narrator: Zeek felt the mark under the linen give a single, slow pulse. He ignored it.
-Zik: We're not hiring,
+Zik: [flatly] We're not hiring,
 Narrator: he said.
-Ninsun: I'm not asking to be hired.
-Narrator: Ninsun stood. She was shorter than En-HEH-doo and carried herself like someone who had learned to take up less space than she needed.
-Ninsun: I'm telling you I already know more about the symbol on your skin than the Collector does, and I am coming with you whether you like the arrangement or not.
+Ninsun: [firmly] I'm not asking to be hired.
+Narrator: NEEN-soon stood. She was shorter than En-KHEH-doo and carried herself like someone who had learned to take up less space than she needed.
+Ninsun: [intense] I'm telling you I already know more about the symbol on your skin than the Collector does, and I am coming with you whether you like the arrangement or not.
 Narrator: BAH-lahg made a low sound that might have been a laugh.
 Balag: [laughs] Confident.
 Ninsun: [quietly] Desperate,
-Narrator: Ninsun corrected.
-Ninsun: There's a difference.
-Narrator: En-HEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.
-Enhedu: What's your cut?
-Ninsun: I don't care about the silver.
-Enhedu: Everyone cares about the silver.
+Narrator: NEEN-soon corrected.
+Ninsun: [firmly] There's a difference.
+Narrator: En-KHEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.
+Enhedu: [shrewdly] What's your cut?
+Ninsun: [flatly] I don't care about the silver.
+Enhedu: [skeptical] Everyone cares about the silver.
 Ninsun: [intense] I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists.
-Narrator: Ninsun's voice stayed level, but something underneath it had gone hard.
-Ninsun: You can keep the silver. I want the truth the city is trying to edit out of itself.
+Narrator: NEEN-soon's voice stayed level, but something underneath it had gone hard.
+Ninsun: [intense] You can keep the silver. I want the truth the city is trying to edit out of itself.
 Narrator: Zeek looked at her for a long moment.
-Narrator: He thought of the wet ink in his father's journal. The compass that pointed straight down. The way the Collector had already known more than he should. He thought of the empty space where KOO-rash had walked and the way the desert had already started forgetting the boy's footprints.
+Narrator: He thought of the wet ink in his father's journal. The compass that pointed straight down. The way the Collector had already known more than he should. He thought of the empty space where KOO-rahsh had walked and the way the desert had already started forgetting the boy's footprints.
 Narrator: Four shares instead of three.
 Narrator: The arithmetic was simple enough.
-Zik: You slow us down, we leave you,
+Zik: [coldly] You slow us down, we leave you,
 Narrator: he said.
-Ninsun: Understood.
-Zik: You get us killed chasing blank tablets, I'll make sure the city remembers your name long enough to regret it.
-Narrator: Ninsun almost smiled. It didn't reach her eyes.
-Ninsun: [amused] Also understood.
+Ninsun: [calmly] Understood.
+Zik: [coldly] You get us killed chasing blank tablets, I'll make sure the city remembers your name long enough to regret it.
+Narrator: NEEN-soon almost smiled. It didn't reach her eyes.
+Ninsun: [dryly] Also understood.
 Narrator: BAH-lahg shifted his weight.
-Balag: We taking her or not?
-Narrator: Zeek looked at En-HEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now.
-Narrator: He turned back to Ninsun.
-Zik: Pack light. We leave at first light. And if the Collector asks, you were never here.
-Narrator: Ninsun blew out the lamp.
-Ninsun: I was never here,
+Balag: [impatient] We taking her or not?
+Narrator: Zeek looked at En-KHEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now.
+Narrator: He turned back to NEEN-soon.
+Zik: [firmly] Pack light. We leave at first light. And if the Collector asks, you were never here.
+Narrator: NEEN-soon blew out the lamp.
+Ninsun: [softly] I was never here,
 Narrator: she agreed.
 Narrator: Outside, the lower district continued its ordinary noise—scribes arguing, a donkey complaining, someone shouting about a missing delivery. The city had not yet noticed the fourth share being added.
 Narrator: Zeek flexed his left hand inside the linen and started walking.
-Narrator: Behind him, Ninsun followed.
+[pause 1.2s]
+Narrator: Behind him, NEEN-soon followed.
 [pause 3s]

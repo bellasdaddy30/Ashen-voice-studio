@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "08-four-working",
 "title": "Chapter 8 — Four Working",
-"chars": 15773,
+"chars": 15886,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -33,7 +33,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "By the time Zeek and the others reached the middle of the alley, the noise had thinned."
+"text": "By the time Zeek and the others reached the middle of the alley, the noise had thinned.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -57,15 +58,23 @@
 },
 {
 "speaker": "Balag",
-"text": "This wasn't here yesterday."
+"text": "This wasn't here yesterday.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Enhedu",
-"text": "It wasn't here when we turned the corner,"
+"text": "It wasn't here when we turned the corner,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo said.",
+"text": "En-KHEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -74,7 +83,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun had her stylus out before the rest of them finished speaking."
+"text": "NEEN-soon had her stylus out before the rest of them finished speaking."
 },
 {
 "speaker": "Narrator",
@@ -86,43 +95,75 @@
 },
 {
 "speaker": "Balag",
-"text": "You planning to arrest it?"
+"text": "You planning to arrest it?",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Ninsun",
-"text": "I'm documenting it."
+"text": "I'm documenting it.",
+"tags": [
+"primly"
+],
+"tag": "primly"
 },
 {
 "speaker": "Balag",
-"text": "So we can arrest it later."
+"text": "So we can arrest it later.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Ninsun",
-"text": "So when the alley disappears, one of us possesses proof it existed."
+"text": "So when the alley disappears, one of us possesses proof it existed.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo leaned closer to the bricks."
+"text": "En-KHEH-doo leaned closer to the bricks."
 },
 {
 "speaker": "Enhedu",
-"text": "Clay changes."
+"text": "Clay changes.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Ninsun",
-"text": "Not without leaving a mark."
+"text": "Not without leaving a mark.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Enhedu",
-"text": "This city seems fond of exceptions."
+"text": "This city seems fond of exceptions.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun did not look up."
+"text": "NEEN-soon did not look up."
 },
 {
 "speaker": "Ninsun",
-"text": "Then I'll document the exception."
+"text": "Then I'll document the exception.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -130,15 +171,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg checked structure."
+"text": "BAH-lahg checked structure.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo checked value."
+"text": "En-KHEH-doo checked value.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun checked history."
+"text": "NEEN-soon checked history.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -158,15 +202,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo watched him."
+"text": "En-KHEH-doo watched him.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "So we know whether the wall moves?"
+"text": "So we know whether the wall moves?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "So we know whether we do."
+"text": "So we know whether we do.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -174,15 +227,23 @@
 },
 {
 "speaker": "Balag",
-"text": "That sentence made things worse."
+"text": "That sentence made things worse.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Zik",
-"text": "It wasn't meant to help."
+"text": "It wasn't meant to help.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "They moved in the order that was already becoming habit: BAH-lahg first, En-HEH-doo second, Ninsun third, Zeek last."
+"text": "They moved in the order that was already becoming habit: BAH-lahg first, En-KHEH-doo second, NEEN-soon third, Zeek last."
 },
 {
 "speaker": "Narrator",
@@ -214,7 +275,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Everyone stopped."
+"text": "Everyone stopped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -230,7 +292,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Load's shifted from above,"
+"text": "Load's shifted from above,",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -239,11 +305,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun spoke before Zeek could move."
+"text": "NEEN-soon spoke before Zeek could move."
 },
 {
 "speaker": "Ninsun",
-"text": "The mortar's different there. See the color? That's not the same mix as the rest of the wall. Someone patched it once already and did a bad job."
+"text": "The mortar's different there. See the color? That's not the same mix as the rest of the wall. Someone patched it once already and did a bad job.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -251,7 +321,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "She was right."
+"text": "She was right.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -267,7 +338,11 @@
 },
 {
 "speaker": "Zik",
-"text": "This wall burned,"
+"text": "This wall burned,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -276,11 +351,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo turned from the passage ahead."
+"text": "En-KHEH-doo turned from the passage ahead."
 },
 {
 "speaker": "Enhedu",
-"text": "Recently?"
+"text": "Recently?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
@@ -292,7 +371,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Long enough for someone to rebuild over it. Not long enough for the soot to wash out of the joints."
+"text": "Long enough for someone to rebuild over it. Not long enough for the soot to wash out of the joints.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -300,15 +383,27 @@
 },
 {
 "speaker": "Balag",
-"text": "What burned underground?"
+"text": "What burned underground?",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Zik",
-"text": "Something with air."
+"text": "Something with air.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "That narrows it down."
+"text": "That narrows it down.",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "Narrator",
@@ -328,7 +423,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Everyone went still."
+"text": "Everyone went still.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -336,23 +432,37 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then stopped."
+"text": "Then stopped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg looked down."
+"text": "BAH-lahg looked down.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Balag",
-"text": "You fixing it or persuading it to kill us faster?"
+"text": "You fixing it or persuading it to kill us faster?",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "Zik",
-"text": "Still deciding."
+"text": "Still deciding.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "Decide away from me."
+"text": "Decide away from me.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Narrator",
@@ -360,27 +470,41 @@
 },
 {
 "speaker": "Narrator",
-"text": "Temporary."
+"text": "Temporary.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Sufficient."
+"text": "Sufficient.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun watched him finish."
+"text": "NEEN-soon watched him finish."
 },
 {
 "speaker": "Ninsun",
-"text": "You do that a lot."
+"text": "You do that a lot.",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "Fix things that aren't mine?"
+"text": "Fix things that aren't mine?",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Ninsun",
-"text": "Yes."
+"text": "Yes.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -388,15 +512,23 @@
 },
 {
 "speaker": "Zik",
-"text": "Things that aren't fixed have a habit of falling on whoever's standing under them. I prefer the people standing."
+"text": "Things that aren't fixed have a habit of falling on whoever's standing under them. I prefer the people standing.",
+"tags": [
+"wryly"
+],
+"tag": "wryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's voice drifted back from farther up the passage."
+"text": "En-KHEH-doo's voice drifted back from farther up the passage."
 },
 {
 "speaker": "Enhedu",
-"text": "Some of us prefer the people paying."
+"text": "Some of us prefer the people paying.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -412,27 +544,47 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun touched the repaired mortar with the end of her stylus."
+"text": "NEEN-soon touched the repaired mortar with the end of her stylus."
 },
 {
 "speaker": "Ninsun",
-"text": "You noticed the soot."
+"text": "You noticed the soot.",
+"tags": [
+"approvingly"
+],
+"tag": "approvingly"
 },
 {
 "speaker": "Zik",
-"text": "I noticed you noticed the mortar."
+"text": "I noticed you noticed the mortar.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Ninsun",
-"text": "That sounded almost like praise."
+"text": "That sounded almost like praise.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Zik",
-"text": "It wasn't."
+"text": "It wasn't.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Ninsun",
-"text": "Good. I'd hate to misrecord it."
+"text": "Good. I'd hate to misrecord it.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -444,11 +596,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo crouched."
+"text": "En-KHEH-doo crouched.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "There are marks here."
+"text": "There are marks here.",
+"tags": [
+"alert"
+],
+"tag": "alert"
 },
 {
 "speaker": "Narrator",
@@ -464,7 +621,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Drag marks,"
+"text": "Drag marks,",
+"tags": [
+"confidently"
+],
+"tag": "confidently"
 },
 {
 "speaker": "Narrator",
@@ -473,7 +634,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Too even,"
+"text": "Too even,",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -482,7 +647,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun lowered the lamp."
+"text": "NEEN-soon lowered the lamp."
 },
 {
 "speaker": "Narrator",
@@ -490,15 +655,23 @@
 },
 {
 "speaker": "Ninsun",
-"text": "A cart route?"
+"text": "A cart route?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Enhedu",
-"text": "Underground?"
+"text": "Underground?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo asked.",
+"text": "En-KHEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -507,7 +680,11 @@
 },
 {
 "speaker": "Zik",
-"text": "No wheel hubs. No hoof cuts."
+"text": "No wheel hubs. No hoof cuts.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -515,7 +692,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Something heavy was moved through here repeatedly."
+"text": "Something heavy was moved through here repeatedly.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -523,27 +704,43 @@
 },
 {
 "speaker": "Balag",
-"text": "Toward us or away?"
+"text": "Toward us or away?",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Zik",
-"text": "The grooves don't say."
+"text": "The grooves don't say.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "They should learn."
+"text": "They should learn.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun copied the pattern onto her tablet."
+"text": "NEEN-soon copied the pattern onto her tablet."
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo stood and dusted her hands."
+"text": "En-KHEH-doo stood and dusted her hands."
 },
 {
 "speaker": "Enhedu",
-"text": "Maybe the stone was quarried somewhere below and brought up."
+"text": "Maybe the stone was quarried somewhere below and brought up.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Zik",
@@ -560,7 +757,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "What was moved?"
+"text": "What was moved?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -568,7 +769,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Something the builders expected to move again."
+"text": "Something the builders expected to move again.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -576,7 +781,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then another."
+"text": "Then another.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -584,7 +790,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "It returned twice."
+"text": "It returned twice.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -600,7 +807,12 @@
 },
 {
 "speaker": "Balag",
-"text": "Floor's hollow."
+"text": "Floor's hollow.",
+"tags": [
+"whispers",
+"tense"
+],
+"tag": "whispers] [tense"
 },
 {
 "speaker": "Narrator",
@@ -616,31 +828,52 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun noticed."
+"text": "NEEN-soon noticed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Ninsun",
-"text": "What?"
+"text": "What?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Zik",
-"text": "Nothing."
+"text": "Nothing.",
+"tags": [
+"evasive"
+],
+"tag": "evasive"
 },
 {
 "speaker": "Ninsun",
-"text": "That is becoming a very specific kind of nothing."
+"text": "That is becoming a very specific kind of nothing.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo stepped closer."
+"text": "En-KHEH-doo stepped closer."
 },
 {
 "speaker": "Enhedu",
-"text": "Show us."
+"text": "Show us.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Zik",
-"text": "No."
+"text": "No.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -648,7 +881,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Excellent. We've reached the part where everyone lies."
+"text": "Excellent. We've reached the part where everyone lies.",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "Narrator",
@@ -656,7 +893,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Solid."
+"text": "Solid.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -664,11 +902,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Solid."
+"text": "Solid.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "A third time."
+"text": "A third time.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -676,27 +916,47 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun knelt beside him."
+"text": "NEEN-soon knelt beside him."
 },
 {
 "speaker": "Ninsun",
-"text": "There's a chamber below."
+"text": "There's a chamber below.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "Or a drain."
+"text": "Or a drain.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Ninsun",
-"text": "This far beneath the flood channel?"
+"text": "This far beneath the flood channel?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "That would be a bad place for one."
+"text": "That would be a bad place for one.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Ninsun",
-"text": "So naturally the city built it."
+"text": "So naturally the city built it.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -708,11 +968,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not a chamber."
+"text": "Not a chamber.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "A second corridor."
+"text": "A second corridor.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -720,11 +982,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "He stood."
+"text": "He stood.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Zik",
-"text": "We keep moving."
+"text": "We keep moving.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -732,27 +999,51 @@
 },
 {
 "speaker": "Balag",
-"text": "That's the plan?"
+"text": "That's the plan?",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "Zik",
-"text": "It was already the plan."
+"text": "It was already the plan.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "Good. I worried the invisible corridor under our feet might complicate things."
+"text": "Good. I worried the invisible corridor under our feet might complicate things.",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "Zik",
-"text": "It did."
+"text": "It did.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "How?"
+"text": "How?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "We know it's there."
+"text": "We know it's there.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -760,19 +1051,28 @@
 },
 {
 "speaker": "Balag",
-"text": "That is not a complication. That is knowledge."
+"text": "That is not a complication. That is knowledge.",
+"tags": [
+"indignant"
+],
+"tag": "indignant"
 },
 {
 "speaker": "Zik",
-"text": "For you, those are usually the same thing."
+"text": "For you, those are usually the same thing.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo covered a laugh with a cough."
+"text": "En-KHEH-doo covered a laugh with a cough."
 },
 {
 "speaker": "Narrator",
-"text": "They went on."
+"text": "They went on.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -784,11 +1084,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun went straight to the stone."
+"text": "NEEN-soon went straight to the stone."
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo checked the corners."
+"text": "En-KHEH-doo checked the corners."
 },
 {
 "speaker": "Narrator",
@@ -796,7 +1096,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Solid."
+"text": "Solid.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
@@ -809,7 +1113,11 @@
 },
 {
 "speaker": "Balag",
-"text": "No. Doorway's older than the fill."
+"text": "No. Doorway's older than the fill.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -821,19 +1129,22 @@
 },
 {
 "speaker": "Narrator",
-"text": "No workers."
+"text": "No workers.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "No carts."
+"text": "No carts.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "No voices."
+"text": "No voices.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Only the slow drip of water and the faint scrape of Ninsun's stylus against clay."
+"text": "Only the slow drip of water and the faint scrape of NEEN-soon's stylus against clay."
 },
 {
 "speaker": "Narrator",
@@ -841,7 +1152,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "This district used to have a different name."
+"text": "This district used to have a different name.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Zik",
@@ -854,19 +1169,31 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Zik",
-"text": "That is an inconvenient detail."
+"text": "That is an inconvenient detail.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Ninsun",
-"text": "Every copy of the tablet that should have held it is blank."
+"text": "Every copy of the tablet that should have held it is blank.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo, still crouched in the far corner, held up a small flat piece of bronze she had worked free from the dirt."
+"text": "En-KHEH-doo, still crouched in the far corner, held up a small flat piece of bronze she had worked free from the dirt."
 },
 {
 "speaker": "Narrator",
@@ -878,7 +1205,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "Whoever sealed this place the first time used the same mark you're carrying."
+"text": "Whoever sealed this place the first time used the same mark you're carrying.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -886,28 +1217,40 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun crossed the room and took the bronze carefully by its edges."
+"text": "NEEN-soon crossed the room and took the bronze carefully by its edges."
 },
 {
 "speaker": "Ninsun",
-"text": "Not whoever."
+"text": "Not whoever.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Enhedu",
-"text": "What?"
+"text": "What?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo asked.",
+"text": "En-KHEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "This is an administrative seal."
+"text": "This is an administrative seal.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun angled it toward the lamp."
+"text": "NEEN-soon angled it toward the lamp."
 },
 {
 "speaker": "Ninsun",
@@ -927,7 +1270,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "So this belonged to a civic office."
+"text": "So this belonged to a civic office.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -935,7 +1282,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Which office?"
+"text": "Which office?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Ninsun",
@@ -943,7 +1294,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun wiped the bronze gently with the edge of her sleeve."
+"text": "NEEN-soon wiped the bronze gently with the edge of her sleeve."
 },
 {
 "speaker": "Ninsun",
@@ -955,19 +1306,29 @@
 },
 {
 "speaker": "Narrator",
-"text": "Her expression changed."
+"text": "Her expression changed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo saw it."
+"text": "En-KHEH-doo saw it.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "You recognize it."
+"text": "You recognize it.",
+"tags": [
+"shrewdly"
+],
+"tag": "shrewdly"
 },
 {
 "speaker": "Ninsun",
-"text": "I recognize what it might be."
+"text": "I recognize what it might be.",
+"tags": [
+"cautiously"
+],
+"tag": "cautiously"
 },
 {
 "speaker": "Narrator",
@@ -983,15 +1344,23 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun pointed to the surviving wedge."
+"text": "NEEN-soon pointed to the surviving wedge."
 },
 {
 "speaker": "Ninsun",
-"text": "This can mean boundary."
+"text": "This can mean boundary.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "That would fit,"
+"text": "That would fit,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -1000,7 +1369,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "It can also mean mouth."
+"text": "It can also mean mouth.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -1013,7 +1386,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That fits less."
+"text": "That fits less.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -1025,7 +1402,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then closed it."
+"text": "Then closed it.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1037,7 +1415,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "At first, nothing."
+"text": "At first, nothing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1045,19 +1424,23 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not water."
+"text": "Not water.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Breathing."
+"text": "Breathing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Slow."
+"text": "Slow.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Deep."
+"text": "Deep.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1065,7 +1448,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek stepped back."
+"text": "Zeek stepped back.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1073,27 +1457,44 @@
 },
 {
 "speaker": "Balag",
-"text": "What?"
+"text": "What?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
-"text": "The wall settles."
+"text": "The wall settles.",
+"tags": [
+"evasive"
+],
+"tag": "evasive"
 },
 {
 "speaker": "Balag",
-"text": "Walls don't make you look like that."
+"text": "Walls don't make you look like that.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "This one does."
+"text": "This one does.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo came beside him and placed two fingers against the bricks."
+"text": "En-KHEH-doo came beside him and placed two fingers against the bricks."
 },
 {
 "speaker": "Narrator",
-"text": "The wall inhaled."
+"text": "The wall inhaled.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1101,31 +1502,51 @@
 },
 {
 "speaker": "Enhedu",
-"text": "We're leaving."
+"text": "We're leaving.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun was still examining the seal."
+"text": "NEEN-soon was still examining the seal."
 },
 {
 "speaker": "Ninsun",
-"text": "We need a rubbing of the boundary stone."
+"text": "We need a rubbing of the boundary stone.",
+"tags": [
+"stubbornly"
+],
+"tag": "stubbornly"
 },
 {
 "speaker": "Enhedu",
-"text": "We need distance."
+"text": "We need distance.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Ninsun",
-"text": "One minute."
+"text": "One minute.",
+"tags": [
+"stubbornly"
+],
+"tag": "stubbornly"
 },
 {
 "speaker": "Enhedu",
-"text": "You have half."
+"text": "You have half.",
+"tags": [
+"impatiently"
+],
+"tag": "impatiently"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun moved quickly. She placed a thin sheet of damp parchment across the painted stone and rubbed charcoal over the surface."
+"text": "NEEN-soon moved quickly. She placed a thin sheet of damp parchment across the painted stone and rubbed charcoal over the surface."
 },
 {
 "speaker": "Narrator",
@@ -1137,11 +1558,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not writing."
+"text": "Not writing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "A plan."
+"text": "A plan.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1165,23 +1588,39 @@
 },
 {
 "speaker": "Zik",
-"text": "That isn't a district map."
+"text": "That isn't a district map.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "What is it?"
+"text": "What is it?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stared at the seven divisions."
+"text": "NEEN-soon stared at the seven divisions."
 },
 {
 "speaker": "Ninsun",
-"text": "A gate plan."
+"text": "A gate plan.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -1197,7 +1636,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Once."
+"text": "Once.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -1209,7 +1649,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Lower this time."
+"text": "Lower this time.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1217,11 +1658,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo backed toward the passage."
+"text": "En-KHEH-doo backed toward the passage."
 },
 {
 "speaker": "Enhedu",
-"text": "Ninsun."
+"text": "NEEN-soon.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
@@ -1237,7 +1682,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Barely."
+"text": "Barely.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1253,11 +1699,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Toward him."
+"text": "Toward him.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Balag",
-"text": "Now,"
+"text": "Now,",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
@@ -1274,7 +1725,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "There it stopped."
+"text": "There it stopped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1294,15 +1746,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun glanced back."
+"text": "NEEN-soon glanced back.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Ninsun",
-"text": "The wall wasn't cracked when we entered."
+"text": "The wall wasn't cracked when we entered.",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Balag",
-"text": "It was,"
+"text": "It was,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -1311,7 +1772,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I drew it."
+"text": "I drew it.",
+"tags": [
+"insistent"
+],
+"tag": "insistent"
 },
 {
 "speaker": "Narrator",
@@ -1327,23 +1792,35 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo stared at it."
+"text": "En-KHEH-doo stared at it."
 },
 {
 "speaker": "Enhedu",
-"text": "The clay erased itself."
+"text": "The clay erased itself.",
+"tags": [
+"stunned"
+],
+"tag": "stunned"
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun ran her thumb over the blank section."
+"text": "NEEN-soon ran her thumb over the blank section."
 },
 {
 "speaker": "Ninsun",
-"text": "The clay remembers something else."
+"text": "The clay remembers something else.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -1359,11 +1836,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg shoved Ninsun forward."
+"text": "BAH-lahg shoved NEEN-soon forward."
 },
 {
 "speaker": "Balag",
-"text": "Move."
+"text": "Move.",
+"tags": [
+"shouts"
+],
+"tag": "shouts"
 },
 {
 "speaker": "Narrator",
@@ -1411,15 +1892,20 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo grabbed Zeek by the back of his belt and pulled him onward."
+"text": "En-KHEH-doo grabbed Zeek by the back of his belt and pulled him onward."
 },
 {
 "speaker": "Enhedu",
-"text": "Whatever you're looking at, look faster."
+"text": "Whatever you're looking at, look faster.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
-"text": "They reached the final turn."
+"text": "They reached the final turn.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -1427,7 +1913,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg crossed first. Ninsun followed, clutching the rubbing and her tablet to her chest. En-HEH-doo pushed Zeek through just as something struck the passage behind them."
+"text": "BAH-lahg crossed first. NEEN-soon followed, clutching the rubbing and her tablet to her chest. En-KHEH-doo pushed Zeek through just as something struck the passage behind them."
 },
 {
 "speaker": "Narrator",
@@ -1439,11 +1925,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Workers shouted."
+"text": "Workers shouted.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Vats hissed."
+"text": "Vats hissed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1451,7 +1939,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek turned."
+"text": "Zeek turned.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1475,24 +1964,36 @@
 },
 {
 "speaker": "Balag",
-"text": "I hate this city."
+"text": "I hate this city.",
+"tags": [
+"breathless"
+],
+"tag": "breathless"
 },
 {
 "speaker": "Enhedu",
-"text": "You live here,"
+"text": "You live here,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo said.",
+"text": "En-KHEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Balag",
-"text": "I can hate things nearby."
+"text": "I can hate things nearby.",
+"tags": [
+"breathless"
+],
+"tag": "breathless"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stared at her clay tablet."
+"text": "NEEN-soon stared at her clay tablet."
 },
 {
 "speaker": "Narrator",
@@ -1512,23 +2013,30 @@
 },
 {
 "speaker": "Narrator",
-"text": "Seven wedges."
+"text": "Seven wedges.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Then a name."
+"text": "Then a name.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun read it once and went pale."
+"text": "NEEN-soon read it once and went pale."
 },
 {
 "speaker": "Narrator",
-"text": "Zeek stepped closer."
+"text": "Zeek stepped closer.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Zik",
-"text": "What does it say?"
+"text": "What does it say?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -1553,7 +2061,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Four small marks."
+"text": "Four small marks.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1565,11 +2074,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo fell into step beside Zeek when they started walking again."
+"text": "En-KHEH-doo fell into step beside Zeek when they started walking again."
 },
 {
 "speaker": "Enhedu",
-"text": "Four shares now."
+"text": "Four shares now.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -1577,7 +2090,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "The scholar's cut,"
+"text": "The scholar's cut,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -1586,31 +2103,51 @@
 },
 {
 "speaker": "Enhedu",
-"text": "Assuming she doesn't get us all killed chasing blank tablets."
+"text": "Assuming she doesn't get us all killed chasing blank tablets.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun, walking ahead with BAH-lahg, did not turn around."
+"text": "NEEN-soon, walking ahead with BAH-lahg, did not turn around."
 },
 {
 "speaker": "Ninsun",
-"text": "I heard that."
+"text": "I heard that.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Enhedu",
-"text": "You were meant to."
+"text": "You were meant to.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg looked at the tablet under Ninsun's arm."
+"text": "BAH-lahg looked at the tablet under NEEN-soon's arm."
 },
 {
 "speaker": "Balag",
-"text": "I'm less worried about the scholar getting us killed."
+"text": "I'm less worried about the scholar getting us killed.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Zik",
-"text": "What worries you?"
+"text": "What worries you?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -1619,7 +2156,11 @@
 },
 {
 "speaker": "Balag",
-"text": "The city counting us."
+"text": "The city counting us.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -1627,7 +2168,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Four people."
+"text": "Four people.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1639,7 +2181,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "And somewhere beneath the ordinary noise of Uruk, something had begun keeping its own record."
+"text": "And somewhere beneath the ordinary noise of OO-rook, something had begun keeping its own record.",
+"pauseBefore": 1.2
 }
 ]
 }

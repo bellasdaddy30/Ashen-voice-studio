@@ -5,28 +5,31 @@ Narrator: CHAPTER 16
 Narrator: The Seventh Drawer
 [pause 2s]
 Narrator: The lock turned.
-Narrator: BAH-lahg shifted in front of Ninsun, placing his body between her and the archive door. In the dark, the movement was nearly silent. Only the leather wrapping on his spear gave a faint creak beneath his grip.
-Narrator: Ninsun held Ammaru's ledger tablet against her chest.
-Narrator: En-HEH-doo stood beside the lowest shelf with her knife angled down along her forearm, hidden from anyone entering above. Zeek remained near the foot of the steps, close enough to see the thin line of light beneath the door.
+Narrator: BAH-lahg shifted in front of NEEN-soon, placing his body between her and the archive door. In the dark, the movement was nearly silent. Only the leather wrapping on his spear gave a faint creak beneath his grip.
+Narrator: NEEN-soon held Ahm-MAH-roo's ledger tablet against her chest.
+Narrator: En-KHEH-doo stood beside the lowest shelf with her knife angled down along her forearm, hidden from anyone entering above. Zeek remained near the foot of the steps, close enough to see the thin line of light beneath the door.
+[pause 0.5s]
 Narrator: The key withdrew.
 Narrator: The door did not open.
 Narrator: Rain drummed against the roof of the weigh-station. The sound came through the ceiling beams and packed earth as a low, continuous tapping, like fingers spread across the entire building.
 [pause 1.5s]
 Narrator: For several breaths, nothing happened.
 Narrator: Then a man spoke from the other side.
-Mardu: You have taken the wrong tablet.
+Mardu: [calmly] You have taken the wrong tablet.
 Narrator: BAH-lahg looked toward Zeek.
+[pause 0.5s]
 Narrator: Zeek said nothing.
 Narrator: The voice was old. Not weak. Worn smooth by repetition.
-Mardu: The grain exemptions are two shelves to your right,
+Mardu: [dryly] The grain exemptions are two shelves to your right,
 Narrator: the man continued.
-Mardu: The inheritance appeals are behind you. The tablet in the woman's hands belongs in a locked drawer.
-Narrator: Ninsun's fingers tightened around the clay.
-Narrator: En-HEH-doo raised her voice just enough to carry through the door.
-Enhedu: You can see through wood?
-Mardu: No.
+Mardu: [dryly] The inheritance appeals are behind you. The tablet in the woman's hands belongs in a locked drawer.
+Narrator: NEEN-soon's fingers tightened around the clay.
+Narrator: En-KHEH-doo raised her voice just enough to carry through the door.
+Enhedu: [whispers] [sharply] You can see through wood?
+Mardu: [dryly] No.
+[pause 0.6s]
 Narrator: A pause.
-Mardu: I have spent thirty-one years listening to people become quiet on the other side of it.
+Mardu: [dryly] I have spent thirty-one years listening to people become quiet on the other side of it.
 Narrator: The key entered the lock again.
 Narrator: BAH-lahg lowered the spear point toward the top of the steps.
 Narrator: The bolt slid back.
@@ -36,238 +39,261 @@ Narrator: A single man stood above them.
 Narrator: He wore the undyed robe of a lower archive custodian. The cloth hung loosely from narrow shoulders bent forward by years spent over tables. Ink stained the first two fingers of his right hand all the way to the nails. His hair had gone almost entirely white, though his eyebrows remained dark and heavy over deep-set eyes.
 Narrator: No guard stood behind him.
 Narrator: He looked first at BAH-lahg's spear.
-Narrator: Then En-HEH-doo's knife.
+[pause 0.5s]
+Narrator: Then En-KHEH-doo's knife.
 Narrator: Then Zeek's wrapped hand.
-Narrator: His gaze settled on the ledger tablet pressed against Ninsun's chest.
-Mardu: Ammaru,
+Narrator: His gaze settled on the ledger tablet pressed against NEEN-soon's chest.
+Mardu: [quietly] Ahm-MAH-roo,
 Narrator: he said.
-Narrator: Ninsun did not lower it.
-Ninsun: You know the name.
-Mardu: I know the space where the name used to be.
-Ninsun: What happened to him?
+Narrator: NEEN-soon did not lower it.
+Ninsun: [tense] You know the name.
+Mardu: [quietly] I know the space where the name used to be.
+Ninsun: [intense] What happened to him?
 Narrator: The custodian descended one step.
 Narrator: BAH-lahg lifted the spear point until it hovered level with the man's throat.
+[pause 0.5s]
 Narrator: The custodian stopped.
-Mardu: Nothing happened to Ammaru,
+Mardu: [dryly] Nothing happened to Ahm-MAH-roo,
 Narrator: he said.
-Mardu: That is the official answer.
-Zik: And the true one?
+Mardu: [dryly] That is the official answer.
+Zik: [sharply] And the true one?
 Narrator: Zeek asked.
 Narrator: The custodian's mouth tightened.
-Mardu: The true answer has been corrected six times.
-Narrator: Ninsun brought the tablet into the lamp's reach.
-Ninsun: This says he kept the lower cistern stair.
-Mardu: It used to.
+Mardu: [bitterly] The true answer has been corrected six times.
+Narrator: NEEN-soon brought the tablet into the lamp's reach.
+Ninsun: [intense] This says he kept the lower cistern stair.
+Mardu: [quietly] It used to.
 Narrator: She glanced down.
 Narrator: The writing along the margin had softened.
 Narrator: At first Zeek thought rain had found its way into the chamber, but the tablet was dry. The old clay had begun to darken around the smallest wedges. Their edges rounded before his eyes.
-Narrator: Ninsun inhaled sharply.
-Ninsun: No.
+[pause 0.5s]
+Narrator: NEEN-soon inhaled sharply.
+Ninsun: [horrified] No.
 Narrator: She shifted the tablet toward the light.
 Narrator: The first line contracted into itself.
 Narrator: [slowly] AMMARU, SON OF DAGAN-ILI.
 Narrator: The wedges drew closed as though pressed from beneath by an invisible thumb. Clay rose into the incisions, filling them without leaving a seam.
-Narrator: Ninsun scraped at one sign with her nail.
+Narrator: NEEN-soon scraped at one sign with her nail.
+[pause 0.5s]
 Narrator: The clay yielded.
+[pause 0.5s]
 Narrator: Fresh.
+[pause 0.5s]
 Narrator: Soft.
 Narrator: BAH-lahg glanced from the tablet to the custodian.
-Balag: What did you do?
+Balag: [whispers] [angrily] What did you do?
 Narrator: The old man did not look at him.
-Mardu: Nothing.
+Mardu: [calmly] Nothing.
 Narrator: The second line vanished.
 Narrator: [slowly] POTTER BY TRADE. KEEPER OF THE LOWER CISTERN STAIR BY HEREDITARY OBLIGATION.
-Narrator: The last word collapsed first. Then the line before it. The clay smoothed itself from right to left, erasing the sentence faster than Ninsun could trace it.
+Narrator: The last word collapsed first. Then the line before it. The clay smoothed itself from right to left, erasing the sentence faster than NEEN-soon could trace it.
 Narrator: She pulled her copied scrap from inside her robe and unfolded it with one hand.
+[pause 0.5s]
 Narrator: Her ink remained.
-Mardu: Your copy will last longer,
+Mardu: [quietly] Your copy will last longer,
 Narrator: the custodian said.
-Ninsun: How much longer?
+Ninsun: [urgently] How much longer?
 Narrator: she asked.
-Mardu: I don't know.
+Mardu: [quietly] I don't know.
 Narrator: The final line on the tablet held.
 Narrator: [slowly] PROPERTY EXEMPT FROM LEVY WHILE SEVENTH ACCESS REMAINS SEALED.
+[pause 0.5s]
 Narrator: The wedges shuddered.
 Narrator: Zeek saw it clearly.
 Narrator: Not the whole tablet.
+[pause 0.5s]
 Narrator: Only the writing.
 Narrator: The signs trembled in place like insects pinned to the clay.
+[pause 0.5s]
 Narrator: Then they closed.
 Narrator: The tablet became blank except for the ordinary tax figures on its face.
-Narrator: Ninsun stared at it.
+Narrator: NEEN-soon stared at it.
 Narrator: The custodian watched her copied scrap.
-Mardu: That is why the drawers are locked,
+Mardu: [gravely] That is why the drawers are locked,
 Narrator: he said.
-Ninsun: To protect the records?
-Narrator: Ninsun asked.
-Mardu: No.
+Ninsun: [whispers] To protect the records?
+Narrator: NEEN-soon asked.
+Mardu: [quietly] No.
 Narrator: His eyes moved toward the seven narrow drawers fitted into the far wall.
-Mardu: To stop people from noticing that the records do not remain the same.
+Mardu: [gravely] To stop people from noticing that the records do not remain the same.
 Narrator: A heavy tread crossed the storage room above them.
 Narrator: The custodian's head turned slightly.
 Narrator: Someone dragged one of the broken scales aside.
+[pause 0.5s]
 Narrator: A man coughed.
 Narrator: Another voice called,
-Archive Guard: [shouts] Mardu?
+Archive Guard: [shouts] MAR-doo?
 Narrator: The old custodian did not answer.
-Narrator: En-HEH-doo lowered her voice.
+Narrator: En-KHEH-doo lowered her voice.
 Enhedu: [whispers] You came alone.
-Mardu: I came first.
-Enhedu: Who's above us?
-Mardu: Two temple guards and a clerk who believes authority improves when repeated loudly.
+Mardu: [whispers] [dryly] I came first.
+Enhedu: [whispers] Who's above us?
+Mardu: [whispers] [dryly] Two temple guards and a clerk who believes authority improves when repeated loudly.
 Narrator: BAH-lahg's grip tightened.
-Balag: How many exits?
-Mardu: One.
-Balag: That's not an answer I enjoy.
-Mardu: It is the answer the room has.
+Balag: [whispers] [tense] How many exits?
+Mardu: [whispers] One.
+Balag: [whispers] [dryly] That's not an answer I enjoy.
+Mardu: [whispers] [dryly] It is the answer the room has.
 Narrator: The voice above called again.
-Archive Guard: Mardu, are you down there?
+Archive Guard: [shouts] [impatient] MAR-doo, are you down there?
 Narrator: The custodian looked at Zeek.
-Mardu: You are BAYL-ID-din's son.
+Mardu: [quietly] You are BAYL-ID-din's son.
 Narrator: It was not a question.
 Narrator: Zeek felt the linen around his left hand tighten as his fingers curled.
-Zik: You knew him.
-Mardu: I opened this door for him.
-Zik: When?
-Mardu: Long enough ago that I still believed records were safer than people.
+Zik: [intense] You knew him.
+Mardu: [quietly] I opened this door for him.
+Zik: [urgently] When?
+Mardu: [sadly] Long enough ago that I still believed records were safer than people.
 Narrator: Zeek stepped closer to the bottom stair.
-Zik: What did he take?
-Mardu: Nothing.
-Zik: What did he find?
+Zik: [urgently] What did he take?
+Mardu: [quietly] Nothing.
+Zik: [urgently] What did he find?
 Narrator: The custodian looked past him toward the locked drawers.
-Mardu: The seventh drawer.
-Narrator: Ninsun followed his gaze.
+Mardu: [gravely] The seventh drawer.
+Narrator: NEEN-soon followed his gaze.
 Narrator: Each drawer had a bronze faceplate darkened by age. Six bore district codes. The seventh had no writing at all.
 Narrator: Only a shallow depression where a seal had once been hammered flat.
-Ninsun: What was inside?
+Ninsun: [whispers] [intense] What was inside?
 Narrator: she asked.
-Narrator: Mardu's expression changed.
+[pause 0.5s]
+Narrator: MAR-doo's expression changed.
+[pause 0.5s]
 Narrator: Not fear.
+[pause 0.5s]
 Narrator: Recognition of it.
-Mardu: Your father's name.
+Mardu: [gravely] Your father's name.
 Narrator: Zeek stared at him.
-Zik: He wasn't born when those ledgers were written.
-Mardu: I told him the same thing.
+Zik: [stunned] He wasn't born when those ledgers were written.
+Mardu: [quietly] I told him the same thing.
 Narrator: The guard above came closer. His boots struck the floor directly over the archive door.
-Archive Guard: [shouts] Mardu?
+Archive Guard: [shouts] MAR-doo?
 Narrator: The custodian raised the lamp.
 Narrator: His shadow stretched down the steps, long enough to reach the seven drawers.
-Mardu: He opened it anyway,
-Narrator: Mardu said.
-Mardu: After that, the archive began remembering him differently.
+Mardu: [quietly] He opened it anyway,
+Narrator: MAR-doo said.
+Mardu: [gravely] After that, the archive began remembering him differently.
 Narrator: Zeek took another step.
-Zik: What does that mean?
-Mardu: It means some ledgers placed him in districts he had never visited. Some listed debts older than his grandfather. One recorded his death.
-Narrator: Ninsun's voice sharpened.
+Zik: [urgently] What does that mean?
+Mardu: [gravely] It means some ledgers placed him in districts he had never visited. Some listed debts older than his grandfather. One recorded his death.
+Narrator: NEEN-soon's voice sharpened.
 Ninsun: [sharply] When?
-Mardu: Three years before he came here.
+Mardu: [quietly] Three years before he came here.
 Narrator: The archive door moved.
 Narrator: Someone above tested it.
-Narrator: Mardu looked up.
+[pause 0.5s]
+Narrator: MAR-doo looked up.
 Narrator: The guard rattled the handle.
-Archive Guard: Mardu, open this.
+Archive Guard: [shouts] [impatient] MAR-doo, open this.
 Narrator: The custodian stepped backward onto the storage-room floor and raised his voice.
-Mardu: The hinge pin slipped again.
+Mardu: [shouts] [calmly] The hinge pin slipped again.
+[pause 0.6s]
 Narrator: A pause.
-Archive Guard: Need help?
-Mardu: No.
-Archive Guard: You've been down there too long.
-Mardu: [dryly] I am old. Everything takes too long.
+Archive Guard: [suspicious] Need help?
+Mardu: [shouts] [calmly] No.
+Archive Guard: [suspicious] You've been down there too long.
+Mardu: [shouts] [dryly] I am old. Everything takes too long.
 Narrator: BAH-lahg's mouth twitched despite himself.
 Narrator: The guard muttered something to the clerk. Their footsteps moved away, but not far.
-Narrator: Mardu looked down at the four of them.
-Mardu: You have perhaps half a minute before curiosity defeats laziness.
-Narrator: En-HEH-doo slid her knife back into its sheath.
-Enhedu: Can you get us out?
-Mardu: I can prevent them from entering.
-Enhedu: That is not the same thing.
-Mardu: No.
-Narrator: Mardu reached beneath his robe and removed a narrow bronze key.
+Narrator: MAR-doo looked down at the four of them.
+Mardu: [whispers] [urgently] You have perhaps half a minute before curiosity defeats laziness.
+Narrator: En-KHEH-doo slid her knife back into its sheath.
+Enhedu: [whispers] [urgently] Can you get us out?
+Mardu: [whispers] I can prevent them from entering.
+Enhedu: [whispers] [dryly] That is not the same thing.
+Mardu: [whispers] No.
+Narrator: MAR-doo reached beneath his robe and removed a narrow bronze key.
 Narrator: It was too long for the archive lock.
 Narrator: He tossed it down.
-Narrator: Ninsun caught it against her chest with the blank tablet.
-Ninsun: The seventh drawer?
+Narrator: NEEN-soon caught it against her chest with the blank tablet.
+Ninsun: [whispers] The seventh drawer?
 Narrator: she asked.
-Mardu: The drainage culvert.
+Mardu: [whispers] The drainage culvert.
 Narrator: BAH-lahg looked around the windowless chamber.
-Balag: We're below street level.
-Mardu: Water dislikes bureaucracy. The builders gave it a private route.
-Balag: Where?
-Narrator: Mardu pointed toward the shelves behind En-HEH-doo.
-Mardu: Remove the plague ledgers.
-Narrator: En-HEH-doo turned.
-Enhedu: Which plague?
-Mardu: The third.
-Enhedu: There were five.
-Mardu: The one the temple admits happened.
-Enhedu: That narrows nothing.
-Narrator: Mardu's expression remained flat.
-Mardu: The ledgers tied with yellow cord.
-Narrator: En-HEH-doo found the bundle and pulled.
+Balag: [whispers] [tense] We're below street level.
+Mardu: [whispers] [dryly] Water dislikes bureaucracy. The builders gave it a private route.
+Balag: [whispers] Where?
+Narrator: MAR-doo pointed toward the shelves behind En-KHEH-doo.
+Mardu: [whispers] Remove the plague ledgers.
+Narrator: En-KHEH-doo turned.
+Enhedu: [whispers] Which plague?
+Mardu: [whispers] The third.
+Enhedu: [whispers] [impatient] There were five.
+Mardu: [whispers] [dryly] The one the temple admits happened.
+Enhedu: [whispers] [impatient] That narrows nothing.
+Narrator: MAR-doo's expression remained flat.
+Mardu: [whispers] [flatly] The ledgers tied with yellow cord.
+Narrator: En-KHEH-doo found the bundle and pulled.
 Narrator: The shelf behind it moved half a finger's width.
 Narrator: BAH-lahg crossed the chamber in two strides, set his shoulder against the wood, and shoved. The entire lower section slid inward with a grind of stone beneath timber.
 Narrator: Cold, wet air entered the archive.
 Narrator: Behind the shelf lay a rectangular opening barely high enough to crawl through. Black water moved along the bottom in a shallow, steady sheet.
+[pause 0.5s]
 Narrator: BAH-lahg peered inside.
-Balag: Smells like an animal died in there.
-Narrator: Mardu looked down from the doorway.
+Balag: [whispers] [disgusted] Smells like an animal died in there.
+Narrator: MAR-doo looked down from the doorway.
 Mardu: [dryly] Many have.
-Balag: Better and better.
+Balag: [whispers] [dryly] Better and better.
 Narrator: The guard above returned.
-Archive Guard: Mardu.
+Archive Guard: [suspicious] MAR-doo.
 Narrator: The custodian turned.
 Narrator: The door shifted under a hand from the other side.
-Archive Guard: This hinge looks fine.
-Narrator: Mardu reached for the edge.
-Mardu: To the contrary.
+Archive Guard: [suspicious] This hinge looks fine.
+Narrator: MAR-doo reached for the edge.
+Mardu: [calmly] To the contrary.
 Narrator: He pulled the archive door shut.
 Narrator: The wedge of lamplight narrowed over the steps.
 Narrator: His eyes met Zeek's for one final moment.
-Mardu: Your father did not ask what was beneath the city,
+Mardu: [gravely] Your father did not ask what was beneath the city,
 Narrator: he said.
 Narrator: The light became a line.
-Mardu: He asked what the city was built on top of.
+Mardu: [gravely] He asked what the city was built on top of.
 Narrator: The door closed.
+[pause 0.5s]
 Narrator: The lock turned.
 Narrator: Darkness dropped into the chamber.
 Narrator: A fist struck the wood from above.
-Archive Guard: [shouts] Mardu?
+Archive Guard: [shouts] [angrily] MAR-doo?
 Narrator: The custodian's voice came muffled through the door.
-Mardu: The pin is stuck.
+Mardu: [calmly] The pin is stuck.
 Narrator: BAH-lahg crouched beside the culvert.
-Balag: Who first?
-Zik: Ninsun,
+Balag: [whispers] [urgently] Who first?
+Zik: [whispers] [firmly] NEEN-soon,
 Narrator: Zeek said.
 Narrator: She turned toward the locked drawers.
-Ninsun: The seventh—
-Zik: No.
-Ninsun: It may contain BAYL-ID-din's name.
-Zik: And three men are standing above us.
-Ninsun: We came for a record.
-Zik: We have one.
-Ninsun: We have a copy of a margin.
-Zik: We have enough to leave.
-Narrator: Ninsun stared at the blank-faced seventh drawer.
+Ninsun: [whispers] [desperate] The seventh—
+Zik: [whispers] [firmly] No.
+Ninsun: [whispers] [pleading] It may contain BAYL-ID-din's name.
+Zik: [whispers] [urgently] And three men are standing above us.
+Ninsun: [whispers] [stubbornly] We came for a record.
+Zik: [whispers] [firmly] We have one.
+Ninsun: [whispers] [stubbornly] We have a copy of a margin.
+Zik: [whispers] [urgently] We have enough to leave.
+Narrator: NEEN-soon stared at the blank-faced seventh drawer.
 Narrator: The blow against the archive door came again.
+[pause 0.5s]
 Narrator: Harder.
+[pause 0.5s]
 Narrator: Wood creaked.
-Narrator: BAH-lahg caught Ninsun by the upper arm and steered her toward the opening.
+Narrator: BAH-lahg caught NEEN-soon by the upper arm and steered her toward the opening.
+[pause 0.5s]
 Narrator: She twisted free.
 Ninsun: [sharply] Do not drag me.
-Balag: Then crawl.
+Balag: [whispers] [firmly] Then crawl.
 Narrator: She dropped to her knees and pushed the copied ledger scrap deep inside her robe. The blank tablet she left on the floor.
+[pause 0.5s]
 Narrator: Zeek noticed.
-Narrator: Ninsun noticed him noticing.
-Ninsun: It is no longer evidence.
-Zik: It was evidence ten breaths ago.
-Ninsun: That is not the same thing.
+Narrator: NEEN-soon noticed him noticing.
+Ninsun: [whispers] [flatly] It is no longer evidence.
+Zik: [whispers] [dryly] It was evidence ten breaths ago.
+Ninsun: [whispers] [primly] That is not the same thing.
 Narrator: She entered the culvert.
 Narrator: Black water closed over her hands.
-Narrator: En-HEH-doo followed, keeping one shoulder raised to protect her satchel from the flow. BAH-lahg thrust his spear into the tunnel ahead of him and crawled after her.
+Narrator: En-KHEH-doo followed, keeping one shoulder raised to protect her satchel from the flow. BAH-lahg thrust his spear into the tunnel ahead of him and crawled after her.
 Narrator: Zeek remained in the archive.
+[pause 0.5s]
 Narrator: The door shook.
 Narrator: A crack split down from the upper hinge.
-Archive Guard: [shouts] Mardu!
+Archive Guard: [shouts] [angrily] MAR-doo!
 Narrator: the guard shouted.
 Narrator: The custodian said something Zeek could not hear.
 Narrator: The guard answered with a curse.
@@ -275,205 +301,239 @@ Narrator: Zeek turned toward the seventh drawer.
 Narrator: The mark beneath the linen pulsed once.
 Narrator: A slow pressure spread through his palm.
 Narrator: The bronze faceplate on the drawer gave a faint click.
+[pause 0.5s]
 Narrator: Not opening.
+[pause 0.5s]
 Narrator: Acknowledging.
 Narrator: He stepped toward it.
 Narrator: From inside the culvert, BAH-lahg's voice came back through the dark.
-Balag: Zeek.
+Balag: [urgently] Zeek.
 Narrator: Another crack opened in the archive door.
 Narrator: Zeek looked at the drawer.
 Narrator: Its blank face reflected no light, yet he could see the outline of his wrapped hand in it.
+[pause 0.5s]
 Narrator: Not his reflection.
+[pause 0.5s]
 Narrator: An impression.
 Narrator: Five dark fingers pressed outward from the other side of the bronze.
-Balag: Zeek.
+Balag: [urgently] [shouts] Zeek.
 Narrator: He backed away.
+[pause 0.5s]
 Narrator: The fingers remained.
 Narrator: The archive door split near the lock.
 Narrator: Zeek dropped to his knees and entered the culvert.
 Narrator: BAH-lahg seized his forearm and pulled him forward just as the archive door burst open behind them.
 Narrator: Lamplight flooded the chamber.
+[pause 0.5s]
 Narrator: A guard shouted.
 Narrator: Zeek kicked the hidden shelf.
 Narrator: It swung back across the opening.
+[pause 0.5s]
 Narrator: The light narrowed.
 Narrator: A hand reached through before the shelf closed. The guard's fingers scraped against Zeek's boot.
 Narrator: BAH-lahg drove the butt of his spear backward.
+[pause 0.5s]
 Narrator: Bone cracked.
+[pause 0.5s]
 Narrator: The hand vanished.
 Narrator: The shelf slammed into place.
+[pause 0.5s]
 Narrator: Darkness swallowed them.
 [pause 1.5s]
 Narrator: For several moments, the only sounds were water, breath, and the guard screaming on the other side of the wood.
 Narrator: Then BAH-lahg began crawling again.
 Narrator: The culvert was too narrow to turn around. Zeek moved on his hands and knees, his shoulders scraping the damp brick. Water flowed toward him, carrying grit, bits of straw, and the sour smell of rotting grain. The satchel at his side dragged against the wall.
-Narrator: Ahead, Ninsun whispered.
+[pause 0.5s]
+Narrator: Ahead, NEEN-soon whispered.
 Ninsun: [whispers] There's a turn.
-Enhedu: Which direction?
-Narrator: En-HEH-doo asked.
-Ninsun: Down.
+Enhedu: [whispers] Which direction?
+Narrator: En-KHEH-doo asked.
+Ninsun: [whispers] Down.
 Narrator: BAH-lahg stopped.
-Balag: No.
-Ninsun: There's no other way.
-Balag: Water doesn't flow down forever.
-Ninsun: Neither do we.
-Balag: That is exactly what I'm trying to ensure.
+Balag: [whispers] [firmly] No.
+Ninsun: [whispers] There's no other way.
+Balag: [whispers] [uneasy] Water doesn't flow down forever.
+Ninsun: [whispers] [dryly] Neither do we.
+Balag: [whispers] [grumbling] That is exactly what I'm trying to ensure.
 Narrator: Zeek reached BAH-lahg's heels.
-Zik: Move.
+Zik: [whispers] [urgently] Move.
 Narrator: BAH-lahg muttered a curse and continued.
 Narrator: The floor dropped without warning.
-Narrator: Ninsun gave a short cry.
-Narrator: En-HEH-doo's boots scraped across brick.
+Narrator: NEEN-soon gave a short cry.
+Narrator: En-KHEH-doo's boots scraped across brick.
 Narrator: BAH-lahg disappeared over the edge.
 Narrator: Zeek braced his hands, but the current caught the lower half of his body and dragged him forward. His knees struck the lip. He slid down a steep clay chute slick with runoff.
 Narrator: The passage opened around him.
 Narrator: He dropped perhaps six feet and landed in water deep enough to reach his thighs.
 Narrator: BAH-lahg caught him before he fell backward.
 Ninsun: [whispers] Quiet,
-Narrator: Ninsun whispered.
-Narrator: They stood in a buried drain wide enough for two people to walk abreast. A curved brick ceiling vanished into darkness in both directions. Rainwater ran along a central channel, quick and black beneath the weak light En-HEH-doo had uncovered from her shuttered lamp.
+Narrator: NEEN-soon whispered.
+Narrator: They stood in a buried drain wide enough for two people to walk abreast. A curved brick ceiling vanished into darkness in both directions. Rainwater ran along a central channel, quick and black beneath the weak light En-KHEH-doo had uncovered from her shuttered lamp.
 Narrator: Behind them, the chute ended in a square opening high in the wall.
+[pause 0.5s]
 Narrator: No one followed.
+[pause 0.5s]
 Narrator: Not yet.
-Narrator: En-HEH-doo lifted the lamp.
+Narrator: En-KHEH-doo lifted the lamp.
 Narrator: Marks covered the bricks.
+[pause 0.5s]
 Narrator: Not writing.
+[pause 0.5s]
 Narrator: Survey lines.
+[pause 0.5s]
 Narrator: Hundreds of them.
 Narrator: Short horizontal cuts appeared at regular intervals along the drain. Some had numbers beside them recording flood heights. Others had been crossed out. Newer marks had been cut lower than older ones even though the channel floor had not changed.
-Narrator: Ninsun moved closer.
-Ninsun: These measurements are impossible.
+[pause 0.5s]
+Narrator: NEEN-soon moved closer.
+Ninsun: [whispers] [intently] These measurements are impossible.
 Narrator: BAH-lahg wiped water from his beard.
-Balag: I was worried we might find something sensible.
-Ninsun: The dates go backward.
+Balag: [whispers] [dryly] I was worried we might find something sensible.
+Ninsun: [whispers] [intently] The dates go backward.
 Narrator: She traced the lowest mark.
-Ninsun: This was cut twelve years before the one above it.
-Enhedu: So the water dropped.
-Ninsun: No. The record says the drain became deeper.
+Ninsun: [whispers] [intently] This was cut twelve years before the one above it.
+Enhedu: [whispers] So the water dropped.
+Ninsun: [whispers] [uneasy] No. The record says the drain became deeper.
 Narrator: Zeek looked along the channel.
 Narrator: The bricks ahead appeared to slope gently upward. The water ran toward them anyway.
-Narrator: En-HEH-doo saw it too.
-Enhedu: No.
+Narrator: En-KHEH-doo saw it too.
+Enhedu: [whispers] [alarmed] No.
 Narrator: She lowered the lamp until the flame reflected in the current.
 Narrator: The water climbed the incline in a smooth black ribbon.
+[pause 0.5s]
 Narrator: BAH-lahg watched it.
-Balag: I would like to return to the part where guards were trying to arrest us.
+Balag: [whispers] [dryly] I would like to return to the part where guards were trying to arrest us.
 Narrator: A heavy impact came from the chute behind them.
 Narrator: Dust fell from the ceiling.
-Zik: They found the shelf,
+Zik: [urgently] They found the shelf,
 Narrator: Zeek said.
-Narrator: Ninsun pointed toward the rising channel.
-Ninsun: That way.
-Enhedu: Why?
-Narrator: En-HEH-doo asked.
-Ninsun: The survey marks continue.
+Narrator: NEEN-soon pointed toward the rising channel.
+Ninsun: [urgently] That way.
+Enhedu: [urgently] Why?
+Narrator: En-KHEH-doo asked.
+Ninsun: [urgently] The survey marks continue.
 Narrator: BAH-lahg looked toward the opposite direction.
-Balag: And that way?
-Ninsun: No marks.
-Balag: Which means?
-Ninsun: It means nobody came back to measure it.
+Balag: [tense] And that way?
+Ninsun: [tense] No marks.
+Balag: [tense] Which means?
+Ninsun: [ominous] It means nobody came back to measure it.
 Narrator: BAH-lahg stared at her.
-Balag: You do hear yourself.
+Balag: [incredulous] You do hear yourself.
 Narrator: Another impact struck the chute.
-Narrator: Zeek took the lamp from En-HEH-doo.
-Zik: We follow the water.
-Balag: Uphill,
+Narrator: Zeek took the lamp from En-KHEH-doo.
+Zik: [firmly] We follow the water.
+Balag: [incredulous] Uphill,
 Narrator: BAH-lahg said.
-Zik: Yes.
-Balag: Of course we do.
+Zik: [firmly] Yes.
+Balag: [grumbling] Of course we do.
 Narrator: They moved.
 Narrator: The drain narrowed after twenty paces. The curved ceiling lowered until BAH-lahg had to bow his head. Water pressed against their shins, flowing steadily in the same impossible direction.
 Narrator: Zeek held the lamp close to the wall.
 Narrator: The survey marks changed.
+[pause 0.5s]
 Narrator: Numbers disappeared.
+[pause 0.5s]
 Narrator: Names replaced them.
 Narrator: Most had been scored through.
 Narrator: A few survived only as fragments.
-Narrator: Ninsun stopped beside one.
-Ninsun: Ammaru.
+Narrator: NEEN-soon stopped beside one.
+Ninsun: [quietly] Ahm-MAH-roo.
 Narrator: The name had been cut near knee height.
 Narrator: Not in the formal hand of the ledger clerk.
 Narrator: The signs were broad and uneven, made by someone more accustomed to clay than stone.
 Narrator: Beneath them, a smaller line remained intact.
-Narrator: Ninsun crouched.
-Zik: What does it say?
+[pause 0.5s]
+Narrator: NEEN-soon crouched.
+Zik: [curious] What does it say?
 Narrator: Zeek asked.
 Narrator: She wiped algae away with her sleeve.
-Ninsun: 'I kept it closed.'
+Ninsun: [solemn] 'I kept it closed.'
 Narrator: BAH-lahg looked back toward the chute.
-Balag: For how long?
-Narrator: Ninsun uncovered the final signs.
-Ninsun: 'Until they used my name as the key.'
+Balag: [uneasy] For how long?
+Narrator: NEEN-soon uncovered the final signs.
+Ninsun: [solemn] 'Until they used my name as the key.'
 Narrator: The water surged.
+[pause 0.5s]
 Narrator: Not much.
 Narrator: Enough to strike their knees at once.
 Narrator: The lantern flame bent toward the dark ahead.
 Narrator: Zeek's satchel moved against his hip.
+[pause 0.5s]
 Narrator: He stopped.
 Narrator: Something inside it had shifted.
-Narrator: En-HEH-doo looked at him.
-Enhedu: What?
-Zik: The journal.
-Enhedu: You haven't opened it.
-Zik: No.
-Enhedu: That did not answer me.
+Narrator: En-KHEH-doo looked at him.
+Enhedu: [sharply] What?
+Zik: [tense] The journal.
+Enhedu: [skeptical] You haven't opened it.
+Zik: [tense] No.
+Enhedu: [sharply] That did not answer me.
 Narrator: The satchel struck his side again.
 Narrator: A dull, contained thump.
 Narrator: BAH-lahg raised the spear.
-Balag: The book is moving.
-Zik: It's a book,
+Balag: [alarmed] The book is moving.
+Zik: [defensive] It's a book,
 Narrator: Zeek said.
+[pause 0.5s]
 Narrator: The satchel thumped.
-Narrator: Ninsun stood.
-Ninsun: That argument is losing strength.
+[pause 0.5s]
+Narrator: NEEN-soon stood.
+Ninsun: [dryly] That argument is losing strength.
 Narrator: Behind them, voices entered the drain.
+[pause 0.5s]
 Narrator: Faint.
 Narrator: Distorted by brick and water.
 Narrator: The guards had reached the chute.
 Narrator: A lamp appeared far back along the passage.
+[pause 0.5s]
 Narrator: BAH-lahg turned.
-Balag: We need an exit.
-Narrator: Ninsun examined the wall beside Ammaru's name.
+Balag: [urgently] We need an exit.
+Narrator: NEEN-soon examined the wall beside Ahm-MAH-roo's name.
 Narrator: The mortar around one brick differed from the rest.
-Ninsun: Here.
+Ninsun: [urgently] Here.
 Narrator: BAH-lahg shoved the spear into Zeek's hands and struck the brick with the heel of his palm.
+[pause 0.5s]
 Narrator: It moved inward.
-Narrator: En-HEH-doo joined him.
+[pause 0.5s]
+Narrator: En-KHEH-doo joined him.
+[pause 0.5s]
 Narrator: Together they pushed.
 Narrator: A rectangular section of wall gave way with a wet grinding sound. Cold evening air rushed through the opening, carrying rain, smoke, and the smell of frying onions.
 Narrator: BAH-lahg widened the gap and looked through.
-Balag: Alley.
-Zik: How high?
+Balag: [breathless] Alley.
+Zik: [urgently] How high?
 Narrator: Zeek asked.
-Balag: Shoulder.
-Zik: Go.
-Narrator: En-HEH-doo climbed first. BAH-lahg made a step with his hands and lifted her through. She disappeared into the rain. Ninsun followed, protecting the copied margin beneath her robe. Zeek handed the lamp out and pushed the satchel ahead of him.
+Balag: [breathless] Shoulder.
+Zik: [urgently] Go.
+Narrator: En-KHEH-doo climbed first. BAH-lahg made a step with his hands and lifted her through. She disappeared into the rain. NEEN-soon followed, protecting the copied margin beneath her robe. Zeek handed the lamp out and pushed the satchel ahead of him.
 Narrator: The journal struck the leather again.
+[pause 0.5s]
 Narrator: BAH-lahg heard it.
-Balag: Get that thing out of the drain.
+Balag: [urgently] Get that thing out of the drain.
 Narrator: Zeek climbed.
 Narrator: Rain hit his face.
-Narrator: He emerged behind a row of abandoned grain jars stacked against the weigh-station's rear wall. En-HEH-doo caught his arm and pulled him clear. BAH-lahg came through last, dragging the loose bricks back into place from outside as best he could.
+Narrator: He emerged behind a row of abandoned grain jars stacked against the weigh-station's rear wall. En-KHEH-doo caught his arm and pulled him clear. BAH-lahg came through last, dragging the loose bricks back into place from outside as best he could.
 Narrator: A guard shouted within the drain.
+[pause 0.5s]
 Narrator: The wall bulged.
 Narrator: BAH-lahg set one shoulder against the repaired section.
-Balag: We should leave.
+Balag: [strained] We should leave.
 Narrator: They moved into the alley.
 Narrator: Rain had thinned to a greasy mist. Water ran along the gutters in narrow gray streams. Porters clustered beneath awnings near the front of the weigh-station, complaining about delayed grain tallies and failed roof tiles. No alarm had reached them yet.
-Narrator: En-HEH-doo pulled her shawl over the lamp.
-Enhedu: Walk.
+Narrator: En-KHEH-doo pulled her shawl over the lamp.
+Enhedu: [whispers] [firmly] Walk.
 Narrator: BAH-lahg looked at her.
-Balag: Not run?
-Enhedu: Running tells people they should care.
-Balag: A guard with a broken hand may also mention it.
-Enhedu: Then look uninteresting until he does.
+Balag: [whispers] Not run?
+Enhedu: [whispers] [calmly] Running tells people they should care.
+Balag: [whispers] [dryly] A guard with a broken hand may also mention it.
+Enhedu: [whispers] [dryly] Then look uninteresting until he does.
+[pause 1.5s]
 Narrator: They crossed behind two wagons and joined the foot traffic heading toward the lower districts.
 Narrator: Zeek kept the satchel under his cloak.
 Narrator: The journal thumped once against his ribs.
 Narrator: He gripped the strap.
-Narrator: Ninsun looked at the satchel.
-Ninsun: It followed us.
+Narrator: NEEN-soon looked at the satchel.
+Ninsun: [uneasy] It followed us.
 [pause 1.5s]
 Narrator: No one answered.
+[pause 1.2s]
 Narrator: They disappeared into the evening crowds.
 [pause 3s]

@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "28-the-city-beneath-the-city",
 "title": "Chapter 28 — The City Beneath the City",
-"chars": 6728,
+"chars": 6763,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -30,7 +30,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Instead it simply rearranged the streets until every corridor they chose led back to the same narrow alcove. Zeek noticed the first repetition when he saw the cracked tile under the covered walkway for the second time. BAH-lahg noticed it when the same dripping water resumed its patient count. Ninsun stopped writing after the third return and simply stared at the wall as though the stone itself had insulted her."
+"text": "Instead it simply rearranged the streets until every corridor they chose led back to the same narrow alcove. Zeek noticed the first repetition when he saw the cracked tile under the covered walkway for the second time. BAH-lahg noticed it when the same dripping water resumed its patient count. NEEN-soon stopped writing after the third return and simply stared at the wall as though the stone itself had insulted her."
 },
 {
 "speaker": "Narrator",
@@ -38,7 +38,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You tried the eastern passage,"
+"text": "You tried the eastern passage,",
+"tags": [
+"hoarse",
+"knowingly"
+],
+"tag": "hoarse] [knowingly"
 },
 {
 "speaker": "Narrator",
@@ -52,11 +57,19 @@
 },
 {
 "speaker": "Balag",
-"text": "We are walking in circles."
+"text": "We are walking in circles.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "No,"
+"text": "No,",
+"tags": [
+"hoarse"
+],
+"tag": "hoarse"
 },
 {
 "speaker": "Narrator",
@@ -65,16 +78,25 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You are being returned. Circles would be kinder."
+"text": "You are being returned. Circles would be kinder.",
+"tags": [
+"hoarse",
+"dryly"
+],
+"tag": "hoarse] [dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's knife was already in her hand.",
+"text": "En-KHEH-doo's knife was already in her hand.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "How many times does it do this?"
+"text": "How many times does it do this?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -83,7 +105,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "Until you stop trying to leave the way you came, or until you decide the price of staying is lower than the price of another attempt. Most people choose the second option before the fifth return."
+"text": "Until you stop trying to leave the way you came, or until you decide the price of staying is lower than the price of another attempt. Most people choose the second option before the fifth return.",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Narrator",
@@ -104,11 +131,20 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't like this place."
+"text": "I don't like this place.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "That is sensible,"
+"text": "That is sensible,",
+"tags": [
+"hoarse",
+"dryly"
+],
+"tag": "hoarse] [dryly"
 },
 {
 "speaker": "Narrator",
@@ -117,19 +153,32 @@
 },
 {
 "speaker": "Balag",
-"text": "I wasn't asking."
+"text": "I wasn't asking.",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "The living rarely do."
+"text": "The living rarely do.",
+"tags": [
+"hoarse",
+"dryly"
+],
+"tag": "hoarse] [dryly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun had already moved to the long panel of wedge marks that ran along the wall opposite the alcove. She brushed dust from the deepest lines with careful fingers. The torchlight sank into the oily stone and did not return."
+"text": "NEEN-soon had already moved to the long panel of wedge marks that ran along the wall opposite the alcove. She brushed dust from the deepest lines with careful fingers. The torchlight sank into the oily stone and did not return."
 },
 {
 "speaker": "Ninsun",
-"text": "These are older than the household inventories,"
+"text": "These are older than the household inventories,",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -138,7 +187,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Different hand. Different purpose."
+"text": "Different hand. Different purpose.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -146,16 +199,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's stylus hovered above the first line.",
+"text": "NEEN-soon's stylus hovered above the first line.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The root forms are familiar. Settlement. Binding. Debt. But the combinations refuse ordinary translation. The first line could mean discovered. Or summoned. Those are not the same thing."
+"text": "The root forms are familiar. Settlement. Binding. Debt. But the combinations refuse ordinary translation. The first line could mean discovered. Or summoned. Those are not the same thing.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Zik",
-"text": "No,"
+"text": "No,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -169,7 +230,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The people who sealed the upper city did not build what lies beneath it. The earliest records claim the first settlers entered from above and found roads, wells, storage chambers already waiting. They believed the place had been abandoned."
+"text": "The people who sealed the upper city did not build what lies beneath it. The earliest records claim the first settlers entered from above and found roads, wells, storage chambers already waiting. They believed the place had been abandoned.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -178,16 +243,24 @@
 },
 {
 "speaker": "Balag",
-"text": "By whom?"
+"text": "By whom?",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's finger stopped on a character whose edges had eroded.",
+"text": "NEEN-soon's finger stopped on a character whose edges had eroded.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The word can mean inhabitants. It can also mean remains. Echoes. The dead."
+"text": "The word can mean inhabitants. It can also mean remains. Echoes. The dead.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -196,28 +269,46 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I preferred it when we were only lost."
+"text": "I preferred it when we were only lost.",
+"tags": [
+"hoarse",
+"dryly"
+],
+"tag": "hoarse] [dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's eyes stayed on him.",
+"text": "En-KHEH-doo's eyes stayed on him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "You know this language."
+"text": "You know this language.",
+"tags": [
+"suspicious"
+],
+"tag": "suspicious"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I know what it cost."
+"text": "I know what it cost.",
+"tags": [
+"hoarse",
+"gravely"
+],
+"tag": "hoarse] [gravely"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun forced herself farther along the wall. The next section was more formal, the wedges deeper and more carefully arranged. Phrases repeated with bureaucratic insistence: the agreement, the binding, the debt below."
+"text": "NEEN-soon forced herself farther along the wall. The next section was more formal, the wedges deeper and more carefully arranged. Phrases repeated with bureaucratic insistence: the agreement, the binding, the debt below."
 },
 {
 "speaker": "Ninsun",
-"text": "Debt is not exact,"
+"text": "Debt is not exact,",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -226,7 +317,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Obligation. Price. Something owed to the foundation."
+"text": "Obligation. Price. Something owed to the foundation.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -235,7 +330,11 @@
 },
 {
 "speaker": "Zik",
-"text": "You once told me it was a royal emblem."
+"text": "You once told me it was a royal emblem.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
@@ -247,7 +346,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's voice had gone flat.",
+"text": "NEEN-soon's voice had gone flat.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -265,7 +364,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I know what it means when the mark chooses someone."
+"text": "I know what it means when the mark chooses someone.",
+"tags": [
+"hoarse",
+"gravely"
+],
+"tag": "hoarse] [gravely"
 },
 {
 "speaker": "Narrator",
@@ -274,15 +378,28 @@
 },
 {
 "speaker": "Zik",
-"text": "Then say it."
+"text": "Then say it.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You would not believe me."
+"text": "You would not believe me.",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Zik",
-"text": "Try."
+"text": "Try.",
+"tags": [
+"insistent"
+],
+"tag": "insistent"
 },
 {
 "speaker": "Narrator",
@@ -291,7 +408,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You are already doing what your father did. He believed knowing the truth would make him free of it."
+"text": "You are already doing what your father did. He believed knowing the truth would make him free of it.",
+"tags": [
+"hoarse",
+"sadly"
+],
+"tag": "hoarse] [sadly"
 },
 {
 "speaker": "Narrator",
@@ -299,11 +421,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun reached the final section. The characters here had been cut with force rather than patience. Several surrounding blocks were cracked. She read the first line once, then again, then stopped breathing."
+"text": "NEEN-soon reached the final section. The characters here had been cut with force rather than patience. Several surrounding blocks were cracked. She read the first line once, then again, then stopped breathing."
 },
 {
 "speaker": "Balag",
-"text": "What does it say?"
+"text": "What does it say?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -316,7 +442,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The First City was not the first city."
+"text": "The First City was not the first city.",
+"tags": [
+"stunned"
+],
+"tag": "stunned"
 },
 {
 "speaker": "Narrator",
@@ -333,11 +463,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun translated as the words appeared."
+"text": "NEEN-soon translated as the words appeared."
 },
 {
 "speaker": "Ninsun",
-"text": "The first city was built over the second."
+"text": "The first city was built over the second.",
+"tags": [
+"slowly"
+],
+"tag": "slowly"
 },
 {
 "speaker": "Narrator",
@@ -345,7 +479,12 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The second was built over the third."
+"text": "The second was built over the third.",
+"tags": [
+"slowly",
+"fearful"
+],
+"tag": "slowly] [fearful"
 },
 {
 "speaker": "Narrator",
@@ -353,7 +492,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The third was built over the—"
+"text": "The third was built over the—",
+"tags": [
+"breathless"
+],
+"tag": "breathless"
 },
 {
 "speaker": "Narrator",
@@ -362,20 +505,29 @@
 {
 "speaker": "Narrator",
 "text": "Zeek stepped closer.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
-"text": "Over what?"
+"text": "Over what?",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stared at the final symbol.",
+"text": "NEEN-soon stared at the final symbol.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The word is present. But there is no place beneath it. No chamber. No city. No depth. Nothing the language is willing to name."
+"text": "The word is present. But there is no place beneath it. No chamber. No city. No depth. Nothing the language is willing to name.",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Narrator",
@@ -384,7 +536,11 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "Do not ask what lies beneath the last city."
+"text": "Do not ask what lies beneath the last city.",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Narrator",
@@ -393,7 +549,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Why?"
+"text": "Why?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -417,7 +577,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun turned slowly toward Zeek. He was staring at his left hand."
+"text": "NEEN-soon turned slowly toward Zeek. He was staring at his left hand."
 },
 {
 "speaker": "Narrator",
@@ -437,7 +597,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's voice dropped to a whisper.",
+"text": "NEEN-soon's voice dropped to a whisper.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -456,7 +616,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Then where?"
+"text": "Then where?",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -484,7 +648,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "And somewhere far below the First City, something knocked back."
+"text": "And somewhere far below the First City, something knocked back.",
+"pauseBefore": 1.2
 }
 ]
 }

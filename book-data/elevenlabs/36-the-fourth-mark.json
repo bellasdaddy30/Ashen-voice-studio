@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "36-the-fourth-mark",
 "title": "Chapter 36 — The Fourth Mark",
-"chars": 5408,
+"chars": 5432,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -41,11 +41,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stepped closer, fingers hovering above the stone without touching it."
+"text": "NEEN-soon stepped closer, fingers hovering above the stone without touching it."
 },
 {
 "speaker": "Ninsun",
-"text": "These are not the incomplete spirals,"
+"text": "These are not the incomplete spirals,",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -54,7 +58,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "These are attempts."
+"text": "These are attempts.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -80,11 +88,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Whatever you're reading into those scratches, make it quick. The passage we came through is starting to close."
+"text": "Whatever you're reading into those scratches, make it quick. The passage we came through is starting to close.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo studied the wall with the remote attention she now gave anything that could not be priced.",
+"text": "En-KHEH-doo studied the wall with the remote attention she now gave anything that could not be priced.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -110,7 +122,11 @@
 },
 {
 "speaker": "Zik",
-"text": "The oldest is the first attempt,"
+"text": "The oldest is the first attempt,",
+"tags": [
+"hollow"
+],
+"tag": "hollow"
 },
 {
 "speaker": "Narrator",
@@ -119,16 +135,24 @@
 },
 {
 "speaker": "Zik",
-"text": "The middle one is the second. And the one I just carved—that was supposed to be the third."
+"text": "The middle one is the second. And the one I just carved—that was supposed to be the third.",
+"tags": [
+"hollow"
+],
+"tag": "hollow"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's torchlight moved over the stone in slow arcs.",
+"text": "NEEN-soon's torchlight moved over the stone in slow arcs.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "But the journal said this is the third time you have read this. Not the fourth. The third."
+"text": "But the journal said this is the third time you have read this. Not the fourth. The third.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -140,7 +164,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Or both."
+"text": "Or both.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -148,11 +173,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun tried to copy the oldest mark. The ink refused to hold. The line appeared, then faded, then appeared again in a slightly different shape."
+"text": "NEEN-soon tried to copy the oldest mark. The ink refused to hold. The line appeared, then faded, then appeared again in a slightly different shape."
 },
 {
 "speaker": "Ninsun",
-"text": "It's rewriting itself while I watch."
+"text": "It's rewriting itself while I watch.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Narrator",
@@ -160,7 +189,11 @@
 },
 {
 "speaker": "Zik",
-"text": "There's a fourth,"
+"text": "There's a fourth,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -169,16 +202,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun followed his gaze.",
+"text": "NEEN-soon followed his gaze.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "I don't see it."
+"text": "I don't see it.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Zik",
-"text": "Not yet."
+"text": "Not yet.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -186,7 +227,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek's palm burned."
+"text": "Zeek's palm burned.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -207,7 +249,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked at him, her voice barely above a whisper.",
+"text": "NEEN-soon looked at him, her voice barely above a whisper.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -234,7 +276,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek heard Ninsun inhale sharply beside him. The sound seemed unnaturally loud in the sudden absence of light."
+"text": "Zeek heard NEEN-soon inhale sharply beside him. The sound seemed unnaturally loud in the sudden absence of light."
 },
 {
 "speaker": "Narrator",
@@ -242,15 +284,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "Three measured blows."
+"text": "Three measured blows.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "A pause."
+"text": "A pause.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Then a fourth."
+"text": "Then a fourth.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -258,11 +303,19 @@
 },
 {
 "speaker": "Zik",
-"text": "We need to go."
+"text": "We need to go.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Balag",
-"text": "Where?"
+"text": "Where?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -275,7 +328,11 @@
 },
 {
 "speaker": "Zik",
-"text": "The knocking."
+"text": "The knocking.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -288,15 +345,17 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek walked first, one hand sliding along damp stone, the journal pressed beneath his arm. Behind him he heard Ninsun's footsteps falter only once."
+"text": "Zeek walked first, one hand sliding along damp stone, the journal pressed beneath his arm. Behind him he heard NEEN-soon's footsteps falter only once."
 },
 {
 "speaker": "Narrator",
-"text": "Not from fear."
+"text": "Not from fear.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "From hesitation."
+"text": "From hesitation.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -304,7 +363,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I'd like it recorded,"
+"text": "I'd like it recorded,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -313,7 +376,11 @@
 },
 {
 "speaker": "Balag",
-"text": "That I objected to following the invisible thing that knocks."
+"text": "That I objected to following the invisible thing that knocks.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Enhedu",
@@ -326,7 +393,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo said.",
+"text": "En-KHEH-doo said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -357,11 +424,15 @@
 },
 {
 "speaker": "Balag",
-"text": "It saves time. Imagine how slow we'd move if I explained every damn sensible thought I had."
+"text": "It saves time. Imagine how slow we'd move if I explained every damn sensible thought I had.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's mouth shifted at one corner.",
+"text": "En-KHEH-doo's mouth shifted at one corner.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -391,11 +462,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not completed."
+"text": "Not completed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Waiting."
+"text": "Waiting.",
+"pauseBefore": 1.2
 }
 ]
 }

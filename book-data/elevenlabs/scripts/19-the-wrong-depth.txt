@@ -6,168 +6,177 @@ Narrator: The Wrong Depth
 [pause 2s]
 Narrator: By the time Zeek returned to the inn, the rain had begun.
 Narrator: It tapped against the reed canopy stretched above the courtyard and ran in silver threads from its sagging edges. The basin beside the well had already overflowed, sending a narrow stream across the paving stones. Two carters sat beneath the driest corner, moving painted knucklebones through a game neither appeared to be winning.
-Narrator: Ninsun had covered the table with notes.
-Narrator: Copies of Ammaru's vanished entry lay beside her sketch of the impossible map. She had weighted each corner with a cup, a lamp, or one of BAH-lahg's knives. En-HEH-doo sat sideways on a stool, watching the courtyard entrance. BAH-lahg stood beside the wall with his arms crossed.
+Narrator: NEEN-soon had covered the table with notes.
+Narrator: Copies of Ahm-MAH-roo's vanished entry lay beside her sketch of the impossible map. She had weighted each corner with a cup, a lamp, or one of BAH-lahg's knives. En-KHEH-doo sat sideways on a stool, watching the courtyard entrance. BAH-lahg stood beside the wall with his arms crossed.
 Narrator: All three looked at Zeek when he entered.
 Narrator: BAH-lahg's gaze dropped to the satchel pressed against his ribs.
-Balag: You took your time.
-Zik: I was followed.
-Narrator: En-HEH-doo straightened.
-Enhedu: By whom?
-Zik: A temple scribe.
-Enhedu: That is disappointing. I had hoped for someone competent.
-Zik: He carried a message from the Collector.
-Narrator: Ninsun set down her stylus.
-Ninsun: What message?
-Zik: He wants the journal.
+Balag: [gruffly] You took your time.
+Zik: [flatly] I was followed.
+Narrator: En-KHEH-doo straightened.
+Enhedu: [sharply] By whom?
+Zik: [flatly] A temple scribe.
+Enhedu: [dryly] That is disappointing. I had hoped for someone competent.
+Zik: [quietly] He carried a message from the Collector.
+Narrator: NEEN-soon set down her stylus.
+Ninsun: [curious] What message?
+Zik: [flatly] He wants the journal.
 Narrator: The rain struck harder against the canopy.
 Narrator: BAH-lahg glanced toward the satchel.
-Balag: He knows about it?
-Zik: He knows enough to offer ten times what he paid earlier.
-Ninsun: For the journal specifically?
-Narrator: Ninsun asked.
-Zik: Yes.
-Ninsun: And you refused.
+Balag: [alarmed] He knows about it?
+Zik: [grimly] He knows enough to offer ten times what he paid earlier.
+Ninsun: [intently] For the journal specifically?
+Narrator: NEEN-soon asked.
+Zik: [flatly] Yes.
+Ninsun: [knowingly] And you refused.
 Narrator: Zeek pulled out a stool.
-Zik: I was overcome by professional pride.
-Ninsun: You own none.
-Zik: I borrow it for negotiations.
-Narrator: En-HEH-doo leaned forward, forearms on her knees.
-Enhedu: What else did the scribe say?
-Zik: That we shouldn't return to the site.
+Zik: [dryly] I was overcome by professional pride.
+Ninsun: [dryly] You own none.
+Zik: [dryly] I borrow it for negotiations.
+Narrator: En-KHEH-doo leaned forward, forearms on her knees.
+Enhedu: [curious] What else did the scribe say?
+Zik: [quietly] That we shouldn't return to the site.
 Narrator: BAH-lahg's expression remained flat.
-Balag: For once, the Collector and I agree.
-Zik: He also said the mark announces itself to people who have seen it before.
-Narrator: Ninsun's eyes dropped immediately to Zeek's hand.
+Balag: [dryly] For once, the Collector and I agree.
+Zik: [uneasy] He also said the mark announces itself to people who have seen it before.
+Narrator: NEEN-soon's eyes dropped immediately to Zeek's hand.
 Narrator: The discoloration beneath his palm had faded until it resembled the shadow of an old scar. Zeek could still feel it pulsing. The sensation had not stopped since the answer beneath the city.
-Ninsun: He recognized it?
+Ninsun: [intently] He recognized it?
 Narrator: she asked.
-Zik: The scribe did not say.
-Ninsun: But the Collector has seen it.
-Zik: That was the implication.
-Narrator: Ninsun reached across the table.
+Zik: [flatly] The scribe did not say.
+Ninsun: [intently] But the Collector has seen it.
+Zik: [dryly] That was the implication.
+Narrator: NEEN-soon reached across the table.
 Narrator: Zeek pulled his hand away before she touched him.
-Zik: I am not going to scrape it.
-Ninsun: That is exactly what a man says when he knows I intend to scrape something.
-Zik: You may document it without removing any part of me.
-Ninsun: Your objection is noted.
+Zik: [firmly] I am not going to scrape it.
+Ninsun: [dryly] That is exactly what a man says when he knows I intend to scrape something.
+Zik: [dryly] You may document it without removing any part of me.
+Ninsun: [dryly] Your objection is noted.
 Narrator: BAH-lahg pushed away from the wall.
-Balag: Did anyone follow you back?
-Zik: No.
-Narrator: En-HEH-doo looked toward the entrance.
-Enhedu: You are certain?
-Zik: No.
-Enhedu: Better.
+Balag: [tense] Did anyone follow you back?
+Zik: [flatly] No.
+Narrator: En-KHEH-doo looked toward the entrance.
+Enhedu: [suspicious] You are certain?
+Zik: [dryly] No.
+Enhedu: [dryly] Better.
 Narrator: Zeek placed the satchel on the table but kept one hand on it.
-Zik: The crew leaves before dawn.
+Zik: [firmly] The crew leaves before dawn.
 Narrator: BAH-lahg did not move.
-Balag: The crew?
-Zik: The four of us.
-Balag: You make that sound settled.
-Zik: It became settled when the Collector told me not to go.
-Balag: That is not how warnings work.
-Zik: It is how his warnings work.
-Narrator: Ninsun drew her copied notes into a stack.
-Ninsun: We return to the tomb, locate the seventh access, and determine whether the lower chambers correspond to the map.
+Balag: [skeptical] The crew?
+Zik: [firmly] The four of us.
+Balag: [skeptical] You make that sound settled.
+Zik: [dryly] It became settled when the Collector told me not to go.
+Balag: [skeptical] That is not how warnings work.
+Zik: [dryly] It is how his warnings work.
+Narrator: NEEN-soon drew her copied notes into a stack.
+Ninsun: [briskly] We return to the tomb, locate the seventh access, and determine whether the lower chambers correspond to the map.
 Narrator: BAH-lahg looked at her.
-Balag: You say that as though the map is a survey and not something drawn by a dead man's skin.
-Ninsun: The material is irrelevant to the accuracy.
-Balag: The material had scars.
-Ninsun: Yes.
-Balag: And pores.
-Ninsun: Yes.
-Balag: And at one point, presumably, opinions.
-Narrator: Ninsun considered that.
-Ninsun: The opinions are irrelevant to the accuracy.
-Narrator: En-HEH-doo gestured toward the journal.
-Enhedu: You are both assuming it wants us to reach the lower chamber.
-Zik: I am assuming nothing,
+Balag: [incredulous] You say that as though the map is a survey and not something drawn by a dead man's skin.
+Ninsun: [primly] The material is irrelevant to the accuracy.
+Balag: [pointedly] The material had scars.
+Ninsun: [primly] Yes.
+Balag: [pointedly] And pores.
+Ninsun: [primly] Yes.
+Balag: [sarcastic] And at one point, presumably, opinions.
+Narrator: NEEN-soon considered that.
+Ninsun: [primly] The opinions are irrelevant to the accuracy.
+Narrator: En-KHEH-doo gestured toward the journal.
+Enhedu: [skeptical] You are both assuming it wants us to reach the lower chamber.
+Zik: [flatly] I am assuming nothing,
 Narrator: Zeek said.
-Enhedu: You intend to follow the road it drew.
-Zik: I intend to reach the site before the Collector does.
-Enhedu: You think he needs the map?
-Zik: I think he may already know where it leads.
+Enhedu: [pointedly] You intend to follow the road it drew.
+Zik: [firmly] I intend to reach the site before the Collector does.
+Enhedu: [curious] You think he needs the map?
+Zik: [darkly] I think he may already know where it leads.
 Narrator: BAH-lahg turned toward the courtyard entrance.
 Narrator: The musician who had been sitting beneath the awning was gone.
 Narrator: His reed pipe remained beside the wall.
 Narrator: BAH-lahg stared at it.
-Balag: He left his instrument.
-Narrator: En-HEH-doo glanced over.
-Enhedu: Perhaps he finally heard himself.
-Balag: He was there when Zeek entered.
-Enhedu: So?
-Balag: I did not see him leave.
+Balag: [uneasy] He left his instrument.
+Narrator: En-KHEH-doo glanced over.
+Enhedu: [dryly] Perhaps he finally heard himself.
+Balag: [uneasy] He was there when Zeek entered.
+Enhedu: [dismissively] So?
+Balag: [uneasy] I did not see him leave.
 Narrator: The reed pipe lay where the musician had placed it, sheltered from the rain beneath a shallow niche. A few drops clung to its polished surface. The stool beside it was still angled toward the courtyard.
 Narrator: Zeek looked at the alley beyond the entrance.
 Narrator: People moved past beneath cloaks and woven mats. A porter hurried after a donkey carrying twice its own width in bundled reeds. A woman held a clay bowl above her head as though the rain had chosen her personally.
 Narrator: No musician appeared among them.
-Narrator: Zeek had told himself the answer beneath Uruk might have been imagination.
+Narrator: Zeek had told himself the answer beneath OO-rook might have been imagination.
 Narrator: The mark had burned. The journal had moved. The city had continued around him as though nothing had happened.
 Narrator: He had almost believed that meant nothing had.
 Narrator: The journal shifted beneath his hand.
 Narrator: The cover lifted slightly against his palm.
 Narrator: Zeek pressed it down.
-Narrator: Ninsun saw.
-Ninsun: It has already decided where it wants you.
-Zik: That does not mean I have to obey.
-Ninsun: You returned here carrying it.
-Zik: I considered leaving it with my mother.
+[pause 0.5s]
+Narrator: NEEN-soon saw.
+Ninsun: [ominous] It has already decided where it wants you.
+Zik: [defiantly] That does not mean I have to obey.
+Ninsun: [pointedly] You returned here carrying it.
+Zik: [quietly] I considered leaving it with my mother.
 Narrator: BAH-lahg looked at him sharply.
-Balag: You took that thing into her house?
-Zik: I did not open it near her.
-Balag: That is a distinction only you would find reassuring.
+Balag: [angrily] You took that thing into her house?
+Zik: [defensive] I did not open it near her.
+Balag: [sarcastic] That is a distinction only you would find reassuring.
 Narrator: The journal pushed against Zeek's hand again.
 Narrator: Not upward this time.
+[pause 0.5s]
 Narrator: Inward.
 Narrator: Something struck the inside of the cover.
+[pause 0.6s]
 Narrator: Thump.
 Narrator: The sound traveled through the table.
 Narrator: The carters near the well stopped their game.
 Narrator: One of them looked toward Zeek's group, then quickly back at the knucklebones.
 Narrator: The journal knocked again.
+[pause 0.6s]
 Narrator: Thump.
-Narrator: En-HEH-doo rose from her stool.
+Narrator: En-KHEH-doo rose from her stool.
+[pause 0.5s]
 Narrator: BAH-lahg stepped closer.
-Balag: What is it doing?
+Balag: [alarmed] What is it doing?
 Narrator: Zeek reached for the satchel.
-Zik: I don't know.
-Ninsun: That answer,
-Narrator: Ninsun said,
-Ninsun: has become exhausting.
+Zik: [tense] I don't know.
+Ninsun: [exasperated] That answer,
+Narrator: NEEN-soon said,
+Ninsun: [exasperated] has become exhausting.
 Narrator: The journal struck the table twice.
+[pause 0.6s]
 Narrator: Thump.
+[pause 0.6s]
 Narrator: Thump.
 Narrator: The lamp flame shivered.
 Narrator: Not from the wind. The air beneath the canopy was still.
 Narrator: BAH-lahg placed his palm against the courtyard wall.
 Narrator: He pulled it back.
-Balag: The stone is warm.
-Narrator: En-HEH-doo crossed to him and touched the masonry with two fingers.
-Enhedu: This wall faces the alley.
-Balag: It was cold when we arrived,
+Balag: [alarmed] The stone is warm.
+Narrator: En-KHEH-doo crossed to him and touched the masonry with two fingers.
+Enhedu: [uneasy] This wall faces the alley.
+Balag: [tense] It was cold when we arrived,
 Narrator: BAH-lahg said.
 Narrator: Rainwater struck the paving stones near its base.
 Narrator: The droplets did not spread.
 Narrator: They trembled where they landed, then began to creep sideways.
 Narrator: Thin threads of water gathered between the stones and crawled toward the wall. One after another, they climbed into the mortar and vanished.
-Narrator: Ninsun moved closer.
-Ninsun: Water does not behave like that.
-Enhedu: Thank you,
-Narrator: En-HEH-doo said.
-Enhedu: I had been worried Uruk had changed its rules while we were inside.
+[pause 0.5s]
+Narrator: NEEN-soon moved closer.
+Ninsun: [alarmed] Water does not behave like that.
+Enhedu: [sarcastic] Thank you,
+Narrator: En-KHEH-doo said.
+Enhedu: [sarcastic] I had been worried OO-rook had changed its rules while we were inside.
 Narrator: The lantern flame leaned toward the masonry.
 Narrator: BAH-lahg reached over his shoulder and drew his axe.
-Narrator: Ninsun looked at it.
-Ninsun: What exactly do you intend to strike?
-Balag: The first thing that comes through.
-Ninsun: The wall?
-Balag: If necessary.
-Ninsun: That would be a poor archaeological decision.
-Balag: It will be an excellent BAH-lahg decision.
+Narrator: NEEN-soon looked at it.
+Ninsun: [skeptical] What exactly do you intend to strike?
+Balag: [grimly] The first thing that comes through.
+Ninsun: [incredulous] The wall?
+Balag: [grimly] If necessary.
+Ninsun: [primly] That would be a poor archaeological decision.
+Balag: [grimly] It will be an excellent BAH-lahg decision.
 Narrator: A tremor passed through the masonry.
 Narrator: The cups on the nearest table clicked together.
 Narrator: One of the carters stood so quickly that his stool overturned. He muttered a prayer, swept the game pieces into his hand, and hurried toward the kitchen passage. His companion followed without asking whether the game was finished.
 Narrator: Zeek shoved the journal into the satchel.
+[pause 0.5s]
 Narrator: The knocking stopped.
 Narrator: The wall swelled outward.
 Narrator: Not enough to break. Enough to make the courses of brick appear soft beneath the lantern light.
@@ -176,68 +185,75 @@ Narrator: Dark mortar lines spread across the surface.
 Narrator: They climbed from the paving stones in two parallel columns before joining overhead, forming the outline of a tall, narrow doorway.
 Narrator: The proportions were wrong for an ordinary entrance. Too high. Too thin. Made for something that walked upright but had never learned the width of human shoulders.
 Narrator: The same shape as the shifted passages beneath the desert.
-Narrator: Ninsun reached for her stylus.
+Narrator: NEEN-soon reached for her stylus.
 Narrator: BAH-lahg caught her wrist.
-Balag: No.
-Ninsun: I am documenting it.
-Balag: You can document it while moving.
-Ninsun: A description made afterward will be less precise.
-Balag: You will be less precise if the wall eats you.
+Balag: [firmly] No.
+Ninsun: [stubbornly] I am documenting it.
+Balag: [urgently] You can document it while moving.
+Ninsun: [stubbornly] A description made afterward will be less precise.
+Balag: [urgently] You will be less precise if the wall eats you.
 Narrator: A black seam appeared between two courses of stone.
 Narrator: It widened by the breadth of a fingernail.
 Narrator: Cold air slipped through it.
 Narrator: The courtyard smelled suddenly of wet clay and something older—sealed dust, mineral oil, the breath of a chamber that had not opened in centuries.
 Narrator: Zeek slung the satchel over his shoulder.
-Zik: We leave.
+Zik: [urgently] We leave.
+[pause 1.5s]
 Narrator: They crossed the courtyard as the seam widened behind them.
-Narrator: Ninsun walked backward, eyes fixed on the forming doorway.
-Balag: Do not stop,
+Narrator: NEEN-soon walked backward, eyes fixed on the forming doorway.
+Balag: [urgently] Do not stop,
 Narrator: BAH-lahg said.
-Ninsun: I am not stopping.
-Balag: You are slowing.
-Ninsun: That is different.
-Narrator: En-HEH-doo caught the back of Ninsun's robe and pulled her into the kitchen passage.
+Ninsun: [breathless] I am not stopping.
+Balag: [urgently] You are slowing.
+Ninsun: [breathless] That is different.
+Narrator: En-KHEH-doo caught the back of NEEN-soon's robe and pulled her into the kitchen passage.
 Narrator: They passed between steaming pots and hanging pans. The heat struck Zeek's face. A kitchen boy carrying a bowl of lentils twisted aside as BAH-lahg came through and slammed into a shelf instead.
 Narrator: A bundle of onions dropped from its hook.
+[pause 0.5s]
 Narrator: The boy cursed.
 Narrator: The cook turned from the hearth with a ladle raised like a weapon.
-Inn Cook: [shouts] Out.
-Zik: Already doing that,
+Inn Cook: [shouts] [angrily] Out.
+Zik: [hurriedly] Already doing that,
 Narrator: Zeek said.
 Narrator: Something struck the courtyard wall behind them.
+[pause 0.5s]
 Narrator: Stone against stone.
 Narrator: The pans overhead rang softly.
 Narrator: The cook looked toward the passage.
-Inn Cook: What was that?
-Enhedu: Renovation,
-Narrator: En-HEH-doo said.
+Inn Cook: [shouts] [suspicious] What was that?
+Enhedu: [dryly] Renovation,
+Narrator: En-KHEH-doo said.
 Narrator: They pushed through the crowded front room and into the street.
 Narrator: Wet evening air closed around them.
 Narrator: Merchants folded awnings beneath the rain. Donkeys crowded beneath overhangs and snapped at one another over dry ground. Two children splashed through the gutter while their mother shouted threats neither appeared to believe.
 Narrator: Behind the inn's shutters, stone struck stone again.
+[pause 0.5s]
 Narrator: Deeper this time.
 Narrator: A grinding impact that Zeek felt through the street beneath his sandals.
+[pause 0.5s]
 Narrator: No one turned.
+[pause 0.5s]
 Narrator: No one stopped.
 Narrator: A wine seller continued arguing over the price of a jar. A porter shoved past them with a basket balanced on his shoulders. A priest lifted his robe to avoid the gutter and stepped directly into a puddle.
+[pause 0.5s]
 Narrator: BAH-lahg looked back.
-Balag: That bothers me more.
-Enhedu: What?
-Narrator: En-HEH-doo asked.
-Balag: That nobody noticed.
-Enhedu: Uruk has high standards for public disturbances.
+Balag: [uneasy] That bothers me more.
+Enhedu: [curious] What?
+Narrator: En-KHEH-doo asked.
+Balag: [uneasy] That nobody noticed.
+Enhedu: [dryly] OO-rook has high standards for public disturbances.
 Narrator: The satchel shifted against Zeek's hip.
 Narrator: He pressed his arm against it.
 Narrator: The leather went still.
-Zik: The room,
+Zik: [tense] The room,
 Narrator: he said.
-Zik: We take what we can carry, then leave through the drainage breach beneath the old lime kilns.
-Ninsun: The east gate will be closed,
-Narrator: Ninsun said.
-Zik: That is why we are not using it.
+Zik: [firmly] We take what we can carry, then leave through the drainage breach beneath the old lime kilns.
+Ninsun: [pointedly] The east gate will be closed,
+Narrator: NEEN-soon said.
+Zik: [dryly] That is why we are not using it.
 Narrator: BAH-lahg adjusted the axe on his shoulder.
-Balag: You know a great many illegal exits.
-Zik: I have been asked to leave several places without assistance.
+Balag: [dryly] You know a great many illegal exits.
+Zik: [dryly] I have been asked to leave several places without assistance.
 Narrator: They entered the crowd.
 Narrator: Zeek kept them beneath the awnings where possible, though the rain had already darkened their robes. They crossed the potters' quarter, passed the shuttered stalls near the fish market, and turned west through lanes that narrowed as they approached the outer districts.
 Narrator: The journal did not knock again.
@@ -245,39 +261,42 @@ Narrator: That made Zeek trust it less.
 Narrator: Their rented room stood three districts away. By the time they reached the alley behind it, the rain had weakened to a fine mist.
 Narrator: Zeek stopped before the corner.
 Narrator: The door appeared undisturbed. The upper shutter remained closed. No guards waited beneath the awnings. No temple scribes pretended to study wax tablets.
-Narrator: En-HEH-doo studied the building.
-Enhedu: Again.
+Narrator: En-KHEH-doo studied the building.
+Enhedu: [whispers] Again.
 Narrator: BAH-lahg looked at her.
-Balag: What?
-Enhedu: Someone has been inside.
-Balag: The door is barred.
-Enhedu: That prevents honest people.
-Balag: How can you tell?
-Enhedu: The shutter hook is turned inward.
+Balag: [whispers] What?
+Enhedu: [whispers] [tense] Someone has been inside.
+Balag: [whispers] The door is barred.
+Enhedu: [whispers] [dryly] That prevents honest people.
+Balag: [whispers] How can you tell?
+Enhedu: [whispers] The shutter hook is turned inward.
 Narrator: Zeek looked up.
 Narrator: He could barely see it from the alley.
-Zik: You noticed that from here?
-Enhedu: I put it the other way.
+Zik: [whispers] [impressed] You noticed that from here?
+Enhedu: [whispers] [dryly] I put it the other way.
 Narrator: They passed the entrance without slowing and entered the stable behind the adjoining house. A horse lifted its head as they crossed, considered objecting, then returned to its feed.
 Narrator: BAH-lahg braced himself beneath the edge of the roof.
-Narrator: En-HEH-doo stepped onto his clasped hands.
-Enhedu: You could warn me before placing your entire weight on one finger.
-Balag: I did.
-Enhedu: You said 'ready.'
-Balag: That was the warning.
+Narrator: En-KHEH-doo stepped onto his clasped hands.
+Enhedu: [whispers] [annoyed] You could warn me before placing your entire weight on one finger.
+Balag: [whispers] [dryly] I did.
+Enhedu: [whispers] [annoyed] You said 'ready.'
+Balag: [whispers] [dryly] That was the warning.
 Narrator: She caught the roofline, pulled herself up, and disappeared over the edge. A moment later a cord dropped beside BAH-lahg's face.
-Narrator: Ninsun climbed next.
+[pause 0.5s]
+Narrator: NEEN-soon climbed next.
 Narrator: Zeek followed, then helped BAH-lahg haul himself onto the roof with considerably less grace than the horse below had shown.
+[pause 1.5s]
 Narrator: They crossed the wet tiles on hands and knees.
-Narrator: En-HEH-doo reached the shutter, drew a narrow hook from her sleeve, and fed it through the gap. A soft scrape came from inside. The catch lifted.
+Narrator: En-KHEH-doo reached the shutter, drew a narrow hook from her sleeve, and fed it through the gap. A soft scrape came from inside. The catch lifted.
 Narrator: She opened the shutter by the width of a hand and listened.
+[pause 0.6s]
 Narrator: Nothing.
 Narrator: Then she slipped through.
 Narrator: A moment later she leaned out.
-Enhedu: Empty.
+Enhedu: [whispers] Empty.
 Narrator: They entered one at a time.
 Narrator: The room looked exactly as they had left it.
-Narrator: That was the first indication En-HEH-doo had been right.
+Narrator: That was the first indication En-KHEH-doo had been right.
 Narrator: The lamp sat in the center of the table. Their food remained stacked against the wall. BAYL-ID-din's field notes lay beneath a folded cloth. BAH-lahg's spare sandals still protruded from his pack at an angle that suggested they were trying to escape.
 Narrator: Zeek crouched near the table.
 Narrator: A thin layer of dust covered the wood.
@@ -285,115 +304,123 @@ Narrator: Someone had rested an arm across it.
 Narrator: The print was faint but clear: forearm, wrist, the edge of a hand.
 Narrator: Nothing appeared to be missing.
 Narrator: Zeek checked the loose notes, clay impressions, tools, oil jars, and food.
-Narrator: Ninsun crouched beside the western wall.
-Ninsun: This brick has been moved.
+Narrator: NEEN-soon crouched beside the western wall.
+Ninsun: [whispers] This brick has been moved.
 Narrator: The mortar around it had been cut and pressed back into place.
 Narrator: BAH-lahg knelt beside her and worked the brick free with the tip of his knife.
 Narrator: A strip of wet clay rested inside the cavity.
 Narrator: Four descending wedges had been marked on it.
-Narrator: Ninsun lifted the strip carefully between both hands.
+Narrator: NEEN-soon lifted the strip carefully between both hands.
 Narrator: The clay sagged slightly beneath its own weight.
-Ninsun: The first three were made together,
+Ninsun: [whispers] [intently] The first three were made together,
 Narrator: she said.
-Ninsun: The pressure is equal. Same tool, same angle.
+Ninsun: [whispers] [intently] The pressure is equal. Same tool, same angle.
 Narrator: She turned it toward the vent.
-Ninsun: The fourth was added later.
+Ninsun: [whispers] [uneasy] The fourth was added later.
 Narrator: BAH-lahg leaned closer.
-Balag: How much later?
-Ninsun: Long enough for the surface to begin drying.
-Balag: What does it mean?
-Zik: It means whoever entered wanted us to find it,
+Balag: [whispers] How much later?
+Ninsun: [whispers] Long enough for the surface to begin drying.
+Balag: [whispers] [uneasy] What does it mean?
+Zik: [whispers] [grimly] It means whoever entered wanted us to find it,
 Narrator: Zeek said.
-Narrator: En-HEH-doo checked the shutter.
-Enhedu: Then let us disappoint them by leaving.
+Narrator: En-KHEH-doo checked the shutter.
+Enhedu: [whispers] [dryly] Then let us disappoint them by leaving.
 Narrator: They moved quickly.
 Narrator: BAH-lahg laid the equipment across the floor and divided it into piles.
 Narrator: Two ropes. Four lamps. Spare oil. Wooden wedges. Bronze chisels. A hammer. Waterskins. Barley cakes. Dates. Bandages. Resin.
 Narrator: He lifted the hammer, glanced at Zeek, and set it beside his own pack.
-Narrator: Ninsun added measuring cord, pigments, styluses, two clay tablets, and her copy of Ammaru's vanished ledger entry.
+Narrator: NEEN-soon added measuring cord, pigments, styluses, two clay tablets, and her copy of Ahm-MAH-roo's vanished ledger entry.
 Narrator: BAH-lahg removed one tablet.
 Narrator: She put it back.
-Ninsun: That is a record.
-Balag: That is weight.
-Ninsun: It is also mine.
-Balag: That will become important when you ask me to carry it.
-Ninsun: I will not ask.
-Balag: You will place it beside my pack and stare.
-Ninsun: That has worked before.
-Narrator: En-HEH-doo packed knives, wax, cord, two mirrors, a narrow saw, three hooks, and several tools Zeek could not identify.
+Ninsun: [whispers] [indignant] That is a record.
+Balag: [whispers] [gruffly] That is weight.
+Ninsun: [whispers] [stubbornly] It is also mine.
+Balag: [whispers] [dryly] That will become important when you ask me to carry it.
+Ninsun: [whispers] [primly] I will not ask.
+Balag: [whispers] [dryly] You will place it beside my pack and stare.
+Ninsun: [whispers] [primly] That has worked before.
+Narrator: En-KHEH-doo packed knives, wax, cord, two mirrors, a narrow saw, three hooks, and several tools Zeek could not identify.
 Narrator: He pointed at one.
-Zik: What is that?
-Enhedu: For locks.
-Zik: It has teeth.
-Enhedu: Some locks require persuasion.
+Zik: [whispers] [curious] What is that?
+Enhedu: [whispers] For locks.
+Zik: [whispers] [skeptical] It has teeth.
+Enhedu: [whispers] [dryly] Some locks require persuasion.
 Narrator: Zeek lifted BAYL-ID-din's field notes from beneath the cloth.
 Narrator: Near the back, several pages had been folded inward.
 Narrator: He had seen the creases before but assumed they marked damaged sections. Now he opened the first fold carefully.
 Narrator: A plan of the tomb filled the page.
-Narrator: The burial chamber occupied the center, drawn in his father's precise hand. The entrance passage extended from one side. The shaft where KOO-rash had fallen was marked with a small cross.
+Narrator: The burial chamber occupied the center, drawn in his father's precise hand. The entrance passage extended from one side. The shaft where KOO-rahsh had fallen was marked with a small cross.
 Narrator: Beneath the burial chamber, BAYL-ID-din had drawn another room.
 Narrator: Then crossed it out.
 Narrator: Below that was a second.
+[pause 0.5s]
 Narrator: Then a third.
 Narrator: Six chambers descended beneath the one they had entered.
 Narrator: Each was narrower than the level above it. Not stacked cleanly, but offset around a central vertical line, as though arranged along a buried spine.
 Narrator: At the bottom of the page, BAYL-ID-din had written:
-Bel-iddin: Sound returned after seven counts.
-Narrator: Ninsun read over Zeek's shoulder.
-Ninsun: He heard a void beneath the floor.
-Zik: He heard several.
-Ninsun: Or the same void at changing depths.
+Bel-iddin: [solemn] Sound returned after seven counts.
+Narrator: NEEN-soon read over Zeek's shoulder.
+Ninsun: [whispers] [intently] He heard a void beneath the floor.
+Zik: [whispers] He heard several.
+Ninsun: [whispers] Or the same void at changing depths.
 Narrator: BAH-lahg tightened a rope bundle.
-Balag: That is not better.
-Narrator: Ninsun took the page and held it nearer the vent.
-Ninsun: These measurements were made at different points in the chamber.
-Balag: How can you tell?
-Ninsun: The notation beside each count. North wall. Central slab. Eastern threshold.
+Balag: [whispers] [uneasy] That is not better.
+Narrator: NEEN-soon took the page and held it nearer the vent.
+Ninsun: [whispers] [intently] These measurements were made at different points in the chamber.
+Balag: [whispers] How can you tell?
+Ninsun: [whispers] The notation beside each count. North wall. Central slab. Eastern threshold.
 Narrator: Her finger moved between them.
-Ninsun: He was testing the floor.
+Ninsun: [whispers] [realizing] He was testing the floor.
 Narrator: Zeek remembered BAYL-ID-din walking the chamber with his head tilted, tapping the stone with the butt of a tool. At the time Zeek had assumed his father was looking for cracks.
 Narrator: BAYL-ID-din had been listening.
 Narrator: Zeek turned the page.
 Narrator: One sentence occupied the center.
-Bel-iddin: Do not strike the black floor.
+Bel-iddin: [warning] Do not strike the black floor.
 Narrator: Beneath it, written smaller:
-Bel-iddin: KOO-rash thinks it is stone. Do not let him test it.
+Bel-iddin: [sorrowful] KOO-rahsh thinks it is stone. Do not let him test it.
 Narrator: Zeek read the words twice.
 Narrator: The room narrowed around him.
-Narrator: He remembered KOO-rash kneeling beside the smooth black surface, dust streaking his beard. He remembered the hammer rising.
+Narrator: He remembered KOO-rahsh kneeling beside the smooth black surface, dust streaking his beard. He remembered the hammer rising.
 Narrator: He remembered BAYL-ID-din shouting.
+[pause 0.5s]
 Narrator: Too late.
 Narrator: He remembered the sound that followed.
+[pause 0.5s]
 Narrator: Not a crack.
+[pause 0.5s]
 Narrator: An answer.
 Narrator: BAH-lahg took the page from him.
-Narrator: His eyes stopped at KOO-rash's name.
-Balag: He knew.
-Zik: He suspected.
-Balag: He wrote the warning.
-Zik: We don't know when.
+Narrator: His eyes stopped at KOO-rahsh's name.
+Balag: [whispers] [angrily] He knew.
+Zik: [whispers] [defensive] He suspected.
+Balag: [whispers] [angrily] He wrote the warning.
+Zik: [whispers] [defensive] We don't know when.
 Narrator: BAH-lahg placed the page on the table.
-Balag: You always find somewhere to move the blame.
-Zik: I was there too.
-Balag: Yes.
+Balag: [whispers] [bitterly] You always find somewhere to move the blame.
+Zik: [whispers] [quietly] I was there too.
+Balag: [whispers] [flatly] Yes.
 Narrator: The word landed without force.
 Narrator: It did not need any.
 Narrator: Rain whispered against the shutter.
-Narrator: Ninsun folded the warning page inward again, then changed her mind and carefully separated it from the binding where the stitching had already come loose.
-Ninsun: We take it.
-Zik: It says one thing,
+Narrator: NEEN-soon folded the warning page inward again, then changed her mind and carefully separated it from the binding where the stitching had already come loose.
+Ninsun: [whispers] [firmly] We take it.
+Zik: [whispers] It says one thing,
 Narrator: Zeek said.
-Ninsun: It says the one thing KOO-rash needed.
+Ninsun: [whispers] [softly] It says the one thing KOO-rahsh needed.
 Narrator: A footstep sounded in the alley below.
-Narrator: En-HEH-doo extinguished the lamp.
+Narrator: En-KHEH-doo extinguished the lamp.
 Narrator: The room went dark.
+[pause 0.5s]
 Narrator: Another footstep.
+[pause 0.5s]
 Narrator: Slow.
+[pause 0.5s]
 Narrator: Unhurried.
+[pause 0.5s]
 Narrator: Then silence.
 Narrator: BAH-lahg reached for his axe.
-Narrator: Ninsun held the wet clay strip against her chest.
+Narrator: NEEN-soon held the wet clay strip against her chest.
 Narrator: Zeek slipped one hand into the satchel and pressed his palm against the journal's cover.
 Narrator: Someone touched the shutter.
-The Collector: Zeek.
+The Collector: [softly] Zeek.
 [pause 3s]

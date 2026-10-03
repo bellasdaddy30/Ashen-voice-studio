@@ -6,89 +6,93 @@ Narrator: The Ledger's Margin
 [pause 2s]
 Narrator: The walk back from the east gate took longer than the morning's survey. The rain that had threatened the lower districts since noon finally broke, not in a clean downpour, but in a thin, greasy mist that turned the dust in the unpaved alleys into gray paste.
 Narrator: BAH-lahg pulled his wool cloak tighter over his shoulders, his boots making a wet, sucking sound in the lane.
-Balag: If it keeps up like this, the foundations on the south quarter are going to float before we finish the month.
-Enhedu: They aren't going to float,
-Narrator: En-HEH-doo said, stepping carefully around a broken drainage tile.
-Enhedu: They're going to settle. Which means the temple will have to pay twice as much for shoring next season. The water's just doing the math for them.
-Narrator: Ninsun walked between them, her head down, holding her satchel tight against her chest to keep the damp off the paper. Her boots were caked in the same commercial mortar dust Zeek had noticed earlier, the gray residue that didn't match the temple mix.
+Balag: [grumbling] If it keeps up like this, the foundations on the south quarter are going to float before we finish the month.
+Enhedu: [dryly] They aren't going to float,
+Narrator: En-KHEH-doo said, stepping carefully around a broken drainage tile.
+Enhedu: [shrewdly] They're going to settle. Which means the temple will have to pay twice as much for shoring next season. The water's just doing the math for them.
+Narrator: NEEN-soon walked between them, her head down, holding her satchel tight against her chest to keep the damp off the paper. Her boots were caked in the same commercial mortar dust Zeek had noticed earlier, the gray residue that didn't match the temple mix.
+[pause 1.5s]
 Narrator: They reached the room without running into the Collector or anyone else who looked like they had business with them.
 Narrator: BAH-lahg dropped the survey rods by the door, unlatched the shutter to let the stale air out, and dropped onto his bench without lighting the lamp. The room went gray as the daylight faded through the unglazed window frame.
-Narrator: Ninsun didn't sit. She laid her map out on the pine table, smoothing the curled edges of the parchment with the flat of her hand. The four boxes—CLAIMED, COST, LIMIT, and the empty space she'd left after the east wall—were barely visible in the dim light.
+Narrator: NEEN-soon didn't sit. She laid her map out on the pine table, smoothing the curled edges of the parchment with the flat of her hand. The four boxes—CLAIMED, COST, LIMIT, and the empty space she'd left after the east wall—were barely visible in the dim light.
 Narrator: She picked up her stylus, hovered the metal point over the blank space beside the east-side survey mark, and then stopped.
 Narrator: Zeek set his pack down by the threshold. He didn't take anything out.
-Zik: You're not marking it,
+Zik: [quietly] You're not marking it,
 Narrator: Zeek said.
-Narrator: Ninsun kept the stylus steady, though her hand cast a long, shaky shadow across the parchment under the gray light from the window.
-Ninsun: I don't have a name for this box yet.
-Enhedu: Call it what it is,
-Narrator: En-HEH-doo said, leaning against the doorframe while she wrung the mist from the fringe of her shawl.
-Enhedu: Inventory.
+Narrator: NEEN-soon kept the stylus steady, though her hand cast a long, shaky shadow across the parchment under the gray light from the window.
+Ninsun: [quietly] I don't have a name for this box yet.
+Enhedu: [dryly] Call it what it is,
+Narrator: En-KHEH-doo said, leaning against the doorframe while she wrung the mist from the fringe of her shawl.
+Enhedu: [flatly] Inventory.
 Narrator: BAH-lahg let out a short, rough breath that sounded almost like a laugh.
 Balag: [laughs] The city's keeping score. We're just writing down the numbers.
-Narrator: Zeek walked over to the table and looked down at the map. The defaced spiral-drop Ninsun had drawn in the corner sat right on the boundary line between the east wall and the lower tanneries, as if the same crack ran underneath both of them without caring about the distance.
+Narrator: Zeek walked over to the table and looked down at the map. The defaced spiral-drop NEEN-soon had drawn in the corner sat right on the boundary line between the east wall and the lower tanneries, as if the same crack ran underneath both of them without caring about the distance.
 Narrator: He reached out, took the small ceramic ink-pot by its neck, and moved it two inches to the left, covering the empty space entirely.
-Zik: Leave it blank,
+Zik: [firmly] Leave it blank,
 Narrator: Zeek said.
-Narrator: Ninsun looked up at him, her eyes dark in the failing light. For a second she looked like she wanted to argue, to reach for the stylus and scratch the word down anyway before the dark took the room. Then she slowly lowered her hand, the metal point resting against the grain of the wood beside the paper.
-Ninsun: We can't leave it blank,
-Narrator: Ninsun said, her voice dropping into a sharper, harder register.
-Ninsun: Not after what we saw on the curtain wall. The temple survey codes don't match the commercial stock. That means the records were altered twice—once when the wall went up, and again when they tried to scrape the name out.
-Narrator: En-HEH-doo pushed off the doorframe, her interest suddenly sharp.
-Enhedu: You're saying the east-side survey isn't the whole record.
-Ninsun: I'm saying the public registry only shows what the temple wanted kept after the second consolidation,
-Narrator: Ninsun said, tapping the edge of her uninked stylus against the table.
-Ninsun: If we want to know whose name was under that defaced seal, we aren't going to find it on the outside of the wall.
-Balag: Where, then?
+Narrator: NEEN-soon looked up at him, her eyes dark in the failing light. For a second she looked like she wanted to argue, to reach for the stylus and scratch the word down anyway before the dark took the room. Then she slowly lowered her hand, the metal point resting against the grain of the wood beside the paper.
+Ninsun: [sharply] We can't leave it blank,
+Narrator: NEEN-soon said, her voice dropping into a sharper, harder register.
+Ninsun: [intense] Not after what we saw on the curtain wall. The temple survey codes don't match the commercial stock. That means the records were altered twice—once when the wall went up, and again when they tried to scrape the name out.
+Narrator: En-KHEH-doo pushed off the doorframe, her interest suddenly sharp.
+Enhedu: [intrigued] You're saying the east-side survey isn't the whole record.
+Ninsun: [intense] I'm saying the public registry only shows what the temple wanted kept after the second consolidation,
+Narrator: NEEN-soon said, tapping the edge of her uninked stylus against the table.
+Ninsun: [intense] If we want to know whose name was under that defaced seal, we aren't going to find it on the outside of the wall.
+Balag: [curious] Where, then?
 Narrator: BAH-lahg asked.
-Ninsun: The lower archive branch behind the third district weigh-station,
-Narrator: Ninsun said.
-Ninsun: The old tax ledgers from before the plague years. The ones the Collector said stay locked.
+Ninsun: [firmly] The lower archive branch behind the third district weigh-station,
+Narrator: NEEN-soon said.
+Ninsun: [firmly] The old tax ledgers from before the plague years. The ones the Collector said stay locked.
 Narrator: Zeek looked at the ink-pot covering the empty box on the map. He didn't reach for his pack. He didn't look for an excuse to wait.
-Zik: Grab the lantern,
+Zik: [decisively] Grab the lantern,
 Narrator: Zeek said.
-Zik: If we get to the weigh-station before the evening shift changes, the night clerk won't check the seals on the side bins.
-Narrator: BAH-lahg stood up, his boots hitting the floorboards with a dull, heavy jar, and reached for his spear. En-HEH-doo was already sliding her ledger into her pack.
-Narrator: Ninsun picked up her stylus, tucked it behind her ear, and rolled the map tight.
+Zik: [firmly] If we get to the weigh-station before the evening shift changes, the night clerk won't check the seals on the side bins.
+Narrator: BAH-lahg stood up, his boots hitting the floorboards with a dull, heavy jar, and reached for his spear. En-KHEH-doo was already sliding her ledger into her pack.
+Narrator: NEEN-soon picked up her stylus, tucked it behind her ear, and rolled the map tight.
+[pause 1.5s]
 Narrator: They left the room without looking back.
+[pause 1.5s]
 Narrator: The rain had thickened by the time they reached the third district weigh-station.
 Narrator: It stood between a grain warehouse and a public cistern, a low administrative building with a roof pitched just enough to send runoff into the alley. Water streamed from the carved mouths of two clay lions above the entrance. Beneath them, porters waited with wet sacks over their shoulders while a clerk shouted weights through an open window.
 Narrator: The front doors were still busy.
 Narrator: The side entrance was not.
 Narrator: Zeek led them around the rear wall, where broken amphorae and discarded tally sticks had collected beneath the eaves. A narrow wooden door sat between two storage bins. Its temple seal had been pressed into a lump of clay at shoulder height.
 Narrator: BAH-lahg looked at the seal.
-Balag: You said the night clerk wouldn't check it.
-Zik: He won't.
-Balag: It's still sealed.
-Zik: Yes.
+Balag: [whispers] [skeptical] You said the night clerk wouldn't check it.
+Zik: [whispers] He won't.
+Balag: [whispers] [skeptical] It's still sealed.
+Zik: [whispers] Yes.
 Narrator: BAH-lahg stared at him.
-Balag: I'm beginning to suspect your plans rely heavily on other people being worse at their jobs than you are.
-Zik: They usually are.
-Narrator: En-HEH-doo leaned close to the seal.
-Enhedu: Fresh clay.
-Ninsun: Replaced this morning,
-Narrator: Ninsun said.
-Enhedu: How do you know?
-Ninsun: The impression is sharp, but the edges have started taking damp. Four hours. Six at most.
+Balag: [whispers] [dryly] I'm beginning to suspect your plans rely heavily on other people being worse at their jobs than you are.
+Zik: [whispers] [dryly] They usually are.
+Narrator: En-KHEH-doo leaned close to the seal.
+Enhedu: [whispers] Fresh clay.
+Ninsun: [whispers] Replaced this morning,
+Narrator: NEEN-soon said.
+Enhedu: [whispers] How do you know?
+Ninsun: [whispers] The impression is sharp, but the edges have started taking damp. Four hours. Six at most.
 Narrator: BAH-lahg lowered his voice.
-Balag: [whispers] That helps us how?
-Narrator: Ninsun removed a small wrapped packet from her satchel.
+Balag: [whispers] [impatient] That helps us how?
+Narrator: NEEN-soon removed a small wrapped packet from her satchel.
 Narrator: Inside lay three clay seal impressions.
-Narrator: En-HEH-doo looked at her.
-Enhedu: You brought copies.
-Ninsun: I brought possibilities.
-Enhedu: You copied temple seals.
-Ninsun: I copied errors made by temple seals.
-Enhedu: That answer would not comfort a magistrate.
-Ninsun: It wasn't prepared for one.
+Narrator: En-KHEH-doo looked at her.
+Enhedu: [whispers] [surprised] You brought copies.
+Ninsun: [whispers] [dryly] I brought possibilities.
+Enhedu: [whispers] [disapproving] You copied temple seals.
+Ninsun: [whispers] [primly] I copied errors made by temple seals.
+Enhedu: [whispers] [dryly] That answer would not comfort a magistrate.
+Ninsun: [whispers] [dryly] It wasn't prepared for one.
 Narrator: She selected the closest impression and handed it to Zeek.
 Narrator: The copied seal matched the clay on the door except for a tiny break in the outer ring.
+[pause 0.5s]
 Narrator: Zeek examined both.
-Zik: This one is older.
-Ninsun: By three administrators.
-Zik: And they still use it?
-Ninsun: The third district is not where competent officials are promoted.
+Zik: [whispers] This one is older.
+Ninsun: [whispers] [dryly] By three administrators.
+Zik: [whispers] And they still use it?
+Ninsun: [whispers] [dryly] The third district is not where competent officials are promoted.
 Narrator: BAH-lahg looked toward the front of the building, where another weight was shouted through the rain.
-Balag: At last. A weakness in government we can depend on.
+Balag: [whispers] [dryly] At last. A weakness in government we can depend on.
 Narrator: Zeek drew his knife.
 Narrator: He did not cut through the clay. That would leave an obvious break. Instead, he slid the blade beneath the lump and worked it slowly away from the wood until the entire seal came loose in one piece.
 Narrator: The door opened inward.
@@ -96,152 +100,172 @@ Narrator: The room beyond smelled of dust, wet rope, and old grain.
 Narrator: They entered single file.
 Narrator: Zeek pressed the original seal back into place from the inside. It would not survive close inspection, but it might survive indifference.
 Narrator: BAH-lahg watched him finish.
-Balag: You've done that before.
-Zik: My father disliked locked rooms.
-Balag: That is not the same answer.
-Zik: It's the one you're getting.
+Balag: [whispers] [curious] You've done that before.
+Zik: [whispers] [evasive] My father disliked locked rooms.
+Balag: [whispers] [dryly] That is not the same answer.
+Zik: [whispers] [dryly] It's the one you're getting.
 Narrator: The storage room held cracked measuring jars, sacks of outdated weights, and stacks of waxed tally boards tied with cord. Rain drummed against the roof. Voices from the public chamber reached them through the inner wall, flattened into meaningless sound.
-Narrator: Ninsun moved to the far shelves.
-Ninsun: The lower ledgers won't be stored with current accounts.
-Enhedu: Why?
-Narrator: En-HEH-doo asked.
-Ninsun: Current records are useful. Old ones are dangerous.
+Narrator: NEEN-soon moved to the far shelves.
+Ninsun: [whispers] The lower ledgers won't be stored with current accounts.
+Enhedu: [whispers] Why?
+Narrator: En-KHEH-doo asked.
+Ninsun: [whispers] Current records are useful. Old ones are dangerous.
 Narrator: BAH-lahg lifted a sack and looked behind it.
-Balag: Useful distinction.
+Balag: [whispers] [dryly] Useful distinction.
+[pause 1.5s]
 Narrator: They found the archive door at floor level behind a stack of broken scales.
 Narrator: It was smaller than Zeek expected. A clerk would have to stoop to enter. The bronze lock had been polished recently, though dust covered the surrounding bricks.
-Narrator: En-HEH-doo crouched beside it.
-Enhedu: This gets opened.
-Narrator: Ninsun nodded.
-Ninsun: The Collector said the drawers stay locked. He didn't say abandoned.
+Narrator: En-KHEH-doo crouched beside it.
+Enhedu: [whispers] This gets opened.
+Narrator: NEEN-soon nodded.
+Ninsun: [whispers] The Collector said the drawers stay locked. He didn't say abandoned.
 Narrator: Zeek looked at the lock.
-Zik: No scratches around the keyway.
-Balag: So whoever opens it has the key,
+Zik: [whispers] No scratches around the keyway.
+Balag: [whispers] So whoever opens it has the key,
 Narrator: BAH-lahg said.
-Zik: Or doesn't use the keyway.
-Narrator: En-HEH-doo pressed her thumb against the lower hinge.
+Zik: [whispers] Or doesn't use the keyway.
+Narrator: En-KHEH-doo pressed her thumb against the lower hinge.
+[pause 0.5s]
 Narrator: The pin shifted.
+[pause 0.5s]
 Narrator: She smiled slightly.
-Enhedu: The hinge was installed backward.
+Enhedu: [whispers] [amused] The hinge was installed backward.
 Narrator: BAH-lahg looked at Zeek.
-Balag: Other people being worse at their jobs again?
-Zik: This time we owe them thanks.
-Narrator: En-HEH-doo worked the pin loose with the tip of her knife. BAH-lahg caught the door before it dropped.
+Balag: [whispers] [dryly] Other people being worse at their jobs again?
+Zik: [whispers] [dryly] This time we owe them thanks.
+Narrator: En-KHEH-doo worked the pin loose with the tip of her knife. BAH-lahg caught the door before it dropped.
 Narrator: The space behind it descended three narrow steps into darkness.
 Narrator: Cool air breathed upward.
 Narrator: Zeek felt the mark beneath the linen warm.
+[pause 0.5s]
 Narrator: Not pulse.
+[pause 0.5s]
 Narrator: Recognize.
-Narrator: Ninsun saw him flex his hand.
-Ninsun: You felt something.
-Zik: No.
-Ninsun: You're a poor liar.
-Zik: I'm an economical one.
+Narrator: NEEN-soon saw him flex his hand.
+Ninsun: [whispers] [knowingly] You felt something.
+Zik: [whispers] No.
+Ninsun: [whispers] [dryly] You're a poor liar.
+Zik: [whispers] [dryly] I'm an economical one.
 Narrator: They went down.
 Narrator: The archive chamber was long and low, its ceiling supported by cedar beams blackened with age. Clay tablets filled wooden pigeonholes from floor to ceiling. Some were stacked openly. Others sat inside sealed bins marked with year signs and district codes.
 Narrator: At the far end stood seven narrow drawers fitted into the wall.
 Narrator: Each had a bronze faceplate.
+[pause 0.5s]
 Narrator: Each was locked.
-Narrator: Ninsun stopped.
-Ninsun: The Collector was being literal.
+[pause 0.5s]
+Narrator: NEEN-soon stopped.
+Ninsun: [whispers] [uneasy] The Collector was being literal.
 Narrator: BAH-lahg looked back toward the steps.
-Balag: Can we be literal quickly?
-Narrator: Ninsun moved among the shelves, reading labels under her breath.
+Balag: [whispers] [impatient] Can we be literal quickly?
+Narrator: NEEN-soon moved among the shelves, reading labels under her breath.
 Ninsun: [whispers] Pre-plague property levy. Grain exemptions. Inheritance disputes. Boundary tax…
 Narrator: She stopped at a row of tablets bundled in rotted linen.
-Ninsun: Here.
+Ninsun: [whispers] [excited] Here.
 Narrator: The tag read:
 Narrator: [slowly] EAST CURTAIN DISTRICT—PRIVATE HOLDINGS BEFORE CONSOLIDATION
-Narrator: En-HEH-doo took the lamp while Ninsun untied the cord.
+Narrator: En-KHEH-doo took the lamp while NEEN-soon untied the cord.
 Narrator: The first tablet listed three warehouse owners.
 Narrator: The second recorded a dyer's yard absorbed into temple property.
 Narrator: The third had been scraped smooth and reused for grain tallies.
-Narrator: Ninsun's jaw tightened.
-Ninsun: [tense] They overwrote it.
-Zik: Can you recover anything?
+[pause 0.5s]
+Narrator: NEEN-soon's jaw tightened.
+Ninsun: [whispers] [tense] They overwrote it.
+Zik: [whispers] Can you recover anything?
 Narrator: Zeek asked.
-Ninsun: Not without daylight and hours.
-Zik: We have neither.
+Ninsun: [whispers] Not without daylight and hours.
+Zik: [whispers] We have neither.
 Narrator: She moved to the next.
+[pause 0.5s]
 Narrator: Then the next.
 Narrator: The records changed halfway through the bundle.
+[pause 0.5s]
 Narrator: Names vanished.
+[pause 0.5s]
 Narrator: Plots became numbers.
 Narrator: Private holdings became temple allocations without purchase sums or witness seals.
-Narrator: En-HEH-doo read over her shoulder.
-Enhedu: They took the land.
-Ninsun: They regularized it,
-Narrator: Ninsun said.
-Enhedu: That is the same thing with a cleaner robe.
+Narrator: En-KHEH-doo read over her shoulder.
+Enhedu: [whispers] [bitterly] They took the land.
+Ninsun: [whispers] [dryly] They regularized it,
+Narrator: NEEN-soon said.
+Enhedu: [whispers] [bitterly] That is the same thing with a cleaner robe.
 Narrator: BAH-lahg listened toward the stairs.
-Balag: Find the name.
-Narrator: Ninsun kept turning tablets.
+Balag: [whispers] [urgently] Find the name.
+Narrator: NEEN-soon kept turning tablets.
 Narrator: Her fingers moved faster.
+[pause 0.5s]
 Narrator: Then stopped.
 Narrator: A narrow ledger tablet lay beneath the others, its face crowded with tax figures. Nothing unusual appeared in the main columns.
 Narrator: But along the left margin, someone had written three smaller lines.
-Narrator: Ninsun brought the lamp close.
+Narrator: NEEN-soon brought the lamp close.
 Narrator: The first line was a correction.
 Narrator: The second recorded a disputed measure.
 Narrator: The third contained the name.
-Ninsun: Ammaru,
+Ninsun: [whispers] [stunned] Ahm-MAH-roo,
 Narrator: she said.
 [pause 1.5s]
 Narrator: No one moved.
 Narrator: Zeek crouched beside her.
-Zik: What does the entry say?
-Narrator: Ninsun read carefully.
-Ninsun: [carefully] 'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'
+Zik: [whispers] What does the entry say?
+Narrator: NEEN-soon read carefully.
+Ninsun: [whispers] 'Ahm-MAH-roo, son of DAH-gahn EE-lee. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'
 Narrator: BAH-lahg frowned.
-Balag: [skeptical] Cistern stair?
-Narrator: Ninsun read the next line.
+Balag: [whispers] Cistern stair?
+Narrator: NEEN-soon read the next line.
+[pause 0.5s]
 Narrator: Her face changed.
-Zik: What?
+Zik: [whispers] What?
 Narrator: She translated more slowly.
-Ninsun: 'Property exempt from levy while seventh access remains sealed.'
+Ninsun: [whispers] [slowly] 'Property exempt from levy while seventh access remains sealed.'
 Narrator: The archive seemed to contract around them.
-Narrator: En-HEH-doo looked at Zeek.
-Enhedu: Seventh access.
-Zik: The basin had seven divisions,
+Narrator: En-KHEH-doo looked at Zeek.
+Enhedu: [whispers] Seventh access.
+Zik: [whispers] The basin had seven divisions,
 Narrator: he said.
-Ninsun: And the boundary rubbing,
-Narrator: Ninsun added.
+Ninsun: [whispers] And the boundary rubbing,
+Narrator: NEEN-soon added.
 Narrator: BAH-lahg pointed at the tablet.
-Balag: What happened to him?
-Narrator: Ninsun turned it over.
+Balag: [whispers] What happened to him?
+Narrator: NEEN-soon turned it over.
 Narrator: The reverse had been scraped.
+[pause 0.5s]
 Narrator: Not cleanly.
 Narrator: One line survived near the lower edge.
 Narrator: She tilted it into the light.
-Ninsun: 'Exemption revoked after keeper refused transfer of the name.'
-Narrator: En-HEH-doo's expression hardened.
-Enhedu: [tense] What does that mean?
-Ninsun: I don't know.
-Enhedu: You know what the words mean.
-Ninsun: I don't know what they mean together.
+Ninsun: [whispers] [slowly] 'Exemption revoked after keeper refused transfer of the name.'
+Narrator: En-KHEH-doo's expression hardened.
+Enhedu: [whispers] [tense] What does that mean?
+Ninsun: [whispers] I don't know.
+Enhedu: [whispers] [impatient] You know what the words mean.
+Ninsun: [whispers] [frustrated] I don't know what they mean together.
 Narrator: Zeek examined the margin.
 Narrator: The main text had been written by a formal clerk. Straight wedges. Even spacing.
-Narrator: The note about Ammaru was smaller.
+Narrator: The note about Ahm-MAH-roo was smaller.
+[pause 0.5s]
 Narrator: Compressed.
+[pause 0.5s]
 Narrator: Written in haste.
-Zik: Someone added this after the ledger was closed,
+Zik: [whispers] Someone added this after the ledger was closed,
 Narrator: he said.
-Narrator: Ninsun nodded.
-Ninsun: A clerk preserved it.
-Enhedu: Why?
-Ninsun: Because the official entry no longer did.
+[pause 0.5s]
+Narrator: NEEN-soon nodded.
+Ninsun: [whispers] A clerk preserved it.
+Enhedu: [whispers] Why?
+Ninsun: [whispers] Because the official entry no longer did.
 Narrator: BAH-lahg looked toward the seven locked drawers.
-Balag: Then whatever came next is in there.
+Balag: [whispers] [uneasy] Then whatever came next is in there.
 Narrator: A sound came from above.
 Narrator: The outer door opened.
 Narrator: Footsteps crossed the storage room.
+[pause 0.5s]
 Narrator: Not one person.
+[pause 0.5s]
 Narrator: At least three.
-Narrator: En-HEH-doo extinguished the lamp.
+Narrator: En-KHEH-doo extinguished the lamp.
 Narrator: Darkness closed around them.
 Narrator: Someone dragged the broken scales away from the archive door.
 Narrator: A key entered the bronze lock.
-Narrator: Ninsun held the ledger tablet against her chest.
+Narrator: NEEN-soon held the ledger tablet against her chest.
 Narrator: BAH-lahg raised his spear in the dark.
+[pause 1.2s]
 Narrator: The lock turned.
 [pause 3s]

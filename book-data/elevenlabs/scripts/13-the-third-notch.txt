@@ -7,120 +7,138 @@ Narrator: The Third Notch
 Narrator: The passage opened in the middle of the afternoon while they were still arguing about whether to take a paying survey job on the east side.
 Narrator: One moment the wall behind the tanners' drying racks was ordinary brick. The next it had a dark mouth in it, already breathing cooler air. Three notches sat at the base of the left wall—two of theirs from two days earlier, and a third cut deeper, the edges still sharp with fresh stone dust.
 Narrator: BAH-lahg stopped so hard the nearest donkey shied.
-Balag: That's not ours.
-Narrator: Ninsun was already moving toward it.
+Balag: [tense] That's not ours.
+Narrator: NEEN-soon was already moving toward it.
 Narrator: BAH-lahg stepped in front of her. Not aggressive. Just solid.
-Balag: No.
+Balag: [firmly] No.
 Narrator: She looked at him.
-Ninsun: It's three. We don't know who cut the third.
+Ninsun: [defiantly] It's three. We don't know who cut the third.
 Narrator: BAH-lahg didn't answer immediately.
 Narrator: He looked past her into the passage.
 Narrator: The cold air spilling from it carried the familiar smell of damp clay.
 [pause 1.5s]
 Narrator: Nothing moved.
 Narrator: That somehow made it worse.
-Balag: You remember the pack.
-Ninsun: I remember.
-Balag: You remember the basin.
-Ninsun: I remember.
-Balag: You remember the room that learned your name.
+Balag: [firmly] You remember the pack.
+Ninsun: [quietly] I remember.
+Balag: [firmly] You remember the basin.
+Ninsun: [quietly] I remember.
+Balag: [firmly] You remember the room that learned your name.
 Narrator: She looked away.
-Ninsun: I remember.
+Ninsun: [quietly] I remember.
 Narrator: BAH-lahg rested both hands on the butt of his spear.
-Balag: Then stop making me say the rest.
-Narrator: Ninsun folded her arms.
-Ninsun: If we'd turned away from the first passage, we'd still think this city was ordinary.
-Balag: If we'd walked farther into the basin room, you wouldn't have come back.
-Ninsun: You don't know that.
+Balag: [pleading] Then stop making me say the rest.
+Narrator: NEEN-soon folded her arms.
+Ninsun: [intense] If we'd turned away from the first passage, we'd still think this city was ordinary.
+Balag: [firmly] If we'd walked farther into the basin room, you wouldn't have come back.
+Ninsun: [defiantly] You don't know that.
 Balag: No.
 Narrator: His voice stayed calm.
 Balag: [calmly] I know we almost didn't.
-Narrator: En-HEH-doo watched them without interrupting.
+Narrator: En-KHEH-doo watched them without interrupting.
 Narrator: She had seen the argument before.
+[pause 0.5s]
 Narrator: Not the words.
 Narrator: The shape of it.
 Narrator: One person believing every answer lived one step farther.
 Narrator: Another believing survival depended on knowing when to stop walking.
 Narrator: Zeek realized they were both right.
 Narrator: That was the problem.
-Balag: That's exactly why we're not going in.
-Narrator: En-HEH-doo had come up on Zeek's left. She studied the notches, then the narrowing edges of the passage, then the way the light from the street already seemed reluctant to enter.
-Enhedu: It's starting to close. Whatever's in there doesn't plan on staying open long.
-Narrator: Ninsun's voice stayed level, but the stylus in her hand had gone white at the knuckles.
-Ninsun: If we walk away every time the city answers, the only record left is the one it keeps. That's how names disappear. That's how my sister disappeared.
+Balag: [firmly] That's exactly why we're not going in.
+Narrator: En-KHEH-doo had come up on Zeek's left. She studied the notches, then the narrowing edges of the passage, then the way the light from the street already seemed reluctant to enter.
+Enhedu: [urgently] It's starting to close. Whatever's in there doesn't plan on staying open long.
+Narrator: NEEN-soon's voice stayed level, but the stylus in her hand had gone white at the knuckles.
+Ninsun: [intense] If we walk away every time the city answers, the only record left is the one it keeps. That's how names disappear. That's how my sister disappeared.
 Narrator: BAH-lahg didn't move.
-Balag: And if we walk in every time it answers, we end up like the pack with the straps cut. I'm not carrying another empty bag back to this fucking room.
+Balag: [angrily] And if we walk in every time it answers, we end up like the pack with the straps cut. I'm not carrying another empty bag back to this fucking room.
 Narrator: The passage breathed once, soft and patient. The third notch looked deeper in the shifting light.
 Narrator: Zeek felt the mark under the linen give a single slow pulse. He ignored it.
-Narrator: En-HEH-doo glanced at him.
-Enhedu: You're the one who decides the jobs. So decide.
+Narrator: En-KHEH-doo glanced at him.
+Enhedu: [impatient] You're the one who decides the jobs. So decide.
 Narrator: The street behind them kept up its ordinary noise—drying racks flapping, someone cursing a late delivery, a child crying over nothing important. The four of them stood in the small pocket of quieter air the open passage had made, and for a moment no one added anything else.
-Narrator: Zeek looked at the three notches. At Ninsun's face. At the way BAH-lahg's shoulders had set. At En-HEH-doo already calculating whether the risk had a price worth naming.
-Zik: We don't go in,
+Narrator: Zeek looked at the three notches. At NEEN-soon's face. At the way BAH-lahg's shoulders had set. At En-KHEH-doo already calculating whether the risk had a price worth naming.
+Zik: [firmly] We don't go in,
 Narrator: he said.
-Narrator: Ninsun's mouth tightened.
-Zik: We don't go in,
+[pause 0.5s]
+Narrator: NEEN-soon's mouth tightened.
+Zik: [firmly] We don't go in,
 Narrator: he repeated,
-Zik: and we change the rules right now. No more following marks we didn't cut. No more open cuts in districts we haven't walked twice. If a passage already has three notches, we leave it. And if we find another pack, we leave the tablet where it is and we walk.
+Zik: [firmly] and we change the rules right now. No more following marks we didn't cut. No more open cuts in districts we haven't walked twice. If a passage already has three notches, we leave it. And if we find another pack, we leave the tablet where it is and we walk.
 [pause 1.5s]
 Narrator: Silence held for two breaths.
 Narrator: Then BAH-lahg nodded once, short and final.
-Balag: That's not stopping.
-Zik: No,
+Balag: [approvingly] That's not stopping.
+Zik: [dryly] No,
 Narrator: Zeek said.
-Zik: It's refusing to get stupid about it.
-Narrator: Ninsun stared at the third notch a moment longer. When she finally stepped back, the motion looked like it cost her. She pulled her map free, found the tanners' row, and wrote a single word beside the passage in the same tight hand she used for everything that mattered:
+Zik: [dryly] It's refusing to get stupid about it.
+Narrator: NEEN-soon stared at the third notch a moment longer. When she finally stepped back, the motion looked like it cost her. She pulled her map free, found the tanners' row, and wrote a single word beside the passage in the same tight hand she used for everything that mattered:
+[pause 0.5s]
 Narrator: [slowly] LIMIT.
 Narrator: She stared at the word for several moments.
 Narrator: Then she crossed it out.
+[pause 0.5s]
 Narrator: BAH-lahg frowned.
 Balag: [skeptical] Changed your mind?
-Ninsun: No.
+Ninsun: [quietly] No.
 Narrator: She wrote again.
+[pause 0.5s]
 Narrator: Not LIMIT.
+[pause 0.5s]
 Narrator: [slowly] RETURN LATER.
-Narrator: En-HEH-doo looked over her shoulder.
-Enhedu: That's not the same thing.
-Ninsun: No.
-Narrator: Ninsun capped the ink.
-Ninsun: A limit means we're afraid.
+Narrator: En-KHEH-doo looked over her shoulder.
+Enhedu: [skeptical] That's not the same thing.
+Ninsun: [firmly] No.
+Narrator: NEEN-soon capped the ink.
+Ninsun: [precisely] A limit means we're afraid.
 Narrator: She folded the map.
-Ninsun: A return means we're patient.
+Ninsun: [satisfied] A return means we're patient.
 Narrator: BAH-lahg snorted.
 Balag: [snorts] You found the scholar's way to lose the argument.
-Ninsun: I found the accurate one.
+Ninsun: [primly] I found the accurate one.
 Narrator: Zeek smiled despite himself.
+[pause 0.5s]
 Narrator: Only slightly.
-Zik: Leave it.
+Zik: [amused] Leave it.
 Narrator: She did.
-Narrator: En-HEH-doo exhaled through her nose.
-Enhedu: I'll take the limited version of dead over the ambitious one.
+Narrator: En-KHEH-doo exhaled through her nose.
+Enhedu: [dryly] I'll take the limited version of dead over the ambitious one.
 Narrator: The passage had already narrowed.
+[pause 0.5s]
 Narrator: Not loud.
+[pause 0.5s]
 Narrator: Stone settling.
+[pause 0.6s]
 Narrator: Then another.
+[pause 0.5s]
 Narrator: BAH-lahg stopped.
 Narrator: The four of them turned together.
 Narrator: The shallow recess remained.
 [pause 1.5s]
 Narrator: Nothing moved.
 Narrator: Then the wall bulged outward.
+[pause 0.5s]
 Narrator: Just once.
 Narrator: As though someone on the other side had placed a hand against it.
+[pause 0.5s]
 Narrator: The bricks relaxed.
+[pause 0.5s]
 Narrator: The recess vanished.
+[pause 0.5s]
 Narrator: Ordinary wall.
+[pause 0.5s]
 Narrator: Ordinary street.
 Narrator: A woman walked past carrying folded leather without looking at it.
-Narrator: En-HEH-doo waited another few seconds.
-Enhedu: What do we think that was?
+Narrator: En-KHEH-doo waited another few seconds.
+Enhedu: [uneasy] What do we think that was?
 Narrator: BAH-lahg answered immediately.
-Balag: Someone disappointed.
+Balag: [grimly] Someone disappointed.
 Narrator: Nobody laughed.
+[pause 0.5s]
 Narrator: They resumed walking.
 Narrator: Only Zeek looked back one final time.
 Narrator: At the base of the wall, where the three notches had been—
 Narrator: there were only two.
 Narrator: The third had disappeared.
+[pause 1.2s]
 Narrator: He said nothing.
 [pause 3s]

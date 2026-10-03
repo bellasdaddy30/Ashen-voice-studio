@@ -5,25 +5,26 @@ Narrator: CHAPTER 18
 Narrator: The Price of Knowing
 [pause 2s]
 Narrator: No one spoke after BAYL-ID-din's final words.
-Bel-iddin: …is still waiting below.
+Bel-iddin: [solemn] …is still waiting below.
 Narrator: The journal lay closed between them.
 Narrator: Rain dripped from the reed canopy into the basin beside the well. Somewhere beyond the courtyard wall a donkey brayed, followed by an argument over whether it belonged to the temple or to the man trying to drag it away.
 Narrator: BAH-lahg broke the silence first.
-Balag: If we're doing this again, we leave prepared.
+Balag: [firmly] If we're doing this again, we leave prepared.
 Narrator: Zeek nodded.
-Zik: Rope. Lamps. Water. Oil.
-Narrator: Ninsun gathered her copied notes.
-Ninsun: I'll inventory what we already have.
-Narrator: En-HEH-doo stood.
-Enhedu: I'll see what can be bought without attracting attention.
+Zik: [practical] Rope. Lamps. Water. Oil.
+Narrator: NEEN-soon gathered her copied notes.
+Ninsun: [briskly] I'll inventory what we already have.
+Narrator: En-KHEH-doo stood.
+Enhedu: [shrewdly] I'll see what can be bought without attracting attention.
 Narrator: Zeek tightened the satchel across his shoulder.
-Zik: My equipment is still at my mother's house.
+Zik: [quietly] My equipment is still at my mother's house.
 Narrator: BAH-lahg looked at him.
-Balag: Then don't wander.
+Balag: [gruffly] Then don't wander.
 Narrator: Zeek almost laughed.
 Zik: [amused] You know me better than that.
 Narrator: He stepped into the evening streets.
 Narrator: The streets were still crowded with evening traffic. Pilgrims moved toward the temples in loose, chanting groups. Merchants dragged carts through the torchlit haze. Prostitutes leaned in the shadows beneath painted doorways, calling to men who pretended not to hear them. Priests moved through the crowd with the self-important expressions of men who believed the gods had personally appointed them to supervise everyone else's mistakes.
+[pause 0.5s]
 Narrator: Normal. Manageable.
 Narrator: Zeek preferred the city when it was loud. Noise gave a man cover. In a crowd, people saw what they expected to see: a trader, a scavenger, another hungry bastard trying to make enough silver to survive the month.
 Narrator: Everything had a price.
@@ -32,73 +33,80 @@ Narrator: He headed toward his mother's, keeping to the shadows out of habit. Ha
 Narrator: A temple scribe was watching him from across the street.
 Narrator: The man was young, well-dressed, and clean enough to look suspicious on principle. His linen robe was too fine for the neighborhood, and the wax tablet tucked beneath his arm was decorated with a small silver seal. He was the kind of man who usually never looked twice at men like Zeek.
 Narrator: But he was looking now.
+[pause 0.5s]
 Narrator: Zeek kept walking.
 Narrator: The scribe kept watching.
 Narrator: Zeek slowed near a stall selling bronze chisels. The scribe stopped.
+[pause 0.5s]
 Narrator: Zeek turned left.
+[pause 0.5s]
 Narrator: The scribe followed.
 Narrator: Zeek did not look back again. He changed direction twice, moving through the evening crowd with the casual rhythm of a man who had nowhere particular to be. He passed a spice seller, crossed behind a row of pottery stalls, and slipped into a narrow alley between a wine merchant's warehouse and a shuttered bakery.
 Narrator: The alley smelled of old water and rotting grain. Zeek waited.
 Narrator: The scribe entered thirty seconds later.
 Narrator: Zeek stepped out behind him and pressed a knife lightly against his side.
-Zik: Temple business or personal?
+Zik: [coldly] Temple business or personal?
 Narrator: Zeek asked.
+[pause 0.5s]
 Narrator: The scribe stiffened.
-False Scribe: Neither.
-Zik: That wasn't one of the options.
+False Scribe: [nervous] Neither.
+Zik: [coldly] That wasn't one of the options.
 Narrator: The young man swallowed. Zeek pressed the blade a little harder. Not enough to cut. Enough to remind him that the distinction was temporary.
-False Scribe: The Collector sends his regards,
+False Scribe: [nervous] The Collector sends his regards,
 Narrator: the scribe said.
-Zik: Then send mine back.
-False Scribe: He would like to speak with you again.
-Zik: Tell him I'm busy.
-False Scribe: Tonight.
+Zik: [dryly] Then send mine back.
+False Scribe: [nervous] He would like to speak with you again.
+Zik: [dismissively] Tell him I'm busy.
+False Scribe: [nervous] Tonight.
 Narrator: Zeek smiled faintly.
-Zik: That sounded less like a request.
+Zik: [dryly] That sounded less like a request.
 Narrator: The scribe glanced toward the mouth of the alley. No one was there. The crowd moved past without looking in.
-False Scribe: The Collector is prepared to offer ten times what you received today.
-Zik: For the beads?
+False Scribe: [nervous] The Collector is prepared to offer ten times what you received today.
+Zik: [dryly] For the beads?
 Narrator: The scribe hesitated.
+[pause 0.5s]
 Narrator: Zeek's smile disappeared.
-False Scribe: For the journal,
+False Scribe: [nervous] For the journal,
 Narrator: the scribe said.
 Narrator: The knife stopped moving.
+[pause 0.5s]
 Narrator: He continued quickly.
-False Scribe: Or anything else you removed from the chamber.
+False Scribe: [nervous] Or anything else you removed from the chamber.
 Narrator: For a moment the alley seemed to contract around them. Zeek had never mentioned the journal. He had never told the Collector about the chamber beneath the desert. He had never told him about the skeleton. He had never told him about the symbol appearing beneath his skin.
 Narrator: The scribe knew about all of it. Or enough of it.
-Zik: How does he know?
+Zik: [sharply] How does he know?
 Narrator: Zeek asked.
 Narrator: The scribe's mouth opened. Nothing came out.
 Narrator: Zeek turned the knife slightly.
-Zik: Try again.
-False Scribe: The Collector knows many things.
-Zik: That's not an answer.
-False Scribe: He says the mark has a way of announcing itself.
+Zik: [coldly] Try again.
+False Scribe: [nervous] The Collector knows many things.
+Zik: [coldly] That's not an answer.
+False Scribe: [nervous] He says the mark has a way of announcing itself.
 Narrator: Zeek looked down at his palm. The symbol was barely visible beneath the skin—a faint discoloration, an old scar if a man didn't know what he was looking at.
-Zik: Announcing itself to whom?
+Zik: [intense] Announcing itself to whom?
 Narrator: The scribe looked away.
-False Scribe: Especially to those who have seen it before.
+False Scribe: [nervous] Especially to those who have seen it before.
 Narrator: The words settled between them. Zeek slowly removed the knife.
 Narrator: The scribe turned to face him.
-False Scribe: Is that all?
-Zik: No.
+False Scribe: [nervous] Is that all?
+Zik: [coldly] No.
 Narrator: Zeek waited.
 Narrator: The scribe's face had gone pale.
-False Scribe: The Collector says you should not go back.
+False Scribe: [nervous] The Collector says you should not go back.
 Narrator: Zeek stared at him.
-Zik: To the site?
+Zik: [sharply] To the site?
 Narrator: The scribe said nothing. That was answer enough.
+[pause 0.5s]
 Narrator: Zeek stepped closer.
-Zik: Did he tell you why?
+Zik: [intense] Did he tell you why?
 Narrator: The scribe's eyes flicked toward the knife.
-False Scribe: No.
-Zik: Did he tell you what happens if I do?
-False Scribe: No.
-Zik: Then you have wasted both our time.
+False Scribe: [nervous] No.
+Zik: [coldly] Did he tell you what happens if I do?
+False Scribe: [nervous] No.
+Zik: [dismissively] Then you have wasted both our time.
 Narrator: Zeek stepped aside.
 Narrator: The scribe hurried past him, then stopped at the end of the alley.
-False Scribe: Zee-keer.
+False Scribe: [calmly] Zee-keer.
 Narrator: Zeek looked over his shoulder. The scribe's face had changed. The nervousness was gone. For just a second he looked older.
 False Scribe: [ominous] Some doors are sealed because what is behind them is dangerous.
 Narrator: Zeek waited.
@@ -122,13 +130,16 @@ Narrator: His father's measuring cord still hung beside the doorway.
 Narrator: BAYL-ID-din had always coiled it clockwise.
 Narrator: Someone had hung it back the other way.
 Narrator: Nobody else would have noticed.
+[pause 0.5s]
 Narrator: Zeek did.
 Narrator: And the loose brick behind which he kept emergency coin was slightly askew.
 Narrator: Zeek closed the door behind him.
 Narrator: He did not wake his mother.
 Narrator: He crossed the room and crouched beside the wall. The brick had been replaced carefully. Too carefully. He pulled it free.
 Narrator: The emergency coins were still there. He counted them anyway.
+[pause 0.5s]
 Narrator: One. Two. Three.
+[pause 0.5s]
 Narrator: All present.
 Narrator: He put them back and examined the brick. A small smear of pale dust marked one edge. Someone had removed it. Someone had put it back. Someone had been careful enough to leave the money untouched.
 Narrator: Zeek sat on the edge of his pallet for a long moment.
@@ -144,16 +155,19 @@ Narrator: At the bottom of the map, beneath the words I WAS WRONG ABOUT THE DEPT
 Narrator: Zeek stared at it.
 Narrator: He had not seen it before.
 Narrator: The handwriting was his father's.
-Bel-iddin: I WAS WRONG ABOUT WHO WAS LOOKING.
+Bel-iddin: [solemn] I WAS WRONG ABOUT WHO WAS LOOKING.
 Narrator: He read it twice.
 Narrator: Then a third time.
 Narrator: Not because he doubted the words.
 Narrator: Because he was trying to remember whether they had existed a heartbeat earlier.
+[pause 0.5s]
 Narrator: They hadn't.
+[pause 0.5s]
 Narrator: Zeek's breath stopped.
 Narrator: He looked toward the sleeping pallet. His mother had not moved.
 Narrator: The house was silent except for the kiln. He looked back at the journal.
 Narrator: The ink beneath the sentence was still wet.
+[pause 0.5s]
 Narrator: Zeek touched it.
 Narrator: The mark in his palm burned. He pulled his hand away.
 Narrator: Zeek closed the journal.
@@ -167,30 +181,44 @@ Narrator: Zeek slung the satchel over his shoulder.
 Narrator: At the doorway he paused.
 Narrator: He almost woke her.
 Narrator: Instead he repaired the cracked frame with two careful pushes of his thumb until the wood sat flush again.
+[pause 0.5s]
 Narrator: Habit.
 Narrator: Then he stepped into the alley.
 Narrator: The city breathed around him.
+[pause 0.5s]
 Narrator: Torchlight.
+[pause 0.5s]
 Narrator: Voices.
+[pause 0.5s]
 Narrator: Wheels.
+[pause 0.5s]
 Narrator: Dogs.
+[pause 0.5s]
 Narrator: Somewhere, someone laughed.
+[pause 1.5s]
 Narrator: Halfway to the street the journal moved.
+[pause 0.6s]
 Narrator: Once.
 Narrator: Not the shifting of paper.
+[pause 0.5s]
 Narrator: A knock.
+[pause 0.5s]
 Narrator: Zeek stopped.
 Narrator: The mark beneath the linen pulsed once.
 [pause 1.5s]
 Narrator: Silence.
-Narrator: Then, from somewhere deep beneath Uruk, something answered.
+Narrator: Then, from somewhere deep beneath OO-rook, something answered.
+[pause 0.5s]
 Narrator: Not loudly.
+[pause 0.5s]
 Narrator: Not with sound.
+[pause 0.5s]
 Narrator: With recognition.
 Narrator: Zeek stood motionless in the alley.
 Narrator: He looked toward the dark western quarter where the others would be waiting before dawn.
 Narrator: Then back toward his mother's house.
 Narrator: The journal became still.
 Narrator: It did not feel asleep.
+[pause 1.2s]
 Narrator: It felt as though it had received an answer.
 [pause 3s]

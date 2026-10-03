@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "27-the-man-who-refused",
 "title": "Chapter 27 — The Man Who Refused",
-"chars": 5844,
+"chars": 5865,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -38,7 +38,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Next time you test a threshold,"
+"text": "Next time you test a threshold,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -47,7 +51,11 @@
 },
 {
 "speaker": "Balag",
-"text": "you say so first."
+"text": "you say so first.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -55,25 +63,37 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo glanced back once at the blank floor.",
+"text": "En-KHEH-doo glanced back once at the blank floor.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "We still don't know what happens if someone actually pays."
+"text": "We still don't know what happens if someone actually pays.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Ninsun",
-"text": "We know enough,"
+"text": "We know enough,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun answered. She was writing again, stylus moving in short, precise strokes.",
+"text": "NEEN-soon answered. She was writing again, stylus moving in short, precise strokes.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "That distinction survives in every damaged tablet that still mentions the gates."
+"text": "That distinction survives in every damaged tablet that still mentions the gates.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -85,11 +105,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun slowed beside a low wall covered in faint wedge-shaped marks. She brushed dust away with careful fingers."
+"text": "NEEN-soon slowed beside a low wall covered in faint wedge-shaped marks. She brushed dust away with careful fingers."
 },
 {
 "speaker": "Ninsun",
-"text": "Inventory,"
+"text": "Inventory,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -98,7 +122,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Grain. Oil. Rope. The same lists every household kept."
+"text": "Grain. Oil. Rope. The same lists every household kept.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -143,7 +171,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's axe was up before the last word finished. En-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment."
+"text": "BAH-lahg's axe was up before the last word finished. En-KHEH-doo had already angled herself for a fight. NEEN-soon froze with the stylus still pressed to parchment."
 },
 {
 "speaker": "Narrator",
@@ -155,7 +183,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You're real,"
+"text": "You're real,",
+"tags": [
+"hoarse",
+"disbelieving"
+],
+"tag": "hoarse] [disbelieving"
 },
 {
 "speaker": "Narrator",
@@ -164,7 +197,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I thought the City had finally learned how to make better copies."
+"text": "I thought the City had finally learned how to make better copies.",
+"tags": [
+"hoarse",
+"dryly"
+],
+"tag": "hoarse] [dryly"
 },
 {
 "speaker": "Narrator",
@@ -173,7 +211,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Who are you?"
+"text": "Who are you?",
+"tags": [
+"cautiously"
+],
+"tag": "cautiously"
 },
 {
 "speaker": "Narrator",
@@ -182,20 +224,34 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "That depends which name you're asking for. The one I arrived with, or the one it left me."
+"text": "That depends which name you're asking for. The one I arrived with, or the one it left me.",
+"tags": [
+"hoarse",
+"dryly"
+],
+"tag": "hoarse] [dryly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's stylus hovered.",
+"text": "NEEN-soon's stylus hovered.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "How long have you been here?"
+"text": "How long have you been here?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I stopped counting after the second winter that never ended."
+"text": "I stopped counting after the second winter that never ended.",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Narrator",
@@ -204,7 +260,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You're still carrying your names. That's rarer than it should be. Most who reach this depth have already paid at least once."
+"text": "You're still carrying your names. That's rarer than it should be. Most who reach this depth have already paid at least once.",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Narrator",
@@ -213,11 +274,19 @@
 },
 {
 "speaker": "Balag",
-"text": "Are there others?"
+"text": "Are there others?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "The Man Who Refused",
-"text": "There were."
+"text": "There were.",
+"tags": [
+"hoarse"
+],
+"tag": "hoarse"
 },
 {
 "speaker": "Narrator",
@@ -226,16 +295,25 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "The City keeps what it collects. Sometimes it lets the emptier ones walk for a while. Sometimes it uses them as markers. Sometimes it just leaves them where they fall."
+"text": "The City keeps what it collects. Sometimes it lets the emptier ones walk for a while. Sometimes it uses them as markers. Sometimes it just leaves them where they fall.",
+"tags": [
+"hoarse",
+"ominous"
+],
+"tag": "hoarse] [ominous"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo studied him the way she studied anything that might still hold value.",
+"text": "En-KHEH-doo studied him the way she studied anything that might still hold value.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "What did you pay?"
+"text": "What did you pay?",
+"tags": [
+"shrewdly"
+],
+"tag": "shrewdly"
 },
 {
 "speaker": "Narrator",
@@ -243,7 +321,11 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "The first threshold accepted your offering,"
+"text": "The first threshold accepted your offering,",
+"tags": [
+"hoarse"
+],
+"tag": "hoarse"
 },
 {
 "speaker": "Narrator",
@@ -252,7 +334,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—"
+"text": "First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Narrator",
@@ -273,7 +360,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I just can't remember what anyone ever called her."
+"text": "I just can't remember what anyone ever called her.",
+"tags": [
+"hoarse",
+"sadly"
+],
+"tag": "hoarse] [sadly"
 },
 {
 "speaker": "Narrator",
@@ -282,7 +374,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun spoke carefully.",
+"text": "NEEN-soon spoke carefully.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -299,7 +392,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep."
+"text": "The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep.",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Narrator",
@@ -307,7 +405,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "You're marked,"
+"text": "You're marked,",
+"tags": [
+"hoarse",
+"gravely"
+],
+"tag": "hoarse] [gravely"
 },
 {
 "speaker": "Narrator",
@@ -316,7 +419,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "That means an account is already open. Everything after this is collection."
+"text": "That means an account is already open. Everything after this is collection.",
+"tags": [
+"hoarse",
+"ominous"
+],
+"tag": "hoarse] [ominous"
 },
 {
 "speaker": "Narrator",
@@ -341,7 +449,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Come with us."
+"text": "Come with us.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Narrator",
@@ -349,7 +461,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "I have followed strangers out of this alcove before,"
+"text": "I have followed strangers out of this alcove before,",
+"tags": [
+"hoarse",
+"weary"
+],
+"tag": "hoarse] [weary"
 },
 {
 "speaker": "Narrator",
@@ -358,7 +475,12 @@
 },
 {
 "speaker": "The Man Who Refused",
-"text": "They always bring me back."
+"text": "They always bring me back.",
+"tags": [
+"hoarse",
+"resigned"
+],
+"tag": "hoarse] [resigned"
 },
 {
 "speaker": "Narrator",
@@ -366,19 +488,26 @@
 },
 {
 "speaker": "Narrator",
-"text": "They left him there."
+"text": "They left him there.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "As they moved back into the main street, Ninsun spoke almost to herself."
+"text": "As they moved back into the main street, NEEN-soon spoke almost to herself."
 },
 {
 "speaker": "Ninsun",
-"text": "The tablets never mentioned survivors."
+"text": "The tablets never mentioned survivors.",
+"tags": [
+"quietly",
+"shaken"
+],
+"tag": "quietly] [shaken"
 },
 {
 "speaker": "Narrator",
-"text": "Behind them, in the narrow alcove, the man began to hum—soft, tuneless, keeping time with a clock only he could still hear."
+"text": "Behind them, in the narrow alcove, the man began to hum—soft, tuneless, keeping time with a clock only he could still hear.",
+"pauseBefore": 1.2
 }
 ]
 }

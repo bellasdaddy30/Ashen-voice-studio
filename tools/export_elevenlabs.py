@@ -14,7 +14,9 @@ OUT = os.path.join(BOOK, 'elevenlabs')
 
 def pronunciations():
     rules = []
-    for line in open(os.path.join(BOOK, 'global', 'pronunciations.txt'), encoding='utf-8'):
+    period = os.path.join(OUT, 'pronunciations-period.txt')
+    src = period if os.path.exists(period) else os.path.join(BOOK, 'global', 'pronunciations.txt')
+    for line in open(src, encoding='utf-8'):
         if '->' in line and not line.lstrip().startswith('#'):
             a, b = [x.strip() for x in line.split('->', 1)]
             rules.append((a, b))

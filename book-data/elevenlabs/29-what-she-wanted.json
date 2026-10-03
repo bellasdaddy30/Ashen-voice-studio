@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "29-what-she-wanted",
 "title": "Chapter 29 — What She Wanted",
-"chars": 11277,
+"chars": 11330,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -24,12 +24,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo moved while the others were still listening to the knock that had answered from beneath the City.",
+"text": "En-KHEH-doo moved while the others were still listening to the knock that had answered from beneath the City.",
 "pauseBefore": 2.0
 },
 {
 "speaker": "Narrator",
-"text": "Zeek was staring at the new ridge rising under the skin of his palm. Ninsun was still translating the last line that had carved itself into the wall. BAH-lahg stood between them and the man in the alcove with the patient stillness of someone who had already decided the ground was wrong. For a few breaths no one watched her."
+"text": "Zeek was staring at the new ridge rising under the skin of his palm. NEEN-soon was still translating the last line that had carved itself into the wall. BAH-lahg stood between them and the man in the alcove with the patient stillness of someone who had already decided the ground was wrong. For a few breaths no one watched her."
 },
 {
 "speaker": "Narrator",
@@ -67,6 +67,7 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -75,7 +76,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "A woman stood in the doorway of that house. For one strange second En-HEH-doo did not recognize her—older, softer, safe in a way that felt like a foreign language. Then she understood. It was her."
+"text": "A woman stood in the doorway of that house. For one strange second En-KHEH-doo did not recognize her—older, softer, safe in a way that felt like a foreign language. Then she understood. It was her."
 },
 {
 "speaker": "Narrator",
@@ -83,7 +84,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo smiled."
+"text": "En-KHEH-doo smiled.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -103,7 +105,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The vision folded."
+"text": "The vision folded.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -115,11 +118,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "That was when Zeek found her. He appeared at the far end of the passage without sound, the way everything in this place had learned to move. His eyes went from the figurine to her face. Something in her expression told him more than either object did."
+"text": "That was when Zeek found her. He appeared at the far end of the passage without sound, the way everything in this place had learned to move. His eyes went from the figurine to her face. Something in her expression told him more than either object did.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Zik",
-"text": "En-HEH-doo?",
+"text": "En-KHEH-doo?",
 "tags": [
 "concerned"
 ],
@@ -133,9 +137,10 @@
 "speaker": "Enhedu",
 "text": "I know this matters,",
 "tags": [
-"flatly"
+"flatly",
+"desperate"
 ],
-"tag": "flatly",
+"tag": "flatly] [desperate",
 "note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
 },
 {
@@ -149,7 +154,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Where did you get this?"
+"text": "Where did you get this?",
+"tags": [
+"concerned"
+],
+"tag": "concerned"
 },
 {
 "speaker": "Enhedu",
@@ -162,7 +171,11 @@
 },
 {
 "speaker": "Zik",
-"text": "You don't remember taking it?"
+"text": "You don't remember taking it?",
+"tags": [
+"concerned"
+],
+"tag": "concerned"
 },
 {
 "speaker": "Enhedu",
@@ -189,7 +202,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Wanting what?"
+"text": "Wanting what?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Enhedu",
@@ -230,7 +247,11 @@
 },
 {
 "speaker": "Zik",
-"text": "And?"
+"text": "And?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Enhedu",
@@ -253,7 +274,11 @@
 },
 {
 "speaker": "Zik",
-"text": "What did you ask?"
+"text": "What did you ask?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Enhedu",
@@ -293,29 +318,37 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg and Ninsun arrived a minute later, drawn by the sound of voices carrying down the passage. BAH-lahg stopped when he saw the figurine. Ninsun's face lit with instinctive scholarly hunger—then died the moment she saw En-HEH-doo's expression underneath it."
+"text": "BAH-lahg and NEEN-soon arrived a minute later, drawn by the sound of voices carrying down the passage. BAH-lahg stopped when he saw the figurine. NEEN-soon's face lit with instinctive scholarly hunger—then died the moment she saw En-KHEH-doo's expression underneath it."
 },
 {
 "speaker": "Ninsun",
-"text": "What happened?"
+"text": "What happened?",
+"tags": [
+"alarmed"
+],
+"tag": "alarmed"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun asked.",
+"text": "NEEN-soon asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo passed her the figurine without a word."
+"text": "En-KHEH-doo passed her the figurine without a word."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun turned it over, ran a thumb along the tooling.",
+"text": "NEEN-soon turned it over, ran a thumb along the tooling.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "This is extraordinarily valuable."
+"text": "This is extraordinarily valuable.",
+"tags": [
+"excited"
+],
+"tag": "excited"
 },
 {
 "speaker": "Enhedu",
@@ -328,11 +361,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "You don't seem pleased."
+"text": "You don't seem pleased.",
+"tags": [
+"puzzled"
+],
+"tag": "puzzled"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's mouth twitched, not quite a smile.",
+"text": "En-KHEH-doo's mouth twitched, not quite a smile.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -351,7 +388,11 @@
 },
 {
 "speaker": "Balag",
-"text": "So you got what you wanted."
+"text": "So you got what you wanted.",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Enhedu",
@@ -364,32 +405,48 @@
 },
 {
 "speaker": "Balag",
-"text": "Then what's the problem? Sell it. Buy the house. Be done with it."
+"text": "Then what's the problem? Sell it. Buy the house. Be done with it.",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Ninsun",
-"text": "BAH-lahg."
+"text": "BAH-lahg.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's voice had an edge.",
+"text": "NEEN-soon's voice had an edge.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Balag",
-"text": "I'm asking a real question."
+"text": "I'm asking a real question.",
+"tags": [
+"defensive"
+],
+"tag": "defensive"
 },
 {
 "speaker": "Narrator",
-"text": "He wasn't being cruel. That was the worst part—he genuinely didn't see it yet, and En-HEH-doo found she couldn't even be angry at him for that, because an hour ago she wouldn't have seen it either."
+"text": "He wasn't being cruel. That was the worst part—he genuinely didn't see it yet, and En-KHEH-doo found she couldn't even be angry at him for that, because an hour ago she wouldn't have seen it either."
 },
 {
 "speaker": "Balag",
-"text": "You wanted things. Now you have one. Isn't that the whole point of wanting?"
+"text": "You wanted things. Now you have one. Isn't that the whole point of wanting?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked at the figurine in Ninsun's hands—gold enough to have bought her out of every bad year she had ever lived—and felt exactly nothing reach for it."
+"text": "En-KHEH-doo looked at the figurine in NEEN-soon's hands—gold enough to have bought her out of every bad year she had ever lived—and felt exactly nothing reach for it."
 },
 {
 "speaker": "Enhedu",
@@ -415,19 +472,22 @@
 },
 {
 "speaker": "Narrator",
-"text": "Once."
+"text": "Once.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Twice."
+"text": "Twice.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Three times."
+"text": "Three times.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo turned toward the sound."
+"text": "En-KHEH-doo turned toward the sound."
 },
 {
 "speaker": "Narrator",
@@ -443,11 +503,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "They moved in uneasy silence after En-HEH-doo's change."
+"text": "They moved in uneasy silence after En-KHEH-doo's change."
 },
 {
 "speaker": "Narrator",
-"text": "Nobody suggested asking the City another question. Not even En-HEH-doo, who carried the golden figurine wrapped in cloth the way a man carries a stone in his boot—aware of it with every step, unable to feel anything about it. She knew it was valuable. She remembered wanting it. That was all that remained of the wanting."
+"text": "Nobody suggested asking the City another question. Not even En-KHEH-doo, who carried the golden figurine wrapped in cloth the way a man carries a stone in his boot—aware of it with every step, unable to feel anything about it. She knew it was valuable. She remembered wanting it. That was all that remained of the wanting."
 },
 {
 "speaker": "Narrator",
@@ -463,7 +523,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The third showed the corridor they were already standing in—empty. No Zeek. No BAH-lahg. No En-HEH-doo. No Ninsun. The same stretch of stone reaching away into the distance, untouched and silent, as though the four of them had never set foot in it at all."
+"text": "The third showed the corridor they were already standing in—empty. No Zeek. No BAH-lahg. No En-KHEH-doo. No NEEN-soon. The same stretch of stone reaching away into the distance, untouched and silent, as though the four of them had never set foot in it at all."
 },
 {
 "speaker": "Narrator",
@@ -472,11 +532,15 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't like that one."
+"text": "I don't like that one.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo glanced at him. Some of her old dryness surfaced, thinner than before.",
+"text": "En-KHEH-doo glanced at him. Some of her old dryness surfaced, thinner than before.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -490,7 +554,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't like the one showing us nothing."
+"text": "I don't like the one showing us nothing.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Enhedu",
@@ -507,15 +575,23 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Enough,"
+"text": "Enough,",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said. She stood between the three doorways, studying the carvings above each one—symbols she had already copied twice, comparing them against every fragment of the City's language she had catalogued. None of it matched. When she began to trace one familiar root with her stylus, the mark on the parchment went blank under the tip. She stared at the empty space for a long moment, then closed the scroll without comment."
+"text": "NEEN-soon said. She stood between the three doorways, studying the carvings above each one—symbols she had already copied twice, comparing them against every fragment of the City's language she had catalogued. None of it matched. When she began to trace one familiar root with her stylus, the mark on the parchment went blank under the tip. She stared at the empty space for a long moment, then closed the scroll without comment."
 },
 {
 "speaker": "Ninsun",
-"text": "The inscriptions aren't telling us which door to take."
+"text": "The inscriptions aren't telling us which door to take.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Narrator",
@@ -524,11 +600,19 @@
 },
 {
 "speaker": "Zik",
-"text": "Then what are they telling us?"
+"text": "Then what are they telling us?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Ninsun",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -549,11 +633,19 @@
 },
 {
 "speaker": "Balag",
-"text": "That one shows us gone."
+"text": "That one shows us gone.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Zik",
-"text": "I know."
+"text": "I know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -565,7 +657,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The floor held."
+"text": "The floor held.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -573,7 +666,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Behind him the others waited. En-HEH-doo watched with the flat attention of someone who no longer calculated odds the way she once had. Ninsun's stylus hovered over parchment that had nowhere useful left to write. BAH-lahg's grip on the axe was white-knuckled and certain."
+"text": "Behind him the others waited. En-KHEH-doo watched with the flat attention of someone who no longer calculated odds the way she once had. NEEN-soon's stylus hovered over parchment that had nowhere useful left to write. BAH-lahg's grip on the axe was white-knuckled and certain."
 },
 {
 "speaker": "Narrator",
@@ -581,7 +674,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Stay behind me."
+"text": "Stay behind me.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -625,7 +722,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For now."
+"text": "For now.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -633,7 +731,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg came first, then Ninsun, then En-HEH-doo. None of them spoke. The three doors behind them folded shut without a sound, as though the chamber had never held more than one choice to begin with."
+"text": "BAH-lahg came first, then NEEN-soon, then En-KHEH-doo. None of them spoke. The three doors behind them folded shut without a sound, as though the chamber had never held more than one choice to begin with."
 },
 {
 "speaker": "Narrator",
@@ -641,15 +739,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek kept walking."
+"text": "Zeek kept walking.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Behind him En-HEH-doo carried the gold she no longer wanted."
+"text": "Behind him En-KHEH-doo carried the gold she no longer wanted."
 },
 {
 "speaker": "Narrator",
-"text": "Beside him Ninsun carried symbols that no longer yielded meaning."
+"text": "Beside him NEEN-soon carried symbols that no longer yielded meaning."
 },
 {
 "speaker": "Narrator",
@@ -657,7 +756,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek no longer knew what it was listening for."
+"text": "Zeek no longer knew what it was listening for.",
+"pauseBefore": 1.2
 }
 ]
 }

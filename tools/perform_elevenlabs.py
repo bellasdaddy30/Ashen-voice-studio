@@ -159,18 +159,28 @@ def tags_for(segs, i, ch=0):
         if t not in seen: seen.append(t)
     return seen[:2]
 
+TIMEJUMP = re.compile(r'^(That night|That was when|By (mid-?morning|late afternoon|the time|sunset|nightfall|dusk|the second turn)|Toward morning|Late afternoon|Near midday|At (sunset|dawn|last)|They (left|broke camp|slept|started walking|moved on|went on|dug until|spent the better part|rested|met|crossed|descended|reached|found|did not return|took|finished)|The (first|second|third|fourth|fifth) (three days|day|dawn|night)|The next|Three days|Two days|Hours later|When they finally|Later,|Halfway|Sometime after|It took until|The east-side walls|The rain had|The old lime kilns|Uruk had emptied)')
+BEATS = {'Once.', 'Twice.', 'Then twice.', 'Three times.', 'Then four.', 'Then another.', 'Pause.', 'Scrape.', 'Thump.', 'Then a fourth.', 'A pause.', 'Nothing.'}
+
 def pause_before(segs, i):
     s = segs[i]
     if i == 0: return 0
+    if i == len(segs) - 1 and s['speaker'] == 'Narrator': return 1.2
     if segs[i - 1]['text'].startswith('CHAPTER') and i == 1: return 1.0
     if i == 2: return 2.0                       # after the chapter title
     prev = segs[i - 1]
     if 'long beat' in prev.get('note', '').lower() or 'Leave a long beat' in prev.get('note', ''): return 2.0
     if prev.get('pause', 0) >= 0.6: return 1.5
     if s['speaker'] == 'Narrator' and SILENCE.match(s['text']): return 1.5
+    if s['speaker'] == 'Narrator' and TIMEJUMP.match(s['text']) and prev['speaker'] != 'Narrator' or \
+       s['speaker'] == 'Narrator' and TIMEJUMP.match(s['text']) and len(prev['text']) > 0 and i > 3 and s['pause'] >= 0.38: return 1.5
+    if s['speaker'] == 'Narrator' and s['text'] in BEATS: return 0.6
+    if s['speaker'] == 'Narrator' and len(s['text'].split()) <= 3 and s['text'].endswith('.') and prev['speaker'] == 'Narrator': return 0.5
     return 0
 
 def main():
+    from performance_direction import parse
+    direction = parse()
     rules = pronunciations()
     manifest = json.load(open(os.path.join(BOOK, 'manifest.json'), encoding='utf-8'))
     sdir = os.path.join(OUT, 'scripts'); os.makedirs(sdir, exist_ok=True)
@@ -183,8 +193,14 @@ def main():
         segs = [x for f in prod['chapters'][0]['lineFiles']
                 for x in json.load(open(os.path.join(folder, f), encoding='utf-8'))]
         lines, script = [], [cfg['title'].upper(), '']
+        ch = int(key[:2]); dk = -1
         for i, s in enumerate(segs):
-            tags = tags_for(segs, i, int(key[:2])) if s['speaker'] != 'Narrator' else []
+            tags = tags_for(segs, i, ch) if s['speaker'] != 'Narrator' else []
+            if s['speaker'] != 'Narrator':
+                dk += 1
+                if dk in direction.get(ch, {}):
+                    keep = [t for t in tags if t in ('weakly', 'flatly', 'exhausted', 'eerie') and t not in direction[ch][dk]]
+                    tags = (keep + direction[ch][dk])[:2] if direction[ch][dk] else []
             if s['speaker'] == 'Narrator' and 'Written text' in s.get('note', ''): tags = ['slowly']
             p = pause_before(segs, i)
             text = respell(s['text'], rules)

@@ -5,231 +5,255 @@ Narrator: CHAPTER 10
 Narrator: The Passage We Marked
 [pause 2s]
 Narrator: They started marking the shifted streets on the fifth day.
-Narrator: It wasn't Ninsun's idea, though she was the one who made it permanent. After the second uncrossed name and a third alley that closed behind them before they finished measuring it, BAH-lahg simply said,
-Balag: I'm tired of walking into the same fucking hole twice,
+Narrator: It wasn't NEEN-soon's idea, though she was the one who made it permanent. After the second uncrossed name and a third alley that closed behind them before they finished measuring it, BAH-lahg simply said,
+Balag: [annoyed] I'm tired of walking into the same fucking hole twice,
 Narrator: and that settled the argument.
 Narrator: They used chalk at first. White marks on the older brick where a passage had opened. Simple. Visible. Temporary.
 Narrator: By the second afternoon the chalk marks were gone.
 Narrator: Not washed off. Not worn away. Simply absent, as if the wall had never accepted them.
-Narrator: En-HEH-doo crouched where the latest mark should have been and ran her thumb across the brick.
-Enhedu: It's eating the chalk.
-Ninsun: Or deciding the chalk doesn't belong,
-Narrator: Ninsun said. She was already pulling a thin bronze stylus and a scrap of harder stone from her satchel.
-Ninsun: We need something it can't ignore as easily.
+Narrator: En-KHEH-doo crouched where the latest mark should have been and ran her thumb across the brick.
+Enhedu: [uneasy] It's eating the chalk.
+Ninsun: [thoughtful] Or deciding the chalk doesn't belong,
+Narrator: NEEN-soon said. She was already pulling a thin bronze stylus and a scrap of harder stone from her satchel.
+Ninsun: [firmly] We need something it can't ignore as easily.
 Narrator: Zeek watched her cut a small, precise notch at the base of the wall, low enough that most people would miss it, deep enough that weather alone wouldn't erase it in a day. The sound of the stylus on brick was sharp and final.
 Narrator: BAH-lahg tested the notch with his boot.
-Balag: That'll do until it doesn't.
-Zik: Same as everything else,
+Balag: [grumbling] That'll do until it doesn't.
+Zik: [dryly] Same as everything else,
 Narrator: Zeek said.
 Narrator: They kept the system simple after that. One notch for a passage that had opened and closed. Two notches if it had shown names or objects worth remembering.
 Narrator: Three if it had tried to keep them. No one wrote explanations. Explanations were for people who expected the walls to stay still long enough to read them.
 Narrator: On the sixth day they found a passage that already carried two notches they didn't remember cutting.
 [pause 1.5s]
 Narrator: No one spoke for a while.
-Narrator: En-HEH-doo was the first to break the silence.
-Enhedu: Either we're forgetting our own marks, or someone else is using the same system.
+Narrator: En-KHEH-doo was the first to break the silence.
+Enhedu: [uneasy] Either we're forgetting our own marks, or someone else is using the same system.
 Ninsun: [softly] Or the city is,
-Narrator: Ninsun said quietly.
+Narrator: NEEN-soon said quietly.
 Narrator: BAH-lahg spat into the dust.
 Balag: [disgusted] I hate every version of that sentence.
-Narrator: Zeek ran his fingers over the two clean notches. The edges were sharp. Recent. The same depth and angle Ninsun used. He looked at her. She shook her head once. Not hers.
-Narrator: Ninsun crouched beside the marks.
-Ninsun: Give me the lamp.
-Narrator: En-HEH-doo lowered it until the flame threw the notches into sharp relief. Ninsun took the bronze stylus from her satchel and held its tip against the first cut without touching the brick.
+Narrator: Zeek ran his fingers over the two clean notches. The edges were sharp. Recent. The same depth and angle NEEN-soon used. He looked at her. She shook her head once. Not hers.
+Narrator: NEEN-soon crouched beside the marks.
+Ninsun: [sharply] Give me the lamp.
+Narrator: En-KHEH-doo lowered it until the flame threw the notches into sharp relief. NEEN-soon took the bronze stylus from her satchel and held its tip against the first cut without touching the brick.
+[pause 0.5s]
 Narrator: The angles matched.
+[pause 0.5s]
 Narrator: Not approximately.
+[pause 0.5s]
 Narrator: Exactly.
 Narrator: BAH-lahg leaned over her shoulder.
-Balag: You said they weren't yours.
-Ninsun: They aren't.
-Balag: That tool disagrees.
-Narrator: Ninsun rotated the stylus.
+Balag: [suspicious] You said they weren't yours.
+Ninsun: [firmly] They aren't.
+Balag: [skeptical] That tool disagrees.
+Narrator: NEEN-soon rotated the stylus.
 Narrator: A small chip marred one edge of its point. Zeek had noticed it the day before when she marked the passage with the basin. The flaw left a narrow ridge in every cut she made, faint enough to miss unless the light struck from the side.
-Narrator: Ninsun moved the lamp.
+Narrator: NEEN-soon moved the lamp.
 Narrator: A thin line appeared inside the first notch.
+[pause 0.5s]
 Narrator: Then the second.
+[pause 0.5s]
 Narrator: The same ridge.
-Narrator: En-HEH-doo looked at the stylus.
-Enhedu: How many of those are there?
-Ninsun: This one.
-Enhedu: You bought it recently?
-Ninsun: My sister gave it to me.
+Narrator: En-KHEH-doo looked at the stylus.
+Enhedu: [curious] How many of those are there?
+Ninsun: [quietly] This one.
+Enhedu: [curious] You bought it recently?
+Ninsun: [softly] My sister gave it to me.
 [pause 1.5s]
 Narrator: No one spoke.
-Narrator: Ninsun pressed her thumb against the chipped edge.
-Ninsun: I have carried it for six years.
+Narrator: NEEN-soon pressed her thumb against the chipped edge.
+Ninsun: [softly] I have carried it for six years.
 Narrator: BAH-lahg straightened.
-Balag: So either you cut those and forgot—
-Ninsun: I didn't.
-Balag: —or someone borrowed your stylus.
-Ninsun: It has not left my satchel.
-Balag: Things leave your satchel.
-Ninsun: Not without opening it.
-Balag: In this city, I'm no longer certain that matters.
+Balag: [skeptical] So either you cut those and forgot—
+Ninsun: [firmly] I didn't.
+Balag: [skeptical] —or someone borrowed your stylus.
+Ninsun: [defensive] It has not left my satchel.
+Balag: [dryly] Things leave your satchel.
+Ninsun: [firmly] Not without opening it.
+Balag: [uneasy] In this city, I'm no longer certain that matters.
 Narrator: Zeek examined the ground.
 Narrator: No footprints marked the dust inside the passage. No disturbed grit. No scrape where someone had braced a hand against the wall to make the cuts.
 Narrator: He looked at the second notch.
 Narrator: The lower end curved slightly to the left.
-Narrator: Ninsun always did that when cutting downward. Her wrist turned inward near the end of the stroke.
+Narrator: NEEN-soon always did that when cutting downward. Her wrist turned inward near the end of the stroke.
 Narrator: He had watched her make the same mistake eleven times.
-Zik: These are yours,
+Zik: [quietly] These are yours,
 Narrator: he said.
-Narrator: Ninsun looked up sharply.
-Ninsun: I told you—
-Zik: I didn't say you remember making them.
+Narrator: NEEN-soon looked up sharply.
+Ninsun: [sharply] I told you—
+Zik: [gently] I didn't say you remember making them.
 Narrator: The passage breathed cold air over them.
 Narrator: Somewhere inside, stone clicked against stone.
+[pause 0.6s]
 Narrator: Once.
+[pause 0.6s]
 Narrator: Then twice.
 Narrator: BAH-lahg lowered his spear toward the opening.
-Balag: It knows the system.
-Enhedu: Or we come back here,
-Narrator: En-HEH-doo said.
-Narrator: Ninsun stood.
-Ninsun: We haven't been here before.
-Enhedu: Not yet.
+Balag: [uneasy] It knows the system.
+Enhedu: [quietly] Or we come back here,
+Narrator: En-KHEH-doo said.
+[pause 0.5s]
+Narrator: NEEN-soon stood.
+Ninsun: [uneasy] We haven't been here before.
+Enhedu: [ominous] Not yet.
 Narrator: BAH-lahg looked at her.
-Balag: I liked you better before you started saying things like that.
+Balag: [uneasy] I liked you better before you started saying things like that.
 Narrator: A shape moved at the far end of the passage.
 Narrator: Not close enough to identify.
 Narrator: Close enough that all four of them saw it.
 Narrator: It stood with one arm raised against the wall.
 Narrator: A small sharp sound reached them.
+[pause 0.5s]
 Narrator: Bronze cutting brick.
-Narrator: Ninsun's hand closed around her stylus.
+Narrator: NEEN-soon's hand closed around her stylus.
 Narrator: The figure made one stroke.
+[pause 0.6s]
 Narrator: Then another.
+[pause 0.5s]
 Narrator: Two notches.
+[pause 0.5s]
 Narrator: The passage darkened.
 Narrator: The figure was gone.
+[pause 0.5s]
 Narrator: BAH-lahg stepped backward.
-Balag: No.
+Balag: [whispers] [tense] No.
 Narrator: Zeek kept watching the place where it had stood.
-Zik: We could follow.
-Balag: We could also drink poison and save ourselves the walk.
-Narrator: En-HEH-doo studied the two marks beside them.
-Enhedu: If that was one of us, entering may be what causes it.
-Ninsun: And walking away may be what causes it,
-Narrator: Ninsun said.
+Zik: [quietly] We could follow.
+Balag: [sarcastic] We could also drink poison and save ourselves the walk.
+Narrator: En-KHEH-doo studied the two marks beside them.
+Enhedu: [thoughtful] If that was one of us, entering may be what causes it.
+Ninsun: [quietly] And walking away may be what causes it,
+Narrator: NEEN-soon said.
 Narrator: BAH-lahg turned to Zeek.
-Balag: You make decisions. Make one.
+Balag: [impatient] You make decisions. Make one.
 Narrator: The mark beneath Zeek's linen remained warm.
 Narrator: Not pulling him forward.
 Narrator: Not warning him away.
+[pause 0.5s]
 Narrator: Waiting.
-Narrator: He thought of the chamber that had learned Ninsun's name. The black water bending toward his father's journal. The city producing evidence faster than they could understand it.
-Zik: Three notches,
+Narrator: He thought of the chamber that had learned NEEN-soon's name. The black water bending toward his father's journal. The city producing evidence faster than they could understand it.
+Zik: [firmly] Three notches,
 Narrator: he said.
-Narrator: Ninsun looked at him.
-Ninsun: We haven't entered.
-Zik: No. The third one is for a passage that knows us.
+Narrator: NEEN-soon looked at him.
+Ninsun: [surprised] We haven't entered.
+Zik: [grimly] No. The third one is for a passage that knows us.
 Narrator: She placed the stylus against the brick.
 Narrator: For the first time since he had met her, her hand trembled.
 Narrator: The cut came out straight anyway.
 Narrator: They walked away without entering.
 Narrator: They did not enter that passage.
 Narrator: They cut a third notch beside the two, deeper than the others, and walked away.
-Narrator: That night, back in the cheap room they were using as a base, Ninsun spread her scraps of parchment on the floor and began transferring every notch location she could still remember onto a single sheet. The map was ugly, incomplete, and already out of date in places.
+[pause 1.5s]
+Narrator: That night, back in the cheap room they were using as a base, NEEN-soon spread her scraps of parchment on the floor and began transferring every notch location she could still remember onto a single sheet. The map was ugly, incomplete, and already out of date in places.
+[pause 0.5s]
 Narrator: She worked anyway.
 Narrator: Zeek watched from the doorway.
-Zik: You know it's going to change again the moment we trust it,
+Zik: [dryly] You know it's going to change again the moment we trust it,
 Narrator: he said.
-Ninsun: I know.
-Zik: Then why keep it?
-Narrator: Ninsun didn't look up.
-Ninsun: Because the alternative is letting the city be the only one writing anything down.
+Ninsun: [quietly] I know.
+Zik: [curious] Then why keep it?
+Narrator: NEEN-soon didn't look up.
+Ninsun: [firmly] Because the alternative is letting the city be the only one writing anything down.
 Narrator: She drew another line.
+[pause 0.5s]
 Narrator: Then stopped.
 Narrator: Zeek remained in the doorway.
-Zik: What?
-Ninsun: Nothing.
-Zik: You stopped.
-Ninsun: That doesn't mean something happened.
-Zik: With you, it usually does.
-Narrator: Ninsun shifted three scraps of parchment across the floor. Each held a rough section of street, copied at a different scale. None aligned cleanly with the others.
+Zik: [curious] What?
+Ninsun: [evasive] Nothing.
+Zik: [pointedly] You stopped.
+Ninsun: [defensive] That doesn't mean something happened.
+Zik: [dryly] With you, it usually does.
+Narrator: NEEN-soon shifted three scraps of parchment across the floor. Each held a rough section of street, copied at a different scale. None aligned cleanly with the others.
 Narrator: She placed a clay cup on one corner to keep the papers flat.
-Ninsun: Hold that lamp lower.
+Ninsun: [sharply] Hold that lamp lower.
 Narrator: Zeek entered and crouched beside her.
-Narrator: The room smelled of lamp smoke, old plaster, and the sour beer BAH-lahg had abandoned near the window. Ninsun had marked every shifted passage with a short black line. Beside each she had recorded the number of notches and the day it appeared.
+Narrator: The room smelled of lamp smoke, old plaster, and the sour beer BAH-lahg had abandoned near the window. NEEN-soon had marked every shifted passage with a short black line. Beside each she had recorded the number of notches and the day it appeared.
 Narrator: Zeek studied the scattered marks.
-Zik: They're moving west.
-Ninsun: They were.
+Zik: [thoughtful] They're moving west.
+Ninsun: [quietly] They were.
 Zik: Were?
-Ninsun: Yesterday they moved south.
+Ninsun: [intently] Yesterday they moved south.
 Narrator: She rotated one sheet.
-Ninsun: Today they moved back toward the flood channel.
-Zik: You think there's a pattern.
-Ninsun: I think patterns are what people call confusion when they want it to feel temporary.
+Ninsun: [intently] Today they moved back toward the flood channel.
+Zik: [skeptical] You think there's a pattern.
+Ninsun: [dryly] I think patterns are what people call confusion when they want it to feel temporary.
 Narrator: Zeek adjusted the lamp.
 Narrator: The shadows of the parchment edges shifted.
 Narrator: Several marks lined up.
+[pause 0.5s]
 Narrator: Not streets.
+[pause 0.5s]
 Narrator: Not a route.
+[pause 0.5s]
 Narrator: A curve.
-Narrator: Ninsun saw it at the same moment.
+Narrator: NEEN-soon saw it at the same moment.
 Narrator: She pulled another scrap beneath the first.
+[pause 0.6s]
 Narrator: Then another.
 Narrator: The separate curves joined.
+[pause 0.5s]
 Narrator: A spiral.
 Narrator: Zeek's wrapped hand tightened.
-Narrator: Ninsun noticed but did not look at it.
-Ninsun: The passages aren't appearing randomly,
+Narrator: NEEN-soon noticed but did not look at it.
+Ninsun: [tense] The passages aren't appearing randomly,
 Narrator: she said.
-Zik: What are they doing?
+Zik: [curious] What are they doing?
 Narrator: She drew the final arc in charcoal.
 Narrator: The line curled inward toward a point near the center of the lower districts.
 Narrator: The old flood channel.
-Zik: No,
+Zik: [alarmed] No,
 Narrator: Zeek said.
-Narrator: Ninsun measured the distances again.
-Ninsun: They're tightening.
-Zik: Around what?
-Ninsun: I don't know.
-Zik: You know where.
-Ninsun: That is not the same thing.
+Narrator: NEEN-soon measured the distances again.
+Ninsun: [ominous] They're tightening.
+Zik: [uneasy] Around what?
+Ninsun: [quietly] I don't know.
+Zik: [pointedly] You know where.
+Ninsun: [defensive] That is not the same thing.
 Narrator: She placed the tip of her stylus at the spiral's center.
 Narrator: The floor beneath them gave a faint knock.
 Narrator: Both of them froze.
 Narrator: A second knock came from directly below the map.
-Narrator: Ninsun lifted the parchment.
+Narrator: NEEN-soon lifted the parchment.
 Narrator: The floor was bare.
 Narrator: When she set it down again, a new mark had appeared at the center of the spiral.
+[pause 0.5s]
 Narrator: Three notches.
 Narrator: Zeek took the lamp from her and held it closer.
 Narrator: The ink was wet.
 Narrator: Neither of them had drawn it.
-Narrator: Ninsun reached for the map.
+Narrator: NEEN-soon reached for the map.
 Narrator: Zeek caught her hand.
-Zik: Don't.
-Ninsun: It's paper.
-Zik: So was the journal.
+Zik: [sharply] Don't.
+Ninsun: [dismissively] It's paper.
+Zik: [grimly] So was the journal.
 Narrator: Her eyes moved to his satchel.
-Ninsun: You haven't opened it.
-Zik: No.
-Ninsun: How long?
-Zik: Four days.
-Ninsun: Why?
-Zik: Because every time it tells me something, I do what it wants.
-Narrator: Ninsun looked back at the three wet marks.
-Ninsun: And what does it want?
-Zik: For us to go down.
+Ninsun: [curious] You haven't opened it.
+Zik: [flatly] No.
+Ninsun: [curious] How long?
+Zik: [quietly] Four days.
+Ninsun: [curious] Why?
+Zik: [bitterly] Because every time it tells me something, I do what it wants.
+Narrator: NEEN-soon looked back at the three wet marks.
+Ninsun: [quietly] And what does it want?
+Zik: [ominous] For us to go down.
 Narrator: The floor knocked a third time.
 Narrator: The lamp flame shortened.
 Narrator: From the room next door, BAH-lahg's voice came through the wall.
-Balag: Whatever you two are doing, stop agreeing with the building.
-Narrator: En-HEH-doo added something too low to make out.
-Narrator: Ninsun slowly withdrew her hand from beneath Zeek's.
+Balag: [shouts] [grumbling] Whatever you two are doing, stop agreeing with the building.
+Narrator: En-KHEH-doo added something too low to make out.
+Narrator: NEEN-soon slowly withdrew her hand from beneath Zeek's.
 Narrator: She took a clean sheet of parchment and laid it over the altered map.
-Zik: What are you doing?
-Ninsun: Copying it.
-Zik: You just said the city might be writing through the map.
-Ninsun: Yes.
+Zik: [wary] What are you doing?
+Ninsun: [calmly] Copying it.
+Zik: [skeptical] You just said the city might be writing through the map.
+Ninsun: [calmly] Yes.
 Narrator: Her stylus began moving.
-Ninsun: That doesn't mean it gets to keep the only copy.
+Ninsun: [defiantly] That doesn't mean it gets to keep the only copy.
 Narrator: She kept working.
 Narrator: Outside, somewhere in the lower districts, another alley was probably opening while they slept. Or closing. Or deciding which names still deserved to remain uncrossed.
 Narrator: Zeek left her to it and checked the linen on his left hand. The mark was warm. Not urgent. Just present.
 Narrator: He did not open the journal.
 Narrator: He had not opened it in four days.
+[pause 1.2s]
 Narrator: The decision still felt small. He was starting to trust that about it.
 [pause 3s]

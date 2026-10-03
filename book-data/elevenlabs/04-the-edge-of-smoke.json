@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "04-the-edge-of-smoke",
 "title": "Chapter 4 — The Edge of Smoke",
-"chars": 5147,
+"chars": 5155,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -28,11 +28,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "By late afternoon the dunes had flattened into hard, broken ground scattered with the first signs of people who lived too close to nothing: a collapsed sheepfold, a half-buried boundary stone, a scatter of broken pottery no one had bothered to gather. The air carried the faint greasy smell of cooking fires and the sharper edge of river mud. Uruk was still hours away, but the land had started remembering it."
+"text": "By late afternoon the dunes had flattened into hard, broken ground scattered with the first signs of people who lived too close to nothing: a collapsed sheepfold, a half-buried boundary stone, a scatter of broken pottery no one had bothered to gather. The air carried the faint greasy smell of cooking fires and the sharper edge of river mud. OO-rook was still hours away, but the land had started remembering it."
 },
 {
 "speaker": "Narrator",
-"text": "They walked in a loose line. BAH-lahg kept the donkeys moving with short clicks of his tongue. En-HEH-doo had fallen a few paces back. Zeek stayed near the middle, the journal still in the pack where he'd left it the day before."
+"text": "They walked in a loose line. BAH-lahg kept the donkeys moving with short clicks of his tongue. En-KHEH-doo had fallen a few paces back. Zeek stayed near the middle, the journal still in the pack where he'd left it the day before."
 },
 {
 "speaker": "Narrator",
@@ -40,7 +40,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Someone put real work into this,"
+"text": "Someone put real work into this,",
+"tags": [
+"approvingly"
+],
+"tag": "approvingly"
 },
 {
 "speaker": "Narrator",
@@ -70,7 +74,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Why bother?"
+"text": "Why bother?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -79,7 +87,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Because it was built right."
+"text": "Because it was built right.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -103,11 +115,19 @@
 },
 {
 "speaker": "Zik",
-"text": "The people who built this wall are gone."
+"text": "The people who built this wall are gone.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Balag",
-"text": "I noticed."
+"text": "I noticed.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
@@ -119,7 +139,11 @@
 },
 {
 "speaker": "Zik",
-"text": "So somebody should respect the effort."
+"text": "So somebody should respect the effort.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -127,7 +151,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You think the wall cares?"
+"text": "You think the wall cares?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -143,7 +171,11 @@
 },
 {
 "speaker": "Zik",
-"text": "The next person who leans against it."
+"text": "The next person who leans against it.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -151,11 +183,19 @@
 },
 {
 "speaker": "Balag",
-"text": "You fix things you'll never see again."
+"text": "You fix things you'll never see again.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Zik",
-"text": "I excavate things no one remembers."
+"text": "I excavate things no one remembers.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Balag",
@@ -163,15 +203,23 @@
 },
 {
 "speaker": "Zik",
-"text": "I don't think it is."
+"text": "I don't think it is.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo brushed dust from her knees and joined them."
+"text": "En-KHEH-doo brushed dust from her knees and joined them."
 },
 {
 "speaker": "Enhedu",
-"text": "My grandfather repaired irrigation ditches."
+"text": "My grandfather repaired irrigation ditches.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Narrator",
@@ -179,7 +227,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He'd spend weeks fixing channels on land that wasn't his."
+"text": "He'd spend weeks fixing channels on land that wasn't his.",
+"tags": [
+"fondly"
+],
+"tag": "fondly"
 },
 {
 "speaker": "Narrator",
@@ -187,7 +239,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I've met farmers."
+"text": "I've met farmers.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Enhedu",
@@ -199,7 +255,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He copied contracts."
+"text": "He copied contracts.",
+"tags": [
+"proudly"
+],
+"tag": "proudly"
 },
 {
 "speaker": "Narrator",
@@ -215,7 +275,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He said the water couldn't read ownership marks."
+"text": "He said the water couldn't read ownership marks.",
+"tags": [
+"fondly"
+],
+"tag": "fondly"
 },
 {
 "speaker": "Narrator",
@@ -227,19 +291,31 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo tilted her head."
+"text": "En-KHEH-doo tilted her head."
 },
 {
 "speaker": "Enhedu",
-"text": "First laugh in three days."
+"text": "First laugh in three days.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Zik",
-"text": "I wasn't keeping count."
+"text": "I wasn't keeping count.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Enhedu",
-"text": "I was."
+"text": "I was.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -247,23 +323,39 @@
 },
 {
 "speaker": "Balag",
-"text": "I preferred it when neither of you talked."
+"text": "I preferred it when neither of you talked.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Enhedu",
-"text": "You've said that before."
+"text": "You've said that before.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Balag",
-"text": "I'll say it again."
+"text": "I'll say it again.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo rested a hand on the repaired section of wall."
+"text": "En-KHEH-doo rested a hand on the repaired section of wall."
 },
 {
 "speaker": "Enhedu",
-"text": "It'll fail."
+"text": "It'll fail.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
@@ -279,7 +371,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "So why fix it?"
+"text": "So why fix it?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -287,7 +383,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Because failure doesn't mean today."
+"text": "Because failure doesn't mean today.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -315,7 +415,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo had wandered over during the work. She crouched, picked up one of the loose bricks Zeek had set aside, weighed it in her hand, then set it neatly back into the gap he hadn't needed. No comment. Just the brick returned to where it belonged."
+"text": "En-KHEH-doo had wandered over during the work. She crouched, picked up one of the loose bricks Zeek had set aside, weighed it in her hand, then set it neatly back into the gap he hadn't needed. No comment. Just the brick returned to where it belonged."
 },
 {
 "speaker": "Narrator",
@@ -327,11 +427,19 @@
 },
 {
 "speaker": "Balag",
-"text": "You still thinking about the Collector?"
+"text": "You still thinking about the Collector?",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Zik",
-"text": "I'm thinking about what I'm not going to tell him."
+"text": "I'm thinking about what I'm not going to tell him.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -339,7 +447,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "They started walking again. The broken ground gradually gave way to the first real tracks—cart ruts, donkey dung, the scuffed places where people had stood arguing about tolls or water or nothing important at all. The smell of the city grew stronger. Smoke. Onions. The particular sourness of too many bodies living too close together."
+"text": "They started walking again. The broken ground gradually gave way to the first real tracks—cart ruts, donkey dung, the scuffed places where people had stood arguing about tolls or water or nothing important at all. The smell of the city grew stronger. Smoke. Onions. The particular sourness of too many bodies living too close together.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -347,11 +456,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "He kept walking."
+"text": "He kept walking.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ahead, the first low roofs of the outer districts hunched against the darkening sky."
+"text": "Ahead, the first low roofs of the outer districts hunched against the darkening sky.",
+"pauseBefore": 1.2
 }
 ]
 }

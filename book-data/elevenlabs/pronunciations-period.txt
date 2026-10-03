@@ -1,0 +1,17 @@
+# Period (Akkadian/Sumerian-informed) readings used ONLY for the ElevenLabs script.
+# The Ashen Voice Studio canon in book-data/global/pronunciations.txt is untouched.
+Zikir -> Zee-keer
+Zik -> Zeek
+Ashur -> AHSH-shoor
+Enhedu -> En-KHEH-doo
+Ninsun -> NEEN-soon
+Bel-iddin -> BAYL-ID-din
+Kurash -> KOO-rahsh
+Balag -> BAH-lahg
+Etana -> EH-tah-nah
+Ammaru -> Ahm-MAH-roo
+Mardu -> MAR-doo
+Dagan-ili -> DAH-gahn EE-lee
+Naram -> NAH-rahm
+Lugal-Ane -> LOO-gahl AH-neh
+Uruk -> OO-rook

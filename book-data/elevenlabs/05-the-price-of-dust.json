@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "05-the-price-of-dust",
 "title": "Chapter 5 — The Price of Dust",
-"chars": 15785,
+"chars": 15799,
 "speakers": [
 "Apprentice Boy",
 "Balag",
@@ -28,7 +28,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The streets of Uruk-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard.",
+"text": "The streets of OO-rook-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard.",
 "pauseBefore": 2.0
 },
 {
@@ -45,7 +45,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg and En-HEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. En-HEH-doo noticed everything that might make her rich."
+"text": "BAH-lahg and En-KHEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. En-KHEH-doo noticed everything that might make her rich."
 },
 {
 "speaker": "Narrator",
@@ -61,7 +61,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "You're late,"
+"text": "You're late,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -75,7 +79,11 @@
 },
 {
 "speaker": "Zik",
-"text": "You're alive."
+"text": "You're alive.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -84,15 +92,27 @@
 },
 {
 "speaker": "The Collector",
-"text": "I was beginning to worry."
+"text": "I was beginning to worry.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Zik",
-"text": "That's unlike you."
+"text": "That's unlike you.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "The Collector",
-"text": "It isn't."
+"text": "It isn't.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
@@ -100,7 +120,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "You usually arrive with four men."
+"text": "You usually arrive with four men.",
+"tags": [
+"pointedly"
+],
+"tag": "pointedly"
 },
 {
 "speaker": "Narrator",
@@ -113,11 +137,19 @@
 },
 {
 "speaker": "The Collector",
-"text": "You're missing one."
+"text": "You're missing one.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Zik",
-"text": "KOO-rash got greedy."
+"text": "KOO-rahsh got greedy.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -126,6 +158,7 @@
 {
 "speaker": "Narrator",
 "text": "Zeek shrugged.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -147,11 +180,19 @@
 },
 {
 "speaker": "The Collector",
-"text": "The desert is famously responsible for the poor decisions of men."
+"text": "The desert is famously responsible for the poor decisions of men.",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "Zik",
-"text": "That one was."
+"text": "That one was.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -160,7 +201,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "One less share means more for you."
+"text": "One less share means more for you.",
+"tags": [
+"insinuating"
+],
+"tag": "insinuating"
 },
 {
 "speaker": "Narrator",
@@ -169,15 +214,27 @@
 },
 {
 "speaker": "Zik",
-"text": "That's how the world works."
+"text": "That's how the world works.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "The Collector",
-"text": "Is it?"
+"text": "Is it?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "Everything has a price."
+"text": "Everything has a price.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -186,7 +243,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "You sound like your father."
+"text": "You sound like your father.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
@@ -199,7 +260,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Then you should know better than to insult me."
+"text": "Then you should know better than to insult me.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -211,23 +276,43 @@
 },
 {
 "speaker": "The Collector",
-"text": "Corrosion."
+"text": "Corrosion.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Zik",
-"text": "It's three thousand years old."
+"text": "It's three thousand years old.",
+"tags": [
+"annoyed"
+],
+"tag": "annoyed"
 },
 {
 "speaker": "The Collector",
-"text": "So it is."
+"text": "So it is.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Zik",
-"text": "You expected polish?"
+"text": "You expected polish?",
+"tags": [
+"sarcastic"
+],
+"tag": "sarcastic"
 },
 {
 "speaker": "The Collector",
-"text": "I expected better preservation."
+"text": "I expected better preservation.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
@@ -235,7 +320,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "It barely survived you."
+"text": "It barely survived you.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -243,11 +332,19 @@
 },
 {
 "speaker": "Zik",
-"text": "You've already decided who you're selling it to."
+"text": "You've already decided who you're selling it to.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "The Collector",
-"text": "I've considered possibilities."
+"text": "I've considered possibilities.",
+"tags": [
+"evasive"
+],
+"tag": "evasive"
 },
 {
 "speaker": "Zik",
@@ -275,7 +372,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Closer."
+"text": "Closer.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -283,23 +384,43 @@
 },
 {
 "speaker": "Zik",
-"text": "Then stop pretending it's worthless."
+"text": "Then stop pretending it's worthless.",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "The Collector",
-"text": "It is worthless."
+"text": "It is worthless.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Zik",
-"text": "You just called it desirable."
+"text": "You just called it desirable.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "The Collector",
-"text": "I called the buyer foolish."
+"text": "I called the buyer foolish.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Zik",
-"text": "That's a valuable distinction."
+"text": "That's a valuable distinction.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -307,7 +428,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "This one I like."
+"text": "This one I like.",
+"tags": [
+"pleased"
+],
+"tag": "pleased"
 },
 {
 "speaker": "Zik",
@@ -315,7 +440,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Unfortunately."
+"text": "Unfortunately.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
@@ -331,11 +460,19 @@
 },
 {
 "speaker": "The Collector",
-"text": "I've never done that."
+"text": "I've never done that.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Zik",
-"text": "I know."
+"text": "I know.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -379,7 +516,11 @@
 },
 {
 "speaker": "Zik",
-"text": "What?"
+"text": "What?",
+"tags": [
+"guarded"
+],
+"tag": "guarded"
 },
 {
 "speaker": "Narrator",
@@ -387,7 +528,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Nothing."
+"text": "Nothing.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
@@ -399,11 +544,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not."
+"text": "En-KHEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not."
 },
 {
 "speaker": "Enhedu",
-"text": "You kept the good stuff,"
+"text": "You kept the good stuff,",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Narrator",
@@ -412,7 +561,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Always do."
+"text": "Always do.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Enhedu",
@@ -420,11 +573,19 @@
 },
 {
 "speaker": "Zik",
-"text": "It sounded like one."
+"text": "It sounded like one.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Enhedu",
-"text": "Then you should have heard the version I didn't say."
+"text": "Then you should have heard the version I didn't say.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -440,7 +601,11 @@
 },
 {
 "speaker": "Apprentice Boy",
-"text": "Master Zee-keer."
+"text": "Master Zee-keer.",
+"tags": [
+"shyly"
+],
+"tag": "shyly"
 },
 {
 "speaker": "Narrator",
@@ -452,11 +617,19 @@
 },
 {
 "speaker": "Zik",
-"text": "I know you?"
+"text": "I know you?",
+"tags": [
+"surprised"
+],
+"tag": "surprised"
 },
 {
 "speaker": "Apprentice Boy",
-"text": "No, Master."
+"text": "No, Master.",
+"tags": [
+"shyly"
+],
+"tag": "shyly"
 },
 {
 "speaker": "Narrator",
@@ -464,7 +637,11 @@
 },
 {
 "speaker": "Apprentice Boy",
-"text": "But my instructor does."
+"text": "But my instructor does.",
+"tags": [
+"shyly"
+],
+"tag": "shyly"
 },
 {
 "speaker": "Narrator",
@@ -472,11 +649,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Recognition came slowly."
+"text": "Recognition came slowly.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Old Scribe",
-"text": "…BAYL-ID-din's son."
+"text": "…BAYL-ID-din's son.",
+"tags": [
+"slowly"
+],
+"tag": "slowly"
 },
 {
 "speaker": "Narrator",
@@ -492,7 +674,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "I thought you'd left archaeology."
+"text": "I thought you'd left archaeology.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -504,7 +690,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "He used to stand exactly there."
+"text": "He used to stand exactly there.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Narrator",
@@ -512,7 +702,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "Every market day."
+"text": "Every market day.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Zik",
@@ -520,7 +714,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "He'd argue with anyone willing to waste an afternoon."
+"text": "He'd argue with anyone willing to waste an afternoon.",
+"tags": [
+"fondly"
+],
+"tag": "fondly"
 },
 {
 "speaker": "Zik",
@@ -532,7 +730,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "What didn't he argue about?"
+"text": "What didn't he argue about?",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -540,23 +742,39 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "Mostly history."
+"text": "Mostly history.",
+"tags": [
+"fondly"
+],
+"tag": "fondly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo folded her arms."
+"text": "En-KHEH-doo folded her arms."
 },
 {
 "speaker": "Enhedu",
-"text": "History?"
+"text": "History?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Old Scribe",
-"text": "He claimed scribes lied."
+"text": "He claimed scribes lied.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Bel-iddin",
 "text": "I never said that.",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly",
 "note": "The old scribe imitating Bel-iddin so precisely Zik almost turns. Use Bel-iddin's voice, a little rougher."
 },
 {
@@ -578,19 +796,35 @@
 },
 {
 "speaker": "Zik",
-"text": "He said that often?"
+"text": "He said that often?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Old Scribe",
-"text": "Often enough that I stopped inviting him inside."
+"text": "Often enough that I stopped inviting him inside.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
-"text": "What happened?"
+"text": "What happened?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Old Scribe",
-"text": "He disappeared."
+"text": "He disappeared.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -598,7 +832,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "Before that, he stopped smiling."
+"text": "Before that, he stopped smiling.",
+"tags": [
+"sadly"
+],
+"tag": "sadly"
 },
 {
 "speaker": "Narrator",
@@ -611,7 +849,11 @@
 },
 {
 "speaker": "Apprentice Boy",
-"text": "Master…"
+"text": "Master…",
+"tags": [
+"shyly"
+],
+"tag": "shyly"
 },
 {
 "speaker": "Narrator",
@@ -619,7 +861,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "I always wondered whether he'd found what he was looking for."
+"text": "I always wondered whether he'd found what he was looking for.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Narrator",
@@ -627,7 +873,11 @@
 },
 {
 "speaker": "Zik",
-"text": "So do I."
+"text": "So do I.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -635,7 +885,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "If you discover the answer…"
+"text": "If you discover the answer…",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Narrator",
@@ -643,7 +897,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "…write it down before someone important changes it."
+"text": "…write it down before someone important changes it.",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Narrator",
@@ -651,7 +909,11 @@
 },
 {
 "speaker": "Old Scribe",
-"text": "Again."
+"text": "Again.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -663,51 +925,91 @@
 },
 {
 "speaker": "Balag",
-"text": "I liked him."
+"text": "I liked him.",
+"tags": [
+"fondly"
+],
+"tag": "fondly"
 },
 {
 "speaker": "Zik",
-"text": "You don't know him."
+"text": "You don't know him.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "I know anyone who annoys scribes that much can't be all bad."
+"text": "I know anyone who annoys scribes that much can't be all bad.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo glanced sideways at Zeek."
+"text": "En-KHEH-doo glanced sideways at Zeek."
 },
 {
 "speaker": "Enhedu",
-"text": "He sounded like your father."
+"text": "He sounded like your father.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Zik",
-"text": "He did."
+"text": "He did.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Enhedu",
-"text": "You smiled."
+"text": "You smiled.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Zik",
-"text": "I did?"
+"text": "I did?",
+"tags": [
+"surprised"
+],
+"tag": "surprised"
 },
 {
 "speaker": "Enhedu",
-"text": "For half a heartbeat."
+"text": "For half a heartbeat.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Zik",
-"text": "I'll try not to make a habit of it."
+"text": "I'll try not to make a habit of it.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo walked beside him now."
+"text": "En-KHEH-doo walked beside him now."
 },
 {
 "speaker": "Enhedu",
-"text": "That room didn't want us there."
+"text": "That room didn't want us there.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -715,23 +1017,43 @@
 },
 {
 "speaker": "Enhedu",
-"text": "And it especially didn't want you."
+"text": "And it especially didn't want you.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "Desert tricks."
+"text": "Desert tricks.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Enhedu",
-"text": "That's what you said before."
+"text": "That's what you said before.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "Sand, heat, imagination."
+"text": "Sand, heat, imagination.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Enhedu",
-"text": "You forgot the dead king."
+"text": "You forgot the dead king.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -743,19 +1065,35 @@
 },
 {
 "speaker": "Zik",
-"text": "Who told you?"
+"text": "Who told you?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Enhedu",
-"text": "Nobody."
+"text": "Nobody.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
-"text": "Then how do you know?"
+"text": "Then how do you know?",
+"tags": [
+"suspicious"
+],
+"tag": "suspicious"
 },
 {
 "speaker": "Enhedu",
-"text": "Because you came out of that tomb looking like a man who couldn't stab what he had seen."
+"text": "Because you came out of that tomb looking like a man who couldn't stab what he had seen.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -763,7 +1101,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo shrugged.",
+"text": "En-KHEH-doo shrugged.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -796,7 +1135,11 @@
 },
 {
 "speaker": "Zik",
-"text": "This should last you another month."
+"text": "This should last you another month.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Narrator",
@@ -805,7 +1148,11 @@
 },
 {
 "speaker": "Zik's Mother",
-"text": "You found something."
+"text": "You found something.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -814,15 +1161,27 @@
 },
 {
 "speaker": "Zik",
-"text": "I found enough."
+"text": "I found enough.",
+"tags": [
+"evasive"
+],
+"tag": "evasive"
 },
 {
 "speaker": "Zik's Mother",
-"text": "That's not what I said."
+"text": "That's not what I said.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Zik",
-"text": "It is what I answered."
+"text": "It is what I answered.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -842,7 +1201,11 @@
 },
 {
 "speaker": "Zik's Mother",
-"text": "You look like your father when he came back from that last trip."
+"text": "You look like your father when he came back from that last trip.",
+"tags": [
+"sadly"
+],
+"tag": "sadly"
 },
 {
 "speaker": "Narrator",
@@ -851,19 +1214,35 @@
 },
 {
 "speaker": "Zik",
-"text": "That's unfortunate."
+"text": "That's unfortunate.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik's Mother",
-"text": "Same eyes."
+"text": "Same eyes.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "People have eyes."
+"text": "People have eyes.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik's Mother",
-"text": "Same lie."
+"text": "Same lie.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -896,7 +1275,11 @@
 },
 {
 "speaker": "Zik's Mother",
-"text": "You never were."
+"text": "You never were.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -908,7 +1291,11 @@
 },
 {
 "speaker": "Zik's Mother",
-"text": "He believed some things should stay buried."
+"text": "He believed some things should stay buried.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Narrator",
@@ -922,7 +1309,11 @@
 },
 {
 "speaker": "Zik",
-"text": "You think he was wrong?"
+"text": "You think he was wrong?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -944,9 +1335,10 @@
 "speaker": "Zik's Mother",
 "text": "That's not the same as being brave,",
 "tags": [
-"coughs"
+"coughs",
+"softly"
 ],
-"tag": "coughs"
+"tag": "coughs] [softly"
 },
 {
 "speaker": "Narrator",
@@ -955,7 +1347,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked away."
+"text": "Zeek looked away.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -963,7 +1356,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "That night he sat on the roof above the kiln with the journal open in his lap. Uruk stretched beneath him in layers of firelight and shadow. The city was beautiful from above, if a person was willing to ignore the smoke, the sewage, the screaming, and the fact that most of its wealth had been built by people who had never been allowed to keep any of it."
+"text": "That night he sat on the roof above the kiln with the journal open in his lap. OO-rook stretched beneath him in layers of firelight and shadow. The city was beautiful from above, if a person was willing to ignore the smoke, the sewage, the screaming, and the fact that most of its wealth had been built by people who had never been allowed to keep any of it.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -975,7 +1369,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek frowned."
+"text": "Zeek frowned.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -991,15 +1386,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "North."
+"text": "North.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Steady."
+"text": "Steady.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Predictable."
+"text": "Predictable.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1011,7 +1409,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "North remained north."
+"text": "North remained north.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1023,7 +1422,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing."
+"text": "Nothing.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -1035,11 +1435,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "No loose weight."
+"text": "No loose weight.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "No broken pivot."
+"text": "No broken pivot.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1051,15 +1453,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "No change."
+"text": "No change.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Beside his knife."
+"text": "Beside his knife.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Nothing."
+"text": "Nothing.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -1067,7 +1472,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Still nothing."
+"text": "Still nothing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1079,7 +1485,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Hm."
+"text": "Hm.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -1087,11 +1497,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not useful."
+"text": "Not useful.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Interesting."
+"text": "Interesting.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1108,7 +1520,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Still nothing."
+"text": "Still nothing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1124,11 +1537,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "The needle twitched."
+"text": "The needle twitched.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Zeek froze."
+"text": "Zeek froze.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1140,11 +1555,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not toward north."
+"text": "Not toward north.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Toward him."
+"text": "Toward him.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1152,7 +1569,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "His pulse quickened."
+"text": "His pulse quickened.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1160,7 +1578,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The needle dropped."
+"text": "The needle dropped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1168,15 +1587,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "The same result."
+"text": "The same result.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Again."
+"text": "Again.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "The same."
+"text": "The same.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1184,11 +1606,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "The mark pulsed."
+"text": "The mark pulsed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "The compass answered."
+"text": "The compass answered.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1196,7 +1620,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek stared."
+"text": "Zeek stared.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1208,7 +1633,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "He sat motionless."
+"text": "He sat motionless.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1233,11 +1659,19 @@
 {
 "speaker": "Bel-iddin",
 "text": "IF YOU FIND THIS, DO NOT LOOK FOR ME.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Recalled journal lines in Bel-iddin's hand."
 },
 {
 "speaker": "Bel-iddin",
 "text": "FIND THE CITY.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Recalled journal lines in Bel-iddin's hand."
 },
 {
@@ -1302,7 +1736,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "He reached for his father's journal."
+"text": "He reached for his father's journal.",
+"pauseBefore": 1.2
 }
 ]
 }

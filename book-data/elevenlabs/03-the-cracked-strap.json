@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "03-the-cracked-strap",
 "title": "Chapter 3 — The Cracked Strap",
-"chars": 5208,
+"chars": 5216,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -53,7 +53,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo squinted at the sun.",
+"text": "En-KHEH-doo squinted at the sun.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -82,19 +82,35 @@
 },
 {
 "speaker": "Balag",
-"text": "You always sew like you're angry."
+"text": "You always sew like you're angry.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Zik",
-"text": "I'm not sewing."
+"text": "I'm not sewing.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "No?"
+"text": "No?",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Zik",
-"text": "I'm arguing with bad leather."
+"text": "I'm arguing with bad leather.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -110,7 +126,11 @@
 },
 {
 "speaker": "Zik",
-"text": "It usually does."
+"text": "It usually does.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -118,7 +138,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Good enough,"
+"text": "Good enough,",
+"tags": [
+"satisfied"
+],
+"tag": "satisfied"
 },
 {
 "speaker": "Narrator",
@@ -127,11 +151,19 @@
 },
 {
 "speaker": "Zik",
-"text": "It'll outlive the donkey."
+"text": "It'll outlive the donkey.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "The donkey heard that."
+"text": "The donkey heard that.",
+"tags": [
+"mock-offended"
+],
+"tag": "mock-offended"
 },
 {
 "speaker": "Narrator",
@@ -139,15 +171,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked up."
+"text": "En-KHEH-doo looked up.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "I think it agrees with BAH-lahg."
+"text": "I think it agrees with BAH-lahg.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Zik",
-"text": "It always agrees with whoever isn't asking it to work."
+"text": "It always agrees with whoever isn't asking it to work.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -155,23 +196,43 @@
 },
 {
 "speaker": "Balag",
-"text": "You'd complain too if someone expected you to carry half a mountain through the desert."
+"text": "You'd complain too if someone expected you to carry half a mountain through the desert.",
+"tags": [
+"fondly"
+],
+"tag": "fondly"
 },
 {
 "speaker": "Enhedu",
-"text": "I don't complain."
+"text": "I don't complain.",
+"tags": [
+"indignant"
+],
+"tag": "indignant"
 },
 {
 "speaker": "Balag",
-"text": "You complain constantly."
+"text": "You complain constantly.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Enhedu",
-"text": "I make observations."
+"text": "I make observations.",
+"tags": [
+"primly"
+],
+"tag": "primly"
 },
 {
 "speaker": "Balag",
-"text": "Very loudly."
+"text": "Very loudly.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Enhedu",
@@ -179,11 +240,19 @@
 },
 {
 "speaker": "Balag",
-"text": "They're mostly about me."
+"text": "They're mostly about me.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Enhedu",
-"text": "They're the easiest ones to verify."
+"text": "They're the easiest ones to verify.",
+"tags": [
+"smugly"
+],
+"tag": "smugly"
 },
 {
 "speaker": "Narrator",
@@ -203,7 +272,11 @@
 },
 {
 "speaker": "Zik",
-"text": "I'd forgotten what that sounded like."
+"text": "I'd forgotten what that sounded like.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -211,7 +284,11 @@
 },
 {
 "speaker": "Balag",
-"text": "So had I."
+"text": "So had I.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -220,7 +297,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo picked up the strip of ruined leather and turned it over in her hands."
+"text": "En-KHEH-doo picked up the strip of ruined leather and turned it over in her hands."
 },
 {
 "speaker": "Narrator",
@@ -232,7 +309,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "You know why leather fails here?"
+"text": "You know why leather fails here?",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -256,7 +337,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He'll see it."
+"text": "He'll see it.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -264,7 +349,11 @@
 },
 {
 "speaker": "Zik",
-"text": "It wasn't the weight."
+"text": "It wasn't the weight.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -324,15 +413,23 @@
 },
 {
 "speaker": "Zik",
-"text": "It fails long before it looks broken."
+"text": "It fails long before it looks broken.",
+"tags": [
+"meaningfully"
+],
+"tag": "meaningfully"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo slipped it into her pouch."
+"text": "En-KHEH-doo slipped it into her pouch."
 },
 {
 "speaker": "Enhedu",
-"text": "Useful thing to remember."
+"text": "Useful thing to remember.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -340,11 +437,19 @@
 },
 {
 "speaker": "Balag",
-"text": "For leather?"
+"text": "For leather?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Enhedu",
-"text": "For people."
+"text": "For people.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -365,7 +470,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Until it doesn't,"
+"text": "Until it doesn't,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -374,19 +483,31 @@
 },
 {
 "speaker": "Zik",
-"text": "Same as everything else."
+"text": "Same as everything else.",
+"tags": [
+"darkly"
+],
+"tag": "darkly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed."
+"text": "En-KHEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed."
 },
 {
 "speaker": "Balag",
-"text": "What the hell do you want with that?"
+"text": "What the hell do you want with that?",
+"tags": [
+"puzzled"
+],
+"tag": "puzzled"
 },
 {
 "speaker": "Enhedu",
-"text": "Waste bothers me."
+"text": "Waste bothers me.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -394,7 +515,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "They rested longer than the schedule allowed. The animals needed it more than anyone wanted to admit. Zeek sat with his back against the dead tree and took the journal out only long enough to confirm the last page hadn't changed. Three lines. No new ink. He closed it and, for the first time since the tomb, deliberately left it in the pack instead of keeping it against his ribs."
+"text": "They rested longer than the schedule allowed. The animals needed it more than anyone wanted to admit. Zeek sat with his back against the dead tree and took the journal out only long enough to confirm the last page hadn't changed. Three lines. No new ink. He closed it and, for the first time since the tomb, deliberately left it in the pack instead of keeping it against his ribs.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -410,7 +532,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Thinking about how much silver it takes to keep a mother in medicine and a crew in rope."
+"text": "Thinking about how much silver it takes to keep a mother in medicine and a crew in rope.",
+"tags": [
+"tired"
+],
+"tag": "tired"
 },
 {
 "speaker": "Narrator",
@@ -427,15 +553,21 @@
 },
 {
 "speaker": "Zik",
-"text": "Always is."
+"text": "Always is.",
+"tags": [
+"wearily"
+],
+"tag": "wearily"
 },
 {
 "speaker": "Narrator",
-"text": "They moved on once the shadow of the acacia had shrunk to nothing useful. The repaired strap held. The donkeys settled into their usual sullen rhythm. The journal stayed in the pack, quiet for once."
+"text": "They moved on once the shadow of the acacia had shrunk to nothing useful. The repaired strap held. The donkeys settled into their usual sullen rhythm. The journal stayed in the pack, quiet for once.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. Uruk was still a day out, but the desert had started remembering there were cities in the world."
+"text": "Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. OO-rook was still a day out, but the desert had started remembering there were cities in the world.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -447,7 +579,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "He already knew which way it pointed."
+"text": "He already knew which way it pointed.",
+"pauseBefore": 1.2
 }
 ]
 }

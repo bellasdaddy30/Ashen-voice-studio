@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "33-the-price-of-retention",
 "title": "Chapter 33 — The Price of Retention",
-"chars": 3527,
+"chars": 3553,
 "speakers": [
 "Balag",
 "Narrator",
@@ -32,7 +32,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "From inside BAH-lahg's pack the fourth knock still hung in the air, unanswered. No one moved to open the straps. BAH-lahg had gone still in the particular way he did when the ground itself had become untrustworthy. En-HEH-doo watched the canvas without reaching for it, the figurine turning once in her fingers and then forgotten. Ninsun stood two feet from them, hands clenched white at her sides, and neither of the others looked at her."
+"text": "From inside BAH-lahg's pack the fourth knock still hung in the air, unanswered. No one moved to open the straps. BAH-lahg had gone still in the particular way he did when the ground itself had become untrustworthy. En-KHEH-doo watched the canvas without reaching for it, the figurine turning once in her fingers and then forgotten. NEEN-soon stood two feet from them, hands clenched white at her sides, and neither of the others looked at her."
 },
 {
 "speaker": "Narrator",
@@ -44,7 +44,11 @@
 },
 {
 "speaker": "Balag",
-"text": "We need to move,"
+"text": "We need to move,",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
@@ -53,11 +57,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Zeek? You coming, or are you going to keep staring at your book?"
+"text": "Zeek? You coming, or are you going to keep staring at your book?",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "Narrator",
-"text": "Zeek looked from BAH-lahg to Ninsun."
+"text": "Zeek looked from BAH-lahg to NEEN-soon."
 },
 {
 "speaker": "Narrator",
@@ -92,7 +100,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Looking at Ninsun changed the arithmetic."
+"text": "Looking at NEEN-soon changed the arithmetic."
 },
 {
 "speaker": "Narrator",
@@ -104,7 +112,7 @@
 },
 {
 "speaker": "Zik",
-"text": "Her name is Ninsun. She is with us. She stays.",
+"text": "Her name is NEEN-soon. She is with us. She stays.",
 "tags": [
 "firmly"
 ],
@@ -116,11 +124,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then BAH-lahg blinked, once, hard, as if something behind his eyes had been forcibly rethreaded. He looked at Ninsun with the startled recognition of a man who has just remembered a debt he did not know he owed."
+"text": "Then BAH-lahg blinked, once, hard, as if something behind his eyes had been forcibly rethreaded. He looked at NEEN-soon with the startled recognition of a man who has just remembered a debt he did not know he owed."
 },
 {
 "speaker": "Balag",
-"text": "Ninsun,"
+"text": "NEEN-soon,",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
@@ -129,15 +141,19 @@
 },
 {
 "speaker": "Balag",
-"text": "Right. The scholar."
+"text": "Right. The scholar.",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's gaze slid toward her and held. Not with warmth. With the remote attention she now gave anything that had been declared relevant by someone else."
+"text": "En-KHEH-doo's gaze slid toward her and held. Not with warmth. With the remote attention she now gave anything that had been declared relevant by someone else."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun exhaled a sound that was almost a sob and almost nothing."
+"text": "NEEN-soon exhaled a sound that was almost a sob and almost nothing."
 },
 {
 "speaker": "Narrator",
@@ -158,7 +174,11 @@
 },
 {
 "speaker": "Balag",
-"text": "What did you just do, Zeek? Why is she still here?"
+"text": "What did you just do, Zeek? Why is she still here?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
@@ -166,7 +186,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Because I decided she was."
+"text": "Because I decided she was.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -174,7 +198,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "They began walking. Ninsun stayed close enough behind him that he could hear the rhythm of her breathing. He knew her name. He knew she belonged with them."
+"text": "They began walking. NEEN-soon stayed close enough behind him that he could hear the rhythm of her breathing. He knew her name. He knew she belonged with them."
 },
 {
 "speaker": "Narrator",
@@ -186,7 +210,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The City kept its records."
+"text": "The City kept its records.",
+"pauseBefore": 1.2
 }
 ]
 }

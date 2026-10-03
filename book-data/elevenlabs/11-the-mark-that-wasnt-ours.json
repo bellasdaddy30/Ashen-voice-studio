@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "11-the-mark-that-wasnt-ours",
 "title": "Chapter 11 — The Mark That Wasn’t Ours",
-"chars": 6129,
+"chars": 6160,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -30,33 +30,45 @@
 },
 {
 "speaker": "Narrator",
-"text": "It was in a narrow cut between two dye-houses that had opened overnight and already started to close at the edges. Two clean marks sat at the base of the left wall, cut at the same depth and angle Ninsun used. Beside them someone had added a third—slightly deeper, the edges still sharp with stone dust."
+"text": "It was in a narrow cut between two dye-houses that had opened overnight and already started to close at the edges. Two clean marks sat at the base of the left wall, cut at the same depth and angle NEEN-soon used. Beside them someone had added a third—slightly deeper, the edges still sharp with stone dust."
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg saw it first. He stopped so suddenly that En-HEH-doo nearly walked into his back."
+"text": "BAH-lahg saw it first. He stopped so suddenly that En-KHEH-doo nearly walked into his back."
 },
 {
 "speaker": "Balag",
-"text": "That one's not ours."
+"text": "That one's not ours.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun crouched and studied the three marks without touching them. After a long moment she shook her head.",
+"text": "NEEN-soon crouched and studied the three marks without touching them. After a long moment she shook her head.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The third isn't mine. The angle's wrong. Whoever cut it was stronger in the wrist and less patient."
+"text": "The third isn't mine. The angle's wrong. Whoever cut it was stronger in the wrist and less patient.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo exhaled through her nose.",
+"text": "En-KHEH-doo exhaled through her nose.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "So either we're not the only ones marking, or the fucking city learned the system."
+"text": "So either we're not the only ones marking, or the fucking city learned the system.",
+"tags": [
+"annoyed"
+],
+"tag": "annoyed"
 },
 {
 "speaker": "Narrator",
@@ -68,7 +80,11 @@
 },
 {
 "speaker": "Zik",
-"text": "We leave it,"
+"text": "We leave it,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -78,6 +94,7 @@
 {
 "speaker": "Narrator",
 "text": "BAH-lahg frowned.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -90,11 +107,15 @@
 },
 {
 "speaker": "Zik",
-"text": "We mark our own and we move. If we start chasing every cut that isn't ours, we'll still be here when the streets forget our names."
+"text": "We mark our own and we move. If we start chasing every cut that isn't ours, we'll still be here when the streets forget our names.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun carefully added the location to her ugly, incomplete map, noting the forged third mark with a small cross. Her handwriting had gotten smaller and tighter over the last few days, as if she were trying to fit more city onto less paper."
+"text": "NEEN-soon carefully added the location to her ugly, incomplete map, noting the forged third mark with a small cross. Her handwriting had gotten smaller and tighter over the last few days, as if she were trying to fit more city onto less paper."
 },
 {
 "speaker": "Narrator",
@@ -102,7 +123,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "That night the consequences arrived."
+"text": "That night the consequences arrived.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -110,7 +132,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Man said to give this to the ones cutting marks on the walls,"
+"text": "Man said to give this to the ones cutting marks on the walls,",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -119,7 +145,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Said you'd know."
+"text": "Said you'd know.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -127,7 +157,11 @@
 },
 {
 "speaker": "Balag",
-"text": "What man?"
+"text": "What man?",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
@@ -135,11 +169,19 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Didn't say."
+"text": "Didn't say.",
+"tags": [
+"sullen"
+],
+"tag": "sullen"
 },
 {
 "speaker": "Balag",
-"text": "What did he look like?"
+"text": "What did he look like?",
+"tags": [
+"patiently"
+],
+"tag": "patiently"
 },
 {
 "speaker": "Narrator",
@@ -147,11 +189,19 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Old."
+"text": "Old.",
+"tags": [
+"sullen"
+],
+"tag": "sullen"
 },
 {
 "speaker": "Balag",
-"text": "How old?"
+"text": "How old?",
+"tags": [
+"patiently"
+],
+"tag": "patiently"
 },
 {
 "speaker": "Narrator",
@@ -159,11 +209,15 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Older than me."
+"text": "Older than me.",
+"tags": [
+"sullen"
+],
+"tag": "sullen"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo snorted."
+"text": "En-KHEH-doo snorted."
 },
 {
 "speaker": "Enhedu",
@@ -179,7 +233,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Try again."
+"text": "Try again.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -187,11 +245,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then at BAH-lahg."
+"text": "Then at BAH-lahg.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Messenger Boy",
-"text": "He had clean hands."
+"text": "He had clean hands.",
+"tags": [
+"eager"
+],
+"tag": "eager"
 },
 {
 "speaker": "Narrator",
@@ -204,11 +267,19 @@
 },
 {
 "speaker": "Balag",
-"text": "What?"
+"text": "What?",
+"tags": [
+"surprised"
+],
+"tag": "surprised"
 },
 {
 "speaker": "Messenger Boy",
-"text": "That's what I noticed."
+"text": "That's what I noticed.",
+"tags": [
+"matter-of-fact"
+],
+"tag": "matter-of-fact"
 },
 {
 "speaker": "Narrator",
@@ -216,7 +287,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "Everyone around here has dirty hands."
+"text": "Everyone around here has dirty hands.",
+"tags": [
+"casually"
+],
+"tag": "casually"
 },
 {
 "speaker": "Narrator",
@@ -228,19 +303,31 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "The man didn't."
+"text": "The man didn't.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked up from the table."
+"text": "NEEN-soon looked up from the table."
 },
 {
 "speaker": "Ninsun",
-"text": "A scribe."
+"text": "A scribe.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Messenger Boy",
-"text": "Maybe."
+"text": "Maybe.",
+"tags": [
+"unsure"
+],
+"tag": "unsure"
 },
 {
 "speaker": "Narrator",
@@ -248,31 +335,59 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "He didn't walk like one."
+"text": "He didn't walk like one.",
+"tags": [
+"unsure"
+],
+"tag": "unsure"
 },
 {
 "speaker": "Ninsun",
-"text": "Temple?"
+"text": "Temple?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Messenger Boy",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Ninsun",
-"text": "Merchant?"
+"text": "Merchant?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Messenger Boy",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Ninsun",
-"text": "Soldier?"
+"text": "Soldier?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Messenger Boy",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Narrator",
@@ -280,15 +395,27 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "He stood where the alley bends."
+"text": "He stood where the alley bends.",
+"tags": [
+"frustrated"
+],
+"tag": "frustrated"
 },
 {
 "speaker": "Ninsun",
-"text": "Waiting?"
+"text": "Waiting?",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Messenger Boy",
-"text": "Like he already knew I'd come."
+"text": "Like he already knew I'd come.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -296,7 +423,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Did he watch us?"
+"text": "Did he watch us?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Narrator",
@@ -304,7 +435,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "He knew which room."
+"text": "He knew which room.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -312,27 +447,51 @@
 },
 {
 "speaker": "Zik",
-"text": "Did you tell him?"
+"text": "Did you tell him?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Messenger Boy",
-"text": "No."
+"text": "No.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "He guessed?"
+"text": "He guessed?",
+"tags": [
+"suspicious"
+],
+"tag": "suspicious"
 },
 {
 "speaker": "Messenger Boy",
-"text": "He pointed."
+"text": "He pointed.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "Before you came upstairs?"
+"text": "Before you came upstairs?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Messenger Boy",
-"text": "Before I crossed the street."
+"text": "Before I crossed the street.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -345,7 +504,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "He also said something else."
+"text": "He also said something else.",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -365,7 +528,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "'Tell them…'"
+"text": "'Tell them…'",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -373,7 +540,11 @@
 },
 {
 "speaker": "Messenger Boy",
-"text": "'…they've started making the wrong marks.'"
+"text": "'…they've started making the wrong marks.'",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -430,7 +601,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Blank."
+"text": "Blank.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -438,23 +610,36 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing showed through."
+"text": "Nothing showed through.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo reached for it."
+"text": "En-KHEH-doo reached for it."
 },
 {
 "speaker": "Enhedu",
-"text": "The handwriting."
+"text": "The handwriting.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Zik",
-"text": "What about it?"
+"text": "What about it?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Enhedu",
-"text": "It isn't hurried."
+"text": "It isn't hurried.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -462,7 +647,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "Whoever wrote this expected we'd read it."
+"text": "Whoever wrote this expected we'd read it.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -478,19 +667,27 @@
 },
 {
 "speaker": "Enhedu",
-"text": "No."
+"text": "No.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo tapped one corner."
+"text": "En-KHEH-doo tapped one corner."
 },
 {
 "speaker": "Enhedu",
-"text": "They expect we'll understand."
+"text": "They expect we'll understand.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stood and crossed the room."
+"text": "NEEN-soon stood and crossed the room."
 },
 {
 "speaker": "Narrator",
@@ -514,11 +711,19 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The spacing."
+"text": "The spacing.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Balag",
-"text": "What spacing?"
+"text": "What spacing?",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "Narrator",
@@ -527,7 +732,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The margins."
+"text": "The margins.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -535,15 +744,27 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The left margin matches mine."
+"text": "The left margin matches mine.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Balag",
-"text": "So?"
+"text": "So?",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "Ninsun",
-"text": "So does the line height."
+"text": "So does the line height.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -551,15 +772,23 @@
 },
 {
 "speaker": "Balag",
-"text": "I feel like scholars are inventing reasons to be frightened."
+"text": "I feel like scholars are inventing reasons to be frightened.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun ignored him."
+"text": "NEEN-soon ignored him."
 },
 {
 "speaker": "Ninsun",
-"text": "I leave exactly this much room at the top of every page."
+"text": "I leave exactly this much room at the top of every page.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -567,15 +796,27 @@
 },
 {
 "speaker": "Ninsun",
-"text": "So does whoever wrote this."
+"text": "So does whoever wrote this.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Balag",
-"text": "Lots of people do."
+"text": "Lots of people do.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -583,7 +824,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Not by accident."
+"text": "Not by accident.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -595,11 +840,19 @@
 },
 {
 "speaker": "Zik",
-"text": "You think someone copied your habits."
+"text": "You think someone copied your habits.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "I think…"
+"text": "I think…",
+"tags": [
+"hesitant"
+],
+"tag": "hesitant"
 },
 {
 "speaker": "Narrator",
@@ -615,15 +868,19 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo folded her arms."
+"text": "En-KHEH-doo folded her arms."
 },
 {
 "speaker": "Enhedu",
-"text": "Or you've seen theirs."
+"text": "Or you've seen theirs.",
+"tags": [
+"shrewdly"
+],
+"tag": "shrewdly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun didn't answer."
+"text": "NEEN-soon didn't answer."
 },
 {
 "speaker": "Narrator",
@@ -631,16 +888,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo read it over his shoulder.",
+"text": "En-KHEH-doo read it over his shoulder.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "Someone's territorial."
+"text": "Someone's territorial.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "Or the city hired better messengers,"
+"text": "Or the city hired better messengers,",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -649,7 +914,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun took the scrap and set it beside her map without comment. After a moment she drew a small, precise box around the entire western dye-house district and wrote a single word inside it:"
+"text": "NEEN-soon took the scrap and set it beside her map without comment. After a moment she drew a small, precise box around the entire western dye-house district and wrote a single word inside it:"
 },
 {
 "speaker": "Narrator",
@@ -658,6 +923,7 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -690,7 +956,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "They felt observed."
+"text": "They felt observed.",
+"pauseBefore": 1.2
 }
 ]
 }

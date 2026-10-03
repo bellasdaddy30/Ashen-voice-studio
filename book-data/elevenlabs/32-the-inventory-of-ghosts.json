@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "32-the-inventory-of-ghosts",
 "title": "Chapter 32 — The Inventory of Ghosts",
-"chars": 4176,
+"chars": 4210,
 "speakers": [
 "Balag",
 "Narrator",
@@ -32,11 +32,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg was still staring at Ninsun."
+"text": "BAH-lahg was still staring at NEEN-soon."
 },
 {
 "speaker": "Balag",
-"text": "Who?"
+"text": "Who?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
@@ -50,11 +54,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's grip on his axe had gone loose. He regarded Ninsun with the polite, distant curiosity reserved for a stranger bumped into in a crowded market—a flicker of acknowledgment, nothing more, no history behind the eyes at all."
+"text": "BAH-lahg's grip on his axe had gone loose. He regarded NEEN-soon with the polite, distant curiosity reserved for a stranger bumped into in a crowded market—a flicker of acknowledgment, nothing more, no history behind the eyes at all."
 },
 {
 "speaker": "Zik",
-"text": "She's a scholar,"
+"text": "She's a scholar,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -63,7 +71,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Ninsun. She's been with us since the gate."
+"text": "NEEN-soon. She's been with us since the gate.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -88,11 +100,15 @@
 },
 {
 "speaker": "Balag",
-"text": "We were three. You, me, and the knife-woman."
+"text": "We were three. You, me, and the knife-woman.",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
-"text": "He gestured vaguely toward En-HEH-doo, who watched without reacting, the figurine turning slowly in her hands.",
+"text": "He gestured vaguely toward En-KHEH-doo, who watched without reacting, the figurine turning slowly in her hands.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -105,15 +121,19 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stepped forward and reached for his arm. He flinched away as though her hand carried contagion."
+"text": "NEEN-soon stepped forward and reached for his arm. He flinched away as though her hand carried contagion."
 },
 {
 "speaker": "Balag",
-"text": "Don't."
+"text": "Don't.",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
-"text": "Zeek's mind moved through the cold arithmetic of the situation the way he had once turned over the mechanics of a trap before deciding where to place his foot. If the City had edited BAH-lahg's memory, what exactly had it put in the empty space where Ninsun used to be? A simple blank? Or an alternate history, complete and self-consistent, in which she had never existed and the three of them had always been three?"
+"text": "Zeek's mind moved through the cold arithmetic of the situation the way he had once turned over the mechanics of a trap before deciding where to place his foot. If the City had edited BAH-lahg's memory, what exactly had it put in the empty space where NEEN-soon used to be? A simple blank? Or an alternate history, complete and self-consistent, in which she had never existed and the three of them had always been three?"
 },
 {
 "speaker": "Narrator",
@@ -121,24 +141,36 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun turned to him.",
+"text": "NEEN-soon turned to him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Tell him."
+"text": "Tell him.",
+"tags": [
+"desperate"
+],
+"tag": "desperate"
 },
 {
 "speaker": "Zik",
-"text": "I already did."
+"text": "I already did.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "Tell him again."
+"text": "Tell him again.",
+"tags": [
+"desperate"
+],
+"tag": "desperate"
 },
 {
 "speaker": "Narrator",
-"text": "Zeek opened his mouth. For a moment the words would not form. The shape of Ninsun's presence was still there—the scholar who had argued for knowledge over silver, who had copied the map until her fingers stained, who had watched his face as if trying to memorize it—but the specific reasons she belonged with them had begun to soften at the edges, the way a word softens in the mouth right before it is lost."
+"text": "Zeek opened his mouth. For a moment the words would not form. The shape of NEEN-soon's presence was still there—the scholar who had argued for knowledge over silver, who had copied the map until her fingers stained, who had watched his face as if trying to memorize it—but the specific reasons she belonged with them had begun to soften at the edges, the way a word softens in the mouth right before it is lost."
 },
 {
 "speaker": "Narrator",
@@ -155,7 +187,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun whispered.",
+"text": "NEEN-soon whispered.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -177,7 +209,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg turned slowly. En-HEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness."
+"text": "BAH-lahg turned slowly. En-KHEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness."
 },
 {
 "speaker": "Narrator",
@@ -203,11 +235,12 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "He looked at the three people standing around him—BAH-lahg, En-HEH-doo, Ninsun—and then, finally, at himself."
+"text": "He looked at the three people standing around him—BAH-lahg, En-KHEH-doo, NEEN-soon—and then, finally, at himself."
 },
 {
 "speaker": "Narrator",
@@ -220,15 +253,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "Once."
+"text": "Once.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Twice."
+"text": "Twice.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Three times."
+"text": "Three times.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -240,11 +276,19 @@
 },
 {
 "speaker": "Zik",
-"text": "Don't."
+"text": "Don't.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Balag",
-"text": "Why?"
+"text": "Why?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
@@ -261,11 +305,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "The chamber seemed to contract around them. The walls leaned inward as if to hear better. Ninsun made a small, strangled sound. En-HEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash."
+"text": "The chamber seemed to contract around them. The walls leaned inward as if to hear better. NEEN-soon made a small, strangled sound. En-KHEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash."
 },
 {
 "speaker": "Narrator",
-"text": "From inside the pack came a fourth knock."
+"text": "From inside the pack came a fourth knock.",
+"pauseBefore": 1.2
 }
 ]
 }

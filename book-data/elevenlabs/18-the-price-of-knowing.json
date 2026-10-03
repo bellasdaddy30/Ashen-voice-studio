@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "18-the-price-of-knowing",
 "title": "Chapter 18 — The Price of Knowing",
-"chars": 9255,
+"chars": 9262,
 "speakers": [
 "Balag",
 "Bel-iddin",
@@ -32,6 +32,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "…is still waiting below.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Text calls this 'Bel-iddin's final words' though Zik spoke it at the end of Ch.17. CHECK attribution."
 },
 {
@@ -48,7 +52,11 @@
 },
 {
 "speaker": "Balag",
-"text": "If we're doing this again, we leave prepared."
+"text": "If we're doing this again, we leave prepared.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -56,23 +64,35 @@
 },
 {
 "speaker": "Zik",
-"text": "Rope. Lamps. Water. Oil."
+"text": "Rope. Lamps. Water. Oil.",
+"tags": [
+"practical"
+],
+"tag": "practical"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun gathered her copied notes."
+"text": "NEEN-soon gathered her copied notes."
 },
 {
 "speaker": "Ninsun",
-"text": "I'll inventory what we already have."
+"text": "I'll inventory what we already have.",
+"tags": [
+"briskly"
+],
+"tag": "briskly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo stood."
+"text": "En-KHEH-doo stood."
 },
 {
 "speaker": "Enhedu",
-"text": "I'll see what can be bought without attracting attention."
+"text": "I'll see what can be bought without attracting attention.",
+"tags": [
+"shrewdly"
+],
+"tag": "shrewdly"
 },
 {
 "speaker": "Narrator",
@@ -80,7 +100,11 @@
 },
 {
 "speaker": "Zik",
-"text": "My equipment is still at my mother's house."
+"text": "My equipment is still at my mother's house.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -88,7 +112,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Then don't wander."
+"text": "Then don't wander.",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
@@ -112,7 +140,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Normal. Manageable."
+"text": "Normal. Manageable.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -144,7 +173,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek kept walking."
+"text": "Zeek kept walking.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -156,11 +186,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek turned left."
+"text": "Zeek turned left.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "The scribe followed."
+"text": "The scribe followed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -180,7 +212,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Temple business or personal?"
+"text": "Temple business or personal?",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -190,15 +226,24 @@
 {
 "speaker": "Narrator",
 "text": "The scribe stiffened.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "False Scribe",
-"text": "Neither."
+"text": "Neither.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "That wasn't one of the options."
+"text": "That wasn't one of the options.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -206,7 +251,11 @@
 },
 {
 "speaker": "False Scribe",
-"text": "The Collector sends his regards,"
+"text": "The Collector sends his regards,",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -215,19 +264,35 @@
 },
 {
 "speaker": "Zik",
-"text": "Then send mine back."
+"text": "Then send mine back.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "False Scribe",
-"text": "He would like to speak with you again."
+"text": "He would like to speak with you again.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "Tell him I'm busy."
+"text": "Tell him I'm busy.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "False Scribe",
-"text": "Tonight."
+"text": "Tonight.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -235,7 +300,11 @@
 },
 {
 "speaker": "Zik",
-"text": "That sounded less like a request."
+"text": "That sounded less like a request.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -243,11 +312,19 @@
 },
 {
 "speaker": "False Scribe",
-"text": "The Collector is prepared to offer ten times what you received today."
+"text": "The Collector is prepared to offer ten times what you received today.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "For the beads?"
+"text": "For the beads?",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -255,11 +332,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek's smile disappeared."
+"text": "Zeek's smile disappeared.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "False Scribe",
-"text": "For the journal,"
+"text": "For the journal,",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -273,11 +355,16 @@
 {
 "speaker": "Narrator",
 "text": "He continued quickly.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "False Scribe",
-"text": "Or anything else you removed from the chamber."
+"text": "Or anything else you removed from the chamber.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -289,7 +376,11 @@
 },
 {
 "speaker": "Zik",
-"text": "How does he know?"
+"text": "How does he know?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -306,19 +397,35 @@
 },
 {
 "speaker": "Zik",
-"text": "Try again."
+"text": "Try again.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "False Scribe",
-"text": "The Collector knows many things."
+"text": "The Collector knows many things.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "That's not an answer."
+"text": "That's not an answer.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "False Scribe",
-"text": "He says the mark has a way of announcing itself."
+"text": "He says the mark has a way of announcing itself.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -326,7 +433,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Announcing itself to whom?"
+"text": "Announcing itself to whom?",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -334,7 +445,11 @@
 },
 {
 "speaker": "False Scribe",
-"text": "Especially to those who have seen it before."
+"text": "Especially to those who have seen it before.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -347,11 +462,19 @@
 },
 {
 "speaker": "False Scribe",
-"text": "Is that all?"
+"text": "Is that all?",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "No."
+"text": "No.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -363,7 +486,11 @@
 },
 {
 "speaker": "False Scribe",
-"text": "The Collector says you should not go back."
+"text": "The Collector says you should not go back.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Narrator",
@@ -371,7 +498,11 @@
 },
 {
 "speaker": "Zik",
-"text": "To the site?"
+"text": "To the site?",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -380,11 +511,16 @@
 {
 "speaker": "Narrator",
 "text": "Zeek stepped closer.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
-"text": "Did he tell you why?"
+"text": "Did he tell you why?",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -392,19 +528,35 @@
 },
 {
 "speaker": "False Scribe",
-"text": "No."
+"text": "No.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "Did he tell you what happens if I do?"
+"text": "Did he tell you what happens if I do?",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "False Scribe",
-"text": "No."
+"text": "No.",
+"tags": [
+"nervous"
+],
+"tag": "nervous"
 },
 {
 "speaker": "Zik",
-"text": "Then you have wasted both our time."
+"text": "Then you have wasted both our time.",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Narrator",
@@ -416,7 +568,11 @@
 },
 {
 "speaker": "False Scribe",
-"text": "Zee-keer."
+"text": "Zee-keer.",
+"tags": [
+"calmly"
+],
+"tag": "calmly"
 },
 {
 "speaker": "Narrator",
@@ -522,7 +678,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek did."
+"text": "Zeek did.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -546,11 +703,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "One. Two. Three."
+"text": "One. Two. Three.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "All present."
+"text": "All present.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -611,6 +770,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "I WAS WRONG ABOUT WHO WAS LOOKING.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "New line in Bel-iddin's hand, still wet."
 },
 {
@@ -631,11 +794,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "They hadn't."
+"text": "They hadn't.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Zeek's breath stopped."
+"text": "Zeek's breath stopped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -651,7 +816,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek touched it."
+"text": "Zeek touched it.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -703,7 +869,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Habit."
+"text": "Habit.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -715,31 +882,38 @@
 },
 {
 "speaker": "Narrator",
-"text": "Torchlight."
+"text": "Torchlight.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Voices."
+"text": "Voices.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Wheels."
+"text": "Wheels.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Dogs."
+"text": "Dogs.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Somewhere, someone laughed."
+"text": "Somewhere, someone laughed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Halfway to the street the journal moved."
+"text": "Halfway to the street the journal moved.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "Once."
+"text": "Once.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -747,11 +921,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "A knock."
+"text": "A knock.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Zeek stopped."
+"text": "Zeek stopped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -764,19 +940,22 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then, from somewhere deep beneath Uruk, something answered."
+"text": "Then, from somewhere deep beneath OO-rook, something answered."
 },
 {
 "speaker": "Narrator",
-"text": "Not loudly."
+"text": "Not loudly.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Not with sound."
+"text": "Not with sound.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "With recognition."
+"text": "With recognition.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -800,7 +979,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "It felt as though it had received an answer."
+"text": "It felt as though it had received an answer.",
+"pauseBefore": 1.2
 }
 ]
 }

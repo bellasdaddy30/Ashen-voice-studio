@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "02-the-weight-of-the-share",
 "title": "Chapter 2 — The Weight of the Share",
-"chars": 5889,
+"chars": 5906,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -28,7 +28,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The desert wind had already begun erasing their tracks. Sand slid into the open stairway behind them in soft continuous sheets, as if the ground itself preferred the hole filled. BAH-lahg walked ahead with the two remaining donkeys, spear across his shoulders. En-HEH-doo kept to the side, knife loose in her hand, eyes on the darkening ridges. Zeek brought up the rear, the journal and the compass both heavy against his ribs."
+"text": "The desert wind had already begun erasing their tracks. Sand slid into the open stairway behind them in soft continuous sheets, as if the ground itself preferred the hole filled. BAH-lahg walked ahead with the two remaining donkeys, spear across his shoulders. En-KHEH-doo kept to the side, knife loose in her hand, eyes on the darkening ridges. Zeek brought up the rear, the journal and the compass both heavy against his ribs."
 },
 {
 "speaker": "Narrator",
@@ -41,7 +41,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The lead animal slowed every few hundred paces, ears twitching as though waiting for the familiar whistle that always came from somewhere behind the line. KOO-rash had been the one to soothe them when they grew stubborn. He talked to them more than he talked to people, inventing long stories they could not possibly understand."
+"text": "The lead animal slowed every few hundred paces, ears twitching as though waiting for the familiar whistle that always came from somewhere behind the line. KOO-rahsh had been the one to soothe them when they grew stubborn. He talked to them more than he talked to people, inventing long stories they could not possibly understand."
 },
 {
 "speaker": "Narrator",
@@ -69,23 +69,36 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing."
+"text": "Nothing.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo watched for a moment."
+"text": "En-KHEH-doo watched for a moment."
 },
 {
 "speaker": "Enhedu",
-"text": "It keeps looking behind us."
+"text": "It keeps looking behind us.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Balag",
-"text": "It smells him."
+"text": "It smells him.",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Enhedu",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -93,7 +106,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "It smells that he's gone."
+"text": "It smells that he's gone.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -101,15 +118,27 @@
 },
 {
 "speaker": "Balag",
-"text": "I liked you better when you only corrected my archaeology."
+"text": "I liked you better when you only corrected my archaeology.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Enhedu",
-"text": "I've never corrected your archaeology."
+"text": "I've never corrected your archaeology.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "You've corrected everything else."
+"text": "You've corrected everything else.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -125,11 +154,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Stubborn beast."
+"text": "Stubborn beast.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Zik",
-"text": "It learned from KOO-rash,",
+"text": "It learned from KOO-rahsh,",
 "tags": [
 "softly"
 ],
@@ -150,7 +183,11 @@
 },
 {
 "speaker": "Balag",
-"text": "So it did."
+"text": "So it did.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -162,11 +199,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Finally En-HEH-doo spoke."
+"text": "Finally En-KHEH-doo spoke.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "My brother used to whistle."
+"text": "My brother used to whistle.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -174,7 +216,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He couldn't carry a tune to save his life."
+"text": "He couldn't carry a tune to save his life.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Narrator",
@@ -182,7 +228,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "My mother always knew he was home because every dog in the neighborhood started barking."
+"text": "My mother always knew he was home because every dog in the neighborhood started barking.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Narrator",
@@ -202,15 +252,27 @@
 },
 {
 "speaker": "Balag",
-"text": "You've never mentioned him."
+"text": "You've never mentioned him.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Enhedu",
-"text": "There hasn't been a reason."
+"text": "There hasn't been a reason.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Balag",
-"text": "And now?"
+"text": "And now?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Narrator",
@@ -226,7 +288,11 @@
 },
 {
 "speaker": "Balag",
-"text": "But KOO-rash reminded you."
+"text": "But KOO-rahsh reminded you.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -238,7 +304,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He reminded me that people disappear faster than habits do."
+"text": "He reminded me that people disappear faster than habits do.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -246,7 +316,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The wind shifted."
+"text": "The wind shifted.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -254,11 +325,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash's absence sat between them like a fourth set of footprints that refused to fade. Every gust left fewer places where KOO-rash had ever walked."
+"text": "KOO-rahsh's absence sat between them like a fourth set of footprints that refused to fade. Every gust left fewer places where KOO-rahsh had ever walked."
 },
 {
 "speaker": "Narrator",
-"text": "When they finally stopped, BAH-lahg dropped his gear and began checking the animals' hooves with the same methodical care he gave every practical task. En-HEH-doo crouched a short distance away and cleaned dried blood from under her nails with the tip of her knife. The motion was precise, almost delicate."
+"text": "When they finally stopped, BAH-lahg dropped his gear and began checking the animals' hooves with the same methodical care he gave every practical task. En-KHEH-doo crouched a short distance away and cleaned dried blood from under her nails with the tip of her knife. The motion was precise, almost delicate.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -270,7 +342,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You counting the share already?"
+"text": "You counting the share already?",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
@@ -280,6 +356,7 @@
 {
 "speaker": "Narrator",
 "text": "Zeek glanced up.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -288,7 +365,11 @@
 },
 {
 "speaker": "Balag",
-"text": "KOO-rash's share. You're sitting there doing the arithmetic in your head. I've seen that face before."
+"text": "KOO-rahsh's share. You're sitting there doing the arithmetic in your head. I've seen that face before.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -297,7 +378,11 @@
 },
 {
 "speaker": "Zik",
-"text": "If I don't, somebody else will."
+"text": "If I don't, somebody else will.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -306,6 +391,7 @@
 {
 "speaker": "Narrator",
 "text": "BAH-lahg just grunted.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -323,7 +409,11 @@
 },
 {
 "speaker": "Balag",
-"text": "First crew I worked on, we lost a boy before we even reached the quarry. Fifteen years old. Same hungry look. Same fucking math."
+"text": "First crew I worked on, we lost a boy before we even reached the quarry. Fifteen years old. Same hungry look. Same fucking math.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -340,12 +430,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's knife paused.",
+"text": "En-KHEH-doo's knife paused.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "He would have done the same to any of us if the numbers came out that way."
+"text": "He would have done the same to any of us if the numbers came out that way.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -354,7 +448,11 @@
 },
 {
 "speaker": "Zik",
-"text": "That supposed to make it easier?"
+"text": "That supposed to make it easier?",
+"tags": [
+"bitterly"
+],
+"tag": "bitterly"
 },
 {
 "speaker": "Enhedu",
@@ -383,11 +481,19 @@
 },
 {
 "speaker": "Balag",
-"text": "Collector's going to notice the missing man."
+"text": "Collector's going to notice the missing man.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Zik",
-"text": "Let him notice,"
+"text": "Let him notice,",
+"tags": [
+"dismissively"
+],
+"tag": "dismissively"
 },
 {
 "speaker": "Narrator",
@@ -396,12 +502,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo wiped the last of the blood from her blade and slid it home.",
+"text": "En-KHEH-doo wiped the last of the blood from her blade and slid it home.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "He'll notice the extra silver more."
+"text": "He'll notice the extra silver more.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -421,15 +531,21 @@
 },
 {
 "speaker": "Narrator",
-"text": "They slept in shifts. Zeek took the middle watch. He spent it staring at the dark and listening for the low vibration they had heard beneath the tomb. It did not come. The mark on his palm stayed quiet. The compass, when he checked it, still pointed straight down."
+"text": "They slept in shifts. Zeek took the middle watch. He spent it staring at the dark and listening for the low vibration they had heard beneath the tomb. It did not come. The mark on his palm stayed quiet. The compass, when he checked it, still pointed straight down.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "Toward morning En-HEH-doo relieved him. She sat without speaking for a long time, turning a small copper figurine between her fingers the way other people turned prayer tokens. Time had polished its smiling face nearly smooth."
+"text": "Toward morning En-KHEH-doo relieved him. She sat without speaking for a long time, turning a small copper figurine between her fingers the way other people turned prayer tokens. Time had polished its smiling face nearly smooth.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Enhedu",
-"text": "You going to tell the Collector everything?"
+"text": "You going to tell the Collector everything?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -438,11 +554,19 @@
 },
 {
 "speaker": "Zik",
-"text": "No."
+"text": "No.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Enhedu",
-"text": "Good."
+"text": "Good.",
+"tags": [
+"approvingly"
+],
+"tag": "approvingly"
 },
 {
 "speaker": "Narrator",
@@ -451,7 +575,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "Everything has a price. Some prices are better left unpaid."
+"text": "Everything has a price. Some prices are better left unpaid.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -459,11 +587,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "They broke camp at first light and continued toward Uruk."
+"text": "They broke camp at first light and continued toward OO-rook.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "Behind them, the last trace of KOO-rash's footprints disappeared under the morning wind."
+"text": "Behind them, the last trace of KOO-rahsh's footprints disappeared under the morning wind.",
+"pauseBefore": 1.2
 }
 ]
 }

@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "31-the-name-that-was-crossed-out",
 "title": "Chapter 31 — The Name That Was Crossed Out",
-"chars": 5830,
+"chars": 5850,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -33,7 +33,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "They entered."
+"text": "They entered.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -49,7 +50,12 @@
 },
 {
 "speaker": "Zik",
-"text": "BAH-lahg,"
+"text": "BAH-lahg,",
+"tags": [
+"quietly",
+"distant"
+],
+"tag": "quietly] [distant"
 },
 {
 "speaker": "Narrator",
@@ -58,7 +64,12 @@
 },
 {
 "speaker": "Zik",
-"text": "It's your name. It's crossed out."
+"text": "It's your name. It's crossed out.",
+"tags": [
+"quietly",
+"shaken"
+],
+"tag": "quietly] [shaken"
 },
 {
 "speaker": "Narrator",
@@ -66,7 +77,11 @@
 },
 {
 "speaker": "Balag",
-"text": "You're losing your mind, Zeek,"
+"text": "You're losing your mind, Zeek,",
+"tags": [
+"shaken"
+],
+"tag": "shaken"
 },
 {
 "speaker": "Narrator",
@@ -75,7 +90,11 @@
 },
 {
 "speaker": "Balag",
-"text": "There's nothing there but a blur."
+"text": "There's nothing there but a blur.",
+"tags": [
+"uncertain"
+],
+"tag": "uncertain"
 },
 {
 "speaker": "Narrator",
@@ -83,19 +102,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "The stone under Zeek's gaze continued to rearrange itself. The crossed-out name that had looked like BAH-lahg's a moment earlier was already softening into something else. A different set of characters rose, then blurred, then settled into a shape Ninsun recognized before anyone else did."
+"text": "The stone under Zeek's gaze continued to rearrange itself. The crossed-out name that had looked like BAH-lahg's a moment earlier was already softening into something else. A different set of characters rose, then blurred, then settled into a shape NEEN-soon recognized before anyone else did."
 },
 {
 "speaker": "Narrator",
-"text": "She went still."
+"text": "She went still.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Ninsun",
-"text": "That one is mine."
+"text": "That one is mine.",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked from one of them to the other, then at the wall, calculating even without the desire that had once made calculation feel like survival."
+"text": "En-KHEH-doo looked from one of them to the other, then at the wall, calculating even without the desire that had once made calculation feel like survival."
 },
 {
 "speaker": "Enhedu",
@@ -108,16 +132,24 @@
 },
 {
 "speaker": "Ninsun",
-"text": "We can if the ledger is rewriting itself as we watch,"
+"text": "We can if the ledger is rewriting itself as we watch,",
+"tags": [
+"thin"
+],
+"tag": "thin"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said. Her voice had gone thin.",
+"text": "NEEN-soon said. Her voice had gone thin.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Or if it is showing each of us the account it intends to close next."
+"text": "Or if it is showing each of us the account it intends to close next.",
+"tags": [
+"thin"
+],
+"tag": "thin"
 },
 {
 "speaker": "Narrator",
@@ -125,19 +157,23 @@
 },
 {
 "speaker": "Narrator",
-"text": "Scrape."
+"text": "Scrape.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Pause."
+"text": "Pause.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Scrape."
+"text": "Scrape.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Pause."
+"text": "Pause.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
@@ -150,7 +186,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't like this place."
+"text": "I don't like this place.",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Enhedu",
@@ -163,7 +203,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo answered, but the dryness in her voice was thinner than before.",
+"text": "En-KHEH-doo answered, but the dryness in her voice was thinner than before.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -176,12 +216,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's stylus hovered over parchment that no longer accepted ink the way it once had.",
+"text": "NEEN-soon's stylus hovered over parchment that no longer accepted ink the way it once had.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "It's testing which threads it can pull without the fabric noticing."
+"text": "It's testing which threads it can pull without the fabric noticing.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -190,7 +234,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't know what you're talking about. Where is the rest of the crew?"
+"text": "I don't know what you're talking about. Where is the rest of the crew?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
@@ -198,11 +246,11 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked toward the empty space beside them. Recognition broke across her face, incomplete and unstable."
+"text": "NEEN-soon looked toward the empty space beside them. Recognition broke across her face, incomplete and unstable."
 },
 {
 "speaker": "Ninsun",
-"text": "KOO-rash,",
+"text": "KOO-rahsh,",
 "tags": [
 "whispers"
 ],
@@ -220,7 +268,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo frowned at the empty space.",
+"text": "En-KHEH-doo frowned at the empty space.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -255,7 +303,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not only names."
+"text": "Not only names.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -267,7 +316,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Zeek stared at the place where the merchant's name had been. The stone had already smoothed over the letters. His breathing had gone shallow. He looked at Ninsun, who was watching his face with a terrible, focused intensity, as though trying to memorize it before it could be taken from her too."
+"text": "Zeek stared at the place where the merchant's name had been. The stone had already smoothed over the letters. His breathing had gone shallow. He looked at NEEN-soon, who was watching his face with a terrible, focused intensity, as though trying to memorize it before it could be taken from her too."
 },
 {
 "speaker": "Ninsun",
@@ -298,7 +347,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing came out."
+"text": "Nothing came out.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -306,7 +356,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "For one terrible, suspended second he could not remember whether Zee-keer Ash-SHOOR was his name at all, or simply a name he had been told to answer to."
+"text": "For one terrible, suspended second he could not remember whether Zee-keer AHSH-shoor was his name at all, or simply a name he had been told to answer to."
 },
 {
 "speaker": "Narrator",
@@ -314,7 +364,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "This time the chisel was not working on someone else's name."
+"text": "This time the chisel was not working on someone else's name.",
+"pauseBefore": 1.2
 }
 ]
 }

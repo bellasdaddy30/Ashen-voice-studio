@@ -5,179 +5,182 @@ Narrator: CHAPTER 1
 Narrator: The Sealed Tomb
 [pause 2s]
 Narrator: The desert spat secrets when it felt like it. Today it gave up a ridge of brick half-buried in sand. A windstorm had stripped the dunes down to hard earth and left the upper edge exposed. Zeek crouched at the dig and brushed grit from the mortar with his fingers. The bricks were ordinary baked clay, worn down by time. The mortar wasn't. In places it had turned glassy and black, the kind of change that only came from heat no ordinary fire could make. The joints sat too clean. Too exact. His father's voice returned with the clarity of something said the day before.
-Bel-iddin: Read the mortar, not the bricks.
+Bel-iddin: [warmly] Read the mortar, not the bricks.
 Narrator: He was twelve again, kneeling beside a collapsed wall while the old man scraped dust from a joint with the tip of a bronze knife.
-Bel-iddin: Bricks lie. Men shape them to look holy or expensive. Nobody bothers faking the mortar.
+Bel-iddin: [dryly] Bricks lie. Men shape them to look holy or expensive. Nobody bothers faking the mortar.
 Narrator: Zeek never forgot that.
-Balag: Looks fresh,
+Balag: [dryly] Looks fresh,
 Narrator: BAH-lahg said.
 Narrator: The big man stood with his spear against one shoulder, wide enough to block a good portion of the desert behind him. Sand had worked into his beard and the folds of his clothes, but he carried himself like the desert was the one that had been inconvenienced. He had the particular stillness of a man who had already decided the ground was wrong and was simply waiting for the rest of them to notice.
-Zik: Fresh enough to have been built before your grandfather drew breath,
+Zik: [dryly] Fresh enough to have been built before your grandfather drew breath,
 Narrator: Zeek answered.
-Balag: That isn't what fresh means.
-Zik: It is when you're staring at a ruin.
-Narrator: BAH-lahg's mouth tightened, the expression of someone who had considered several replies and discarded them as not worth the air. A few paces off, En-HEH-doo turned a broken seal over in her hands, knife tucked under one arm. She worked the edges with her thumb the way other people worried a coin, testing for value even in the broken pieces.
-Enhedu: You two bicker like a married pair.
-Zik: You're welcome to take him,
+Balag: [deadpan] That isn't what fresh means.
+Zik: [dryly] It is when you're staring at a ruin.
+Narrator: BAH-lahg's mouth tightened, the expression of someone who had considered several replies and discarded them as not worth the air. A few paces off, En-KHEH-doo turned a broken seal over in her hands, knife tucked under one arm. She worked the edges with her thumb the way other people worried a coin, testing for value even in the broken pieces.
+Enhedu: [teasing] You two bicker like a married pair.
+Zik: [dryly] You're welcome to take him,
 Narrator: Zeek said.
-Enhedu: Not a chance.
+Enhedu: [amused] Not a chance.
 Balag: [mutters] See?
 Narrator: BAH-lahg muttered.
 Balag: [mutters] She has sense.
-Narrator: En-HEH-doo's smile thinned.
-Enhedu: I said no to him. I didn't say no to you.
-Narrator: KOO-rash laughed from the back, too loud and too fast. Three weeks with the group. Long enough to learn the habits. Not nearly long enough to understand what any of it cost. He stared at the exposed brickwork with the kind of hunger Zeek recognized. He had worn that same look once. KOO-rash crouched beside the exposed bricks and brushed away sand with exaggerated care, as though copying the motions he'd watched Zeek make all morning.
-Kurash: So what do you see?
+Narrator: En-KHEH-doo's smile thinned.
+Enhedu: [playfully] I said no to him. I didn't say no to you.
+Narrator: KOO-rahsh laughed from the back, too loud and too fast. Three weeks with the group. Long enough to learn the habits. Not nearly long enough to understand what any of it cost. He stared at the exposed brickwork with the kind of hunger Zeek recognized. He had worn that same look once. KOO-rahsh crouched beside the exposed bricks and brushed away sand with exaggerated care, as though copying the motions he'd watched Zeek make all morning.
+Kurash: [eager] So what do you see?
 Narrator: he asked.
 Narrator: Zeek didn't look up.
-Zik: I see you smearing dirt back into the joint I just cleaned.
-Narrator: KOO-rash frowned, rubbed harder, and managed only to spread the grit farther.
-Kurash: [skeptical] I meant the wall.
-Zik: I know what you meant.
+Zik: [deadpan] I see you smearing dirt back into the joint I just cleaned.
+Narrator: KOO-rahsh frowned, rubbed harder, and managed only to spread the grit farther.
+Kurash: [defensive] I meant the wall.
+Zik: [dryly] I know what you meant.
 Narrator: BAH-lahg folded his arms.
-Balag: This should be good.
+Balag: [amused] This should be good.
 Narrator: Zeek hooked the tip of his knife into the mortar and lifted out a flake no larger than his thumbnail.
 Zik: The bricks are ordinary.
-Narrator: KOO-rash blinked.
-Kurash: That's it?
+Narrator: KOO-rahsh blinked.
+Kurash: [disappointed] That's it?
 Zik: No.
 Narrator: Zeek turned the fragment over between his fingers. Dust rasped between the fragment and the pad of his thumb.
-Zik: They're ordinary bricks laid by extraordinary masons.
+Zik: [knowingly] They're ordinary bricks laid by extraordinary masons.
 Narrator: He handed the piece over.
 Zik: Feel it.
-Narrator: KOO-rash pinched it between his fingers. KOO-rash tested the edge harder, then frowned when nothing broke away.
-Kurash: [skeptical] It feels like…rock.
+Narrator: KOO-rahsh pinched it between his fingers. KOO-rahsh tested the edge harder, then frowned when nothing broke away.
+Kurash: [puzzled] It feels like…rock.
 Zik: It should crumble.
-Kurash: It doesn't.
-Zik: Exactly.
-Narrator: En-HEH-doo wandered over, abandoning the broken seal she'd been studying.
-Enhedu: The mortar's been fired.
+Kurash: [surprised] It doesn't.
+Zik: [satisfied] Exactly.
+Narrator: En-KHEH-doo wandered over, abandoning the broken seal she'd been studying.
+Enhedu: [curious] The mortar's been fired.
 Zik: Not fired.
 Narrator: Zeek shook his head.
 Zik: Changed.
 Narrator: He pointed to the black sheen running through the joint.
-Zik: Clay melts if you get it hot enough. Not campfire hot. Kiln hot. Hot enough that whoever built this either knew something we've forgotten…
+Zik: [intrigued] Clay melts if you get it hot enough. Not campfire hot. Kiln hot. Hot enough that whoever built this either knew something we've forgotten…
 Narrator: His finger traced the dark glass.
-Zik: …or they were trying to seal something badly enough that they invented a way.
-Narrator: KOO-rash looked from the wall to the ridge disappearing beneath the sand.
-Kurash: So this isn't a temple.
+Zik: [darkly] …or they were trying to seal something badly enough that they invented a way.
+Narrator: KOO-rahsh looked from the wall to the ridge disappearing beneath the sand.
+Kurash: [curious] So this isn't a temple.
 Zik: No.
-Kurash: A palace?
+Kurash: [eagerly] A palace?
 Zik: No.
-Kurash: Then what is it?
+Kurash: [impatient] Then what is it?
 Narrator: Zeek smiled faintly.
-Zik: If I already knew, we'd be digging somewhere else.
+Zik: [amused] If I already knew, we'd be digging somewhere else.
 Narrator: BAH-lahg grunted.
 Balag: [grunts] That's the first honest thing you've said today.
-Zik: I've been honest all day.
-Balag: You've been specific. That's different.
-Narrator: En-HEH-doo laughed.
+Zik: [dryly] I've been honest all day.
+Balag: [deadpan] You've been specific. That's different.
+Narrator: En-KHEH-doo laughed.
 Enhedu: [laughs] I'll remember that.
 Narrator: She leaned close to the exposed masonry, eyes narrowing.
-Enhedu: These upper bricks don't match.
+Enhedu: [curious] These upper bricks don't match.
 Zik: They're replacements,
 Narrator: Zeek said.
-Enhedu: You can tell that from this?
+Enhedu: [skeptical] You can tell that from this?
 Zik: I can tell from that.
 Narrator: He pointed farther down the wall where the courses disappeared beneath packed sand.
 Zik: The lower bricks settled decades before the upper ones were laid.
-Narrator: KOO-rash stared.
+Narrator: KOO-rahsh stared.
 Kurash: They all look the same.
 Zik: They're supposed to.
 Narrator: Zeek brushed away another thin layer of dust.
 Zik: The mason who repaired it copied the original dimensions.
-Kurash: So he fooled everyone.
-Zik: He fooled almost everyone.
-Narrator: En-HEH-doo looked sideways at him. The sideways look carried more amusement than surprise.
-Enhedu: And you noticed because…
+Kurash: [impressed] So he fooled everyone.
+Zik: [dryly] He fooled almost everyone.
+Narrator: En-KHEH-doo looked sideways at him. The sideways look carried more amusement than surprise.
+Enhedu: [amused] And you noticed because…
 Zik: The mortar shrank differently.
-Narrator: KOO-rash groaned.
-Kurash: That's impossible.
+Narrator: KOO-rahsh groaned.
+Kurash: [groans] That's impossible.
 Zik: It isn't impossible.
-Kurash: It's unfair.
+Kurash: [whining] It's unfair.
 Narrator: BAH-lahg barked a laugh. The laugh struck the stone and came back larger.
 Balag: [laughs] I've been saying that for years.
 Narrator: Zeek tucked the knife back into his belt.
-Zik: My father used to say every wall lies.
-Narrator: KOO-rash frowned.
+Zik: [thoughtful] My father used to say every wall lies.
+Narrator: KOO-rahsh frowned.
 Kurash: [skeptical] Walls lie?
-Zik: People build walls to be believed.
+Zik: [quietly] People build walls to be believed.
 Narrator: He rested a hand on the ancient brickwork. Heat stored in the brick pressed steadily into his palm.
 Zik: They repair them. Reface them. Reuse them. Tear them down and build them again.
 Narrator: He tapped the black mortar.
 Zik: But nobody thinks about the mud between the bricks.
-Narrator: En-HEH-doo nodded slowly.
+Narrator: En-KHEH-doo nodded slowly.
 Enhedu: So you read the mud.
 Zik: I read the people who mixed it.
-Narrator: For a moment no one spoke. The desert wind hissed across the ridge above them, carrying another veil of sand into the excavation. It settled over their boots and against the exposed face of the ruin as though trying to bury it again. KOO-rash looked back toward the open desert.
-Kurash: My uncle always said the old kings hid their treasure because they feared thieves.
+Narrator: For a moment no one spoke. The desert wind hissed across the ridge above them, carrying another veil of sand into the excavation. It settled over their boots and against the exposed face of the ruin as though trying to bury it again. KOO-rahsh looked back toward the open desert.
+Kurash: [eager] My uncle always said the old kings hid their treasure because they feared thieves.
 Narrator: BAH-lahg snorted.
 Balag: [snorts] The old kings were the thieves.
-Kurash: I suppose that's true.
-Kurash: So why bury it at all?
+Kurash: [sheepish] I suppose that's true.
+Kurash: [curious] So why bury it at all?
 Narrator: Zeek's eyes stayed on the wall. The pattern of replacements held his attention even while he answered.
-Zik: Maybe it wasn't treasure they wanted hidden.
-Narrator: En-HEH-doo followed his gaze.
-Enhedu: What, then?
-Zik: I don't know.
+Zik: [thoughtful] Maybe it wasn't treasure they wanted hidden.
+Narrator: En-KHEH-doo followed his gaze.
+Enhedu: [quietly] What, then?
+Zik: [quietly] I don't know.
 Narrator: He brushed one last ribbon of sand from the black mortar.
-Zik: But whatever this place was built to keep…
+Zik: [ominous] But whatever this place was built to keep…
 Narrator: His fingers paused against the glassy seam.
-Zik: …someone came back long after it was finished and decided it still wasn't safe enough.
+Zik: [ominous] …someone came back long after it was finished and decided it still wasn't safe enough.
 Narrator: No one joked after that.
-Zik: Clear it,
+Zik: [firmly] Clear it,
 Narrator: Zeek said.
+[pause 1.5s]
 Narrator: They dug until the sun started its slow drop toward the west. Sand slid back into the hole as fast as they pulled it out. The deeper they went, the colder the air turned. A draft rose out of the dark and touched Zeek's face. It smelled of dry earth. Under that was something that had never met the sun.
-Narrator: The stairway went farther down than the structure above had any right to allow. Walls narrowed until they walked single file. BAH-lahg took the lead because he was largest and apparently considered it his job to find whatever killed them first. En-HEH-doo came next. Zeek followed. KOO-rash brought up the rear and complained under his breath every time the steps grew steeper. Zeek paid him no mind. He listened.
+Narrator: The stairway went farther down than the structure above had any right to allow. Walls narrowed until they walked single file. BAH-lahg took the lead because he was largest and apparently considered it his job to find whatever killed them first. En-KHEH-doo came next. Zeek followed. KOO-rahsh brought up the rear and complained under his breath every time the steps grew steeper. Zeek paid him no mind. He listened.
 Narrator: The deeper they went, the quieter the surface became. Wind and shifting sand faded first. Then the voices of the men working above. Then the faint creak of the rope they had used to secure the entrance. The stairway did not carry sound. It took it. BAH-lahg stopped without warning. Zeek nearly walked into him.
 Enhedu: [whispers] What?
-Narrator: En-HEH-doo kept her voice low.
+Narrator: En-KHEH-doo kept her voice low.
 Narrator: BAH-lahg raised one hand. For several long breaths nothing moved in the dark past the reach of the torch. Then, far below, a sound reached them—not a knock, not stone scraping stone, but a low vibration, as if something massive had shifted its weight under a great thickness of rock. BAH-lahg touched two fingers to his chest in the old ward his grandfather had taught him. Zeek had seen the gesture before, always when BAH-lahg thought no one watched.
-Enhedu: You believe in that now?
-Narrator: En-HEH-doo asked.
-Balag: I believe in not insulting whatever sits under this much earth.
-Enhedu: Specific religion.
-Balag: Keep talking. I'll convert you.
+Enhedu: [whispers] [teasing] You believe in that now?
+Narrator: En-KHEH-doo asked.
+Balag: [seriously] I believe in not insulting whatever sits under this much earth.
+Enhedu: [dryly] Specific religion.
+Balag: [dryly] Keep talking. I'll convert you.
+[pause 1.5s]
 Narrator: They went on. At the bottom stood a stone door set so clean into the wall that the seam nearly vanished. Heavy bronze brackets held it shut from the outside. Age had darkened the metal but left it free of corrosion. Each bracket carried the same mark: a jagged spiral closed around a single drop. Zeek had only seen that symbol on private royal seals, the kind belonging to kings whose reigns ended briefly, violently, and with their names scrubbed from most records. He crouched beside the nearest bracket.
-Balag: How old?
+Balag: [quietly] How old?
 Narrator: BAH-lahg asked.
 Zik: Older than the door.
-Balag: Not helpful.
-Zik: Wasn't trying to be.
-Narrator: En-HEH-doo stepped up beside him. Her eyes moved across the bronze, the stone, the symbol.
-Enhedu: Whatever's inside wasn't trying to leave.
+Balag: [dryly] Not helpful.
+Zik: [dryly] Wasn't trying to be.
+Narrator: En-KHEH-doo stepped up beside him. Her eyes moved across the bronze, the stone, the symbol.
+Enhedu: [uneasy] Whatever's inside wasn't trying to leave.
 Narrator: Zeek considered the brackets.
-Zik: Someone worked hard to keep it there.
-Narrator: En-HEH-doo's smile returned, slow and sharp.
+Zik: [quietly] Someone worked hard to keep it there.
+Narrator: En-KHEH-doo's smile returned, slow and sharp.
 Enhedu: [confidently] Then they chose the wrong door.
-Narrator: They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. En-HEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rash stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond.
+[pause 1.5s]
+Narrator: They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. En-KHEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rahsh stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond.
 Narrator: Zeek held everyone at the threshold while he read the room from the doorway. The jamb carried no soot above shoulder height, which meant no ordinary lamp had burned here after the chamber was sealed. A faint gray bloom clung to the lower stones instead. He scraped it with the tip of the awl and rubbed the powder between finger and thumb. Salt, but not the loose desert salt that crept into abandoned masonry. This had risen through the wall from below, drawn upward by water that should not have existed at this depth.
-Narrator: The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rash repeat the warning back to him. KOO-rash did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. En-HEH-doo studied the seams rather than the wealth.
-Enhedu: No dust on the gold,
+Narrator: The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rahsh repeat the warning back to him. KOO-rahsh did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. En-KHEH-doo studied the seams rather than the wealth.
+Enhedu: [suspicious] No dust on the gold,
 Narrator: she said.
 Narrator: There was dust everywhere else. It lay thick along the walls, packed into the throne's carvings, soft enough on the untouched border of the floor to preserve the smallest disturbance. The treasure itself remained clean.
-Kurash: Air movement,
-Narrator: KOO-rash said.
-Zik: There is no air movement,
+Kurash: [eager] Air movement,
+Narrator: KOO-rahsh said.
+Zik: [sharply] There is no air movement,
 Narrator: Zeek replied. The torch flames stood straight. He could hear each man's breathing and, beneath it, a faint mineral tick from somewhere under the black paving.
-Zik: Nothing crosses that pattern until I know what it does.
-Narrator: KOO-rash nodded. The answer came easily. Believing it was another matter. Gold covered the floor in careful geometric lines across black stone—plates, cups, coins, small statues, chains, jewelry—the wealth of a kingdom arranged with such deliberate care that the hoard looked less like an offering and more like a mechanism left waiting. No one moved at first. BAH-lahg stayed where he was. En-HEH-doo's eyes narrowed. KOO-rash made a sound that almost became a laugh.
-Zik: Don't,
+Zik: [firmly] Nothing crosses that pattern until I know what it does.
+Narrator: KOO-rahsh nodded. The answer came easily. Believing it was another matter. Gold covered the floor in careful geometric lines across black stone—plates, cups, coins, small statues, chains, jewelry—the wealth of a kingdom arranged with such deliberate care that the hoard looked less like an offering and more like a mechanism left waiting. No one moved at first. BAH-lahg stayed where he was. En-KHEH-doo's eyes narrowed. KOO-rahsh made a sound that almost became a laugh.
+Zik: [sharply] Don't,
 Narrator: Zeek said.
-Narrator: KOO-rash looked at him.
-Kurash: Don't what?
-Zik: Touch anything.
+Narrator: KOO-rahsh looked at him.
+Kurash: [innocently] Don't what?
+Zik: [firmly] Touch anything.
 Narrator: The boy's gaze slid back to the gold.
 Kurash: [curious] Why?
-Zik: Because no one buries a room like this and walks away without leaving something behind to guard it.
+Zik: [tense] Because no one buries a room like this and walks away without leaving something behind to guard it.
 Kurash: [dismissively] Maybe they died.
 Zik: [flatly] Then the trap is still here.
-Narrator: KOO-rash's expression shifted. Zeek watched the calculation happen behind his eyes. The boy no longer saw a warning. He saw a house. A horse. A woman. A life that no longer required following another man's orders. Zeek knew that look. He had believed the same things once.
-Balag: [whispers] KOO-rash,
+Narrator: KOO-rahsh's expression shifted. Zeek watched the calculation happen behind his eyes. The boy no longer saw a warning. He saw a house. A horse. A woman. A life that no longer required following another man's orders. Zeek knew that look. He had believed the same things once.
+Balag: [whispers] [warning] KOO-rahsh,
 Narrator: BAH-lahg said, voice low.
-Narrator: The young man moved anyway. He crossed the threshold and closed his hand around a heavy golden bowl. The pattern on the floor broke. A single tile sank under his foot. For one heartbeat nothing happened. Then the ceiling opened. The stone slab dropped with perfect, silent speed. It caught KOO-rash below the ribs and drove him into the floor. His scream lasted less than a second. The slab pinned him across the gold. Blood spread in a dark sheet between the coins and over the curve of the bowl still trapped in his hand.
+Narrator: The young man moved anyway. He crossed the threshold and closed his hand around a heavy golden bowl. The pattern on the floor broke. A single tile sank under his foot. For one heartbeat nothing happened. Then the ceiling opened. The stone slab dropped with perfect, silent speed. It caught KOO-rahsh below the ribs and drove him into the floor. His scream lasted less than a second. The slab pinned him across the gold. Blood spread in a dark sheet between the coins and over the curve of the bowl still trapped in his hand.
 [pause 1.5s]
-Narrator: No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. En-HEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.
+Narrator: No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. En-KHEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.
 [pause 1.5s]
 Zik: [shaken] Don't touch the gold,
 Narrator: Zeek said.
@@ -190,13 +193,13 @@ Narrator: A leather-bound journal rested in the skeleton's lap. Beside it lay a 
 Balag: [warning] Zeek,
 Narrator: BAH-lahg said behind him.
 Narrator: He ignored the warning. The compass lay clean amid the dust, as if the years had simply refused to touch it. When he picked it up the metal was cold enough to hurt. The needle spun once, then twice, then settled. It pointed straight down. He stood there longer than he meant to, turning the compass once in his hand, before he told himself the instrument was broken and opened the journal. The leather was cracked and dark with age, but the binding still held. The last page was already waiting. Two lines stood in his father's hand:
-Bel-iddin: IF YOU FIND THIS, DO NOT LOOK FOR ME.
-Bel-iddin: FIND THE CITY.
+Bel-iddin: [solemn] IF YOU FIND THIS, DO NOT LOOK FOR ME.
+Bel-iddin: [solemn] FIND THE CITY.
 Narrator: A third line had been added beneath in different ink. The handwriting was uneven, the letters pressed so hard the pen had nearly torn the page.
 Bel-iddin: [urgently] ZIKIR—WHATEVER YOU DO, DO NOT OPEN THE SECOND DOOR.
 [pause 1.5s]
-Narrator: The words sat there. Zeek read them twice. The chamber stayed quiet around him. Then the torch flame bent sideways. The shadows on the walls were moving, and not with the fire. The skeleton's jaw shifted. BAH-lahg swore under his breath. En-HEH-doo's knife was in her hand before the sound finished leaving his mouth. The empty sockets of the skull turned toward Zeek.
-Dead King: [whispers] Zee-keer Ash-SHOOR,
+Narrator: The words sat there. Zeek read them twice. The chamber stayed quiet around him. Then the torch flame bent sideways. The shadows on the walls were moving, and not with the fire. The skeleton's jaw shifted. BAH-lahg swore under his breath. En-KHEH-doo's knife was in her hand before the sound finished leaving his mouth. The empty sockets of the skull turned toward Zeek.
+Dead King: [whispers] Zee-keer AHSH-shoor,
 [pause 2s]
 Narrator: the dead mouth rasped.
 Narrator: Then the skeleton collapsed. Bones struck stone. Dust rose from the throne and rolled across the floor. Zeek stumbled back, journal clutched to his chest, as the chamber trembled under their feet. Something far below the tomb shifted—slow, massive, almost gentle, like a sleeper turning over beneath the earth. Zeek closed the journal. The sound echoed through the chamber.

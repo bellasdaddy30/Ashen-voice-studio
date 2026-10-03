@@ -8,61 +8,66 @@ Narrator: The City stopped pretending to be passive.
 Narrator: It began with the water.
 Narrator: They had grown used to the shallow black pools that appeared in chambers and along corridors—one more unpleasant feature of a place that seemed to hold a personal grudge against human comfort. Then the water started moving with intent.
 Narrator: When BAH-lahg knelt to refill a waterskin, the surface rippled toward him before he touched it. Small, deliberate rings traveled uphill against the natural slope of the stone. He froze with the skin still in his hand.
-Balag: Did you see that?
-Narrator: Ninsun had already turned.
-Ninsun: Yes.
-Balag: It moved.
-Ninsun: Water does that.
-Balag: Not toward a man before he touches it.
+Balag: [uneasy] Did you see that?
+Narrator: NEEN-soon had already turned.
+Ninsun: [quietly] Yes.
+Balag: [fearful] It moved.
+Ninsun: [dismissively] Water does that.
+Balag: [fearful] Not toward a man before he touches it.
 [pause 1.5s]
 Narrator: No one answered.
 Narrator: They pressed on, keeping clear of the black pools. A few minutes later BAH-lahg muttered under his breath about the City, the dead, and the questionable intelligence of anyone who walked willingly into a place that had been buried for thousands of years. His voice was low, barely more than breath.
 Narrator: It carried strangely down the corridor.
 Narrator: A moment later it came back.
 Narrator: Not as an echo. The voice was stretched thin and wet, distorted in a way that made Zeek's skin crawl, but the words were unmistakably BAH-lahg's, and they came from somewhere ahead.
+[pause 0.5s]
 Narrator: BAH-lahg stopped walking.
 Narrator: A second repetition rose from behind. A third bled out of the darkness to their left.
-Narrator: Ninsun stepped toward the nearest wall and held her palm just short of the oily stone.
-Ninsun: It's recording us. Or learning how we sound when we're afraid.
-Balag: I wasn't afraid,
+Narrator: NEEN-soon stepped toward the nearest wall and held her palm just short of the oily stone.
+Ninsun: [intently] It's recording us. Or learning how we sound when we're afraid.
+Balag: [defensive] I wasn't afraid,
 Narrator: BAH-lahg said.
 Narrator: The wall repeated him, word for word, in a voice that had learned his cadence better than he liked.
-Narrator: En-HEH-doo laughed once, short and without humor.
+Narrator: En-KHEH-doo laughed once, short and without humor.
 Enhedu: [flatly] The City disagrees.
 Narrator: Behind them the water rippled again—and this time it spoke in Zeek's voice.
-Zik: [eerie] En-HEH-doo.
+Zik: [eerie] En-KHEH-doo.
 Narrator: She spun. Nothing stood behind her. The black surface trembled once and went still. The mark under Zeek's wrappings gave a slow, answering pulse.
 Narrator: He did not like that the City had borrowed his voice. He liked even less that it had known exactly whose name to say with it.
 Narrator: They moved faster after that.
 Narrator: The statues came next.
 Narrator: The first stood at the mouth of a side passage they had not noticed before. It was taller than any of them, carved from the same dull, oily stone as the walls, its face blank except for the spiral-drop symbol cut deep into the brow. It did not move when they approached. It simply occupied the space with the absolute patience of something that had nowhere else to be.
 Narrator: Zeek tested the floor in front of it out of habit. His body still knew the sequence even if the conscious lesson was gone. The stone held.
+[pause 0.5s]
 Narrator: They passed it.
 Narrator: When Zeek looked back, the statue had turned its head to watch them leave.
 Narrator: No one commented. Commenting would have required deciding what the movement meant.
 Narrator: The second statue waited at a junction three turns later. The third appeared in a doorway that had been empty when they last checked. By the fourth they had stopped counting.
 Narrator: The City was no longer content to wait behind thresholds. It was rearranging the board.
-Narrator: They made camp in a chamber that offered two exits and no pools. BAH-lahg took first watch. Ninsun wrote until the stylus refused another line and then sat staring at the blank space as though the parchment itself had begun to withhold cooperation. En-HEH-doo sat with her back to the wall, the figurine in her lap, looking at it the way a person studies an object whose purpose belongs to someone else.
+Narrator: They made camp in a chamber that offered two exits and no pools. BAH-lahg took first watch. NEEN-soon wrote until the stylus refused another line and then sat staring at the blank space as though the parchment itself had begun to withhold cooperation. En-KHEH-doo sat with her back to the wall, the figurine in her lap, looking at it the way a person studies an object whose purpose belongs to someone else.
 Narrator: Zeek opened the journal.
 Narrator: The map had shifted again. The upper layers—the desert, the outpost, the first staircase—had faded almost to invisibility. In their place the ink had thickened into a denser network of descending lines. At the center of the densest tangle the spiral-drop appeared complete, larger than any they had seen.
 Narrator: Beneath it, in a hand that was neither his father's nor his own:
 Narrator: [slowly] THE CITY IS TIRED OF WAITING.
 Narrator: He closed the book before anyone else could see the words.
+[pause 1.5s]
 Narrator: Sometime after the others had gone quiet he heard water moving in the dark. When he opened his eyes the statue was standing in the entrance, taller than the doorway, its head forced down beneath the stone arch to fit. The spiral-drop crown sat on its brow. Its carved face pointed straight at him.
 Narrator: It did not attack.
+[pause 0.5s]
 Narrator: It waited.
 Narrator: Zeek's hand went to his knife. The statue did not shift. He looked past it to the doorway, then back at the stone face, then down at the mark on his palm. The mark knocked once, soft and deliberate, against the inside of his skin.
 Narrator: The statue's head turned—not toward Zeek, toward the corridor. Toward the way that led deeper.
-Narrator: Ninsun rose slowly.
-Ninsun: It wants us to follow.
-Balag: Then we go the other way,
+[pause 0.5s]
+Narrator: NEEN-soon rose slowly.
+Ninsun: [quietly] It wants us to follow.
+Balag: [firmly] Then we go the other way,
 Narrator: BAH-lahg said, already moving.
 Narrator: They tried. The wall behind them opened onto a corridor that had not existed a breath earlier. It led—of course it led—straight back toward the statue.
 Narrator: BAH-lahg swore under his breath.
-Narrator: En-HEH-doo stood, picked up the figurine, studied it with the same blank expression she had worn since the vision, and tucked it into her pack.
-Ninsun: Why are you still taking that?
-Narrator: Ninsun asked.
-Narrator: En-HEH-doo looked down at it as though the answer might be written somewhere on the gold.
+Narrator: En-KHEH-doo stood, picked up the figurine, studied it with the same blank expression she had worn since the vision, and tucked it into her pack.
+Ninsun: [concerned] Why are you still taking that?
+Narrator: NEEN-soon asked.
+Narrator: En-KHEH-doo looked down at it as though the answer might be written somewhere on the gold.
 Enhedu: [flatly] I don't know.
 Narrator: That silenced them faster than an argument would have.
 Narrator: The statue stepped aside.
@@ -75,47 +80,54 @@ Balag: [hissing] Move,
 Narrator: he hissed.
 Narrator: The statue's face remained a mask of placid indifference. It was not attacking. It was not threatening. It stood with the heavy, unthinking purpose of a shepherd's dog blocking a gap in a fence.
 Enhedu: [flatly] It won't budge,
-Narrator: En-HEH-doo said. She leaned against the damp wall of the corridor, hollowed out by exhaustion now that the last of the adrenaline had burned off and left only the bill behind. She was still clutching the figurine, her thumb tracing the same groove across its surface over and over without seeming to know she was doing it.
+Narrator: En-KHEH-doo said. She leaned against the damp wall of the corridor, hollowed out by exhaustion now that the last of the adrenaline had burned off and left only the bill behind. She was still clutching the figurine, her thumb tracing the same groove across its surface over and over without seeming to know she was doing it.
 Balag: [growls] We have to go through,
 Narrator: BAH-lahg growled, and backed up to try again.
-Ninsun: We aren't going through,
-Narrator: Ninsun said. Her voice was too steady. She was staring at the ceiling.
+Ninsun: [firmly] We aren't going through,
+Narrator: NEEN-soon said. Her voice was too steady. She was staring at the ceiling.
 Narrator: Zeek followed her gaze. The joints between the stones were moving—not much, not enough to notice unless you were already looking for it—slowly, perceptibly tightening, the gaps narrowing like the ceiling itself was drawing breath.
-Ninsun: We're being steered,
+Ninsun: [quietly] We're being steered,
 Narrator: she said.
-Ninsun: The City doesn't want us in the main colonnade anymore. It's closing the loop.
+Ninsun: [quietly] The City doesn't want us in the main colonnade anymore. It's closing the loop.
 Narrator: BAH-lahg turned from the statue.
-Balag: What does that mean?
-Ninsun: It means the path behind us is being removed.
-Balag: Then we make our own path.
-Ninsun: Through that?
-Narrator: Ninsun nodded at the statue.
+Balag: [tense] What does that mean?
+Ninsun: [ominous] It means the path behind us is being removed.
+Balag: [defiantly] Then we make our own path.
+Ninsun: [skeptical] Through that?
+Narrator: NEEN-soon nodded at the statue.
 Narrator: BAH-lahg glanced back at it, his expression suggesting he was reconsidering several of his life's choices at once, starting with the one that had brought him to this profession.
 Narrator: Zeek did not answer. He was looking at the floor instead. The dust here was different—finer, disturbed in long overlapping trails, as though thousands of feet had walked this exact path in a time that was not theirs. The compass in his pocket had stopped merely spinning; it was vibrating now, a frantic hum climbing up through his thigh and into his ribs.
-Balag: Zeek?
+Balag: [urgently] Zeek?
 Narrator: BAH-lahg asked.
-Balag: Orders?
+Balag: [urgently] Orders?
 Narrator: Zeek looked at the statue's blank face and understood, all at once, that the City had stopped testing them. If they forced the issue now they would spend the last of their strength against something that had never needed to fight them in the first place.
+[pause 0.5s]
 Narrator: He stepped aside.
 Narrator: The statue waited another moment, as if confirming the decision, then turned and began to walk.
+[pause 0.5s]
 Narrator: They followed.
 Narrator: The corridor it led them down was narrower than the ones they had left, the ceiling lower, the air colder. The walls here carried no incomplete spirals. They carried names.
+[pause 0.5s]
 Narrator: Thousands of them.
-Narrator: The white limestone was covered in shallow, precise cuts—row after row of personal names, some still legible, many crossed out with a single deliberate stroke. Others had been erased so thoroughly that only a pale scar remained in the stone. Ninsun slowed, stylus forgotten, eyes moving from line to line with the stricken attention of someone who had spent her life reconstructing lost records and was now watching the process run in reverse.
+Narrator: The white limestone was covered in shallow, precise cuts—row after row of personal names, some still legible, many crossed out with a single deliberate stroke. Others had been erased so thoroughly that only a pale scar remained in the stone. NEEN-soon slowed, stylus forgotten, eyes moving from line to line with the stricken attention of someone who had spent her life reconstructing lost records and was now watching the process run in reverse.
 Ninsun: [softly] These are accounts,
 Narrator: she said quietly.
 Ninsun: [softly] Not a memorial. A ledger.
 Narrator: BAH-lahg kept his axe ready.
-Balag: Of what?
-Ninsun: People who paid.
-Narrator: En-HEH-doo's thumb stopped moving on the figurine. She looked at the wall the way she had once looked at locked doors—calculating value even when the desire for value was gone.
+Balag: [tense] Of what?
+Ninsun: [quietly] People who paid.
+Narrator: En-KHEH-doo's thumb stopped moving on the figurine. She looked at the wall the way she had once looked at locked doors—calculating value even when the desire for value was gone.
 Narrator: Zeek walked until he found the section that made his chest tighten.
-Narrator: He recognized one of the names. The characters were older than the script Ninsun had taught him, but his father had drawn them often enough in the journal that Zeek knew their shape before he understood why.
+Narrator: He recognized one of the names. The characters were older than the script NEEN-soon had taught him, but his father had drawn them often enough in the journal that Zeek knew their shape before he understood why.
 Narrator: His heart gave a slow, heavy roll. He reached out before he had decided to.
 Narrator: The instant his fingers touched the stone the air in the chamber sharpened. A high, thin vibration filled the room—so faint at first he thought it was coming from inside his own skull—and then the sound arrived in earnest.
+[pause 0.6s]
 Narrator: Scrape.
+[pause 0.6s]
 Narrator: Pause.
+[pause 0.6s]
 Narrator: Scrape.
+[pause 0.6s]
 Narrator: Pause.
 Narrator: It came from everywhere at once. The wall was not simply a record. It was active, and it had been waiting for a hand to touch it the way a trap waits for a foot.
 Narrator: The name beneath his fingers began to soften at the edges, the limestone rippling faintly as if it had decided, just for him, to remember what it felt like to be liquid. A fresh line cut across it—deep, precise, deliberate. Zeek pulled his hand back, but the scraping did not stop. The line kept growing.
@@ -124,11 +136,13 @@ Narrator: The City was not carving anything new.
 Narrator: It was erasing the old.
 Narrator: He leaned closer. The name was not his. Not yet.
 Narrator: It was his father's.
-Narrator: The invisible chisel kept working. A second line crossed the first. A third crossed both. The letters disappeared beneath the cuts one stroke at a time. Ninsun's voice reached him from somewhere very far away.
-Ninsun: Zeek?
+Narrator: The invisible chisel kept working. A second line crossed the first. A third crossed both. The letters disappeared beneath the cuts one stroke at a time. NEEN-soon's voice reached him from somewhere very far away.
+Ninsun: [distant] Zeek?
 Narrator: He did not answer. He could hear the scraping inside his own chest now, keeping time with something that was not quite his heartbeat. The wall was erasing his father's name, methodically, patiently, the way a debt gets settled by someone who has never once in their life been in a hurry to collect.
 Narrator: As the last letters vanished, ink rose in their place.
+[pause 0.5s]
 Narrator: Not another name.
+[pause 0.5s]
 Narrator: A symbol.
 Narrator: The spiral, and the drop beneath it.
 Narrator: Zeek's palm caught fire under the wrapped linen.
@@ -136,5 +150,6 @@ Narrator: The statue turned toward him. This movement was different: not directi
 Narrator: Inside was only darkness.
 Narrator: Out of that darkness came a voice that belonged to neither the City nor his father—a voice Zeek had never heard in his life, dry and unimpressed, like a debt collector checking a name off a very long list.
 The Statue: [flatly] You are late.
+[pause 1.2s]
 Narrator: The mark on his palm knocked once, hard, in answer.
 [pause 3s]

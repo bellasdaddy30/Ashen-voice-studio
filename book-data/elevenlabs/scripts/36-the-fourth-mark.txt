@@ -8,81 +8,90 @@ Narrator: The left-hand passage opened into a chamber that held a silence so abs
 Narrator: Zeek raised the torch.
 Narrator: Two marks already occupied the far wall.
 Narrator: The lower one was nearly erased by centuries until it barely resembled a loop at all—more suggestion than symbol, the way a word worn smooth on a gravestone becomes more shape than language. The middle one was clearer, filled with slime and age, its angles deliberate, as though whoever carved it had learned something from a mistake they could no longer remember making.
-Narrator: Ninsun stepped closer, fingers hovering above the stone without touching it.
-Ninsun: These are not the incomplete spirals,
+Narrator: NEEN-soon stepped closer, fingers hovering above the stone without touching it.
+Ninsun: [intently] These are not the incomplete spirals,
 Narrator: she said.
-Ninsun: These are attempts.
+Ninsun: [quietly] These are attempts.
 Narrator: The journal opened in Zeek's hands before he reached for it.
 Narrator: [slowly] THIS IS THE THIRD TIME YOU HAVE READ THIS.
 Narrator: He stared at the line. Then at the two marks. Then at the blank space above them.
 Narrator: BAH-lahg stood near the entrance, axe ready.
-Balag: Whatever you're reading into those scratches, make it quick. The passage we came through is starting to close.
-Narrator: En-HEH-doo studied the wall with the remote attention she now gave anything that could not be priced.
+Balag: [urgently] Whatever you're reading into those scratches, make it quick. The passage we came through is starting to close.
+Narrator: En-KHEH-doo studied the wall with the remote attention she now gave anything that could not be priced.
 Enhedu: [flatly] Two versions of the same decision. Or two people making the same decision and calling it different names.
 Narrator: Zeek understood what the journal required of him the way he had once understood the price of a trap before placing his foot.
 Narrator: He took out his knife.
 Narrator: The third mark was cut with a kind of desperate precision he recognized in his own aching fingers even as he made it. The lines were cleaner than the oldest attempt, less confident than the middle one. When he stepped back, the three carvings stood in a vertical line: crude, deliberate, desperate.
-Zik: The oldest is the first attempt,
+Zik: [hollow] The oldest is the first attempt,
 Narrator: he said. His voice sounded hollow against the stone.
-Zik: The middle one is the second. And the one I just carved—that was supposed to be the third.
-Narrator: Ninsun's torchlight moved over the stone in slow arcs.
-Ninsun: But the journal said this is the third time you have read this. Not the fourth. The third.
+Zik: [hollow] The middle one is the second. And the one I just carved—that was supposed to be the third.
+Narrator: NEEN-soon's torchlight moved over the stone in slow arcs.
+Ninsun: [uneasy] But the journal said this is the third time you have read this. Not the fourth. The third.
 Narrator: The logic assembled itself with a speed that felt almost cruel.
 Narrator: If the journal claimed this was the third reading, and the wall already held three marks—two older than his own—then either the journal was counting something different from the carvings, or the carvings recorded attempts the journal refused to acknowledge.
+[pause 0.5s]
 Narrator: Or both.
 Narrator: As they watched, the newest mark began to darken. The pale edges took on the same aged sheen as the middle carving. The stone was absorbing the cut, folding the fresh wound into its history as if the act of carving had never been new.
-Narrator: Ninsun tried to copy the oldest mark. The ink refused to hold. The line appeared, then faded, then appeared again in a slightly different shape.
-Ninsun: It's rewriting itself while I watch.
+Narrator: NEEN-soon tried to copy the oldest mark. The ink refused to hold. The line appeared, then faded, then appeared again in a slightly different shape.
+Ninsun: [frustrated] It's rewriting itself while I watch.
 Narrator: Above Zeek's own mark a fourth position began to form—not a carving yet, only a faint discoloration in the stone, the ghost of a place where something had once been, or would be.
-Zik: There's a fourth,
+Zik: [quietly] There's a fourth,
 Narrator: he said.
-Narrator: Ninsun followed his gaze.
-Ninsun: I don't see it.
-Zik: Not yet.
+Narrator: NEEN-soon followed his gaze.
+Ninsun: [uneasy] I don't see it.
+Zik: [ominous] Not yet.
 Narrator: The discoloration deepened. A thin line appeared, then another. The shape assembling itself was not a knot. It was something else entirely: a vertical line descending into a small open circle.
+[pause 0.5s]
 Narrator: Zeek's palm burned.
 Narrator: The journal opened again.
 Narrator: [slowly] THE FOURTH PLACE IS YOURS.
 Narrator: Zeek's blood went cold.
-Narrator: Ninsun looked at him, her voice barely above a whisper.
+Narrator: NEEN-soon looked at him, her voice barely above a whisper.
 Ninsun: [whispers] Then whose is the mark already forming?
 Narrator: He had no answer that was not another transaction.
 [pause 1.5s]
 Narrator: The chamber went completely dark.
 Narrator: Not gradually. Not as though the torches had failed. Darkness arrived all at once, as though something had reached into the room and closed a hand around every flame.
-Narrator: Zeek heard Ninsun inhale sharply beside him. The sound seemed unnaturally loud in the sudden absence of light.
+Narrator: Zeek heard NEEN-soon inhale sharply beside him. The sound seemed unnaturally loud in the sudden absence of light.
 Narrator: Then, somewhere beyond the wall, something knocked.
+[pause 0.5s]
 Narrator: Three measured blows.
+[pause 0.6s]
 Narrator: A pause.
+[pause 0.6s]
 Narrator: Then a fourth.
 Narrator: Zeek tightened his grip on the journal. The leather felt warm beneath his fingers.
-Zik: We need to go.
-Balag: Where?
+Zik: [urgently] We need to go.
+Balag: [tense] Where?
 Narrator: BAH-lahg asked.
 Narrator: Zeek couldn't see the wall anymore, but he could still feel it, the way a man knows where a doorway stands in a familiar room even with his eyes closed.
-Zik: The knocking.
+Zik: [quietly] The knocking.
 [pause 1.5s]
 Narrator: No one argued.
 Narrator: They followed the sound because it was the only direction the darkness had left them.
-Narrator: Zeek walked first, one hand sliding along damp stone, the journal pressed beneath his arm. Behind him he heard Ninsun's footsteps falter only once.
+Narrator: Zeek walked first, one hand sliding along damp stone, the journal pressed beneath his arm. Behind him he heard NEEN-soon's footsteps falter only once.
+[pause 0.5s]
 Narrator: Not from fear.
+[pause 0.5s]
 Narrator: From hesitation.
 Narrator: As though she had already begun wondering whether they had left something unfinished.
-Balag: I'd like it recorded,
+Balag: [dryly] I'd like it recorded,
 Narrator: BAH-lahg said.
-Balag: That I objected to following the invisible thing that knocks.
+Balag: [dryly] That I objected to following the invisible thing that knocks.
 Enhedu: [flatly] You didn't object,
-Narrator: En-HEH-doo said.
+Narrator: En-KHEH-doo said.
 Enhedu: [flatly] You raised the torch and went first.
 Balag: [dryly] I objected internally.
 Enhedu: [flatly] That seems convenient.
-Balag: It saves time. Imagine how slow we'd move if I explained every damn sensible thought I had.
-Narrator: En-HEH-doo's mouth shifted at one corner.
+Balag: [dryly] It saves time. Imagine how slow we'd move if I explained every damn sensible thought I had.
+Narrator: En-KHEH-doo's mouth shifted at one corner.
 Enhedu: [flatly] I've never had to imagine that.
 Narrator: Zeek's thumb crossed the scar in his palm. The pressure behind his eyes had diminished after they left the chamber, though it had not vanished. It waited behind his thoughts like the last note of a struck bell, too low to hear but still present in the bone.
 Narrator: Behind them came the soft mineral sigh of stone settling into stillness.
 Narrator: Zeek resisted the urge to look back.
 Narrator: Somehow he knew the fourth mark remained where they had left it.
+[pause 0.5s]
 Narrator: Not completed.
+[pause 1.2s]
 Narrator: Waiting.
 [pause 3s]

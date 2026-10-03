@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "23-the-voice-in-the-sand",
 "title": "Chapter 23 — The Voice in the Sand",
-"chars": 6882,
+"chars": 6912,
 "speakers": [
 "Balag",
 "Bel-iddin",
@@ -39,7 +39,12 @@
 },
 {
 "speaker": "Balag",
-"text": "They know,"
+"text": "They know,",
+"tags": [
+"quietly",
+"uneasy"
+],
+"tag": "quietly] [uneasy"
 },
 {
 "speaker": "Narrator",
@@ -48,7 +53,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo snorted as she tightened the straps on her pack.",
+"text": "En-KHEH-doo snorted as she tightened the straps on her pack.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -65,15 +70,21 @@
 },
 {
 "speaker": "Narrator",
-"text": "They broke camp without discussion and moved east. The donkeys settled once the western slope was behind them, though BAH-lahg kept glancing back. The desert stretched in every direction, a field of gold and red broken only by stone outcroppings and the skeletal remains of old caravan routes. The farther they traveled from Uruk, the less the world seemed to belong to people."
+"text": "They broke camp without discussion and moved east. The donkeys settled once the western slope was behind them, though BAH-lahg kept glancing back. The desert stretched in every direction, a field of gold and red broken only by stone outcroppings and the skeletal remains of old caravan routes. The farther they traveled from OO-rook, the less the world seemed to belong to people.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "By midmorning the heat pressed down through their clothing and wrapped itself around the backs of their necks. Zeek walked for part of the day to spare the animals. Ninsun rode in silence, filling the margins of her parchment with notes. She had stopped trying to hide what she was writing. The spiral-drop mark appeared again and again, copied from memory in different forms—some precise, some distorted, one containing a second shape buried inside the first."
+"text": "By midmorning the heat pressed down through their clothing and wrapped itself around the backs of their necks. Zeek walked for part of the day to spare the animals. NEEN-soon rode in silence, filling the margins of her parchment with notes. She had stopped trying to hide what she was writing. The spiral-drop mark appeared again and again, copied from memory in different forms—some precise, some distorted, one containing a second shape buried inside the first.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Zik",
-"text": "What are you looking for?"
+"text": "What are you looking for?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -82,19 +93,35 @@
 },
 {
 "speaker": "Ninsun",
-"text": "A pattern."
+"text": "A pattern.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "Find one?"
+"text": "Find one?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Ninsun",
-"text": "Several."
+"text": "Several.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "That's usually when things become expensive."
+"text": "That's usually when things become expensive.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -103,15 +130,27 @@
 },
 {
 "speaker": "Ninsun",
-"text": "You say that as if everything can be reduced to a transaction."
+"text": "You say that as if everything can be reduced to a transaction.",
+"tags": [
+"pointedly"
+],
+"tag": "pointedly"
 },
 {
 "speaker": "Zik",
-"text": "Most things can."
+"text": "Most things can.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Ninsun",
-"text": "Death?"
+"text": "Death?",
+"tags": [
+"challenging"
+],
+"tag": "challenging"
 },
 {
 "speaker": "Narrator",
@@ -120,7 +159,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Especially death."
+"text": "Especially death.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -132,25 +175,38 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked over.",
+"text": "En-KHEH-doo looked over.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "Still bad?"
+"text": "Still bad?",
+"tags": [
+"concerned"
+],
+"tag": "concerned"
 },
 {
 "speaker": "Zik",
-"text": "Still tastes like it never saw the sun."
+"text": "Still tastes like it never saw the sun.",
+"tags": [
+"disgusted"
+],
+"tag": "disgusted"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun took a careful sip from her own skin and stared at it.",
+"text": "NEEN-soon took a careful sip from her own skin and stared at it.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Metallic. But not only iron. Something else is in it."
+"text": "Metallic. But not only iron. Something else is in it.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -159,7 +215,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Old blood."
+"text": "Old blood.",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Narrator",
@@ -171,7 +231,11 @@
 },
 {
 "speaker": "Zik",
-"text": "How much water do we have left?"
+"text": "How much water do we have left?",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -180,11 +244,19 @@
 },
 {
 "speaker": "Balag",
-"text": "Enough if we reach the next well on schedule."
+"text": "Enough if we reach the next well on schedule.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Zik",
-"text": "And if we don't?"
+"text": "And if we don't?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -200,15 +272,21 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg stopped moving."
+"text": "BAH-lahg stopped moving.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "What?"
+"text": "What?",
+"tags": [
+"whispers",
+"alert"
+],
+"tag": "whispers] [alert"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo asked.",
+"text": "En-KHEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -221,12 +299,17 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stood.",
+"text": "NEEN-soon stood.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What is that?"
+"text": "What is that?",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Narrator",
@@ -250,7 +333,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's knife was in her hand before she seemed to realize she had drawn it. Zeek stood motionless."
+"text": "En-KHEH-doo's knife was in her hand before she seemed to realize she had drawn it. Zeek stood motionless."
 },
 {
 "speaker": "Narrator",
@@ -262,12 +345,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun pressed both hands over her ears.",
+"text": "NEEN-soon pressed both hands over her ears.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "It isn't coming from outside."
+"text": "It isn't coming from outside.",
+"tags": [
+"trembling"
+],
+"tag": "trembling"
 },
 {
 "speaker": "Narrator",
@@ -277,9 +364,10 @@
 "speaker": "Ninsun",
 "text": "It's inside,",
 "tags": [
-"whispers"
+"whispers",
+"fearful"
 ],
-"tag": "whispers",
+"tag": "whispers] [fearful",
 "note": "Whispered."
 },
 {
@@ -311,11 +399,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "The donkeys continued trembling. BAH-lahg stood between them and the open desert, one hand on a bridle, the other on the haft of his axe. En-HEH-doo kept her knife raised. Ninsun slowly lowered her hands."
+"text": "The donkeys continued trembling. BAH-lahg stood between them and the open desert, one hand on a bridle, the other on the haft of his axe. En-KHEH-doo kept her knife raised. NEEN-soon slowly lowered her hands."
 },
 {
 "speaker": "Balag",
-"text": "That wasn't wind,"
+"text": "That wasn't wind,",
+"tags": [
+"shaken"
+],
+"tag": "shaken"
 },
 {
 "speaker": "Narrator",
@@ -324,7 +416,11 @@
 },
 {
 "speaker": "Zik",
-"text": "No,"
+"text": "No,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -333,12 +429,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun turned toward him.",
+"text": "NEEN-soon turned toward him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What did you hear?"
+"text": "What did you hear?",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
@@ -363,7 +463,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Later, after the others had gone quiet, Zeek sat apart with the journal open across his knees. The stars above the desert were impossibly clear. He turned the pages."
+"text": "Later, after the others had gone quiet, Zeek sat apart with the journal open across his knees. The stars above the desert were impossibly clear. He turned the pages.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -372,6 +473,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "You brought them with you.",
+"tags": [
+"gravely"
+],
+"tag": "gravely",
 "note": "Journal entry in Bel-iddin's hand; quietly ominous."
 },
 {
@@ -385,11 +490,16 @@
 {
 "speaker": "Bel-iddin",
 "text": "That was kind.",
+"tags": [
+"softly",
+"ominous"
+],
+"tag": "softly] [ominous",
 "note": "Journal entry in Bel-iddin's hand; quietly ominous."
 },
 {
 "speaker": "Narrator",
-"text": "The mark beneath the linen began to pulse. Zeek looked toward the others—BAH-lahg asleep beside the donkeys, one hand still near his axe; En-HEH-doo with her knife beneath her arm; Ninsun curled under a blanket, notes scattered beside her."
+"text": "The mark beneath the linen began to pulse. Zeek looked toward the others—BAH-lahg asleep beside the donkeys, one hand still near his axe; En-KHEH-doo with her knife beneath her arm; NEEN-soon curled under a blanket, notes scattered beside her."
 },
 {
 "speaker": "Narrator",
@@ -398,6 +508,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "You should not have brought them.",
+"tags": [
+"sorrowful"
+],
+"tag": "sorrowful",
 "note": "Journal entry in Bel-iddin's hand; quietly ominous."
 },
 {
@@ -432,7 +546,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "He turned."
+"text": "He turned.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -440,7 +555,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The fire crackled."
+"text": "The fire crackled.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -453,6 +569,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "Yes.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Journal entry in Bel-iddin's hand; quietly ominous."
 },
 {
@@ -462,6 +582,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "And you already paid.",
+"tags": [
+"ominous"
+],
+"tag": "ominous",
 "note": "Journal entry in Bel-iddin's hand; quietly ominous."
 }
 ]

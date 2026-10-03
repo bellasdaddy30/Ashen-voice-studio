@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "39-the-library-of-drafts",
 "title": "Chapter 39 — The Library of Drafts",
-"chars": 15138,
+"chars": 15201,
 "speakers": [
 "Narrator",
 "Ninsun",
@@ -31,7 +31,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ahead of him, Ninsun slowed just enough to study the room before continuing. She no longer glanced toward corners or searched for hidden exits. Somewhere during their descent she had abandoned the hope that every chamber concealed another way out. Now she looked only for patterns—for repetitions in the stonework, for symbols carved where they did not belong, for the quiet logic that held the City together beneath all its contradictions."
+"text": "Ahead of him, NEEN-soon slowed just enough to study the room before continuing. She no longer glanced toward corners or searched for hidden exits. Somewhere during their descent she had abandoned the hope that every chamber concealed another way out. Now she looked only for patterns—for repetitions in the stonework, for symbols carved where they did not belong, for the quiet logic that held the City together beneath all its contradictions."
 },
 {
 "speaker": "Narrator",
@@ -47,34 +47,40 @@
 },
 {
 "speaker": "Narrator",
-"text": "He stopped."
-},
-{
-"speaker": "Zik",
-"text": "BAH-lahg.",
-"tags": [
-"weakly"
-],
-"tag": "weakly",
-"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
-},
-{
-"speaker": "Narrator",
-"text": "Ninsun looked back at him, distracted.",
-"note": "Short attribution/action beat; keep tight to surrounding dialogue."
-},
-{
-"speaker": "Ninsun",
-"text": "What?"
+"text": "He stopped.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Zik",
 "text": "BAH-lahg.",
 "tags": [
 "weakly",
-"skeptical"
+"uneasy"
 ],
-"tag": "weakly] [skeptical",
+"tag": "weakly] [uneasy",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "NEEN-soon looked back at him, distracted.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What?",
+"tags": [
+"distracted"
+],
+"tag": "distracted"
+},
+{
+"speaker": "Zik",
+"text": "BAH-lahg.",
+"tags": [
+"weakly",
+"uneasy"
+],
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -84,11 +90,12 @@
 },
 {
 "speaker": "Zik",
-"text": "And En-HEH-doo.",
+"text": "And En-KHEH-doo.",
 "tags": [
-"weakly"
+"weakly",
+"slowly"
 ],
-"tag": "weakly",
+"tag": "weakly] [slowly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -99,19 +106,24 @@
 "speaker": "Zik",
 "text": "When did we lose them?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "The question hung between them longer than it should have. Ninsun opened her mouth to answer, hesitated, then looked back toward the doorway as though she expected the two of them to emerge from the darkness laughing at some joke neither of them had heard.",
+"text": "The question hung between them longer than it should have. NEEN-soon opened her mouth to answer, hesitated, then looked back toward the doorway as though she expected the two of them to emerge from the darkness laughing at some joke neither of them had heard.",
 "pauseBefore": 1.5
 },
 {
 "speaker": "Ninsun",
-"text": "I don't…"
+"text": "I don't…",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Narrator",
@@ -120,15 +132,20 @@
 },
 {
 "speaker": "Ninsun",
-"text": "The corridor with the teeth. Before that, I think."
+"text": "The corridor with the teeth. Before that, I think.",
+"tags": [
+"uncertain"
+],
+"tag": "uncertain"
 },
 {
 "speaker": "Zik",
 "text": "You think?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -138,7 +155,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "I remember BAH-lahg complaining about the climb. I remember En-HEH-doo arguing with him about something. Or maybe that was earlier."
+"text": "I remember BAH-lahg complaining about the climb. I remember En-KHEH-doo arguing with him about something. Or maybe that was earlier.",
+"tags": [
+"uncertain"
+],
+"tag": "uncertain"
 },
 {
 "speaker": "Narrator",
@@ -147,7 +168,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "No. That's wrong."
+"text": "No. That's wrong.",
+"tags": [
+"shaken"
+],
+"tag": "shaken"
 },
 {
 "speaker": "Narrator",
@@ -157,9 +182,9 @@
 "speaker": "Ninsun",
 "text": "I don't remember a moment they weren't with us,",
 "tags": [
-"softly"
+"quietly"
 ],
-"tag": "softly"
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -170,9 +195,9 @@
 "speaker": "Ninsun",
 "text": "But I also can't remember a single moment they were.",
 "tags": [
-"softly"
+"quietly"
 ],
-"tag": "softly"
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -182,9 +207,10 @@
 "speaker": "Zik",
 "text": "That's impossible,",
 "tags": [
-"weakly"
+"weakly",
+"shaken"
 ],
-"tag": "weakly",
+"tag": "weakly] [shaken",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -194,24 +220,30 @@
 },
 {
 "speaker": "Zik",
-"text": "BAH-lahg doesn't just stop talking. En-HEH-doo doesn't go five minutes without pocketing something she insists has no value.",
+"text": "BAH-lahg doesn't just stop talking. En-KHEH-doo doesn't go five minutes without pocketing something she insists has no value.",
 "tags": [
-"weakly"
+"weakly",
+"insistent"
 ],
-"tag": "weakly",
+"tag": "weakly] [insistent",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I know."
+"text": "I know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
 "text": "No.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -223,9 +255,10 @@
 "speaker": "Zik",
 "text": "We would have noticed.",
 "tags": [
-"weakly"
+"weakly",
+"unconvinced"
 ],
-"tag": "weakly",
+"tag": "weakly] [unconvinced",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -239,7 +272,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "His pulse quickened."
+"text": "His pulse quickened.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -247,7 +281,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "There was nothing."
+"text": "There was nothing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -257,22 +292,24 @@
 "speaker": "Zik",
 "text": "I've got something.",
 "tags": [
-"weakly"
+"weakly",
+"surprised"
 ],
-"tag": "weakly",
+"tag": "weakly] [surprised",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun had opened her own satchel. She reached inside and withdrew a small copper figurine no taller than her thumb. Time had polished the little smiling face nearly smooth."
+"text": "NEEN-soon had opened her own satchel. She reached inside and withdrew a small copper figurine no taller than her thumb. Time had polished the little smiling face nearly smooth."
 },
 {
 "speaker": "Zik",
-"text": "En-HEH-doo's,",
+"text": "En-KHEH-doo's,",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -282,19 +319,25 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun nodded."
+"text": "NEEN-soon nodded.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Ninsun",
-"text": "She always claimed it was worthless."
+"text": "She always claimed it was worthless.",
+"tags": [
+"wistful"
+],
+"tag": "wistful"
 },
 {
 "speaker": "Zik",
 "text": "So nobody would think to steal it.",
 "tags": [
-"weakly"
+"weakly",
+"sadly"
 ],
-"tag": "weakly",
+"tag": "weakly] [sadly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -303,7 +346,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "For a long moment Ninsun simply turned the figurine over in her hand, her thumb tracing the worn edges as though expecting the memory of its weight to return with enough patience.",
+"text": "For a long moment NEEN-soon simply turned the figurine over in her hand, her thumb tracing the worn edges as though expecting the memory of its weight to return with enough patience.",
 "pauseBefore": 1.5
 },
 {
@@ -312,7 +355,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "We didn't leave them."
+"text": "We didn't leave them.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -322,9 +369,10 @@
 "speaker": "Zik",
 "text": "No.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -333,7 +381,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "We just stopped being able to keep them."
+"text": "We just stopped being able to keep them.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -341,19 +393,25 @@
 },
 {
 "speaker": "Narrator",
-"text": "They stood there, listening for the break in the silence, the sound of heavy footsteps or En-HEH-doo's dry voice reminding them that they were fools."
+"text": "They stood there, listening for the break in the silence, the sound of heavy footsteps or En-KHEH-doo's dry voice reminding them that they were fools."
 },
 {
 "speaker": "Narrator",
-"text": "Nothing came."
+"text": "Nothing came.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "At last Ninsun adjusted the strap of her satchel and started forward again."
+"text": "At last NEEN-soon adjusted the strap of her satchel and started forward again.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Ninsun",
-"text": "We keep moving,"
+"text": "We keep moving,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -388,9 +446,10 @@
 "speaker": "Zik",
 "text": "They aren't moving,",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -400,15 +459,23 @@
 },
 {
 "speaker": "Ninsun",
-"text": "They are."
+"text": "They are.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun had stopped before another shelf."
+"text": "NEEN-soon had stopped before another shelf."
 },
 {
 "speaker": "Ninsun",
-"text": "They're just… moving very slowly."
+"text": "They're just… moving very slowly.",
+"tags": [
+"awed"
+],
+"tag": "awed"
 },
 {
 "speaker": "Narrator",
@@ -418,14 +485,19 @@
 "speaker": "Zik",
 "text": "They're alive?",
 "tags": [
-"weakly"
+"weakly",
+"awed"
 ],
-"tag": "weakly",
+"tag": "weakly] [awed",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -435,9 +507,9 @@
 "speaker": "Ninsun",
 "text": "I don't even know if that's the right question.",
 "tags": [
-"skeptical"
+"thoughtful"
 ],
-"tag": "skeptical"
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -445,7 +517,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Here."
+"text": "Here.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -457,7 +533,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun pointed toward the inscription."
+"text": "NEEN-soon pointed toward the inscription."
 },
 {
 "speaker": "Narrator",
@@ -505,11 +581,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "We aren't the first,"
+"text": "We aren't the first,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said at last.",
+"text": "NEEN-soon said at last.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -520,9 +600,10 @@
 "speaker": "Zik",
 "text": "What are we, then?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -531,20 +612,29 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Not replacements."
+"text": "Not replacements.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Zik",
 "text": "No?",
 "tags": [
-"weakly"
+"weakly",
+"uncertain"
 ],
-"tag": "weakly",
+"tag": "weakly] [uncertain",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "If we were, there would be no reason to keep the others."
+"text": "If we were, there would be no reason to keep the others.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -552,11 +642,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Thousands."
+"text": "Thousands.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Perhaps more."
+"text": "Perhaps more.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -572,7 +664,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun continued quietly.",
+"text": "NEEN-soon continued quietly.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -587,9 +679,10 @@
 "speaker": "Zik",
 "text": "Then what are they?",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -620,20 +713,29 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Or attempts at correction."
+"text": "Or attempts at correction.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
 "text": "The City keeps trying until something works.",
 "tags": [
-"weakly"
+"weakly",
+"grimly"
 ],
-"tag": "weakly",
+"tag": "weakly] [grimly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "Perhaps."
+"text": "Perhaps.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -642,7 +744,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Or perhaps it doesn't know how to stop trying."
+"text": "Or perhaps it doesn't know how to stop trying.",
+"tags": [
+"troubled"
+],
+"tag": "troubled"
 },
 {
 "speaker": "Narrator",
@@ -671,6 +777,7 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -680,6 +787,7 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -689,6 +797,7 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
@@ -699,9 +808,10 @@
 "speaker": "Zik",
 "text": "What does that mean?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -711,7 +821,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun didn't answer. She couldn't."
+"text": "NEEN-soon didn't answer. She couldn't."
 },
 {
 "speaker": "Narrator",
@@ -735,7 +845,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "His father."
+"text": "His father.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -786,19 +897,21 @@
 },
 {
 "speaker": "Narrator",
-"text": "Only a dash."
+"text": "Only a dash.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun came to stand beside him without speaking."
+"text": "NEEN-soon came to stand beside him without speaking."
 },
 {
 "speaker": "Zik",
 "text": "He's in here.",
 "tags": [
-"weakly"
+"weakly",
+"hollow"
 ],
-"tag": "weakly",
+"tag": "weakly] [hollow",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -807,28 +920,38 @@
 },
 {
 "speaker": "Ninsun",
-"text": "That could mean many things."
+"text": "That could mean many things.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Zik",
 "text": "It could.",
 "tags": [
-"weakly"
+"weakly",
+"flatly"
 ],
-"tag": "weakly",
+"tag": "weakly] [flatly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "It doesn't necessarily mean—"
+"text": "It doesn't necessarily mean—",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Zik",
 "text": "I know what it doesn't necessarily mean.",
 "tags": [
-"weakly"
+"weakly",
+"sharply"
 ],
-"tag": "weakly",
+"tag": "weakly] [sharply",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -864,15 +987,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked at him."
+"text": "NEEN-soon looked at him."
 },
 {
 "speaker": "Zik",
 "text": "I told myself I was looking for answers.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -884,10 +1008,10 @@
 "speaker": "Zik",
 "text": "But I was looking for him.",
 "tags": [
-"quietly",
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "quietly] [weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -898,31 +1022,41 @@
 "speaker": "Zik",
 "text": "I don't know what that dash means.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Zik",
 "text": "But it isn't an ending.",
 "tags": [
-"weakly"
+"weakly",
+"resolute"
 ],
-"tag": "weakly",
+"tag": "weakly] [resolute",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun followed his gaze."
+"text": "NEEN-soon followed his gaze."
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -932,9 +1066,10 @@
 "speaker": "Zik",
 "text": "Then I won't let the City decide what comes after it.",
 "tags": [
-"weakly"
+"weakly",
+"determined"
 ],
-"tag": "weakly",
+"tag": "weakly] [determined",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -953,9 +1088,10 @@
 "speaker": "Zik",
 "text": "The shelves are emptying,",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -965,25 +1101,35 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun nodded.",
+"text": "NEEN-soon nodded.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Or we're approaching whatever doesn't need to be archived."
+"text": "Or we're approaching whatever doesn't need to be archived.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Zik",
 "text": "What does that mean?",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Ninsun",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -992,7 +1138,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Everything we've seen so far has already happened. Someone preserved it. Recorded it. Perhaps we're reaching the place where those decisions are made."
+"text": "Everything we've seen so far has already happened. Someone preserved it. Recorded it. Perhaps we're reaching the place where those decisions are made.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -1008,7 +1158,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "It looked used."
+"text": "It looked used.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1016,28 +1167,35 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun slowed."
+"text": "NEEN-soon slowed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Ninsun",
-"text": "This isn't a reading room."
+"text": "This isn't a reading room.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
 "text": "No.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Zik",
 "text": "It's where the shelves begin.",
 "tags": [
-"weakly"
+"weakly",
+"awed"
 ],
-"tag": "weakly",
+"tag": "weakly] [awed",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
@@ -1062,7 +1220,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "His stomach tightened."
+"text": "His stomach tightened.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -1082,7 +1241,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "The final entry described their arrival in the library. It described the empty shelves waiting beyond the jars. It described the disappearance of BAH-lahg and En-HEH-doo, the discovery of Subject 001, and words that still echoed in the chamber around them."
+"text": "The final entry described their arrival in the library. It described the empty shelves waiting beyond the jars. It described the disappearance of BAH-lahg and En-KHEH-doo, the discovery of Subject 001, and words that still echoed in the chamber around them."
 },
 {
 "speaker": "Narrator",
@@ -1096,18 +1255,23 @@
 "speaker": "Zik",
 "text": "It isn't prophecy.",
 "tags": [
-"weakly"
+"weakly",
+"quietly"
 ],
-"tag": "weakly",
+"tag": "weakly] [quietly",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun didn't answer immediately. She was studying the edge of the writing, watching where the ink thinned into the parchment."
+"text": "NEEN-soon didn't answer immediately. She was studying the edge of the writing, watching where the ink thinned into the parchment."
 },
 {
 "speaker": "Ninsun",
-"text": "No,"
+"text": "No,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -1116,7 +1280,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "Prophecy is written before it happens."
+"text": "Prophecy is written before it happens.",
+"tags": [
+"slowly"
+],
+"tag": "slowly"
 },
 {
 "speaker": "Narrator",
@@ -1124,7 +1292,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "This is happening."
+"text": "This is happening.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -1146,18 +1318,23 @@
 "speaker": "Zik",
 "text": "I don't think it wants one.",
 "tags": [
-"weakly"
+"weakly",
+"uneasy"
 ],
-"tag": "weakly",
+"tag": "weakly] [uneasy",
 "note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun never took her eyes off the open page."
+"text": "NEEN-soon never took her eyes off the open page."
 },
 {
 "speaker": "Ninsun",
-"text": "I think it expects one."
+"text": "I think it expects one.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -1174,6 +1351,7 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 1.2,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 }
 ]

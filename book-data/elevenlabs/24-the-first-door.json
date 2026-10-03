@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "24-the-first-door",
 "title": "Chapter 24 — The First Door",
-"chars": 9184,
+"chars": 9223,
 "speakers": [
 "Balag",
 "Bel-iddin",
@@ -38,11 +38,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun noticed the discrepancy first. She dropped to her knees beside a collapsed wall and ran her fingers along the joint where newer brick met older foundation. Sand had collected in the seam, but not enough to hide the difference."
+"text": "NEEN-soon noticed the discrepancy first. She dropped to her knees beside a collapsed wall and ran her fingers along the joint where newer brick met older foundation. Sand had collected in the seam, but not enough to hide the difference."
 },
 {
 "speaker": "Ninsun",
-"text": "This wall is lying,"
+"text": "This wall is lying,",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -56,15 +60,27 @@
 },
 {
 "speaker": "Zik",
-"text": "Explain."
+"text": "Explain.",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Ninsun",
-"text": "It's supposed to be plumb. Straight. The foundation beneath it is aligned with the ridge, but the upper structure isn't. The entire settlement was built at an angle."
+"text": "It's supposed to be plumb. Straight. The foundation beneath it is aligned with the ridge, but the upper structure isn't. The entire settlement was built at an angle.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Zik",
-"text": "Why?"
+"text": "Why?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -73,7 +89,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "To cover what was already here."
+"text": "To cover what was already here.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -82,20 +102,28 @@
 },
 {
 "speaker": "Balag",
-"text": "We've seen enough."
+"text": "We've seen enough.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo smiled the way she did when she found the weak seam in a strongbox.",
+"text": "En-KHEH-doo smiled the way she did when she found the weak seam in a strongbox.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "We've seen nothing yet."
+"text": "We've seen nothing yet.",
+"tags": [
+"excited"
+],
+"tag": "excited"
 },
 {
 "speaker": "Narrator",
-"text": "They worked for hours. The heat made the air shimmer above the stones. They uncovered broken pottery, ordinary foundations, the remains of a storage room, and the scattered bones of mules that had died centuries earlier. Ninsun catalogued everything she could identify. En-HEH-doo searched the collapsed rooms for anything worth carrying. BAH-lahg did most of the heavy work and complained that everyone else had been born with useless hands."
+"text": "They worked for hours. The heat made the air shimmer above the stones. They uncovered broken pottery, ordinary foundations, the remains of a storage room, and the scattered bones of mules that had died centuries earlier. NEEN-soon catalogued everything she could identify. En-KHEH-doo searched the collapsed rooms for anything worth carrying. BAH-lahg did most of the heavy work and complained that everyone else had been born with useless hands."
 },
 {
 "speaker": "Narrator",
@@ -107,7 +135,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "At sunset En-HEH-doo's shovel struck stone with a different sound."
+"text": "At sunset En-KHEH-doo's shovel struck stone with a different sound.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -116,19 +145,31 @@
 },
 {
 "speaker": "Zik",
-"text": "Again."
+"text": "Again.",
+"tags": [
+"alert"
+],
+"tag": "alert"
 },
 {
 "speaker": "Narrator",
-"text": "She struck a second time. The hollow note came back. BAH-lahg stopped digging. Ninsun moved closer, her face tightening as she examined the exposed stone."
+"text": "She struck a second time. The hollow note came back. BAH-lahg stopped digging. NEEN-soon moved closer, her face tightening as she examined the exposed stone."
 },
 {
 "speaker": "Ninsun",
-"text": "This isn't part of the foundation."
+"text": "This isn't part of the foundation.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Zik",
-"text": "No,"
+"text": "No,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -141,12 +182,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun traced the difference with a shaking finger.",
+"text": "NEEN-soon traced the difference with a shaking finger.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The upper settlement was built after this staircase was sealed. They knew what was down here."
+"text": "The upper settlement was built after this staircase was sealed. They knew what was down here.",
+"tags": [
+"realizing"
+],
+"tag": "realizing"
 },
 {
 "speaker": "Narrator",
@@ -155,20 +200,32 @@
 },
 {
 "speaker": "Balag",
-"text": "Then we go back up."
+"text": "Then we go back up.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Ninsun",
-"text": "They built the whole place to hide the entrance,"
+"text": "They built the whole place to hide the entrance,",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun continued, as if she hadn't heard him.",
+"text": "NEEN-soon continued, as if she hadn't heard him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Not around it. Over it."
+"text": "Not around it. Over it.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -184,7 +241,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun scraped away centuries of dust with her knife. Beneath it lay the spiral-drop symbol, incomplete. A section had been deliberately left out, as if whoever carved it had stopped before finishing the design."
+"text": "NEEN-soon scraped away centuries of dust with her knife. Beneath it lay the spiral-drop symbol, incomplete. A section had been deliberately left out, as if whoever carved it had stopped before finishing the design."
 },
 {
 "speaker": "Narrator",
@@ -192,7 +249,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Zeek,"
+"text": "Zeek,",
+"tags": [
+"warning"
+],
+"tag": "warning"
 },
 {
 "speaker": "Narrator",
@@ -205,7 +266,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Everyone froze."
+"text": "Everyone froze.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -218,7 +280,11 @@
 },
 {
 "speaker": "Balag",
-"text": "We're leaving."
+"text": "We're leaving.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -227,33 +293,55 @@
 },
 {
 "speaker": "Zik",
-"text": "We just got here."
+"text": "We just got here.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Balag",
-"text": "That is exactly the problem."
+"text": "That is exactly the problem.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo lowered her knife.",
+"text": "En-KHEH-doo lowered her knife.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "Did that come from behind the wall?"
+"text": "Did that come from behind the wall?",
+"tags": [
+"whispers",
+"fearful"
+],
+"tag": "whispers] [fearful"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun stared at the symbol.",
+"text": "NEEN-soon stared at the symbol.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "Yes."
+"text": "Yes.",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Enhedu",
-"text": "Then why does it sound like it's standing on the other side?"
+"text": "Then why does it sound like it's standing on the other side?",
+"tags": [
+"whispers",
+"uneasy"
+],
+"tag": "whispers] [uneasy"
 },
 {
 "speaker": "Narrator",
@@ -274,12 +362,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun read the words over his shoulder.",
+"text": "NEEN-soon read the words over his shoulder.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What does that mean?"
+"text": "What does that mean?",
+"tags": [
+"whispers"
+],
+"tag": "whispers"
 },
 {
 "speaker": "Narrator",
@@ -288,7 +380,12 @@
 },
 {
 "speaker": "Zik",
-"text": "I think we're about to find out."
+"text": "I think we're about to find out.",
+"tags": [
+"quietly",
+"determined"
+],
+"tag": "quietly] [determined"
 },
 {
 "speaker": "Narrator",
@@ -300,7 +397,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The world unfolded."
+"text": "The world unfolded.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -333,7 +431,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The vision ended."
+"text": "The vision ended.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -343,13 +442,14 @@
 "speaker": "Balag",
 "text": "Zeek!",
 "tags": [
-"shouts"
+"shouts",
+"fearful"
 ],
-"tag": "shouts"
+"tag": "shouts] [fearful"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun was shouting his name. En-HEH-doo stood over him with one hand on the journal and the other on her knife, apparently unsure which represented the greater threat."
+"text": "NEEN-soon was shouting his name. En-KHEH-doo stood over him with one hand on the journal and the other on her knife, apparently unsure which represented the greater threat."
 },
 {
 "speaker": "Narrator",
@@ -357,23 +457,44 @@
 },
 {
 "speaker": "Balag",
-"text": "Stay there."
+"text": "Stay there.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Zik",
-"text": "I'm fine."
+"text": "I'm fine.",
+"tags": [
+"weakly"
+],
+"tag": "weakly"
 },
 {
 "speaker": "Balag",
-"text": "You were standing there, then you weren't."
+"text": "You were standing there, then you weren't.",
+"tags": [
+"shaken"
+],
+"tag": "shaken"
 },
 {
 "speaker": "Zik",
-"text": "That happens."
+"text": "That happens.",
+"tags": [
+"dryly",
+"weakly"
+],
+"tag": "dryly] [weakly"
 },
 {
 "speaker": "Balag",
-"text": "Not to people who are fine."
+"text": "Not to people who are fine.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -381,12 +502,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun crouched beside him.",
+"text": "NEEN-soon crouched beside him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What did you see?"
+"text": "What did you see?",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
@@ -394,12 +519,17 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun watched his face.",
+"text": "NEEN-soon watched his face.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "What did it take?"
+"text": "What did it take?",
+"tags": [
+"quietly",
+"fearful"
+],
+"tag": "quietly] [fearful"
 },
 {
 "speaker": "Narrator",
@@ -408,11 +538,19 @@
 },
 {
 "speaker": "Zik",
-"text": "What?"
+"text": "What?",
+"tags": [
+"confused"
+],
+"tag": "confused"
 },
 {
 "speaker": "Ninsun",
-"text": "You were remembering. Then you weren't."
+"text": "You were remembering. Then you weren't.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -429,16 +567,24 @@
 },
 {
 "speaker": "Balag",
-"text": "That's not possible."
+"text": "That's not possible.",
+"tags": [
+"fearful"
+],
+"tag": "fearful"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked at him.",
+"text": "En-KHEH-doo looked at him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "You should stop saying that."
+"text": "You should stop saying that.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -455,6 +601,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "I WAS WRONG ABOUT THE DEPTH.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Map annotation in Bel-iddin's hand."
 },
 {
@@ -468,6 +618,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "I WAS WRONG ABOUT WHAT WAS BENEATH US.",
+"tags": [
+"ominous"
+],
+"tag": "ominous",
 "note": "Map annotation in Bel-iddin's hand."
 },
 {
@@ -485,7 +639,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The map had not been wrong about the depth. It had been wrong about where the city began."
+"text": "The map had not been wrong about the depth. It had been wrong about where the city began.",
+"pauseBefore": 1.2
 }
 ]
 }

@@ -6,159 +6,175 @@ Narrator: The Man Who Already Knew
 [pause 2s]
 Narrator: The Collector found them before they finished packing for the east-side survey.
 Narrator: He was waiting in the narrow lane behind the cheap room, leaning against the wall like a man who had all morning and no intention of wasting it on politeness. Two temple guards stood a short distance away, looking bored in the specific way of men paid to look dangerous. The Collector himself looked almost regretful. That bothered Zeek more than anger would have.
-The Collector: You've been busy,
+The Collector: [smoothly] You've been busy,
 Narrator: the Collector said.
-Narrator: BAH-lahg's hand drifted toward the haft of his axe and then stopped. En-HEH-doo's expression went carefully blank. Ninsun simply watched, stylus still in her fingers from the map she had been updating.
+Narrator: BAH-lahg's hand drifted toward the haft of his axe and then stopped. En-KHEH-doo's expression went carefully blank. NEEN-soon simply watched, stylus still in her fingers from the map she had been updating.
 Narrator: Zeek set the pack down.
-Zik: We're taking a paying job. East side. Walls that need measuring. Nothing that should interest you.
-The Collector: Everything you do interests me lately.
-Narrator: The Collector's eyes moved across the four of them, lingering a fraction too long on the linen around Zeek's left hand and the satchel where Ninsun kept her scraps.
-The Collector: Notches in walls that officially don't exist. Questions about blank tablets. A certain district that keeps appearing on no one's maps but yours. You've drawn attention.
-Balag: From who?
+Zik: [guarded] We're taking a paying job. East side. Walls that need measuring. Nothing that should interest you.
+The Collector: [smoothly] Everything you do interests me lately.
+Narrator: The Collector's eyes moved across the four of them, lingering a fraction too long on the linen around Zeek's left hand and the satchel where NEEN-soon kept her scraps.
+The Collector: [smoothly] Notches in walls that officially don't exist. Questions about blank tablets. A certain district that keeps appearing on no one's maps but yours. You've drawn attention.
+Balag: [gruffly] From who?
 Narrator: BAH-lahg asked.
 Narrator: The Collector almost smiled.
 The Collector: [amused] From people who prefer their attention not to be noticed in return.
-Narrator: En-HEH-doo tilted her head.
-Enhedu: You're not here to buy.
-The Collector: No.
+Narrator: En-KHEH-doo tilted her head.
+Enhedu: [shrewdly] You're not here to buy.
+The Collector: [smoothly] No.
 Narrator: He looked at Zeek.
-The Collector: I'm here because your father made the same mistake you're making now. He thought the City was a puzzle that wanted to be solved. It isn't. It's a lid. And lids exist to keep something from rising. The more you mark it, the more you tell it exactly where the curious ones are standing.
-Narrator: Ninsun's voice was quiet.
-Ninsun: You know about the marks.
-The Collector: I know about the ones who made them before you. Most of them stopped. A few didn't. The ones who didn't are why certain drawers in the lower archives stay locked.
+The Collector: [gravely] I'm here because your father made the same mistake you're making now. He thought the City was a puzzle that wanted to be solved. It isn't. It's a lid. And lids exist to keep something from rising. The more you mark it, the more you tell it exactly where the curious ones are standing.
+Narrator: NEEN-soon's voice was quiet.
+Ninsun: [quietly] You know about the marks.
+The Collector: [gravely] I know about the ones who made them before you. Most of them stopped. A few didn't. The ones who didn't are why certain drawers in the lower archives stay locked.
 Narrator: He glanced at the two guards, then back.
-The Collector: I'm offering you the same chance I offered your father. Walk away from the shifted streets. Take the east-side work. Take the silver. Let the lid stay closed.
+The Collector: [smoothly] I'm offering you the same chance I offered your father. Walk away from the shifted streets. Take the east-side work. Take the silver. Let the lid stay closed.
 Narrator: Zeek held his stare.
-Zik: And if we don't?
+Zik: [defiantly] And if we don't?
 Narrator: The Collector's expression didn't change.
-The Collector: Then you'll learn, the same way he did, that some prices are paid in advance. And some debts collect themselves.
+The Collector: [coldly] Then you'll learn, the same way he did, that some prices are paid in advance. And some debts collect themselves.
 Narrator: He pushed off the wall, adjusted the sleeve of his robe, and walked away. The guards fell in behind him without being told. At the end of the lane he paused, just long enough to look back once.
-The Collector: Your father finally understood he had been asking the wrong question,
+The Collector: [softly] Your father finally understood he had been asking the wrong question,
 Narrator: he said.
-The Collector: I hope you're smarter than he was. Or luckier. I'm not certain which one matters more.
+The Collector: [dryly] I hope you're smarter than he was. Or luckier. I'm not certain which one matters more.
 Narrator: Then he was gone.
 Narrator: The lane felt smaller after he left.
 Narrator: BAH-lahg exhaled through his nose.
 Balag: [annoyed] I fucking hate that man.
-Enhedu: He's not wrong about the attention,
-Narrator: En-HEH-doo said. She was already recalculating something behind her eyes.
-Enhedu: We've been loud in places that prefer quiet.
-Narrator: Ninsun looked down at the map still half-open in her hands. The boxes labeled CLAIMED, COST, and LIMIT sat in a tight cluster near the tanners' row.
-Ninsun: He knew about the marks. He knew about the ones who came before us. That means the locked drawers have names in them. Or the absence of names.
+Enhedu: [thoughtful] He's not wrong about the attention,
+Narrator: En-KHEH-doo said. She was already recalculating something behind her eyes.
+Enhedu: [shrewdly] We've been loud in places that prefer quiet.
+Narrator: NEEN-soon looked down at the map still half-open in her hands. The boxes labeled CLAIMED, COST, and LIMIT sat in a tight cluster near the tanners' row.
+Ninsun: [intense] He knew about the marks. He knew about the ones who came before us. That means the locked drawers have names in them. Or the absence of names.
 Narrator: Zeek picked up the pack. The journal inside it had not been opened in nine days. The decision still felt like the only clean thing he owned.
-Zik: We take the east-side job,
+Zik: [firmly] We take the east-side job,
 Narrator: he said.
-Zik: We get paid. We watch who watches us. And we don't cut another notch until we know whether the Collector is warning us or herding us.
+Zik: [firmly] We get paid. We watch who watches us. And we don't cut another notch until we know whether the Collector is warning us or herding us.
 [pause 1.5s]
 Narrator: No one argued.
 Narrator: They walked out of the lane in the order that had become habit. Behind them the cheap room and the map and the accumulating scraps of evidence waited like a second set of lungs the city had not yet decided to collapse.
-Narrator: Ahead, the ordinary noise of Uruk continued—merchants, animals, arguments that had nothing to do with lids or locked drawers or the kind of debts that collected themselves.
+Narrator: Ahead, the ordinary noise of OO-rook continued—merchants, animals, arguments that had nothing to do with lids or locked drawers or the kind of debts that collected themselves.
 Narrator: Zeek flexed his left hand inside the linen. The mark was warm.
 Narrator: He did not look back.
+[pause 1.5s]
 Narrator: The east-side walls were exactly as boring as the contract promised.
 Narrator: Three hundred cubits of mud-brick curtain wall, two collapsed towers, and a stretch of foundation that had been patched so many times the original line was anybody's guess. The temple clerk who hired them wanted measurements, load assessments, and a written recommendation on whether the whole section needed tearing down before the next flood season. Nothing shifted. Nothing breathed cooler air. Nothing carried notches.
 Narrator: It was the most restful work they had done in weeks.
-Narrator: BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. En-HEH-doo counted and sorted the reusable stone the way other people counted coin. Ninsun copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar.
+Narrator: BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. En-KHEH-doo counted and sorted the reusable stone the way other people counted coin. NEEN-soon copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar.
 Narrator: He paused halfway along the inner wall.
 Narrator: One repair interrupted another.
+[pause 0.6s]
 Narrator: Then another.
+[pause 0.5s]
 Narrator: Three different masons.
 Narrator: Three different clay mixes.
 Narrator: The oldest repair had been careful. Tight joints. Fired brick cut to match the original courses.
 Narrator: The second had simply filled cracks.
 Narrator: The newest had hidden both.
 Narrator: BAH-lahg noticed him stop.
-Balag: What?
-Zik: Someone kept fixing the same place.
-Balag: Bad foundation?
+Balag: [curious] What?
+Zik: [thoughtful] Someone kept fixing the same place.
+Balag: [curious] Bad foundation?
 Zik: No.
 Narrator: Zeek brushed away another layer of dust.
-Zik: If it were structural, they'd replace the whole course.
-Balag: So?
-Zik: They only repaired this section.
-Narrator: En-HEH-doo joined them.
-Enhedu: Meaning?
-Zik: They weren't trying to save the wall.
+Zik: [thoughtful] If it were structural, they'd replace the whole course.
+Balag: [skeptical] So?
+Zik: [intrigued] They only repaired this section.
+Narrator: En-KHEH-doo joined them.
+Enhedu: [curious] Meaning?
+Zik: [quietly] They weren't trying to save the wall.
 Narrator: He traced the line of repairs with one finger.
-Zik: They were trying to hide something inside it.
+Zik: [intrigued] They were trying to hide something inside it.
 Narrator: BAH-lahg looked at the perfectly ordinary brickwork.
-Balag: You can tell that from mud?
-Zik: I can tell someone paid for three repairs where one would've done.
+Balag: [skeptical] You can tell that from mud?
+Zik: [dryly] I can tell someone paid for three repairs where one would've done.
 Narrator: He smiled faintly.
-Zik: People rarely waste labor without a reason.
+Zik: [amused] People rarely waste labor without a reason.
 Narrator: For most of the morning no one spoke about lids or locked drawers or the Collector's quiet threat. The ordinary work was enough.
-Narrator: Near midday Ninsun stopped in front of a section of inner wall that looked no different from the rest. She ran her fingers along a line of faded wedge marks, then crouched and brushed dust from a deeper cut near the base.
-Narrator: Ninsun crouched beside the repaired section.
-Ninsun: Zeek.
+[pause 1.5s]
+Narrator: Near midday NEEN-soon stopped in front of a section of inner wall that looked no different from the rest. She ran her fingers along a line of faded wedge marks, then crouched and brushed dust from a deeper cut near the base.
+Narrator: NEEN-soon crouched beside the repaired section.
+Ninsun: [urgently] Zeek.
 Narrator: He came over. The others followed without being called.
-Ninsun: There's writing here.
+Ninsun: [whispers] [excited] There's writing here.
 Narrator: BAH-lahg looked.
-Balag: I don't see anything.
-Ninsun: You aren't meant to.
+Balag: [skeptical] I don't see anything.
+Ninsun: [quietly] You aren't meant to.
 Narrator: She dampened one corner of her sleeve and wiped gently across the brick.
+[pause 0.5s]
 Narrator: The dust disappeared.
+[pause 0.5s]
 Narrator: Nothing else happened.
 Narrator: Then sunlight shifted behind a passing cloud.
 Narrator: The shallow cuts suddenly caught the light.
-Narrator: En-HEH-doo sucked in a breath.
-Enhedu: I see it.
+Narrator: En-KHEH-doo sucked in a breath.
+Enhedu: [breathless] I see it.
 Narrator: Barely.
 Narrator: The survey marks had been cut so shallow they disappeared unless viewed from exactly the right angle.
 Narrator: Zeek knelt beside them.
-Zik: They expected later repairs.
-Balag: What?
-Zik: They carved them after the wall was finished.
+Zik: [intently] They expected later repairs.
+Balag: [puzzled] What?
+Zik: [intently] They carved them after the wall was finished.
 Narrator: He pointed.
-Zik: If these were construction marks, they'd be beneath this plaster.
+Zik: [intently] If these were construction marks, they'd be beneath this plaster.
 Narrator: Instead they sat on top of it.
-Zik: They wanted someone to erase them.
+Zik: [quietly] They wanted someone to erase them.
 Narrator: BAH-lahg frowned.
 Balag: [skeptical] That's a strange thing to want.
-Ninsun: No.
-Narrator: Ninsun's voice was almost a whisper.
+Ninsun: [quietly] No.
+Narrator: NEEN-soon's voice was almost a whisper.
 Ninsun: [whispers] It's a very ordinary thing.
 Narrator: They all looked at her.
-Ninsun: History is easier to hide when you know exactly where someone will try.
+Ninsun: [quietly] History is easier to hide when you know exactly where someone will try.
 Narrator: She continued cleaning.
+[pause 0.5s]
 Narrator: Slowly.
+[pause 0.5s]
 Narrator: One wedge.
+[pause 0.5s]
 Narrator: Another.
+[pause 0.5s]
 Narrator: Then the spiral.
+[pause 0.5s]
 Narrator: Not scratched.
+[pause 0.5s]
 Narrator: Not painted.
+[pause 0.5s]
 Narrator: Deliberately carved.
 Narrator: Then attacked with a chisel.
 Narrator: The damage had broken the symbol but not destroyed it.
 Narrator: Whoever erased it had worked angrily.
+[pause 0.5s]
 Narrator: Or hurriedly.
 Narrator: Zeek touched the deepest cut.
-Zik: They came back.
-Balag: How do you know?
-Zik: The scoring crosses weathering.
+Zik: [quietly] They came back.
+Balag: [curious] How do you know?
+Zik: [intently] The scoring crosses weathering.
 Narrator: He looked up.
-Zik: The wall aged.
-Ninsun: Then somebody returned years later just to erase this.
+Zik: [quietly] The wall aged.
+Ninsun: [uneasy] Then somebody returned years later just to erase this.
 [pause 1.5s]
 Narrator: Silence.
 Narrator: BAH-lahg looked around the empty survey site.
-Balag: I dislike the amount of effort strangers keep spending on old bricks.
+Balag: [grumbling] I dislike the amount of effort strangers keep spending on old bricks.
 Narrator: The marks were old temple survey code, the kind used for private boundary work rather than public walls. Most of it was routine. One cluster near the bottom was not. The same spiral-drop that lived under the linen on Zeek's hand had been cut into the brick and then deliberately defaced—scored through so hard the chisel had split the face of the course.
 Narrator: Beside it, in a tighter hand, three signs remained legible.
-Narrator: Ninsun's voice had gone flat.
-Ninsun: [softly] That's the same seal language as the broken piece we pulled from the shifted chamber. And the name under it—
+Narrator: NEEN-soon's voice had gone flat.
+Ninsun: [flatly] That's the same seal language as the broken piece we pulled from the shifted chamber. And the name under it—
 Narrator: She stopped, then finished quietly.
 Ninsun: [softly] It's the uncrossed name. The one from the basin. The ordinary one. The potter or the dock worker or whoever the city decided wasn't worth erasing completely.
 Narrator: BAH-lahg stared at the defaced symbol.
-Balag: So the same mark shows up on a royal tomb, a shifted street, and a temple curtain wall that officially has nothing to do with either.
-Enhedu: And on an ordinary person's name the city only half-deleted,
-Narrator: En-HEH-doo said. She was already looking at the surrounding courses for anything else worth taking.
-Enhedu: That's not coincidence. That's inventory.
+Balag: [uneasy] So the same mark shows up on a royal tomb, a shifted street, and a temple curtain wall that officially has nothing to do with either.
+Enhedu: [grimly] And on an ordinary person's name the city only half-deleted,
+Narrator: En-KHEH-doo said. She was already looking at the surrounding courses for anything else worth taking.
+Enhedu: [grimly] That's not coincidence. That's inventory.
 Narrator: Zeek ran his thumb across the scored spiral. The edges were old. Whoever had tried to erase it had done the work years ago, maybe decades. The wall had simply kept the evidence the way walls kept everything else—without comment, without loyalty, without any interest in whether the people who came later were ready to see it.
-Narrator: Ninsun was already copying the cluster onto a fresh scrap, her handwriting smaller and tighter than usual.
-Ninsun: The Collector said the locked drawers hold the ones who didn't stop. What if they also hold the names the city tried to cross out and couldn't quite finish?
+Narrator: NEEN-soon was already copying the cluster onto a fresh scrap, her handwriting smaller and tighter than usual.
+Ninsun: [intense] The Collector said the locked drawers hold the ones who didn't stop. What if they also hold the names the city tried to cross out and couldn't quite finish?
 [pause 1.5s]
 Narrator: No one answered.
-Narrator: They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. En-HEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. Ninsun kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest.
+[pause 1.5s]
+Narrator: They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. En-KHEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. NEEN-soon kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest.
+[pause 1.5s]
 Narrator: By late afternoon the work was done. The clerk paid them in full and did not ask why they had spent so long on one short section of wall. They walked back toward the lower districts in the order that had become habit, four people carrying an ordinary day's pay and one more piece of proof that the city's erasures were never as complete as it wanted them to be.
 Narrator: Zeek flexed his left hand beneath the linen.
 Narrator: The mark remained quiet.
@@ -170,5 +186,6 @@ Narrator: About the locked drawers.
 Narrator: About the wall someone had repaired three separate times simply to hide one damaged symbol and one ordinary name.
 Narrator: The Collector had said his father eventually learned he had been asking the wrong question.
 Narrator: Walking home through the evening crowds, Zeek realized he had never asked what that question had been.
+[pause 1.2s]
 Narrator: For the first time since opening the tomb, that frightened him more than the answer.
 [pause 3s]

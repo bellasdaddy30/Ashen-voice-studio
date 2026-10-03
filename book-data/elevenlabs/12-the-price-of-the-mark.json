@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "12-the-price-of-the-mark",
 "title": "Chapter 12 — The Price of the Mark",
-"chars": 6104,
+"chars": 6138,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -41,7 +41,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun unwrapped the tablet. The writing was hurried and already fading at the edges, as if the clay itself had decided the words were temporary."
+"text": "NEEN-soon unwrapped the tablet. The writing was hurried and already fading at the edges, as if the clay itself had decided the words were temporary."
 },
 {
 "speaker": "Narrator",
@@ -76,25 +76,38 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo exhaled slowly.",
+"text": "En-KHEH-doo exhaled slowly.",
+"pauseBefore": 0.5,
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "So we're not the only ones."
+"text": "So we're not the only ones.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Ninsun",
-"text": "We were never the only ones,"
+"text": "We were never the only ones,",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun said. Her voice had gone flat.",
+"text": "NEEN-soon said. Her voice had gone flat.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "We were just the ones still walking."
+"text": "We were just the ones still walking.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -103,7 +116,11 @@
 },
 {
 "speaker": "Balag",
-"text": "No blood. No body. Just the gear."
+"text": "No blood. No body. Just the gear.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -119,27 +136,45 @@
 },
 {
 "speaker": "Narrator",
-"text": "Still damp."
+"text": "Still damp.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg noticed."
+"text": "BAH-lahg noticed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Balag",
-"text": "That's impossible."
+"text": "That's impossible.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Zik",
-"text": "It shouldn't be."
+"text": "It shouldn't be.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Balag",
-"text": "How long has this passage been here?"
+"text": "How long has this passage been here?",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Zik",
-"text": "This one?"
+"text": "This one?",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -147,11 +182,19 @@
 },
 {
 "speaker": "Zik",
-"text": "Hours."
+"text": "Hours.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Balag",
-"text": "And the water?"
+"text": "And the water?",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -163,11 +206,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not stagnant."
+"text": "Not stagnant.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Not sour."
+"text": "Not sour.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -175,27 +220,36 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo frowned."
+"text": "En-KHEH-doo frowned.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
 "text": "So whoever owned this…",
 "tags": [
-"skeptical"
+"uneasy"
 ],
-"tag": "skeptical"
+"tag": "uneasy"
 },
 {
 "speaker": "Zik",
-"text": "…was here recently."
+"text": "…was here recently.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked up from the tablet."
+"text": "NEEN-soon looked up from the tablet."
 },
 {
 "speaker": "Ninsun",
-"text": "Or recently enough that the city hasn't decided otherwise."
+"text": "Or recently enough that the city hasn't decided otherwise.",
+"tags": [
+"ominous"
+],
+"tag": "ominous"
 },
 {
 "speaker": "Narrator",
@@ -203,7 +257,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "A bronze needle."
+"text": "A bronze needle.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -215,11 +270,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Nothing valuable."
+"text": "Nothing valuable.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Nothing worth stealing."
+"text": "Nothing worth stealing.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -235,11 +292,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Round."
+"text": "Round.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Unfired."
+"text": "Unfired.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -247,39 +306,62 @@
 },
 {
 "speaker": "Narrator",
-"text": "Not the spiral-drop."
+"text": "Not the spiral-drop.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "A simple reed."
+"text": "A simple reed.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo leaned closer."
+"text": "En-KHEH-doo leaned closer.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Enhedu",
-"text": "Meaning?"
+"text": "Meaning?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun took the token."
+"text": "NEEN-soon took the token."
 },
 {
 "speaker": "Ninsun",
-"text": "It isn't a merchant's mark."
+"text": "It isn't a merchant's mark.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Enhedu",
-"text": "Temple?"
+"text": "Temple?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -287,7 +369,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "It looks personal."
+"text": "It looks personal.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -295,7 +381,11 @@
 },
 {
 "speaker": "Balag",
-"text": "So somebody expected to come back."
+"text": "So somebody expected to come back.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
@@ -303,7 +393,11 @@
 },
 {
 "speaker": "Zik",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -311,7 +405,11 @@
 },
 {
 "speaker": "Zik",
-"text": "They expected someone else to."
+"text": "They expected someone else to.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -319,7 +417,11 @@
 },
 {
 "speaker": "Zik",
-"text": "That's worse,"
+"text": "That's worse,",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -333,11 +435,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "They took the tablet. They left the pack where it was. On the way out Ninsun cut a fourth notch beside their original two—deeper, angrier, the kind of mark that said this place had already collected its price. Zeek didn't stop her."
+"text": "They took the tablet. They left the pack where it was. On the way out NEEN-soon cut a fourth notch beside their original two—deeper, angrier, the kind of mark that said this place had already collected its price. Zeek didn't stop her.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "That night the cheap room felt smaller."
+"text": "That night the cheap room felt smaller.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -349,7 +453,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo poured water into four cups."
+"text": "En-KHEH-doo poured water into four cups."
 },
 {
 "speaker": "Narrator",
@@ -365,11 +469,15 @@
 },
 {
 "speaker": "Balag",
-"text": "Who's that for?"
+"text": "Who's that for?",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked down."
+"text": "En-KHEH-doo looked down."
 },
 {
 "speaker": "Narrator",
@@ -385,15 +493,23 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun finally broke the silence."
+"text": "NEEN-soon finally broke the silence."
 },
 {
 "speaker": "Ninsun",
-"text": "I'm trying to remember every name I've ever found scratched out."
+"text": "I'm trying to remember every name I've ever found scratched out.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Zik",
-"text": "Why?"
+"text": "Why?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Narrator",
@@ -402,23 +518,43 @@
 },
 {
 "speaker": "Ninsun",
-"text": "What if one of them belonged to him?"
+"text": "What if one of them belonged to him?",
+"tags": [
+"sadly"
+],
+"tag": "sadly"
 },
 {
 "speaker": "Zik",
-"text": "You don't know it was a man."
+"text": "You don't know it was a man.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Ninsun",
-"text": "I don't."
+"text": "I don't.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "What if he never found a shifted street?"
+"text": "What if he never found a shifted street?",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Ninsun",
-"text": "He followed marks."
+"text": "He followed marks.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -426,7 +562,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "He wrote this."
+"text": "He wrote this.",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -434,11 +574,19 @@
 },
 {
 "speaker": "Balag",
-"text": "You think he was like us."
+"text": "You think he was like us.",
+"tags": [
+"gently"
+],
+"tag": "gently"
 },
 {
 "speaker": "Ninsun",
-"text": "I think…"
+"text": "I think…",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -467,15 +615,18 @@
 },
 {
 "speaker": "Narrator",
-"text": "Every notch."
+"text": "Every notch.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Every map."
+"text": "Every map.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Every theory."
+"text": "Every theory.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -487,7 +638,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun sat on the floor with her map spread wide, the warning note, the uncrossed name, and the new tablet arranged in a careful line beside it. She had drawn a second box around the tanners' row and written a single word inside:"
+"text": "NEEN-soon sat on the floor with her map spread wide, the warning note, the uncrossed name, and the new tablet arranged in a careful line beside it. She had drawn a second box around the tanners' row and written a single word inside:"
 },
 {
 "speaker": "Narrator",
@@ -496,19 +647,24 @@
 "slowly"
 ],
 "tag": "slowly",
+"pauseBefore": 0.5,
 "note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg cleaned his spear in silence. En-HEH-doo turned the small copper figurine between her fingers and said nothing. Zeek sat with his back against the wall and did not open the journal. Six days now. The decision still felt like the only clean thing he owned in this place."
+"text": "BAH-lahg cleaned his spear in silence. En-KHEH-doo turned the small copper figurine between her fingers and said nothing. Zeek sat with his back against the wall and did not open the journal. Six days now. The decision still felt like the only clean thing he owned in this place."
 },
 {
 "speaker": "Narrator",
-"text": "After a long time En-HEH-doo spoke."
+"text": "After a long time En-KHEH-doo spoke."
 },
 {
 "speaker": "Enhedu",
-"text": "We keep marking, someone else pays. We stop marking, we walk blind. That's the math."
+"text": "We keep marking, someone else pays. We stop marking, we walk blind. That's the math.",
+"tags": [
+"flatly"
+],
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -525,16 +681,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun didn't look up from the map.",
+"text": "NEEN-soon didn't look up from the map.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "I'm not stopping."
+"text": "I'm not stopping.",
+"tags": [
+"determined"
+],
+"tag": "determined"
 },
 {
 "speaker": "Zik",
-"text": "Didn't think you were,"
+"text": "Didn't think you were,",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -567,7 +731,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Six days."
+"text": "Six days.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -599,11 +764,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "Outside, somewhere below the ordinary streets of Uruk, stone answered stone with a single distant knock."
+"text": "Outside, somewhere below the ordinary streets of OO-rook, stone answered stone with a single distant knock."
 },
 {
 "speaker": "Narrator",
-"text": "This time, nobody in the room pretended they hadn't heard it."
+"text": "This time, nobody in the room pretended they hadn't heard it.",
+"pauseBefore": 1.2
 }
 ]
 }

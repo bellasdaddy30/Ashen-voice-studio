@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "01-the-sealed-tomb",
 "title": "Chapter 1 — The Sealed Tomb",
-"chars": 16036,
+"chars": 16076,
 "speakers": [
 "Balag",
 "Bel-iddin",
@@ -32,6 +32,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "Read the mortar, not the bricks.",
+"tags": [
+"warmly"
+],
+"tag": "warmly",
 "note": "Memory/written voice: older, restrained, intimate."
 },
 {
@@ -41,6 +45,10 @@
 {
 "speaker": "Bel-iddin",
 "text": "Bricks lie. Men shape them to look holy or expensive. Nobody bothers faking the mortar.",
+"tags": [
+"dryly"
+],
+"tag": "dryly",
 "note": "Memory/written voice: older, restrained, intimate."
 },
 {
@@ -49,7 +57,11 @@
 },
 {
 "speaker": "Balag",
-"text": "Looks fresh,"
+"text": "Looks fresh,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -62,7 +74,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Fresh enough to have been built before your grandfather drew breath,"
+"text": "Fresh enough to have been built before your grandfather drew breath,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -71,23 +87,39 @@
 },
 {
 "speaker": "Balag",
-"text": "That isn't what fresh means."
+"text": "That isn't what fresh means.",
+"tags": [
+"deadpan"
+],
+"tag": "deadpan"
 },
 {
 "speaker": "Zik",
-"text": "It is when you're staring at a ruin."
+"text": "It is when you're staring at a ruin.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's mouth tightened, the expression of someone who had considered several replies and discarded them as not worth the air. A few paces off, En-HEH-doo turned a broken seal over in her hands, knife tucked under one arm. She worked the edges with her thumb the way other people worried a coin, testing for value even in the broken pieces."
+"text": "BAH-lahg's mouth tightened, the expression of someone who had considered several replies and discarded them as not worth the air. A few paces off, En-KHEH-doo turned a broken seal over in her hands, knife tucked under one arm. She worked the edges with her thumb the way other people worried a coin, testing for value even in the broken pieces."
 },
 {
 "speaker": "Enhedu",
-"text": "You two bicker like a married pair."
+"text": "You two bicker like a married pair.",
+"tags": [
+"teasing"
+],
+"tag": "teasing"
 },
 {
 "speaker": "Zik",
-"text": "You're welcome to take him,"
+"text": "You're welcome to take him,",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -96,7 +128,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "Not a chance."
+"text": "Not a chance.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Balag",
@@ -121,19 +157,27 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's smile thinned."
+"text": "En-KHEH-doo's smile thinned."
 },
 {
 "speaker": "Enhedu",
-"text": "I said no to him. I didn't say no to you."
+"text": "I said no to him. I didn't say no to you.",
+"tags": [
+"playfully"
+],
+"tag": "playfully"
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash laughed from the back, too loud and too fast. Three weeks with the group. Long enough to learn the habits. Not nearly long enough to understand what any of it cost. He stared at the exposed brickwork with the kind of hunger Zeek recognized. He had worn that same look once. KOO-rash crouched beside the exposed bricks and brushed away sand with exaggerated care, as though copying the motions he'd watched Zeek make all morning."
+"text": "KOO-rahsh laughed from the back, too loud and too fast. Three weeks with the group. Long enough to learn the habits. Not nearly long enough to understand what any of it cost. He stared at the exposed brickwork with the kind of hunger Zeek recognized. He had worn that same look once. KOO-rahsh crouched beside the exposed bricks and brushed away sand with exaggerated care, as though copying the motions he'd watched Zeek make all morning."
 },
 {
 "speaker": "Kurash",
-"text": "So what do you see?"
+"text": "So what do you see?",
+"tags": [
+"eager"
+],
+"tag": "eager"
 },
 {
 "speaker": "Narrator",
@@ -147,23 +191,31 @@
 },
 {
 "speaker": "Zik",
-"text": "I see you smearing dirt back into the joint I just cleaned."
+"text": "I see you smearing dirt back into the joint I just cleaned.",
+"tags": [
+"deadpan"
+],
+"tag": "deadpan"
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash frowned, rubbed harder, and managed only to spread the grit farther."
+"text": "KOO-rahsh frowned, rubbed harder, and managed only to spread the grit farther."
 },
 {
 "speaker": "Kurash",
 "text": "I meant the wall.",
 "tags": [
-"skeptical"
+"defensive"
 ],
-"tag": "skeptical"
+"tag": "defensive"
 },
 {
 "speaker": "Zik",
-"text": "I know what you meant."
+"text": "I know what you meant.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -172,7 +224,11 @@
 },
 {
 "speaker": "Balag",
-"text": "This should be good."
+"text": "This should be good.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -184,12 +240,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash blinked.",
+"text": "KOO-rahsh blinked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Kurash",
-"text": "That's it?"
+"text": "That's it?",
+"tags": [
+"disappointed"
+],
+"tag": "disappointed"
 },
 {
 "speaker": "Zik",
@@ -201,7 +261,11 @@
 },
 {
 "speaker": "Zik",
-"text": "They're ordinary bricks laid by extraordinary masons."
+"text": "They're ordinary bricks laid by extraordinary masons.",
+"tags": [
+"knowingly"
+],
+"tag": "knowingly"
 },
 {
 "speaker": "Narrator",
@@ -214,15 +278,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash pinched it between his fingers. KOO-rash tested the edge harder, then frowned when nothing broke away."
+"text": "KOO-rahsh pinched it between his fingers. KOO-rahsh tested the edge harder, then frowned when nothing broke away."
 },
 {
 "speaker": "Kurash",
 "text": "It feels like…rock.",
 "tags": [
-"skeptical"
+"puzzled"
 ],
-"tag": "skeptical"
+"tag": "puzzled"
 },
 {
 "speaker": "Zik",
@@ -230,20 +294,32 @@
 },
 {
 "speaker": "Kurash",
-"text": "It doesn't."
+"text": "It doesn't.",
+"tags": [
+"surprised"
+],
+"tag": "surprised"
 },
 {
 "speaker": "Zik",
-"text": "Exactly."
+"text": "Exactly.",
+"tags": [
+"satisfied"
+],
+"tag": "satisfied"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo wandered over, abandoning the broken seal she'd been studying.",
+"text": "En-KHEH-doo wandered over, abandoning the broken seal she'd been studying.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "The mortar's been fired."
+"text": "The mortar's been fired.",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
@@ -265,7 +341,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Clay melts if you get it hot enough. Not campfire hot. Kiln hot. Hot enough that whoever built this either knew something we've forgotten…"
+"text": "Clay melts if you get it hot enough. Not campfire hot. Kiln hot. Hot enough that whoever built this either knew something we've forgotten…",
+"tags": [
+"intrigued"
+],
+"tag": "intrigued"
 },
 {
 "speaker": "Narrator",
@@ -274,16 +354,24 @@
 },
 {
 "speaker": "Zik",
-"text": "…or they were trying to seal something badly enough that they invented a way."
+"text": "…or they were trying to seal something badly enough that they invented a way.",
+"tags": [
+"darkly"
+],
+"tag": "darkly"
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash looked from the wall to the ridge disappearing beneath the sand.",
+"text": "KOO-rahsh looked from the wall to the ridge disappearing beneath the sand.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Kurash",
-"text": "So this isn't a temple."
+"text": "So this isn't a temple.",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
@@ -291,7 +379,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "A palace?"
+"text": "A palace?",
+"tags": [
+"eagerly"
+],
+"tag": "eagerly"
 },
 {
 "speaker": "Zik",
@@ -299,7 +391,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "Then what is it?"
+"text": "Then what is it?",
+"tags": [
+"impatient"
+],
+"tag": "impatient"
 },
 {
 "speaker": "Narrator",
@@ -309,6 +405,10 @@
 {
 "speaker": "Zik",
 "text": "If I already knew, we'd be digging somewhere else.",
+"tags": [
+"amused"
+],
+"tag": "amused",
 "note": "Keep the humor dry; do not overplay it."
 },
 {
@@ -328,16 +428,24 @@
 {
 "speaker": "Zik",
 "text": "I've been honest all day.",
+"tags": [
+"dryly"
+],
+"tag": "dryly",
 "note": "Keep the humor dry; do not overplay it."
 },
 {
 "speaker": "Balag",
 "text": "You've been specific. That's different.",
+"tags": [
+"deadpan"
+],
+"tag": "deadpan",
 "note": "Keep the humor dry; do not overplay it."
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo laughed.",
+"text": "En-KHEH-doo laughed.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -356,7 +464,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "These upper bricks don't match."
+"text": "These upper bricks don't match.",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
@@ -369,7 +481,11 @@
 },
 {
 "speaker": "Enhedu",
-"text": "You can tell that from this?"
+"text": "You can tell that from this?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
@@ -386,7 +502,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash stared.",
+"text": "KOO-rahsh stared.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -408,20 +524,32 @@
 },
 {
 "speaker": "Kurash",
-"text": "So he fooled everyone."
+"text": "So he fooled everyone.",
+"tags": [
+"impressed"
+],
+"tag": "impressed"
 },
 {
 "speaker": "Zik",
-"text": "He fooled almost everyone."
+"text": "He fooled almost everyone.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo looked sideways at him. The sideways look carried more amusement than surprise.",
+"text": "En-KHEH-doo looked sideways at him. The sideways look carried more amusement than surprise.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "And you noticed because…"
+"text": "And you noticed because…",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Zik",
@@ -429,12 +557,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash groaned.",
+"text": "KOO-rahsh groaned.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Kurash",
-"text": "That's impossible."
+"text": "That's impossible.",
+"tags": [
+"groans"
+],
+"tag": "groans"
 },
 {
 "speaker": "Zik",
@@ -442,7 +574,11 @@
 },
 {
 "speaker": "Kurash",
-"text": "It's unfair."
+"text": "It's unfair.",
+"tags": [
+"whining"
+],
+"tag": "whining"
 },
 {
 "speaker": "Narrator",
@@ -465,11 +601,15 @@
 },
 {
 "speaker": "Zik",
-"text": "My father used to say every wall lies."
+"text": "My father used to say every wall lies.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash frowned.",
+"text": "KOO-rahsh frowned.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -482,7 +622,11 @@
 },
 {
 "speaker": "Zik",
-"text": "People build walls to be believed."
+"text": "People build walls to be believed.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -503,7 +647,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo nodded slowly.",
+"text": "En-KHEH-doo nodded slowly.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -516,11 +660,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "For a moment no one spoke. The desert wind hissed across the ridge above them, carrying another veil of sand into the excavation. It settled over their boots and against the exposed face of the ruin as though trying to bury it again. KOO-rash looked back toward the open desert."
+"text": "For a moment no one spoke. The desert wind hissed across the ridge above them, carrying another veil of sand into the excavation. It settled over their boots and against the exposed face of the ruin as though trying to bury it again. KOO-rahsh looked back toward the open desert."
 },
 {
 "speaker": "Kurash",
-"text": "My uncle always said the old kings hid their treasure because they feared thieves."
+"text": "My uncle always said the old kings hid their treasure because they feared thieves.",
+"tags": [
+"eager"
+],
+"tag": "eager"
 },
 {
 "speaker": "Narrator",
@@ -537,11 +685,19 @@
 },
 {
 "speaker": "Kurash",
-"text": "I suppose that's true."
+"text": "I suppose that's true.",
+"tags": [
+"sheepish"
+],
+"tag": "sheepish"
 },
 {
 "speaker": "Kurash",
-"text": "So why bury it at all?"
+"text": "So why bury it at all?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Narrator",
@@ -549,20 +705,32 @@
 },
 {
 "speaker": "Zik",
-"text": "Maybe it wasn't treasure they wanted hidden."
+"text": "Maybe it wasn't treasure they wanted hidden.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo followed his gaze.",
+"text": "En-KHEH-doo followed his gaze.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "What, then?"
+"text": "What, then?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Zik",
-"text": "I don't know."
+"text": "I don't know.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -572,6 +740,10 @@
 {
 "speaker": "Zik",
 "text": "But whatever this place was built to keep…",
+"tags": [
+"ominous"
+],
+"tag": "ominous",
 "note": "Let the warning land. Slow slightly."
 },
 {
@@ -582,6 +754,10 @@
 {
 "speaker": "Zik",
 "text": "…someone came back long after it was finished and decided it still wasn't safe enough.",
+"tags": [
+"ominous"
+],
+"tag": "ominous",
 "note": "Let the warning land. Slow slightly."
 },
 {
@@ -590,7 +766,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Clear it,"
+"text": "Clear it,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -599,11 +779,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "They dug until the sun started its slow drop toward the west. Sand slid back into the hole as fast as they pulled it out. The deeper they went, the colder the air turned. A draft rose out of the dark and touched Zeek's face. It smelled of dry earth. Under that was something that had never met the sun."
+"text": "They dug until the sun started its slow drop toward the west. Sand slid back into the hole as fast as they pulled it out. The deeper they went, the colder the air turned. A draft rose out of the dark and touched Zeek's face. It smelled of dry earth. Under that was something that had never met the sun.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "The stairway went farther down than the structure above had any right to allow. Walls narrowed until they walked single file. BAH-lahg took the lead because he was largest and apparently considered it his job to find whatever killed them first. En-HEH-doo came next. Zeek followed. KOO-rash brought up the rear and complained under his breath every time the steps grew steeper. Zeek paid him no mind. He listened."
+"text": "The stairway went farther down than the structure above had any right to allow. Walls narrowed until they walked single file. BAH-lahg took the lead because he was largest and apparently considered it his job to find whatever killed them first. En-KHEH-doo came next. Zeek followed. KOO-rahsh brought up the rear and complained under his breath every time the steps grew steeper. Zeek paid him no mind. He listened."
 },
 {
 "speaker": "Narrator",
@@ -619,7 +800,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo kept her voice low.",
+"text": "En-KHEH-doo kept her voice low.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -628,32 +809,54 @@
 },
 {
 "speaker": "Enhedu",
-"text": "You believe in that now?"
+"text": "You believe in that now?",
+"tags": [
+"whispers",
+"teasing"
+],
+"tag": "whispers] [teasing"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo asked.",
+"text": "En-KHEH-doo asked.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Balag",
-"text": "I believe in not insulting whatever sits under this much earth."
+"text": "I believe in not insulting whatever sits under this much earth.",
+"tags": [
+"seriously"
+],
+"tag": "seriously"
 },
 {
 "speaker": "Enhedu",
-"text": "Specific religion."
+"text": "Specific religion.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Balag",
-"text": "Keep talking. I'll convert you."
+"text": "Keep talking. I'll convert you.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "They went on. At the bottom stood a stone door set so clean into the wall that the seam nearly vanished. Heavy bronze brackets held it shut from the outside. Age had darkened the metal but left it free of corrosion. Each bracket carried the same mark: a jagged spiral closed around a single drop. Zeek had only seen that symbol on private royal seals, the kind belonging to kings whose reigns ended briefly, violently, and with their names scrubbed from most records. He crouched beside the nearest bracket."
+"text": "They went on. At the bottom stood a stone door set so clean into the wall that the seam nearly vanished. Heavy bronze brackets held it shut from the outside. Age had darkened the metal but left it free of corrosion. Each bracket carried the same mark: a jagged spiral closed around a single drop. Zeek had only seen that symbol on private royal seals, the kind belonging to kings whose reigns ended briefly, violently, and with their names scrubbed from most records. He crouched beside the nearest bracket.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Balag",
-"text": "How old?"
+"text": "How old?",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -666,20 +869,32 @@
 },
 {
 "speaker": "Balag",
-"text": "Not helpful."
+"text": "Not helpful.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Zik",
-"text": "Wasn't trying to be."
+"text": "Wasn't trying to be.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo stepped up beside him. Her eyes moved across the bronze, the stone, the symbol.",
+"text": "En-KHEH-doo stepped up beside him. Her eyes moved across the bronze, the stone, the symbol.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "Whatever's inside wasn't trying to leave."
+"text": "Whatever's inside wasn't trying to leave.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -688,11 +903,15 @@
 },
 {
 "speaker": "Zik",
-"text": "Someone worked hard to keep it there."
+"text": "Someone worked hard to keep it there.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo's smile returned, slow and sharp.",
+"text": "En-KHEH-doo's smile returned, slow and sharp.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
@@ -705,7 +924,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. En-HEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rash stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond."
+"text": "They spent the better part of an hour on the brackets. The bronze had been driven deep and sealed with something harder than ordinary mortar. BAH-lahg worked the iron tools. En-KHEH-doo searched the masonry for weak points. Zeek checked every inch of the entrance for traps while KOO-rahsh stood off to the side, shifting his weight and asking twice whether they were certain anything waited on the other side. Zeek told him yes. The door opened with a long scream of metal that traveled down the passage and came back altered. Torchlight spilled into the chamber beyond.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -713,11 +933,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rash repeat the warning back to him. KOO-rash did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. En-HEH-doo studied the seams rather than the wealth."
+"text": "The floor had settled less than a finger's breadth toward the throne. Every line of gold followed that fall. Plates overlapped cups at measured intervals; chains bridged the narrow gaps; coins filled the spaces between them. It was a complete surface disguised as treasure. Zeek pointed out the darker squares where the weight changed and made KOO-rahsh repeat the warning back to him. KOO-rahsh did, impatiently, his eyes never leaving the nearest bowl. BAH-lahg tested the lintel with the iron bar. En-KHEH-doo studied the seams rather than the wealth."
 },
 {
 "speaker": "Enhedu",
-"text": "No dust on the gold,"
+"text": "No dust on the gold,",
+"tags": [
+"suspicious"
+],
+"tag": "suspicious"
 },
 {
 "speaker": "Narrator",
@@ -730,16 +954,24 @@
 },
 {
 "speaker": "Kurash",
-"text": "Air movement,"
+"text": "Air movement,",
+"tags": [
+"eager"
+],
+"tag": "eager"
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash said.",
+"text": "KOO-rahsh said.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Zik",
-"text": "There is no air movement,"
+"text": "There is no air movement,",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -747,15 +979,23 @@
 },
 {
 "speaker": "Zik",
-"text": "Nothing crosses that pattern until I know what it does."
+"text": "Nothing crosses that pattern until I know what it does.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash nodded. The answer came easily. Believing it was another matter. Gold covered the floor in careful geometric lines across black stone—plates, cups, coins, small statues, chains, jewelry—the wealth of a kingdom arranged with such deliberate care that the hoard looked less like an offering and more like a mechanism left waiting. No one moved at first. BAH-lahg stayed where he was. En-HEH-doo's eyes narrowed. KOO-rash made a sound that almost became a laugh."
+"text": "KOO-rahsh nodded. The answer came easily. Believing it was another matter. Gold covered the floor in careful geometric lines across black stone—plates, cups, coins, small statues, chains, jewelry—the wealth of a kingdom arranged with such deliberate care that the hoard looked less like an offering and more like a mechanism left waiting. No one moved at first. BAH-lahg stayed where he was. En-KHEH-doo's eyes narrowed. KOO-rahsh made a sound that almost became a laugh."
 },
 {
 "speaker": "Zik",
-"text": "Don't,"
+"text": "Don't,",
+"tags": [
+"sharply"
+],
+"tag": "sharply"
 },
 {
 "speaker": "Narrator",
@@ -764,16 +1004,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash looked at him.",
+"text": "KOO-rahsh looked at him.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Kurash",
-"text": "Don't what?"
+"text": "Don't what?",
+"tags": [
+"innocently"
+],
+"tag": "innocently"
 },
 {
 "speaker": "Zik",
-"text": "Touch anything."
+"text": "Touch anything.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -790,7 +1038,11 @@
 },
 {
 "speaker": "Zik",
-"text": "Because no one buries a room like this and walks away without leaving something behind to guard it."
+"text": "Because no one buries a room like this and walks away without leaving something behind to guard it.",
+"tags": [
+"tense"
+],
+"tag": "tense"
 },
 {
 "speaker": "Kurash",
@@ -810,15 +1062,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "KOO-rash's expression shifted. Zeek watched the calculation happen behind his eyes. The boy no longer saw a warning. He saw a house. A horse. A woman. A life that no longer required following another man's orders. Zeek knew that look. He had believed the same things once."
+"text": "KOO-rahsh's expression shifted. Zeek watched the calculation happen behind his eyes. The boy no longer saw a warning. He saw a house. A horse. A woman. A life that no longer required following another man's orders. Zeek knew that look. He had believed the same things once."
 },
 {
 "speaker": "Balag",
-"text": "KOO-rash,",
+"text": "KOO-rahsh,",
 "tags": [
-"whispers"
+"whispers",
+"warning"
 ],
-"tag": "whispers",
+"tag": "whispers] [warning",
 "note": "Balag warning Kurash quietly, with real danger underneath."
 },
 {
@@ -828,12 +1081,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "The young man moved anyway. He crossed the threshold and closed his hand around a heavy golden bowl. The pattern on the floor broke. A single tile sank under his foot. For one heartbeat nothing happened. Then the ceiling opened. The stone slab dropped with perfect, silent speed. It caught KOO-rash below the ribs and drove him into the floor. His scream lasted less than a second. The slab pinned him across the gold. Blood spread in a dark sheet between the coins and over the curve of the bowl still trapped in his hand.",
+"text": "The young man moved anyway. He crossed the threshold and closed his hand around a heavy golden bowl. The pattern on the floor broke. A single tile sank under his foot. For one heartbeat nothing happened. Then the ceiling opened. The stone slab dropped with perfect, silent speed. It caught KOO-rahsh below the ribs and drove him into the floor. His scream lasted less than a second. The slab pinned him across the gold. Blood spread in a dark sheet between the coins and over the curve of the bowl still trapped in his hand.",
 "note": "Death beat. Do not rush the final sentence."
 },
 {
 "speaker": "Narrator",
-"text": "No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. En-HEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.",
+"text": "No one spoke. BAH-lahg took one step forward, hand reaching toward the body as if he could pull the moment back. En-KHEH-doo stood motionless, knife still under her arm, face unreadable. The blood reached the edge of a coin and kept going. Zeek's share of the room had just grown by one. The first thought that arrived was practical: one less share. The second was that he hated himself for thinking it. The second thought lasted longer.",
 "pauseBefore": 1.5,
 "note": "Aftershock. Cold, controlled narration."
 },
@@ -897,11 +1150,19 @@
 {
 "speaker": "Bel-iddin",
 "text": "IF YOU FIND THIS, DO NOT LOOK FOR ME.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Read as Bel-iddin's written warning, firm and deliberate."
 },
 {
 "speaker": "Bel-iddin",
 "text": "FIND THE CITY.",
+"tags": [
+"solemn"
+],
+"tag": "solemn",
 "note": "Read as Bel-iddin's written warning, firm and deliberate."
 },
 {
@@ -919,12 +1180,12 @@
 },
 {
 "speaker": "Narrator",
-"text": "The words sat there. Zeek read them twice. The chamber stayed quiet around him. Then the torch flame bent sideways. The shadows on the walls were moving, and not with the fire. The skeleton's jaw shifted. BAH-lahg swore under his breath. En-HEH-doo's knife was in her hand before the sound finished leaving his mouth. The empty sockets of the skull turned toward Zeek.",
+"text": "The words sat there. Zeek read them twice. The chamber stayed quiet around him. Then the torch flame bent sideways. The shadows on the walls were moving, and not with the fire. The skeleton's jaw shifted. BAH-lahg swore under his breath. En-KHEH-doo's knife was in her hand before the sound finished leaving his mouth. The empty sockets of the skull turned toward Zeek.",
 "pauseBefore": 1.5
 },
 {
 "speaker": "Dead King",
-"text": "Zee-keer Ash-SHOOR,",
+"text": "Zee-keer AHSH-shoor,",
 "tags": [
 "whispers"
 ],

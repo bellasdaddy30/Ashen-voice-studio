@@ -6,64 +6,73 @@ Narrator: The Name That Was Crossed Out
 [pause 2s]
 Narrator: The wall behind the kneeling statue began to open without a sound.
 Narrator: White limestone parted along a seam that had not existed a breath earlier. Cold air moved out of the darkness beyond, carrying the same faint scent of ozone and old copper that clung to the ledger chamber. The statue rose and stepped aside with the same unthinking precision it had shown since the corridor first closed behind them.
+[pause 0.5s]
 Narrator: They entered.
 Narrator: The chamber beyond was larger than the name corridor and colder. The walls here were still white limestone, still covered in rows of personal names, but the cuts were deeper and the crossed-out lines more frequent. Condensation wept down the stone in thin sheets that smelled of a forge just before the metal comes out of the fire, though there was no heat—only cold that behaved as if it remembered being hot.
 Narrator: The grain beneath the moisture slid like sand in an hourglass. Looking away and looking back had become its own kind of danger.
 Narrator: Zeek found himself staring at a jagged, freshly etched stroke that looked like a scar cut into the stone.
-Zik: BAH-lahg,
+Zik: [quietly] [distant] BAH-lahg,
 Narrator: he said. His voice sounded strangely distant even to himself.
-Zik: It's your name. It's crossed out.
+Zik: [quietly] [shaken] It's your name. It's crossed out.
 Narrator: BAH-lahg stepped forward. His face had gone pale. He was not a man who scared easily—Zeek had seen him stand his ground against things with teeth and things with blades and things that were neither—but there was a particular kind of fear that came from being told your own name was written somewhere you could not see it, and that fear had him now.
-Balag: You're losing your mind, Zeek,
+Balag: [shaken] You're losing your mind, Zeek,
 Narrator: he said, though there was no real conviction behind it.
-Balag: There's nothing there but a blur.
+Balag: [uncertain] There's nothing there but a blur.
 Narrator: He leaned closer anyway.
-Narrator: The stone under Zeek's gaze continued to rearrange itself. The crossed-out name that had looked like BAH-lahg's a moment earlier was already softening into something else. A different set of characters rose, then blurred, then settled into a shape Ninsun recognized before anyone else did.
+Narrator: The stone under Zeek's gaze continued to rearrange itself. The crossed-out name that had looked like BAH-lahg's a moment earlier was already softening into something else. A different set of characters rose, then blurred, then settled into a shape NEEN-soon recognized before anyone else did.
+[pause 0.5s]
 Narrator: She went still.
-Ninsun: That one is mine.
-Narrator: En-HEH-doo looked from one of them to the other, then at the wall, calculating even without the desire that had once made calculation feel like survival.
+Ninsun: [fearful] That one is mine.
+Narrator: En-KHEH-doo looked from one of them to the other, then at the wall, calculating even without the desire that had once made calculation feel like survival.
 Enhedu: [flatly] Both of you can't be right.
-Ninsun: We can if the ledger is rewriting itself as we watch,
-Narrator: Ninsun said. Her voice had gone thin.
-Ninsun: Or if it is showing each of us the account it intends to close next.
+Ninsun: [thin] We can if the ledger is rewriting itself as we watch,
+Narrator: NEEN-soon said. Her voice had gone thin.
+Ninsun: [thin] Or if it is showing each of us the account it intends to close next.
 Narrator: The scraping resumed.
+[pause 0.6s]
 Narrator: Scrape.
+[pause 0.6s]
 Narrator: Pause.
+[pause 0.6s]
 Narrator: Scrape.
+[pause 0.6s]
 Narrator: Pause.
 Narrator: It came from everywhere at once—sometimes from the wall ahead, sometimes from beneath the floor, once, impossibly, from somewhere directly behind Zeek's eyes, as though the sound had found a way to skip the ears and carve straight into the meat of his skull. He had stopped trying to locate it. Guessing implied the room followed rules the room had already refused.
 Narrator: BAH-lahg backed away from the wall.
-Balag: I don't like this place.
+Balag: [fearful] I don't like this place.
 Enhedu: [flatly] You said that about the last one,
-Narrator: En-HEH-doo answered, but the dryness in her voice was thinner than before.
+Narrator: En-KHEH-doo answered, but the dryness in her voice was thinner than before.
 Narrator: Zeek kept watching the stone. A new name rose under the condensation, held long enough for him to read it, then began to close over itself the way skin closes over a wound. He knew the name. A merchant who sold grain near the Street of Scribes. A man who had once shorted him three measures and laughed when Zeek noticed. An ordinary man under an ordinary sky who, at that very moment, was almost certainly still haggling over prices.
 Narrator: It looked less like killing than removing the evidence that anyone had ever been known.
-Narrator: Ninsun's stylus hovered over parchment that no longer accepted ink the way it once had.
-Ninsun: It's testing which threads it can pull without the fabric noticing.
+Narrator: NEEN-soon's stylus hovered over parchment that no longer accepted ink the way it once had.
+Ninsun: [quietly] It's testing which threads it can pull without the fabric noticing.
 Narrator: BAH-lahg shook his head hard, as if the motion itself might dislodge something that had begun to settle.
-Balag: I don't know what you're talking about. Where is the rest of the crew?
+Balag: [confused] I don't know what you're talking about. Where is the rest of the crew?
 Narrator: The question landed harder than any shout could have, because it was not rhetorical. He meant it.
-Narrator: Ninsun looked toward the empty space beside them. Recognition broke across her face, incomplete and unstable.
-Ninsun: [whispers] KOO-rash,
+Narrator: NEEN-soon looked toward the empty space beside them. Recognition broke across her face, incomplete and unstable.
+Ninsun: [whispers] KOO-rahsh,
 Narrator: she whispered.
 Narrator: Zeek followed her gaze. He could almost retrieve the shape—someone younger, ambitious, always calculating his share before the work was finished. The memory arrived in fragments: a voice complaining about the stairs, an extra waterskin that no one had claimed since the ridge, five bedrolls marked in the sand when only four people seemed present. The details had been there the entire time. They had simply stopped belonging to anyone.
-Narrator: En-HEH-doo frowned at the empty space.
+Narrator: En-KHEH-doo frowned at the empty space.
 Enhedu: [flatly] I remember a knife. Not the hand that carried it.
 Narrator: BAH-lahg stared at them as though they had begun speaking a language he had never learned.
 Balag: [confused] Who?
 Narrator: The City had not merely been changing the walls around them.
 Narrator: It had been cutting pieces directly out of their heads.
+[pause 0.5s]
 Narrator: Not only names.
 Narrator: The threads connecting those names to the living.
 Narrator: One relationship at a time.
-Narrator: Zeek stared at the place where the merchant's name had been. The stone had already smoothed over the letters. His breathing had gone shallow. He looked at Ninsun, who was watching his face with a terrible, focused intensity, as though trying to memorize it before it could be taken from her too.
+Narrator: Zeek stared at the place where the merchant's name had been. The stone had already smoothed over the letters. His breathing had gone shallow. He looked at NEEN-soon, who was watching his face with a terrible, focused intensity, as though trying to memorize it before it could be taken from her too.
 Ninsun: [whispers] Zeek,
 Narrator: she whispered.
 Ninsun: [whispers] Tell me your name.
 Narrator: His mouth opened.
+[pause 0.5s]
 Narrator: Nothing came out.
 Narrator: The answer was there—he knew, with a certainty that had nothing to do with actually possessing it, that it was there, somewhere behind a wall, behind a door, behind something that had already been carved away and smoothed over before he had even noticed the cutting. He looked down at his palm. The wedge-shaped lines beneath the skin crawled like insects disturbed from beneath a stone.
-Narrator: For one terrible, suspended second he could not remember whether Zee-keer Ash-SHOOR was his name at all, or simply a name he had been told to answer to.
+Narrator: For one terrible, suspended second he could not remember whether Zee-keer AHSH-shoor was his name at all, or simply a name he had been told to answer to.
 Narrator: The wall behind him began to scrape again.
+[pause 1.2s]
 Narrator: This time the chisel was not working on someone else's name.
 [pause 3s]

@@ -2,7 +2,7 @@
 "book": "The First City",
 "chapterKey": "14-the-man-who-already-knew",
 "title": "Chapter 14 — The Man Who Already Knew",
-"chars": 10948,
+"chars": 10992,
 "speakers": [
 "Balag",
 "Enhedu",
@@ -34,7 +34,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "You've been busy,"
+"text": "You've been busy,",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
@@ -43,7 +47,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg's hand drifted toward the haft of his axe and then stopped. En-HEH-doo's expression went carefully blank. Ninsun simply watched, stylus still in her fingers from the map she had been updating."
+"text": "BAH-lahg's hand drifted toward the haft of his axe and then stopped. En-KHEH-doo's expression went carefully blank. NEEN-soon simply watched, stylus still in her fingers from the map she had been updating."
 },
 {
 "speaker": "Narrator",
@@ -52,23 +56,39 @@
 },
 {
 "speaker": "Zik",
-"text": "We're taking a paying job. East side. Walls that need measuring. Nothing that should interest you."
+"text": "We're taking a paying job. East side. Walls that need measuring. Nothing that should interest you.",
+"tags": [
+"guarded"
+],
+"tag": "guarded"
 },
 {
 "speaker": "The Collector",
-"text": "Everything you do interests me lately."
+"text": "Everything you do interests me lately.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
-"text": "The Collector's eyes moved across the four of them, lingering a fraction too long on the linen around Zeek's left hand and the satchel where Ninsun kept her scraps."
+"text": "The Collector's eyes moved across the four of them, lingering a fraction too long on the linen around Zeek's left hand and the satchel where NEEN-soon kept her scraps."
 },
 {
 "speaker": "The Collector",
-"text": "Notches in walls that officially don't exist. Questions about blank tablets. A certain district that keeps appearing on no one's maps but yours. You've drawn attention."
+"text": "Notches in walls that officially don't exist. Questions about blank tablets. A certain district that keeps appearing on no one's maps but yours. You've drawn attention.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Balag",
-"text": "From who?"
+"text": "From who?",
+"tags": [
+"gruffly"
+],
+"tag": "gruffly"
 },
 {
 "speaker": "Narrator",
@@ -90,16 +110,24 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo tilted her head.",
+"text": "En-KHEH-doo tilted her head.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "You're not here to buy."
+"text": "You're not here to buy.",
+"tags": [
+"shrewdly"
+],
+"tag": "shrewdly"
 },
 {
 "speaker": "The Collector",
-"text": "No."
+"text": "No.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
@@ -108,20 +136,32 @@
 },
 {
 "speaker": "The Collector",
-"text": "I'm here because your father made the same mistake you're making now. He thought the City was a puzzle that wanted to be solved. It isn't. It's a lid. And lids exist to keep something from rising. The more you mark it, the more you tell it exactly where the curious ones are standing."
+"text": "I'm here because your father made the same mistake you're making now. He thought the City was a puzzle that wanted to be solved. It isn't. It's a lid. And lids exist to keep something from rising. The more you mark it, the more you tell it exactly where the curious ones are standing.",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's voice was quiet.",
+"text": "NEEN-soon's voice was quiet.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "You know about the marks."
+"text": "You know about the marks.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "The Collector",
-"text": "I know about the ones who made them before you. Most of them stopped. A few didn't. The ones who didn't are why certain drawers in the lower archives stay locked."
+"text": "I know about the ones who made them before you. Most of them stopped. A few didn't. The ones who didn't are why certain drawers in the lower archives stay locked.",
+"tags": [
+"gravely"
+],
+"tag": "gravely"
 },
 {
 "speaker": "Narrator",
@@ -130,7 +170,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "I'm offering you the same chance I offered your father. Walk away from the shifted streets. Take the east-side work. Take the silver. Let the lid stay closed."
+"text": "I'm offering you the same chance I offered your father. Walk away from the shifted streets. Take the east-side work. Take the silver. Let the lid stay closed.",
+"tags": [
+"smoothly"
+],
+"tag": "smoothly"
 },
 {
 "speaker": "Narrator",
@@ -139,7 +183,11 @@
 },
 {
 "speaker": "Zik",
-"text": "And if we don't?"
+"text": "And if we don't?",
+"tags": [
+"defiantly"
+],
+"tag": "defiantly"
 },
 {
 "speaker": "Narrator",
@@ -148,7 +196,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Then you'll learn, the same way he did, that some prices are paid in advance. And some debts collect themselves."
+"text": "Then you'll learn, the same way he did, that some prices are paid in advance. And some debts collect themselves.",
+"tags": [
+"coldly"
+],
+"tag": "coldly"
 },
 {
 "speaker": "Narrator",
@@ -156,7 +208,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "Your father finally understood he had been asking the wrong question,"
+"text": "Your father finally understood he had been asking the wrong question,",
+"tags": [
+"softly"
+],
+"tag": "softly"
 },
 {
 "speaker": "Narrator",
@@ -165,7 +221,11 @@
 },
 {
 "speaker": "The Collector",
-"text": "I hope you're smarter than he was. Or luckier. I'm not certain which one matters more."
+"text": "I hope you're smarter than he was. Or luckier. I'm not certain which one matters more.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -190,24 +250,36 @@
 },
 {
 "speaker": "Enhedu",
-"text": "He's not wrong about the attention,"
+"text": "He's not wrong about the attention,",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo said. She was already recalculating something behind her eyes.",
+"text": "En-KHEH-doo said. She was already recalculating something behind her eyes.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "We've been loud in places that prefer quiet."
+"text": "We've been loud in places that prefer quiet.",
+"tags": [
+"shrewdly"
+],
+"tag": "shrewdly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun looked down at the map still half-open in her hands. The boxes labeled CLAIMED, COST, and LIMIT sat in a tight cluster near the tanners' row."
+"text": "NEEN-soon looked down at the map still half-open in her hands. The boxes labeled CLAIMED, COST, and LIMIT sat in a tight cluster near the tanners' row."
 },
 {
 "speaker": "Ninsun",
-"text": "He knew about the marks. He knew about the ones who came before us. That means the locked drawers have names in them. Or the absence of names."
+"text": "He knew about the marks. He knew about the ones who came before us. That means the locked drawers have names in them. Or the absence of names.",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -215,7 +287,11 @@
 },
 {
 "speaker": "Zik",
-"text": "We take the east-side job,"
+"text": "We take the east-side job,",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -224,7 +300,11 @@
 },
 {
 "speaker": "Zik",
-"text": "We get paid. We watch who watches us. And we don't cut another notch until we know whether the Collector is warning us or herding us."
+"text": "We get paid. We watch who watches us. And we don't cut another notch until we know whether the Collector is warning us or herding us.",
+"tags": [
+"firmly"
+],
+"tag": "firmly"
 },
 {
 "speaker": "Narrator",
@@ -237,7 +317,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ahead, the ordinary noise of Uruk continued—merchants, animals, arguments that had nothing to do with lids or locked drawers or the kind of debts that collected themselves."
+"text": "Ahead, the ordinary noise of OO-rook continued—merchants, animals, arguments that had nothing to do with lids or locked drawers or the kind of debts that collected themselves."
 },
 {
 "speaker": "Narrator",
@@ -249,7 +329,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "The east-side walls were exactly as boring as the contract promised."
+"text": "The east-side walls were exactly as boring as the contract promised.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -261,7 +342,7 @@
 },
 {
 "speaker": "Narrator",
-"text": "BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. En-HEH-doo counted and sorted the reusable stone the way other people counted coin. Ninsun copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar."
+"text": "BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. En-KHEH-doo counted and sorted the reusable stone the way other people counted coin. NEEN-soon copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar."
 },
 {
 "speaker": "Narrator",
@@ -273,11 +354,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "Then another."
+"text": "Then another.",
+"pauseBefore": 0.6
 },
 {
 "speaker": "Narrator",
-"text": "Three different masons."
+"text": "Three different masons.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -301,15 +384,27 @@
 },
 {
 "speaker": "Balag",
-"text": "What?"
+"text": "What?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "Someone kept fixing the same place."
+"text": "Someone kept fixing the same place.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Balag",
-"text": "Bad foundation?"
+"text": "Bad foundation?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
@@ -321,27 +416,47 @@
 },
 {
 "speaker": "Zik",
-"text": "If it were structural, they'd replace the whole course."
+"text": "If it were structural, they'd replace the whole course.",
+"tags": [
+"thoughtful"
+],
+"tag": "thoughtful"
 },
 {
 "speaker": "Balag",
-"text": "So?"
+"text": "So?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "They only repaired this section."
+"text": "They only repaired this section.",
+"tags": [
+"intrigued"
+],
+"tag": "intrigued"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo joined them."
+"text": "En-KHEH-doo joined them."
 },
 {
 "speaker": "Enhedu",
-"text": "Meaning?"
+"text": "Meaning?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "They weren't trying to save the wall."
+"text": "They weren't trying to save the wall.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -349,7 +464,11 @@
 },
 {
 "speaker": "Zik",
-"text": "They were trying to hide something inside it."
+"text": "They were trying to hide something inside it.",
+"tags": [
+"intrigued"
+],
+"tag": "intrigued"
 },
 {
 "speaker": "Narrator",
@@ -357,11 +476,19 @@
 },
 {
 "speaker": "Balag",
-"text": "You can tell that from mud?"
+"text": "You can tell that from mud?",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Zik",
-"text": "I can tell someone paid for three repairs where one would've done."
+"text": "I can tell someone paid for three repairs where one would've done.",
+"tags": [
+"dryly"
+],
+"tag": "dryly"
 },
 {
 "speaker": "Narrator",
@@ -369,7 +496,11 @@
 },
 {
 "speaker": "Zik",
-"text": "People rarely waste labor without a reason."
+"text": "People rarely waste labor without a reason.",
+"tags": [
+"amused"
+],
+"tag": "amused"
 },
 {
 "speaker": "Narrator",
@@ -377,15 +508,20 @@
 },
 {
 "speaker": "Narrator",
-"text": "Near midday Ninsun stopped in front of a section of inner wall that looked no different from the rest. She ran her fingers along a line of faded wedge marks, then crouched and brushed dust from a deeper cut near the base."
+"text": "Near midday NEEN-soon stopped in front of a section of inner wall that looked no different from the rest. She ran her fingers along a line of faded wedge marks, then crouched and brushed dust from a deeper cut near the base.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun crouched beside the repaired section."
+"text": "NEEN-soon crouched beside the repaired section."
 },
 {
 "speaker": "Ninsun",
-"text": "Zeek."
+"text": "Zeek.",
+"tags": [
+"urgently"
+],
+"tag": "urgently"
 },
 {
 "speaker": "Narrator",
@@ -393,7 +529,12 @@
 },
 {
 "speaker": "Ninsun",
-"text": "There's writing here."
+"text": "There's writing here.",
+"tags": [
+"whispers",
+"excited"
+],
+"tag": "whispers] [excited"
 },
 {
 "speaker": "Narrator",
@@ -401,11 +542,19 @@
 },
 {
 "speaker": "Balag",
-"text": "I don't see anything."
+"text": "I don't see anything.",
+"tags": [
+"skeptical"
+],
+"tag": "skeptical"
 },
 {
 "speaker": "Ninsun",
-"text": "You aren't meant to."
+"text": "You aren't meant to.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -413,11 +562,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "The dust disappeared."
+"text": "The dust disappeared.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Nothing else happened."
+"text": "Nothing else happened.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -429,11 +580,15 @@
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo sucked in a breath."
+"text": "En-KHEH-doo sucked in a breath."
 },
 {
 "speaker": "Enhedu",
-"text": "I see it."
+"text": "I see it.",
+"tags": [
+"breathless"
+],
+"tag": "breathless"
 },
 {
 "speaker": "Narrator",
@@ -449,15 +604,27 @@
 },
 {
 "speaker": "Zik",
-"text": "They expected later repairs."
+"text": "They expected later repairs.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Balag",
-"text": "What?"
+"text": "What?",
+"tags": [
+"puzzled"
+],
+"tag": "puzzled"
 },
 {
 "speaker": "Zik",
-"text": "They carved them after the wall was finished."
+"text": "They carved them after the wall was finished.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -465,7 +632,11 @@
 },
 {
 "speaker": "Zik",
-"text": "If these were construction marks, they'd be beneath this plaster."
+"text": "If these were construction marks, they'd be beneath this plaster.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -473,7 +644,11 @@
 },
 {
 "speaker": "Zik",
-"text": "They wanted someone to erase them."
+"text": "They wanted someone to erase them.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -489,11 +664,15 @@
 },
 {
 "speaker": "Ninsun",
-"text": "No."
+"text": "No.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's voice was almost a whisper."
+"text": "NEEN-soon's voice was almost a whisper."
 },
 {
 "speaker": "Ninsun",
@@ -509,7 +688,11 @@
 },
 {
 "speaker": "Ninsun",
-"text": "History is easier to hide when you know exactly where someone will try."
+"text": "History is easier to hide when you know exactly where someone will try.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Narrator",
@@ -517,31 +700,38 @@
 },
 {
 "speaker": "Narrator",
-"text": "Slowly."
+"text": "Slowly.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "One wedge."
+"text": "One wedge.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Another."
+"text": "Another.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Then the spiral."
+"text": "Then the spiral.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Not scratched."
+"text": "Not scratched.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Not painted."
+"text": "Not painted.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
-"text": "Deliberately carved."
+"text": "Deliberately carved.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -557,7 +747,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "Or hurriedly."
+"text": "Or hurriedly.",
+"pauseBefore": 0.5
 },
 {
 "speaker": "Narrator",
@@ -565,15 +756,27 @@
 },
 {
 "speaker": "Zik",
-"text": "They came back."
+"text": "They came back.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Balag",
-"text": "How do you know?"
+"text": "How do you know?",
+"tags": [
+"curious"
+],
+"tag": "curious"
 },
 {
 "speaker": "Zik",
-"text": "The scoring crosses weathering."
+"text": "The scoring crosses weathering.",
+"tags": [
+"intently"
+],
+"tag": "intently"
 },
 {
 "speaker": "Narrator",
@@ -581,11 +784,19 @@
 },
 {
 "speaker": "Zik",
-"text": "The wall aged."
+"text": "The wall aged.",
+"tags": [
+"quietly"
+],
+"tag": "quietly"
 },
 {
 "speaker": "Ninsun",
-"text": "Then somebody returned years later just to erase this."
+"text": "Then somebody returned years later just to erase this.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Narrator",
@@ -598,7 +809,11 @@
 },
 {
 "speaker": "Balag",
-"text": "I dislike the amount of effort strangers keep spending on old bricks."
+"text": "I dislike the amount of effort strangers keep spending on old bricks.",
+"tags": [
+"grumbling"
+],
+"tag": "grumbling"
 },
 {
 "speaker": "Narrator",
@@ -610,16 +825,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun's voice had gone flat.",
+"text": "NEEN-soon's voice had gone flat.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
 "text": "That's the same seal language as the broken piece we pulled from the shifted chamber. And the name under it—",
 "tags": [
-"softly"
+"flatly"
 ],
-"tag": "softly"
+"tag": "flatly"
 },
 {
 "speaker": "Narrator",
@@ -641,20 +856,32 @@
 },
 {
 "speaker": "Balag",
-"text": "So the same mark shows up on a royal tomb, a shifted street, and a temple curtain wall that officially has nothing to do with either."
+"text": "So the same mark shows up on a royal tomb, a shifted street, and a temple curtain wall that officially has nothing to do with either.",
+"tags": [
+"uneasy"
+],
+"tag": "uneasy"
 },
 {
 "speaker": "Enhedu",
-"text": "And on an ordinary person's name the city only half-deleted,"
+"text": "And on an ordinary person's name the city only half-deleted,",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
-"text": "En-HEH-doo said. She was already looking at the surrounding courses for anything else worth taking.",
+"text": "En-KHEH-doo said. She was already looking at the surrounding courses for anything else worth taking.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Enhedu",
-"text": "That's not coincidence. That's inventory."
+"text": "That's not coincidence. That's inventory.",
+"tags": [
+"grimly"
+],
+"tag": "grimly"
 },
 {
 "speaker": "Narrator",
@@ -662,12 +889,16 @@
 },
 {
 "speaker": "Narrator",
-"text": "Ninsun was already copying the cluster onto a fresh scrap, her handwriting smaller and tighter than usual.",
+"text": "NEEN-soon was already copying the cluster onto a fresh scrap, her handwriting smaller and tighter than usual.",
 "note": "Short attribution/action beat; keep tight to surrounding dialogue."
 },
 {
 "speaker": "Ninsun",
-"text": "The Collector said the locked drawers hold the ones who didn't stop. What if they also hold the names the city tried to cross out and couldn't quite finish?"
+"text": "The Collector said the locked drawers hold the ones who didn't stop. What if they also hold the names the city tried to cross out and couldn't quite finish?",
+"tags": [
+"intense"
+],
+"tag": "intense"
 },
 {
 "speaker": "Narrator",
@@ -676,11 +907,13 @@
 },
 {
 "speaker": "Narrator",
-"text": "They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. En-HEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. Ninsun kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest."
+"text": "They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. En-KHEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. NEEN-soon kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
-"text": "By late afternoon the work was done. The clerk paid them in full and did not ask why they had spent so long on one short section of wall. They walked back toward the lower districts in the order that had become habit, four people carrying an ordinary day's pay and one more piece of proof that the city's erasures were never as complete as it wanted them to be."
+"text": "By late afternoon the work was done. The clerk paid them in full and did not ask why they had spent so long on one short section of wall. They walked back toward the lower districts in the order that had become habit, four people carrying an ordinary day's pay and one more piece of proof that the city's erasures were never as complete as it wanted them to be.",
+"pauseBefore": 1.5
 },
 {
 "speaker": "Narrator",
@@ -724,7 +957,8 @@
 },
 {
 "speaker": "Narrator",
-"text": "For the first time since opening the tomb, that frightened him more than the answer."
+"text": "For the first time since opening the tomb, that frightened him more than the answer.",
+"pauseBefore": 1.2
 }
 ]
 }
