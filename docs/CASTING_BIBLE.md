@@ -461,10 +461,7 @@ Uruk -> OO-rook
    sentence. Ch. 18 opens "No one spoke after **Bel-iddin's** final words. …is still waiting below."
    The parser needs one answer. Either the Ch. 18 opener is meant as "Bel-iddin's final words [in the
    journal]," or it's a slip.
-3. **Kurash and the black floor (Ch. 19).** Zik remembers Kurash "kneeling beside the smooth black
-   surface… the hammer rising… Bel-iddin shouting." In Ch. 1, Kurash dies grabbing a gold bowl under
-   a falling slab, and Bel-iddin isn't there. If this is deliberate (the City rewriting memory), the
-   narrator should play it straight. If not, it's a continuity fix.
+3. **Kurash and the black floor (Ch. 19).** RESOLVED: intentional per the author. Both versions are true; the narrator plays the memory straight.
 4. **Enhedu's two figurines.** The copper one with the smiling face (Ch. 2, carried out by Ninsun) and
    the golden one from her vision (Ch. 29) are different objects. Fine as written, but worth knowing so
    art doesn't merge them.
