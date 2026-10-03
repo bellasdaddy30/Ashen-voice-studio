@@ -1,0 +1,701 @@
+{
+"book": "The First City",
+"chapterKey": "14-the-man-who-already-knew",
+"title": "Chapter 14 — The Man Who Already Knew",
+"chars": 10948,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"The Collector",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 14",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Man Who Already Knew",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector found them before they finished packing for the east-side survey."
+},
+{
+"speaker": "Narrator",
+"text": "He was waiting in the narrow lane behind the cheap room, leaning against the wall like a man who had all morning and no intention of wasting it on politeness. Two temple guards stood a short distance away, looking bored in the specific way of men paid to look dangerous. The Collector himself looked almost regretful. That bothered Zeek more than anger would have."
+},
+{
+"speaker": "The Collector",
+"text": "You've been busy,"
+},
+{
+"speaker": "Narrator",
+"text": "the Collector said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's hand drifted toward the haft of his axe and then stopped. en-HEH-doo's expression went carefully blank. Ninsun simply watched, stylus still in her fingers from the map she had been updating."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek set the pack down.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "We're taking a paying job. East side. Walls that need measuring. Nothing that should interest you."
+},
+{
+"speaker": "The Collector",
+"text": "Everything you do interests me lately."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector's eyes moved across the four of them, lingering a fraction too long on the linen around Zeek's left hand and the satchel where Ninsun kept her scraps."
+},
+{
+"speaker": "The Collector",
+"text": "Notches in walls that officially don't exist. Questions about blank tablets. A certain district that keeps appearing on no one's maps but yours. You've drawn attention."
+},
+{
+"speaker": "Balag",
+"text": "From who?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector almost smiled.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "From people who prefer their attention not to be noticed in return."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo tilted her head.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "You're not here to buy."
+},
+{
+"speaker": "The Collector",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "He looked at Zeek.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "I'm here because your father made the same mistake you're making now. He thought the City was a puzzle that wanted to be solved. It isn't. It's a lid. And lids exist to keep something from rising. The more you mark it, the more you tell it exactly where the curious ones are standing."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice was quiet.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "You know about the marks."
+},
+{
+"speaker": "The Collector",
+"text": "I know about the ones who made them before you. Most of them stopped. A few didn't. The ones who didn't are why certain drawers in the lower archives stay locked."
+},
+{
+"speaker": "Narrator",
+"text": "He glanced at the two guards, then back.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "I'm offering you the same chance I offered your father. Walk away from the shifted streets. Take the east-side work. Take the silver. Let the lid stay closed."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek held his stare.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "And if we don't?"
+},
+{
+"speaker": "Narrator",
+"text": "The Collector's expression didn't change.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "Then you'll learn, the same way he did, that some prices are paid in advance. And some debts collect themselves."
+},
+{
+"speaker": "Narrator",
+"text": "He pushed off the wall, adjusted the sleeve of his robe, and walked away. The guards fell in behind him without being told. At the end of the lane he paused, just long enough to look back once."
+},
+{
+"speaker": "The Collector",
+"text": "Your father finally understood he had been asking the wrong question,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "I hope you're smarter than he was. Or luckier. I'm not certain which one matters more."
+},
+{
+"speaker": "Narrator",
+"text": "Then he was gone."
+},
+{
+"speaker": "Narrator",
+"text": "The lane felt smaller after he left."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg exhaled through his nose.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "I fucking hate that man."
+},
+{
+"speaker": "Enhedu",
+"text": "He's not wrong about the attention,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said. She was already recalculating something behind her eyes.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "We've been loud in places that prefer quiet."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked down at the map still half-open in her hands. The boxes labeled CLAIMED, COST, and LIMIT sat in a tight cluster near the tanners' row."
+},
+{
+"speaker": "Ninsun",
+"text": "He knew about the marks. He knew about the ones who came before us. That means the locked drawers have names in them. Or the absence of names."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek picked up the pack. The journal inside it had not been opened in nine days. The decision still felt like the only clean thing he owned."
+},
+{
+"speaker": "Zik",
+"text": "We take the east-side job,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "We get paid. We watch who watches us. And we don't cut another notch until we know whether the Collector is warning us or herding us."
+},
+{
+"speaker": "Narrator",
+"text": "No one argued."
+},
+{
+"speaker": "Narrator",
+"text": "They walked out of the lane in the order that had become habit. Behind them the cheap room and the map and the accumulating scraps of evidence waited like a second set of lungs the city had not yet decided to collapse."
+},
+{
+"speaker": "Narrator",
+"text": "Ahead, the ordinary noise of Uruk continued—merchants, animals, arguments that had nothing to do with lids or locked drawers or the kind of debts that collected themselves."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek flexed his left hand inside the linen. The mark was warm."
+},
+{
+"speaker": "Narrator",
+"text": "He did not look back."
+},
+{
+"speaker": "Narrator",
+"text": "The east-side walls were exactly as boring as the contract promised."
+},
+{
+"speaker": "Narrator",
+"text": "Three hundred cubits of mud-brick curtain wall, two collapsed towers, and a stretch of foundation that had been patched so many times the original line was anybody's guess. The temple clerk who hired them wanted measurements, load assessments, and a written recommendation on whether the whole section needed tearing down before the next flood season. Nothing shifted. Nothing breathed cooler air. Nothing carried notches."
+},
+{
+"speaker": "Narrator",
+"text": "It was the most restful work they had done in weeks."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg walked the foundation with a measuring rod and a piece of chalk, marking every place the brick had settled more than a finger's width. en-HEH-doo counted and sorted the reusable stone the way other people counted coin. Ninsun copied the older survey marks still visible on the inner face—temple codes, old ownership seals, the usual bureaucratic scars. Zeek checked the places where later repairs had been cut into earlier ones, reading the sequence the way his father had taught him to read mortar."
+},
+{
+"speaker": "Narrator",
+"text": "He paused halfway along the inner wall."
+},
+{
+"speaker": "Narrator",
+"text": "One repair interrupted another."
+},
+{
+"speaker": "Narrator",
+"text": "Then another."
+},
+{
+"speaker": "Narrator",
+"text": "Three different masons."
+},
+{
+"speaker": "Narrator",
+"text": "Three different clay mixes."
+},
+{
+"speaker": "Narrator",
+"text": "The oldest repair had been careful. Tight joints. Fired brick cut to match the original courses."
+},
+{
+"speaker": "Narrator",
+"text": "The second had simply filled cracks."
+},
+{
+"speaker": "Narrator",
+"text": "The newest had hidden both."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg noticed him stop."
+},
+{
+"speaker": "Balag",
+"text": "What?"
+},
+{
+"speaker": "Zik",
+"text": "Someone kept fixing the same place."
+},
+{
+"speaker": "Balag",
+"text": "Bad foundation?"
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek brushed away another layer of dust."
+},
+{
+"speaker": "Zik",
+"text": "If it were structural, they'd replace the whole course."
+},
+{
+"speaker": "Balag",
+"text": "So?"
+},
+{
+"speaker": "Zik",
+"text": "They only repaired this section."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo joined them."
+},
+{
+"speaker": "Enhedu",
+"text": "Meaning?"
+},
+{
+"speaker": "Zik",
+"text": "They weren't trying to save the wall."
+},
+{
+"speaker": "Narrator",
+"text": "He traced the line of repairs with one finger."
+},
+{
+"speaker": "Zik",
+"text": "They were trying to hide something inside it."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked at the perfectly ordinary brickwork."
+},
+{
+"speaker": "Balag",
+"text": "You can tell that from mud?"
+},
+{
+"speaker": "Zik",
+"text": "I can tell someone paid for three repairs where one would've done."
+},
+{
+"speaker": "Narrator",
+"text": "He smiled faintly."
+},
+{
+"speaker": "Zik",
+"text": "People rarely waste labor without a reason."
+},
+{
+"speaker": "Narrator",
+"text": "For most of the morning no one spoke about lids or locked drawers or the Collector's quiet threat. The ordinary work was enough."
+},
+{
+"speaker": "Narrator",
+"text": "Near midday Ninsun stopped in front of a section of inner wall that looked no different from the rest. She ran her fingers along a line of faded wedge marks, then crouched and brushed dust from a deeper cut near the base."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun crouched beside the repaired section."
+},
+{
+"speaker": "Ninsun",
+"text": "Zeek."
+},
+{
+"speaker": "Narrator",
+"text": "He came over. The others followed without being called."
+},
+{
+"speaker": "Ninsun",
+"text": "There's writing here."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked."
+},
+{
+"speaker": "Balag",
+"text": "I don't see anything."
+},
+{
+"speaker": "Ninsun",
+"text": "You aren't meant to."
+},
+{
+"speaker": "Narrator",
+"text": "She dampened one corner of her sleeve and wiped gently across the brick."
+},
+{
+"speaker": "Narrator",
+"text": "The dust disappeared."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing else happened."
+},
+{
+"speaker": "Narrator",
+"text": "Then sunlight shifted behind a passing cloud."
+},
+{
+"speaker": "Narrator",
+"text": "The shallow cuts suddenly caught the light."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo sucked in a breath."
+},
+{
+"speaker": "Enhedu",
+"text": "I see it."
+},
+{
+"speaker": "Narrator",
+"text": "Barely."
+},
+{
+"speaker": "Narrator",
+"text": "The survey marks had been cut so shallow they disappeared unless viewed from exactly the right angle."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek knelt beside them."
+},
+{
+"speaker": "Zik",
+"text": "They expected later repairs."
+},
+{
+"speaker": "Balag",
+"text": "What?"
+},
+{
+"speaker": "Zik",
+"text": "They carved them after the wall was finished."
+},
+{
+"speaker": "Narrator",
+"text": "He pointed."
+},
+{
+"speaker": "Zik",
+"text": "If these were construction marks, they'd be beneath this plaster."
+},
+{
+"speaker": "Narrator",
+"text": "Instead they sat on top of it."
+},
+{
+"speaker": "Zik",
+"text": "They wanted someone to erase them."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "That's a strange thing to want."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice was almost a whisper."
+},
+{
+"speaker": "Ninsun",
+"text": "It's a very ordinary thing."
+},
+{
+"speaker": "Narrator",
+"text": "They all looked at her."
+},
+{
+"speaker": "Ninsun",
+"text": "History is easier to hide when you know exactly where someone will try."
+},
+{
+"speaker": "Narrator",
+"text": "She continued cleaning."
+},
+{
+"speaker": "Narrator",
+"text": "Slowly."
+},
+{
+"speaker": "Narrator",
+"text": "One wedge."
+},
+{
+"speaker": "Narrator",
+"text": "Another."
+},
+{
+"speaker": "Narrator",
+"text": "Then the spiral."
+},
+{
+"speaker": "Narrator",
+"text": "Not scratched."
+},
+{
+"speaker": "Narrator",
+"text": "Not painted."
+},
+{
+"speaker": "Narrator",
+"text": "Deliberately carved."
+},
+{
+"speaker": "Narrator",
+"text": "Then attacked with a chisel."
+},
+{
+"speaker": "Narrator",
+"text": "The damage had broken the symbol but not destroyed it."
+},
+{
+"speaker": "Narrator",
+"text": "Whoever erased it had worked angrily."
+},
+{
+"speaker": "Narrator",
+"text": "Or hurriedly."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek touched the deepest cut."
+},
+{
+"speaker": "Zik",
+"text": "They came back."
+},
+{
+"speaker": "Balag",
+"text": "How do you know?"
+},
+{
+"speaker": "Zik",
+"text": "The scoring crosses weathering."
+},
+{
+"speaker": "Narrator",
+"text": "He looked up."
+},
+{
+"speaker": "Zik",
+"text": "The wall aged."
+},
+{
+"speaker": "Ninsun",
+"text": "Then somebody returned years later just to erase this."
+},
+{
+"speaker": "Narrator",
+"text": "Silence."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked around the empty survey site."
+},
+{
+"speaker": "Balag",
+"text": "I dislike the amount of effort strangers keep spending on old bricks."
+},
+{
+"speaker": "Narrator",
+"text": "The marks were old temple survey code, the kind used for private boundary work rather than public walls. Most of it was routine. One cluster near the bottom was not. The same spiral-drop that lived under the linen on Zeek's hand had been cut into the brick and then deliberately defaced—scored through so hard the chisel had split the face of the course."
+},
+{
+"speaker": "Narrator",
+"text": "Beside it, in a tighter hand, three signs remained legible."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice had gone flat.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "That's the same seal language as the broken piece we pulled from the shifted chamber. And the name under it—"
+},
+{
+"speaker": "Narrator",
+"text": "She stopped, then finished quietly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "It's the uncrossed name. The one from the basin. The ordinary one. The potter or the dock worker or whoever the city decided wasn't worth erasing completely."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stared at the defaced symbol.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "So the same mark shows up on a royal tomb, a shifted street, and a temple curtain wall that officially has nothing to do with either."
+},
+{
+"speaker": "Enhedu",
+"text": "And on an ordinary person's name the city only half-deleted,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said. She was already looking at the surrounding courses for anything else worth taking.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "That's not coincidence. That's inventory."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek ran his thumb across the scored spiral. The edges were old. Whoever had tried to erase it had done the work years ago, maybe decades. The wall had simply kept the evidence the way walls kept everything else—without comment, without loyalty, without any interest in whether the people who came later were ready to see it."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun was already copying the cluster onto a fresh scrap, her handwriting smaller and tighter than usual.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The Collector said the locked drawers hold the ones who didn't stop. What if they also hold the names the city tried to cross out and couldn't quite finish?"
+},
+{
+"speaker": "Narrator",
+"text": "No one answered."
+},
+{
+"speaker": "Narrator",
+"text": "They finished the survey because the contract required it and because leaving early would have told anyone watching that they had found something worth finding. BAH-lahg completed his measurements. en-HEH-doo stacked the reusable stone. Zeek wrote the load assessment in the dry, practical language the temple clerks preferred. Ninsun kept the new copy of the defaced seal and the half-erased name folded inside her map, separate from the rest."
+},
+{
+"speaker": "Narrator",
+"text": "By late afternoon the work was done. The clerk paid them in full and did not ask why they had spent so long on one short section of wall. They walked back toward the lower districts in the order that had become habit, four people carrying an ordinary day's pay and one more piece of proof that the city's erasures were never as complete as it wanted them to be."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek flexed his left hand beneath the linen."
+},
+{
+"speaker": "Narrator",
+"text": "The mark remained quiet."
+},
+{
+"speaker": "Narrator",
+"text": "Not because nothing had happened."
+},
+{
+"speaker": "Narrator",
+"text": "Because whatever lay beneath the city no longer needed to call him every day."
+},
+{
+"speaker": "Narrator",
+"text": "It already knew where he was going."
+},
+{
+"speaker": "Narrator",
+"text": "He thought about the Collector."
+},
+{
+"speaker": "Narrator",
+"text": "About the locked drawers."
+},
+{
+"speaker": "Narrator",
+"text": "About the wall someone had repaired three separate times simply to hide one damaged symbol and one ordinary name."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector had said his father eventually learned he had been asking the wrong question."
+},
+{
+"speaker": "Narrator",
+"text": "Walking home through the evening crowds, Zeek realized he had never asked what that question had been."
+},
+{
+"speaker": "Narrator",
+"text": "For the first time since opening the tomb, that frightened him more than the answer."
+}
+]
+}

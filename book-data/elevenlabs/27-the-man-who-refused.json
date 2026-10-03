@@ -1,0 +1,361 @@
+{
+"book": "The First City",
+"chapterKey": "27-the-man-who-refused",
+"title": "Chapter 27 — The Man Who Refused",
+"chars": 5844,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"The Man Who Refused",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 27",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Man Who Refused",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "They did not return to the plaza."
+},
+{
+"speaker": "Narrator",
+"text": "The knocking faded after a time, as if the City had noted their refusal and simply transferred the account to a later column. The three paving stones looked ordinary again. Only the erased names on the lintels remained as proof that someone had once answered when asked."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg kept his hand on Zeek's shoulder until they were well clear of the unfinished street."
+},
+{
+"speaker": "Balag",
+"text": "Next time you test a threshold,"
+},
+{
+"speaker": "Narrator",
+"text": "he said,",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "you say so first."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek nodded. He still tasted the shape of his own full name at the back of his throat."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo glanced back once at the blank floor.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "We still don't know what happens if someone actually pays."
+},
+{
+"speaker": "Ninsun",
+"text": "We know enough,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun answered. She was writing again, stylus moving in short, precise strokes.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "That distinction survives in every damaged tablet that still mentions the gates."
+},
+{
+"speaker": "Narrator",
+"text": "They chose a narrower street that at least possessed two walls and a visible far end. The geometry continued to refuse ordinary rules. A covered walkway they passed beneath reappeared ahead of them a short while later, identical down to one cracked tile. Zeek stopped leaving trail markers. There was no longer any point."
+},
+{
+"speaker": "Narrator",
+"text": "The deeper they went, the more traces of ordinary life surfaced—and the more wrong those traces felt. A market stall carved directly into a building's side still held the faint outlines of jars that no longer existed. A child's handprint was pressed into a wall at waist height, the fingers too small, the impression too deep. Doorways showed thresholds worn smooth by generations of feet, yet their upper lintels remained sharp, as if the people who lived here had eventually stopped looking up."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun slowed beside a low wall covered in faint wedge-shaped marks. She brushed dust away with careful fingers."
+},
+{
+"speaker": "Ninsun",
+"text": "Inventory,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Grain. Oil. Rope. The same lists every household kept."
+},
+{
+"speaker": "Narrator",
+"text": "Near the bottom three lines had been crossed out so thoroughly the surface beneath was scraped raw. Beside the erasure someone had later cut a single incomplete spiral."
+},
+{
+"speaker": "Ninsun",
+"text": "They inventoried people,"
+},
+{
+"speaker": "Narrator",
+"text": "she said quietly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "No one asked her to continue."
+},
+{
+"speaker": "Narrator",
+"text": "The street narrowed further. Torchlight sank into the oily stone and did not return. Somewhere ahead, water dripped with the slow regularity of a clock that no longer measured hours anyone recognized."
+},
+{
+"speaker": "Narrator",
+"text": "Then they heard the voice."
+},
+{
+"speaker": "Narrator",
+"text": "It was thin, human, and exhausted, and it came from a side passage so narrow they would have walked past it without noticing."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "Don't give it your name."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's axe was up before the last word finished. en-HEH-doo had already angled herself for a fight. Ninsun froze with the stylus still pressed to parchment."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek raised the torch."
+},
+{
+"speaker": "Narrator",
+"text": "The passage ended after only a few paces in a shallow alcove. A man sat against the back wall, knees drawn up, wrists resting loosely on them. His clothes were the same dust-fused linen they had seen on the gatekeeper, but his skin was still skin—gray, stretched thin, cracked at the corners of the mouth. His eyes tracked the torchlight with the slow recognition of someone who had not expected living faces again."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "You're real,"
+},
+{
+"speaker": "Narrator",
+"text": "the man said. His voice sounded unused.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "I thought the City had finally learned how to make better copies."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek crouched just out of reach.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Who are you?"
+},
+{
+"speaker": "Narrator",
+"text": "The man gave a one-sided smile.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "That depends which name you're asking for. The one I arrived with, or the one it left me."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's stylus hovered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "How long have you been here?"
+},
+{
+"speaker": "The Man Who Refused",
+"text": "I stopped counting after the second winter that never ended."
+},
+{
+"speaker": "Narrator",
+"text": "He looked past them toward the main street.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "You're still carrying your names. That's rarer than it should be. Most who reach this depth have already paid at least once."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg kept the axe ready.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Are there others?"
+},
+{
+"speaker": "The Man Who Refused",
+"text": "There were."
+},
+{
+"speaker": "Narrator",
+"text": "The man lifted one thin hand and pointed farther down the narrowing street.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "The City keeps what it collects. Sometimes it lets the emptier ones walk for a while. Sometimes it uses them as markers. Sometimes it just leaves them where they fall."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo studied him the way she studied anything that might still hold value.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "What did you pay?"
+},
+{
+"speaker": "Narrator",
+"text": "The man's gaze settled on BAH-lahg."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "The first threshold accepted your offering,"
+},
+{
+"speaker": "Narrator",
+"text": "he said. Then, to Zeek:",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "First took a knife I inherited. Ordinary steel. Second took a scar I earned above. Third asked for the name of the woman who waited for me. She used to—"
+},
+{
+"speaker": "Narrator",
+"text": "He stopped. His mouth worked around a word that would not come."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "I can still see her face,"
+},
+{
+"speaker": "Narrator",
+"text": "he said at last.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "I just can't remember what anyone ever called her."
+},
+{
+"speaker": "Narrator",
+"text": "Silence settled over the alcove."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun spoke carefully.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "And the fourth?"
+},
+{
+"speaker": "Narrator",
+"text": "The man looked at Zeek's wrapped hand, at the journal, at the mark that still pulsed faintly beneath the linen."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "The fourth is why I'm still sitting here. I refused. The City does not force the later payments. It waits. And while it waits, the streets rearrange. The people you arrived with begin to forget why they came. Eventually you forget too—or you decide that whatever is left of you is still too expensive to keep."
+},
+{
+"speaker": "Narrator",
+"text": "He leaned his head back against the stone."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "You're marked,"
+},
+{
+"speaker": "Narrator",
+"text": "he said to Zeek.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "That means an account is already open. Everything after this is collection."
+},
+{
+"speaker": "Narrator",
+"text": "The journal pressed once against Zeek's ribs—deliberate, almost like confirmation."
+},
+{
+"speaker": "Narrator",
+"text": "The man closed his eyes."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "Don't give it your name. And if you reach the place where the walls begin to breathe in time with your pulse, turn around. That threshold does not ask. It only records the answer you already gave by arriving."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg lowered the axe and offered his hand.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Come with us."
+},
+{
+"speaker": "Narrator",
+"text": "The man stared at the open hand for a long time."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "I have followed strangers out of this alcove before,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Man Who Refused",
+"text": "They always bring me back."
+},
+{
+"speaker": "Narrator",
+"text": "He did not take the hand."
+},
+{
+"speaker": "Narrator",
+"text": "They left him there."
+},
+{
+"speaker": "Narrator",
+"text": "As they moved back into the main street, Ninsun spoke almost to herself."
+},
+{
+"speaker": "Ninsun",
+"text": "The tablets never mentioned survivors."
+},
+{
+"speaker": "Narrator",
+"text": "Behind them, in the narrow alcove, the man began to hum—soft, tuneless, keeping time with a clock only he could still hear."
+}
+]
+}

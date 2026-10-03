@@ -1,0 +1,479 @@
+{
+"book": "The First City",
+"chapterKey": "24-the-first-door",
+"title": "Chapter 24 — The First Door",
+"chars": 9184,
+"speakers": [
+"Balag",
+"Bel-iddin",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 24",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The First Door",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "They reached the ridge at noon on the fifth day, and the land itself was lying."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek knew the shape from his father's map—the broken line of stone that should have marked the old outpost, the shallow depression where the outer wall had collapsed, the narrow ridge that should have risen behind it like the spine of a buried animal. None of that was there."
+},
+{
+"speaker": "Narrator",
+"text": "Instead they found a low mound of newer masonry half-swallowed by sand, sitting at a slight, deliberate angle to the ridge. The stones did not match. The foundations did not match. Even the way the structure had settled into the earth seemed wrong, as if the entire outpost had been built according to one set of rules and then forced to conceal another."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun noticed the discrepancy first. She dropped to her knees beside a collapsed wall and ran her fingers along the joint where newer brick met older foundation. Sand had collected in the seam, but not enough to hide the difference."
+},
+{
+"speaker": "Ninsun",
+"text": "This wall is lying,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek crouched beside her.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Explain."
+},
+{
+"speaker": "Ninsun",
+"text": "It's supposed to be plumb. Straight. The foundation beneath it is aligned with the ridge, but the upper structure isn't. The entire settlement was built at an angle."
+},
+{
+"speaker": "Zik",
+"text": "Why?"
+},
+{
+"speaker": "Narrator",
+"text": "She looked at the wall.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "To cover what was already here."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg shifted his axe from one shoulder to the other. He had been watching the surrounding desert instead of the ruin.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "We've seen enough."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo smiled the way she did when she found the weak seam in a strongbox.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "We've seen nothing yet."
+},
+{
+"speaker": "Narrator",
+"text": "They worked for hours. The heat made the air shimmer above the stones. They uncovered broken pottery, ordinary foundations, the remains of a storage room, and the scattered bones of mules that had died centuries earlier. Ninsun catalogued everything she could identify. en-HEH-doo searched the collapsed rooms for anything worth carrying. BAH-lahg did most of the heavy work and complained that everyone else had been born with useless hands."
+},
+{
+"speaker": "Narrator",
+"text": "The ordinary things were almost comforting. Zeek found himself wanting the ruin to remain exactly that, and the realization frightened him more than the strange parts."
+},
+{
+"speaker": "Narrator",
+"text": "Every few minutes his eyes returned to the angle of the walls. His father had taught him to read construction the way other men read written language. A building told you what its builders believed about the world—what they feared, what they valued, and what they expected to happen after they were gone. This place had been built by men who expected it to remain buried."
+},
+{
+"speaker": "Narrator",
+"text": "At sunset en-HEH-doo's shovel struck stone with a different sound."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek heard it immediately.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Again."
+},
+{
+"speaker": "Narrator",
+"text": "She struck a second time. The hollow note came back. BAH-lahg stopped digging. Ninsun moved closer, her face tightening as she examined the exposed stone."
+},
+{
+"speaker": "Ninsun",
+"text": "This isn't part of the foundation."
+},
+{
+"speaker": "Zik",
+"text": "No,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "They cleared the area carefully. The staircase began beneath the main chamber of the outpost and descended at an angle that made no architectural sense. The steps ignored the alignment of every wall above them. The upper settlement faced one direction; the staircase descended toward another."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun traced the difference with a shaking finger.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The upper settlement was built after this staircase was sealed. They knew what was down here."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked toward the surface.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Then we go back up."
+},
+{
+"speaker": "Ninsun",
+"text": "They built the whole place to hide the entrance,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun continued, as if she hadn't heard him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Not around it. Over it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared down into the darkness. The words from the journal returned to him, altered by everything they had learned since: the First City had never been a place of the living. It had been built to hold something down."
+},
+{
+"speaker": "Narrator",
+"text": "They lit fresh torches and began the descent."
+},
+{
+"speaker": "Narrator",
+"text": "The stairs ended after only twenty feet at a blank wall. There was no door, no inscription, no visible mechanism—only a seamless surface made from a material none of them recognized. It was dull and almost oily, and it did not reflect the torchlight. The flames seemed to lose their strength when held near it."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun scraped away centuries of dust with her knife. Beneath it lay the spiral-drop symbol, incomplete. A section had been deliberately left out, as if whoever carved it had stopped before finishing the design."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's left palm began to warm. He stepped closer."
+},
+{
+"speaker": "Balag",
+"text": "Zeek,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Three measured knocks sounded from the other side of the wall."
+},
+{
+"speaker": "Narrator",
+"text": "Everyone froze."
+},
+{
+"speaker": "Narrator",
+"text": "The sound was not loud, which made it worse. It had been deliberate, controlled, almost polite. Three more knocks followed, patient and precise."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's voice came out low and final.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "We're leaving."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek kept his eyes on the wall.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "We just got here."
+},
+{
+"speaker": "Balag",
+"text": "That is exactly the problem."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo lowered her knife.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Did that come from behind the wall?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stared at the symbol.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Yes."
+},
+{
+"speaker": "Enhedu",
+"text": "Then why does it sound like it's standing on the other side?"
+},
+{
+"speaker": "Narrator",
+"text": "No one answered."
+},
+{
+"speaker": "Narrator",
+"text": "The journal shifted inside Zeek's satchel. He removed it slowly and opened the cover. A new line had appeared across the page. The ink was still settling into the fibers."
+},
+{
+"speaker": "Narrator",
+"text": "The first door was built by men."
+},
+{
+"speaker": "Narrator",
+"text": "The second was not."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun read the words over his shoulder.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What does that mean?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the wall.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "I think we're about to find out."
+},
+{
+"speaker": "Narrator",
+"text": "His father had reached this place. Whatever it cost, Zeek needed to know how far he had gone."
+},
+{
+"speaker": "Narrator",
+"text": "He pressed his marked palm against the stone."
+},
+{
+"speaker": "Narrator",
+"text": "The world unfolded."
+},
+{
+"speaker": "Narrator",
+"text": "For a moment he was no longer standing in the stairwell. He saw the ground as it had been centuries earlier—open and raw beneath a sky that looked exactly like the one above them now. The older city lay beneath the earth like a secret pressed between pages. Above it, thousands of men worked beneath the eyes of priests and kings. They were not building a new city. They were burying the old one."
+},
+{
+"speaker": "Narrator",
+"text": "Massive stones were dragged across the ground by teams of exhausted workers. Ropes groaned. Men shouted. Overseers struck anyone who stopped moving. There was no celebration, no ceremony, no dedication—only the silence men used when they were afraid of being heard."
+},
+{
+"speaker": "Narrator",
+"text": "One worker paused and looked down into the darkness of the unfinished structure. Then he dropped his tools and began screaming. The others turned. Several men dragged him away while he kicked and clawed at the ground. He screamed until the sound became raw and animal. A priest struck him across the mouth. The worker kept screaming."
+},
+{
+"speaker": "Narrator",
+"text": "His father stood in the same place. He was older than Zeek remembered—hair streaked with gray, face thinner, clothing torn and stained with dust. He looked like a man who had been walking for years without ever reaching the place he intended to go. Then he looked straight toward Zeek across the impossible distance. His expression was not fear. It was sorrow."
+},
+{
+"speaker": "Bel-iddin",
+"text": "You shouldn't be able to see this,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The vision ended."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek woke on the ground with BAH-lahg's heavy hands pinning his shoulders."
+},
+{
+"speaker": "Balag",
+"text": "Zeek!"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun was shouting his name. en-HEH-doo stood over him with one hand on the journal and the other on her knife, apparently unsure which represented the greater threat."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek tried to sit up. BAH-lahg held him down."
+},
+{
+"speaker": "Balag",
+"text": "Stay there."
+},
+{
+"speaker": "Zik",
+"text": "I'm fine."
+},
+{
+"speaker": "Balag",
+"text": "You were standing there, then you weren't."
+},
+{
+"speaker": "Zik",
+"text": "That happens."
+},
+{
+"speaker": "Balag",
+"text": "Not to people who are fine."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek shoved BAH-lahg's hands away and sat up slowly. Sand clung to his sweat-soaked clothing. His head felt as if someone had driven a wedge through the center of it. The mark on his palm was colder than the desert night."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun crouched beside him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What did you see?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the wall. He could remember that he and his father had once explored a ruin together. He could remember that the day had mattered. He could remember his father's voice explaining the mortar. But the ruin itself was gone—the color of the stones, the shape of the entrance, the exact sound of his father's voice. There was a clean hole where the memory should have been."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun watched his face.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What did it take?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at her.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "What?"
+},
+{
+"speaker": "Ninsun",
+"text": "You were remembering. Then you weren't."
+},
+{
+"speaker": "Narrator",
+"text": "He said nothing."
+},
+{
+"speaker": "Narrator",
+"text": "The wall in front of them had gone silent. But the knocking had moved. Three came, then three more, no longer from the wall. They were coming from somewhere behind the group, deeper in the earth, and they seemed to be getting closer."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg slowly turned toward the stairs.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "That's not possible."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo looked at him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "You should stop saying that."
+},
+{
+"speaker": "Narrator",
+"text": "Another knock sounded—this one from beneath their feet. The stone trembled."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stood and looked at the misaligned stones above them, the staircase that should not exist, and the wall built by frightened men who had mistaken burial for safety. They were not standing above the First City. They were standing above the first door. And the City was deeper."
+},
+{
+"speaker": "Narrator",
+"text": "He opened his father's map. The lines on the page had changed. The staircase was no longer drawn as a straight descent. It continued downward past the point where the map had previously ended, past the foundations and the buried settlement. A new line had appeared beneath the old notation."
+},
+{
+"speaker": "Bel-iddin",
+"text": "I WAS WRONG ABOUT THE DEPTH.",
+"note": "Map annotation in Bel-iddin's hand."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared at it."
+},
+{
+"speaker": "Narrator",
+"text": "Then another line formed beneath it."
+},
+{
+"speaker": "Bel-iddin",
+"text": "I WAS WRONG ABOUT WHAT WAS BENEATH US.",
+"note": "Map annotation in Bel-iddin's hand."
+},
+{
+"speaker": "Narrator",
+"text": "The knocking stopped."
+},
+{
+"speaker": "Narrator",
+"text": "For several seconds there was only the sound of their breathing. Then a single knock came from directly beneath the floor."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek folded the map."
+},
+{
+"speaker": "Narrator",
+"text": "The map had not been wrong about the depth. It had been wrong about where the city began."
+}
+]
+}

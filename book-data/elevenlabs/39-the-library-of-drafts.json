@@ -1,0 +1,996 @@
+{
+"book": "The First City",
+"chapterKey": "39-the-library-of-drafts",
+"title": "Chapter 39 — The Library of Drafts",
+"chars": 15138,
+"speakers": [
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 39",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Library of Drafts",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The library was not a place of learning. It was a graveyard of drafts."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stumbled through the doorway as it sealed behind them, the calcified key fused to his left hand scraping against the obsidian floor. Gray necrosis had climbed past his elbow now, spreading in delicate branching lines beneath his skin. Every heartbeat forced something thick and cold through the veins that remained. It no longer felt like blood. The sensation had settled into something stranger, as though ink itself had replaced whatever the City had already taken."
+},
+{
+"speaker": "Narrator",
+"text": "Ahead of him, Ninsun slowed just enough to study the room before continuing. She no longer glanced toward corners or searched for hidden exits. Somewhere during their descent she had abandoned the hope that every chamber concealed another way out. Now she looked only for patterns—for repetitions in the stonework, for symbols carved where they did not belong, for the quiet logic that held the City together beneath all its contradictions."
+},
+{
+"speaker": "Narrator",
+"text": "The chamber stretched beyond the reach of the torchlight. Black shelves rose in impossible rows, climbing into darkness so complete that they appeared to dissolve before reaching a ceiling. Upon them rested thousands of glass jars, each identical in size despite containing scenes that could not possibly fit inside. Some glowed with a pale, rhythmic light while others remained dark, yet even those seemed to pulse faintly whenever the City's distant breathing rolled through the floor beneath their feet."
+},
+{
+"speaker": "Narrator",
+"text": "There was no smell of parchment or old leather, none of the familiar scents a library should have carried. The air tasted instead of dry stone, cold glass, and something faintly metallic that lingered at the back of Zeek's tongue."
+},
+{
+"speaker": "Narrator",
+"text": "It was only when he turned to speak—some half-formed instruction, the sort of thing he would once have tossed over his shoulder expecting BAH-lahg to answer before he had finished—that he realized how completely the silence had settled behind them."
+},
+{
+"speaker": "Narrator",
+"text": "He stopped."
+},
+{
+"speaker": "Zik",
+"text": "BAH-lahg.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked back at him, distracted.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What?"
+},
+{
+"speaker": "Zik",
+"text": "BAH-lahg.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "He frowned.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "And en-HEH-doo.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "She waited."
+},
+{
+"speaker": "Zik",
+"text": "When did we lose them?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "The question hung between them longer than it should have. Ninsun opened her mouth to answer, hesitated, then looked back toward the doorway as though she expected the two of them to emerge from the darkness laughing at some joke neither of them had heard."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't…"
+},
+{
+"speaker": "Narrator",
+"text": "She stopped.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The corridor with the teeth. Before that, I think."
+},
+{
+"speaker": "Zik",
+"text": "You think?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "She pressed a hand against her temple.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I remember BAH-lahg complaining about the climb. I remember en-HEH-doo arguing with him about something. Or maybe that was earlier."
+},
+{
+"speaker": "Narrator",
+"text": "Her expression tightened.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "No. That's wrong."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek waited."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't remember a moment they weren't with us,"
+},
+{
+"speaker": "Narrator",
+"text": "she said quietly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "But I also can't remember a single moment they were."
+},
+{
+"speaker": "Narrator",
+"text": "The words struck him harder than he expected."
+},
+{
+"speaker": "Zik",
+"text": "That's impossible,",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "BAH-lahg doesn't just stop talking. en-HEH-doo doesn't go five minutes without pocketing something she insists has no value.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "I know."
+},
+{
+"speaker": "Zik",
+"text": "No.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "He shook his head.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "We would have noticed.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Wouldn't we?",
+"note": "Internal thought; intimate, not voiced aloud."
+},
+{
+"speaker": "Narrator",
+"text": "He turned back toward the doorway. The polished floor behind them lay undisturbed except for two sets of footprints leading into the library. Two. Not four."
+},
+{
+"speaker": "Narrator",
+"text": "His pulse quickened."
+},
+{
+"speaker": "Narrator",
+"text": "He searched the room anyway, walking back to where the doorway had vanished, expecting to find a dropped pack, a broken weapon, some mark that proved memory had failed before reality had."
+},
+{
+"speaker": "Narrator",
+"text": "There was nothing."
+},
+{
+"speaker": "Narrator",
+"text": "Only as he turned away did the weight pulling at his shoulder begin to feel unfamiliar. He shrugged off his pack and opened it. Tucked carefully beneath his bedroll lay BAH-lahg's spare axe head, wrapped in the same strip of cloth the big man always kept oiled to keep rust away. Zeek stared at it, certain it had not been there before."
+},
+{
+"speaker": "Zik",
+"text": "I've got something.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun had opened her own satchel. She reached inside and withdrew a small copper figurine no taller than her thumb. Time had polished the little smiling face nearly smooth."
+},
+{
+"speaker": "Zik",
+"text": "en-HEH-doo's,",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said immediately.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun nodded."
+},
+{
+"speaker": "Ninsun",
+"text": "She always claimed it was worthless."
+},
+{
+"speaker": "Zik",
+"text": "So nobody would think to steal it.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Neither of them remembered packing either object."
+},
+{
+"speaker": "Narrator",
+"text": "For a long moment Ninsun simply turned the figurine over in her hand, her thumb tracing the worn edges as though expecting the memory of its weight to return with enough patience."
+},
+{
+"speaker": "Narrator",
+"text": "Finally she closed her fingers around it and slipped it back into her satchel."
+},
+{
+"speaker": "Ninsun",
+"text": "We didn't leave them."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked once more at the empty floor behind them."
+},
+{
+"speaker": "Zik",
+"text": "No.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Her voice dropped almost to a whisper."
+},
+{
+"speaker": "Ninsun",
+"text": "We just stopped being able to keep them."
+},
+{
+"speaker": "Narrator",
+"text": "She did not sound convinced by the sentence. She sounded like she had found the only words that fit around something neither of them yet understood."
+},
+{
+"speaker": "Narrator",
+"text": "They stood there, listening for the break in the silence, the sound of heavy footsteps or en-HEH-doo's dry voice reminding them that they were fools."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing came."
+},
+{
+"speaker": "Narrator",
+"text": "At last Ninsun adjusted the strap of her satchel and started forward again."
+},
+{
+"speaker": "Ninsun",
+"text": "We keep moving,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Stopping never once persuaded the City to explain."
+},
+{
+"speaker": "Narrator",
+"text": "The shelves grew stranger the deeper they walked."
+},
+{
+"speaker": "Narrator",
+"text": "At first Zeek tried to make sense of them, searching for some order in the endless rows of glass. The labels suggested one existed. Every jar bore the same careful hand, each line etched into the base with deliberate precision. Subject. Variant. Outcome. Occasionally a number. Occasionally a single word. Whatever system governed the collection had never been intended for visitors. It assumed the reader already understood the rules."
+},
+{
+"speaker": "Narrator",
+"text": "The jars themselves refused explanation."
+},
+{
+"speaker": "Narrator",
+"text": "One contained nothing but a chair beneath a narrow window. Dust drifted lazily through a shaft of afternoon light that never changed, though no breeze stirred it. Another held a child carefully stacking smooth black stones into a tower that collapsed each time the last piece was set in place. The child never showed frustration. He simply began again, every movement identical to the last. Farther along, a woman sat before a table covered in maps, crossing out one route after another until the parchment itself disappeared beneath the ink."
+},
+{
+"speaker": "Narrator",
+"text": "None of the figures acknowledged the world beyond the glass."
+},
+{
+"speaker": "Zik",
+"text": "They aren't moving,",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "They are."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun had stopped before another shelf."
+},
+{
+"speaker": "Ninsun",
+"text": "They're just… moving very slowly."
+},
+{
+"speaker": "Narrator",
+"text": "He joined her. Inside the nearest jar a man stood in the middle of a desert, one hand raised to shield his eyes. Zeek watched him for several seconds before noticing that the figure's fingers had shifted almost imperceptibly. It was movement so gradual he might have mistaken it for imagination had he not been staring directly at it."
+},
+{
+"speaker": "Zik",
+"text": "They're alive?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't know."
+},
+{
+"speaker": "Narrator",
+"text": "She frowned."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't even know if that's the right question."
+},
+{
+"speaker": "Narrator",
+"text": "Her torchlight drifted across the labels until she found one that seemed to catch her attention. She leaned closer, brushing a thin film of gray dust from the glass with the back of her fingers."
+},
+{
+"speaker": "Ninsun",
+"text": "Here."
+},
+{
+"speaker": "Narrator",
+"text": "Inside stood a miniature version of Zeek."
+},
+{
+"speaker": "Narrator",
+"text": "He held a lantern before a doorway cut into black stone. The flame illuminated only his face. Everything beyond the threshold remained swallowed by darkness."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun pointed toward the inscription."
+},
+{
+"speaker": "Narrator",
+"text": "SUBJECT 402",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "VARIANT: STOIC",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "OUTCOME: FAILED",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "ERASURE: IMMINENT",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "Neither of them spoke immediately."
+},
+{
+"speaker": "Narrator",
+"text": "The tiny figure remained frozen with the lantern held aloft, waiting for a door that never opened."
+},
+{
+"speaker": "Ninsun",
+"text": "We aren't the first,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said at last.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek kept staring at the miniature version of himself."
+},
+{
+"speaker": "Zik",
+"text": "What are we, then?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "She rested her hand lightly against the cool surface of the glass."
+},
+{
+"speaker": "Ninsun",
+"text": "Not replacements."
+},
+{
+"speaker": "Zik",
+"text": "No?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "If we were, there would be no reason to keep the others."
+},
+{
+"speaker": "Narrator",
+"text": "He looked along the endless shelves."
+},
+{
+"speaker": "Narrator",
+"text": "Thousands."
+},
+{
+"speaker": "Narrator",
+"text": "Perhaps more."
+},
+{
+"speaker": "Narrator",
+"text": "His torchlight reached only the nearest rows before disappearing into darkness crowded with more glass than any library could have held."
+},
+{
+"speaker": "Ninsun",
+"text": "These aren't graves,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun continued quietly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "A grave marks something that's finished."
+},
+{
+"speaker": "Zik",
+"text": "Then what are they?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "I think…"
+},
+{
+"speaker": "Narrator",
+"text": "She hesitated, an unusual uncertainty creeping into her voice.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I think they're corrections."
+},
+{
+"speaker": "Narrator",
+"text": "She withdrew her hand.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Or attempts at correction."
+},
+{
+"speaker": "Zik",
+"text": "The City keeps trying until something works.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "Perhaps."
+},
+{
+"speaker": "Narrator",
+"text": "She looked down another aisle where hundreds more jars disappeared into shadow.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Or perhaps it doesn't know how to stop trying."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek had always imagined failure as something clean. A wrong decision. A closed door. A body buried beneath enough years that the living eventually stopped looking over their shoulders."
+},
+{
+"speaker": "Narrator",
+"text": "The City had found another use for it."
+},
+{
+"speaker": "Narrator",
+"text": "It had archived failure."
+},
+{
+"speaker": "Narrator",
+"text": "Every abandoned path remained here, catalogued with the same care another civilization might have reserved for kings or sacred texts."
+},
+{
+"speaker": "Narrator",
+"text": "They continued through aisle after aisle, saying little. Some labels bore only a number. Others carried a single word beneath the outcome."
+},
+{
+"speaker": "Narrator",
+"text": "FAILED.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "INCOMPLETE.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "PENDING.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "One simply read UNOBSERVED."
+},
+{
+"speaker": "Zik",
+"text": "What does that mean?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun didn't answer. She couldn't."
+},
+{
+"speaker": "Narrator",
+"text": "Near the end of the next aisle something caught his eye."
+},
+{
+"speaker": "Narrator",
+"text": "Unlike the other shelves, this one carried a thin layer of gray dust across its surface. Not enough to hide the glass, only enough to suggest no one—or nothing—had disturbed it in a very long time."
+},
+{
+"speaker": "Narrator",
+"text": "One jar sat slightly apart from the rest."
+},
+{
+"speaker": "Narrator",
+"text": "The figure inside was not him. He recognized the man before he recognized his own certainty."
+},
+{
+"speaker": "Narrator",
+"text": "Gray hair. A beard worn shorter than Zeek remembered. The slight bend in his shoulders that had only appeared after long journeys across the eastern dunes."
+},
+{
+"speaker": "Narrator",
+"text": "His father."
+},
+{
+"speaker": "Narrator",
+"text": "The tiny figure knelt in an endless stretch of sand, tapping the ground ahead with a walking stick before taking each careful step. Tap. Step. Tap. Step. Patient. Methodical. Exactly as he had taught Zeek when he was young enough to think the desert itself enjoyed swallowing careless men."
+},
+{
+"speaker": "Narrator",
+"text": "Without realizing it, Zeek stepped closer."
+},
+{
+"speaker": "Narrator",
+"text": "His breath fogged the glass."
+},
+{
+"speaker": "Narrator",
+"text": "He read the label anyway."
+},
+{
+"speaker": "Narrator",
+"text": "SUBJECT 001",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "VARIANT: THE FATHER",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "OUTCOME:—",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing followed. No failure. No completion."
+},
+{
+"speaker": "Narrator",
+"text": "Only a dash."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun came to stand beside him without speaking."
+},
+{
+"speaker": "Zik",
+"text": "He's in here.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Her eyes remained on the label."
+},
+{
+"speaker": "Ninsun",
+"text": "That could mean many things."
+},
+{
+"speaker": "Zik",
+"text": "It could.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "It doesn't necessarily mean—"
+},
+{
+"speaker": "Zik",
+"text": "I know what it doesn't necessarily mean.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "He cut himself off before frustration found a target it didn't deserve."
+},
+{
+"speaker": "Narrator",
+"text": "For a long while neither of them spoke."
+},
+{
+"speaker": "Narrator",
+"text": "His father had vanished twelve years earlier, leaving behind a campsite half buried by wind and a walking stick broken cleanly in two. Zeek had spent years convincing himself he searched because sons searched. Because that was what decent people did."
+},
+{
+"speaker": "Narrator",
+"text": "Standing before the jar, he understood how thin that lie had always been."
+},
+{
+"speaker": "Zik",
+"text": "Twelve years,",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "he said quietly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked at him."
+},
+{
+"speaker": "Zik",
+"text": "I told myself I was looking for answers.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "His hand closed around the calcified key fused to his arm.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "But I was looking for him.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "He nodded toward the unfinished line beneath the label."
+},
+{
+"speaker": "Zik",
+"text": "I don't know what that dash means.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Zik",
+"text": "But it isn't an ending.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun followed his gaze."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "He looked at the tiny figure still tapping patiently across the sand."
+},
+{
+"speaker": "Zik",
+"text": "Then I won't let the City decide what comes after it.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "They remained there another moment before moving on, neither willing to say aloud what both had begun to suspect."
+},
+{
+"speaker": "Narrator",
+"text": "If Subject 001 still existed somewhere within the City, then perhaps nothing it collected was ever entirely gone."
+},
+{
+"speaker": "Narrator",
+"text": "The shelves continued for what felt like another hour, though neither of them trusted the passage of time anymore. The jars became less numerous as they walked. Empty spaces appeared between them at first, then entire shelves stood bare, their polished surfaces carrying only the faint outlines where glass had once rested. The rhythmic glow that had followed them through the library grew weaker until only a handful of vessels still answered one another across the darkness."
+},
+{
+"speaker": "Zik",
+"text": "The shelves are emptying,",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun nodded.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Or we're approaching whatever doesn't need to be archived."
+},
+{
+"speaker": "Zik",
+"text": "What does that mean?",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't know."
+},
+{
+"speaker": "Narrator",
+"text": "She ran her fingers lightly along one of the vacant shelves.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Everything we've seen so far has already happened. Someone preserved it. Recorded it. Perhaps we're reaching the place where those decisions are made."
+},
+{
+"speaker": "Narrator",
+"text": "The last row ended without ceremony."
+},
+{
+"speaker": "Narrator",
+"text": "Beyond it stretched an open chamber, almost austere after the impossible abundance of the library behind them. There were no shelves here, no jars, no endless catalog of forgotten lives. At its center stood a single desk raised upon a pedestal fashioned from pale bone fused into black stone. Whatever had once belonged to either material had long since disappeared. They had become something new, seamless enough that Zeek could no longer tell where one ended and the other began."
+},
+{
+"speaker": "Narrator",
+"text": "Unlike the shelves behind them, the desk bore no dust."
+},
+{
+"speaker": "Narrator",
+"text": "It looked used."
+},
+{
+"speaker": "Narrator",
+"text": "Not recently. Not often. But regularly enough that the gray powder coating the rest of the library had never been allowed to settle there."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun slowed."
+},
+{
+"speaker": "Ninsun",
+"text": "This isn't a reading room."
+},
+{
+"speaker": "Zik",
+"text": "No.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Zik",
+"text": "It's where the shelves begin.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek wasn't sure why he believed that, only that the certainty arrived before the thought itself. The library behind them no longer felt like a collection."
+},
+{
+"speaker": "Narrator",
+"text": "It felt like the result of whatever happened here."
+},
+{
+"speaker": "Narrator",
+"text": "Resting upon the desk lay an enormous ledger opened to its middle pages. Beside it rested a single sharpened quill carved from the same calcified material as the key fused to Zeek's hand. They were not identical in shape, yet they belonged to one another as surely as a lock belonged to its key. The same gray veins ran through them. The same unnatural cold seemed to draw warmth from the air around them."
+},
+{
+"speaker": "Narrator",
+"text": "Neither of them reached for either object."
+},
+{
+"speaker": "Narrator",
+"text": "Instead Zeek stepped to the side of the desk and looked down at the open page."
+},
+{
+"speaker": "Narrator",
+"text": "His stomach tightened."
+},
+{
+"speaker": "Narrator",
+"text": "The handwriting was his."
+},
+{
+"speaker": "Narrator",
+"text": "Not merely familiar, but unmistakable."
+},
+{
+"speaker": "Narrator",
+"text": "The loops of the letters, the slight rightward slant, the habit of crossing a stroke twice whenever he wrote too quickly. He had spent enough nights copying inventories and caravan accounts to know his own hand better than his own face."
+},
+{
+"speaker": "Narrator",
+"text": "He had never written any of it."
+},
+{
+"speaker": "Narrator",
+"text": "The final entry described their arrival in the library. It described the empty shelves waiting beyond the jars. It described the disappearance of BAH-lahg and en-HEH-doo, the discovery of Subject 001, and words that still echoed in the chamber around them."
+},
+{
+"speaker": "Narrator",
+"text": "The ink remained wet."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek reached toward the page before thinking better of it."
+},
+{
+"speaker": "Zik",
+"text": "It isn't prophecy.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun didn't answer immediately. She was studying the edge of the writing, watching where the ink thinned into the parchment."
+},
+{
+"speaker": "Ninsun",
+"text": "No,"
+},
+{
+"speaker": "Narrator",
+"text": "she said at last.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Prophecy is written before it happens."
+},
+{
+"speaker": "Narrator",
+"text": "Her eyes lifted to his."
+},
+{
+"speaker": "Ninsun",
+"text": "This is happening."
+},
+{
+"speaker": "Narrator",
+"text": "Neither of them spoke."
+},
+{
+"speaker": "Narrator",
+"text": "The blank pages that followed seemed far more unsettling than the words already written. They stretched on for hundreds of leaves, untouched except for the faint impressions left by the quill resting beside them, as though they had been prepared in advance and had simply been waiting for the story to arrive."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the quill."
+},
+{
+"speaker": "Narrator",
+"text": "It was carved from the same calcified stone that had become part of his hand. The same gray veins ran through it. The same impossible cold seemed to gather around it."
+},
+{
+"speaker": "Zik",
+"text": "I don't think it wants one.",
+"tag": "exhausted",
+"note": "Zik is physically failing (gray spreading). Thinner, effortful, breath breaking through."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun never took her eyes off the open page."
+},
+{
+"speaker": "Ninsun",
+"text": "I think it expects one."
+},
+{
+"speaker": "Narrator",
+"text": "He lowered his gaze to the final line."
+},
+{
+"speaker": "Narrator",
+"text": "Unlike the rest of the entry, it stood alone:"
+},
+{
+"speaker": "Narrator",
+"text": "THE AUTHOR MUST BE CONSUMED.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+}
+]
+}

@@ -1,0 +1,242 @@
+{
+"book": "The First City",
+"chapterKey": "32-the-inventory-of-ghosts",
+"title": "Chapter 32 — The Inventory of Ghosts",
+"chars": 4176,
+"speakers": [
+"Balag",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 32",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Inventory of Ghosts",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The scraping stopped before Zeek could turn."
+},
+{
+"speaker": "Narrator",
+"text": "Whatever the wall had done to his name, it left no mark he could see. The limestone remained smooth where his own account should have been. Only the residual heat under the linen on his palm told him the chisel had finished its first pass."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg was still staring at Ninsun."
+},
+{
+"speaker": "Balag",
+"text": "Who?"
+},
+{
+"speaker": "Narrator",
+"text": "he asked again.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The silence that followed was not empty. It had weight, the particular density of a room holding its breath to see which of them would be the first to disturb it."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's grip on his axe had gone loose. He regarded Ninsun with the polite, distant curiosity reserved for a stranger bumped into in a crowded market—a flicker of acknowledgment, nothing more, no history behind the eyes at all."
+},
+{
+"speaker": "Zik",
+"text": "She's a scholar,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said. The words tasted like ash.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Ninsun. She's been with us since the gate."
+},
+{
+"speaker": "Narrator",
+"text": "He kept his voice level, the way he might speak to a spooked animal, though he was no longer certain whether the effort was for BAH-lahg's benefit or his own."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned. The information seemed to travel a great distance to reach him, losing pieces of itself along the way."
+},
+{
+"speaker": "Balag",
+"text": "No,"
+},
+{
+"speaker": "Narrator",
+"text": "he said slowly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "We were three. You, me, and the knife-woman."
+},
+{
+"speaker": "Narrator",
+"text": "He gestured vaguely toward en-HEH-doo, who watched without reacting, the figurine turning slowly in her hands.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "I don't know who told you to follow us, but you're a liability."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stepped forward and reached for his arm. He flinched away as though her hand carried contagion."
+},
+{
+"speaker": "Balag",
+"text": "Don't."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's mind moved through the cold arithmetic of the situation the way he had once turned over the mechanics of a trap before deciding where to place his foot. If the City had edited BAH-lahg's memory, what exactly had it put in the empty space where Ninsun used to be? A simple blank? Or an alternate history, complete and self-consistent, in which she had never existed and the three of them had always been three?"
+},
+{
+"speaker": "Narrator",
+"text": "The second possibility was worse."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun turned to him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Tell him."
+},
+{
+"speaker": "Zik",
+"text": "I already did."
+},
+{
+"speaker": "Ninsun",
+"text": "Tell him again."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek opened his mouth. For a moment the words would not form. The shape of Ninsun's presence was still there—the scholar who had argued for knowledge over silver, who had copied the map until her fingers stained, who had watched his face as if trying to memorize it—but the specific reasons she belonged with them had begun to soften at the edges, the way a word softens in the mouth right before it is lost."
+},
+{
+"speaker": "Narrator",
+"text": "He stared at her face and felt the absence of a reason even while knowing, with a certainty that had nothing to do with evidence, that there had once been one. The way a man missing a tooth can feel the exact size and shape of the gap without being able to describe the tooth itself."
+},
+{
+"speaker": "Ninsun",
+"text": "Zeek,",
+"tag": "whispers",
+"note": "Whispered."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun whispered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Don't let it count me.",
+"tag": "whispers",
+"note": "Whispered."
+},
+{
+"speaker": "Narrator",
+"text": "The scratching stopped."
+},
+{
+"speaker": "Narrator",
+"text": "Every sound in the chamber vanished with it, all at once, the way a held breath finally lets go."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg turned slowly. en-HEH-doo looked up from the figurine. Zeek felt something move inside BAH-lahg's pack—not shift, not settle, but move, deliberately, the canvas bulging once before subsiding again into stillness."
+},
+{
+"speaker": "Narrator",
+"text": "He reached for the journal."
+},
+{
+"speaker": "Narrator",
+"text": "The words on the page began to change before his eyes, wet ink spreading and reforming with the slow, deliberate patience of a hand that had all the time in the world:"
+},
+{
+"speaker": "Narrator",
+"text": "THREE WERE SENT INTO THE CITY.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "THREE REMAIN.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "He looked at the three people standing around him—BAH-lahg, en-HEH-doo, Ninsun—and then, finally, at himself."
+},
+{
+"speaker": "Narrator",
+"text": "Which of us is not one of the three?",
+"note": "Internal thought; intimate, not voiced aloud."
+},
+{
+"speaker": "Narrator",
+"text": "Something knocked from inside BAH-lahg's pack."
+},
+{
+"speaker": "Narrator",
+"text": "Once."
+},
+{
+"speaker": "Narrator",
+"text": "Twice."
+},
+{
+"speaker": "Narrator",
+"text": "Three times."
+},
+{
+"speaker": "Narrator",
+"text": "Each strike as precise and unhurried as the last."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg reached slowly for the straps, his face gone slack with a curiosity that had no fear in it yet. Zeek grabbed his wrist before he could open it."
+},
+{
+"speaker": "Zik",
+"text": "Don't."
+},
+{
+"speaker": "Balag",
+"text": "Why?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked down at the journal as the final line finished writing itself, the ink drawing out each letter with excruciating deliberation:"
+},
+{
+"speaker": "Narrator",
+"text": "ONE OF YOU WAS NEVER SENT.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "The chamber seemed to contract around them. The walls leaned inward as if to hear better. Ninsun made a small, strangled sound. en-HEH-doo's earlier detachment cracked into something closer to alarm. BAH-lahg's face had gone the color of old ash."
+},
+{
+"speaker": "Narrator",
+"text": "From inside the pack came a fourth knock."
+}
+]
+}

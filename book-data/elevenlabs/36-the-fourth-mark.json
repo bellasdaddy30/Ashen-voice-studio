@@ -1,0 +1,367 @@
+{
+"book": "The First City",
+"chapterKey": "36-the-fourth-mark",
+"title": "Chapter 36 — The Fourth Mark",
+"chars": 5408,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 36",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Fourth Mark",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The left-hand passage opened into a chamber that held a silence so absolute it felt like a physical object—something with weight and edges that had settled into the room ahead of them and simply refused to leave."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek raised the torch."
+},
+{
+"speaker": "Narrator",
+"text": "Two marks already occupied the far wall."
+},
+{
+"speaker": "Narrator",
+"text": "The lower one was nearly erased by centuries until it barely resembled a loop at all—more suggestion than symbol, the way a word worn smooth on a gravestone becomes more shape than language. The middle one was clearer, filled with slime and age, its angles deliberate, as though whoever carved it had learned something from a mistake they could no longer remember making."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stepped closer, fingers hovering above the stone without touching it."
+},
+{
+"speaker": "Ninsun",
+"text": "These are not the incomplete spirals,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "These are attempts."
+},
+{
+"speaker": "Narrator",
+"text": "The journal opened in Zeek's hands before he reached for it."
+},
+{
+"speaker": "Narrator",
+"text": "THIS IS THE THIRD TIME YOU HAVE READ THIS.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "He stared at the line. Then at the two marks. Then at the blank space above them."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stood near the entrance, axe ready.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Whatever you're reading into those scratches, make it quick. The passage we came through is starting to close."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo studied the wall with the remote attention she now gave anything that could not be priced.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Two versions of the same decision. Or two people making the same decision and calling it different names.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek understood what the journal required of him the way he had once understood the price of a trap before placing his foot."
+},
+{
+"speaker": "Narrator",
+"text": "He took out his knife."
+},
+{
+"speaker": "Narrator",
+"text": "The third mark was cut with a kind of desperate precision he recognized in his own aching fingers even as he made it. The lines were cleaner than the oldest attempt, less confident than the middle one. When he stepped back, the three carvings stood in a vertical line: crude, deliberate, desperate."
+},
+{
+"speaker": "Zik",
+"text": "The oldest is the first attempt,"
+},
+{
+"speaker": "Narrator",
+"text": "he said. His voice sounded hollow against the stone.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "The middle one is the second. And the one I just carved—that was supposed to be the third."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's torchlight moved over the stone in slow arcs.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "But the journal said this is the third time you have read this. Not the fourth. The third."
+},
+{
+"speaker": "Narrator",
+"text": "The logic assembled itself with a speed that felt almost cruel."
+},
+{
+"speaker": "Narrator",
+"text": "If the journal claimed this was the third reading, and the wall already held three marks—two older than his own—then either the journal was counting something different from the carvings, or the carvings recorded attempts the journal refused to acknowledge."
+},
+{
+"speaker": "Narrator",
+"text": "Or both."
+},
+{
+"speaker": "Narrator",
+"text": "As they watched, the newest mark began to darken. The pale edges took on the same aged sheen as the middle carving. The stone was absorbing the cut, folding the fresh wound into its history as if the act of carving had never been new."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun tried to copy the oldest mark. The ink refused to hold. The line appeared, then faded, then appeared again in a slightly different shape."
+},
+{
+"speaker": "Ninsun",
+"text": "It's rewriting itself while I watch."
+},
+{
+"speaker": "Narrator",
+"text": "Above Zeek's own mark a fourth position began to form—not a carving yet, only a faint discoloration in the stone, the ghost of a place where something had once been, or would be."
+},
+{
+"speaker": "Zik",
+"text": "There's a fourth,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun followed his gaze.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't see it."
+},
+{
+"speaker": "Zik",
+"text": "Not yet."
+},
+{
+"speaker": "Narrator",
+"text": "The discoloration deepened. A thin line appeared, then another. The shape assembling itself was not a knot. It was something else entirely: a vertical line descending into a small open circle."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's palm burned."
+},
+{
+"speaker": "Narrator",
+"text": "The journal opened again."
+},
+{
+"speaker": "Narrator",
+"text": "THE FOURTH PLACE IS YOURS.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's blood went cold."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked at him, her voice barely above a whisper.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Then whose is the mark already forming?",
+"tag": "whispers",
+"note": "Whispered."
+},
+{
+"speaker": "Narrator",
+"text": "He had no answer that was not another transaction."
+},
+{
+"speaker": "Narrator",
+"text": "The chamber went completely dark."
+},
+{
+"speaker": "Narrator",
+"text": "Not gradually. Not as though the torches had failed. Darkness arrived all at once, as though something had reached into the room and closed a hand around every flame."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek heard Ninsun inhale sharply beside him. The sound seemed unnaturally loud in the sudden absence of light."
+},
+{
+"speaker": "Narrator",
+"text": "Then, somewhere beyond the wall, something knocked."
+},
+{
+"speaker": "Narrator",
+"text": "Three measured blows."
+},
+{
+"speaker": "Narrator",
+"text": "A pause."
+},
+{
+"speaker": "Narrator",
+"text": "Then a fourth."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek tightened his grip on the journal. The leather felt warm beneath his fingers."
+},
+{
+"speaker": "Zik",
+"text": "We need to go."
+},
+{
+"speaker": "Balag",
+"text": "Where?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek couldn't see the wall anymore, but he could still feel it, the way a man knows where a doorway stands in a familiar room even with his eyes closed."
+},
+{
+"speaker": "Zik",
+"text": "The knocking."
+},
+{
+"speaker": "Narrator",
+"text": "No one argued."
+},
+{
+"speaker": "Narrator",
+"text": "They followed the sound because it was the only direction the darkness had left them."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek walked first, one hand sliding along damp stone, the journal pressed beneath his arm. Behind him he heard Ninsun's footsteps falter only once."
+},
+{
+"speaker": "Narrator",
+"text": "Not from fear."
+},
+{
+"speaker": "Narrator",
+"text": "From hesitation."
+},
+{
+"speaker": "Narrator",
+"text": "As though she had already begun wondering whether they had left something unfinished."
+},
+{
+"speaker": "Balag",
+"text": "I'd like it recorded,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "That I objected to following the invisible thing that knocks."
+},
+{
+"speaker": "Enhedu",
+"text": "You didn't object,",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "You raised the torch and went first.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "I objected internally."
+},
+{
+"speaker": "Enhedu",
+"text": "That seems convenient.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "It saves time. Imagine how slow we'd move if I explained every damn sensible thought I had."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo's mouth shifted at one corner.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "I've never had to imagine that.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's thumb crossed the scar in his palm. The pressure behind his eyes had diminished after they left the chamber, though it had not vanished. It waited behind his thoughts like the last note of a struck bell, too low to hear but still present in the bone."
+},
+{
+"speaker": "Narrator",
+"text": "Behind them came the soft mineral sigh of stone settling into stillness."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek resisted the urge to look back."
+},
+{
+"speaker": "Narrator",
+"text": "Somehow he knew the fourth mark remained where they had left it."
+},
+{
+"speaker": "Narrator",
+"text": "Not completed."
+},
+{
+"speaker": "Narrator",
+"text": "Waiting."
+}
+]
+}

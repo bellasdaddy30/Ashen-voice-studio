@@ -1,0 +1,422 @@
+{
+"book": "The First City",
+"chapterKey": "03-the-cracked-strap",
+"title": "Chapter 3 — The Cracked Strap",
+"chars": 5208,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 3",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Cracked Strap",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "By mid-morning the heat had climbed into that dry weight that made thinking feel expensive. One of the donkeys started favoring its left hind leg just after they crossed a stretch of hardpan. BAH-lahg noticed first. He always did."
+},
+{
+"speaker": "Narrator",
+"text": "They stopped in the thin shade of a dead acacia that looked like it had argued with the wind for a century and finally lost. BAH-lahg crouched beside the animal, hands moving down the leg with the careful attention of someone who trusted what his fingers told him more than anything a person might say."
+},
+{
+"speaker": "Balag",
+"text": "Not the leg,"
+},
+{
+"speaker": "Narrator",
+"text": "he muttered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Strap's gone soft. Leather's cracking through."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo squinted at the sun.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Spare?"
+},
+{
+"speaker": "Balag",
+"text": "One. Older than this one."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek dropped his pack and knelt without being asked. He pulled the damaged strap free and turned it over. The leather had dried and split along the stress line where the buckle bit. Not finished yet, but another day of this heat and it would go completely."
+},
+{
+"speaker": "Narrator",
+"text": "He dug out a short length of braided cord and the small bronze awl he kept for quiet failures like this. The others watched while he worked. He scored the cracked section, cut away the worst of the dry edge, drove new holes, then rebound the strap in a tight overlapping pattern that would take the load better than the original leather ever had."
+},
+{
+"speaker": "Narrator",
+"text": "It wasn't pretty. It didn't need to be."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg rolled the repaired strap between his hands, pressing a thumb against every new stitch."
+},
+{
+"speaker": "Balag",
+"text": "You always sew like you're angry."
+},
+{
+"speaker": "Zik",
+"text": "I'm not sewing."
+},
+{
+"speaker": "Balag",
+"text": "No?"
+},
+{
+"speaker": "Zik",
+"text": "I'm arguing with bad leather."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg snorted."
+},
+{
+"speaker": "Balag",
+"text": "The leather's losing."
+},
+{
+"speaker": "Zik",
+"text": "It usually does."
+},
+{
+"speaker": "Narrator",
+"text": "He looped the strap back through the buckle and cinched it tight around the pack frame. The leather creaked in protest but held."
+},
+{
+"speaker": "Balag",
+"text": "Good enough,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "It'll outlive the donkey."
+},
+{
+"speaker": "Balag",
+"text": "The donkey heard that."
+},
+{
+"speaker": "Narrator",
+"text": "As if to object, the animal swung its head toward Zeek and gave a long, offended bray."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo looked up."
+},
+{
+"speaker": "Enhedu",
+"text": "I think it agrees with BAH-lahg."
+},
+{
+"speaker": "Zik",
+"text": "It always agrees with whoever isn't asking it to work."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg scratched the animal behind one ear."
+},
+{
+"speaker": "Balag",
+"text": "You'd complain too if someone expected you to carry half a mountain through the desert."
+},
+{
+"speaker": "Enhedu",
+"text": "I don't complain."
+},
+{
+"speaker": "Balag",
+"text": "You complain constantly."
+},
+{
+"speaker": "Enhedu",
+"text": "I make observations."
+},
+{
+"speaker": "Balag",
+"text": "Very loudly."
+},
+{
+"speaker": "Enhedu",
+"text": "They're important observations."
+},
+{
+"speaker": "Balag",
+"text": "They're mostly about me."
+},
+{
+"speaker": "Enhedu",
+"text": "They're the easiest ones to verify."
+},
+{
+"speaker": "Narrator",
+"text": "For the first time since leaving the tomb, BAH-lahg laughed without forcing it."
+},
+{
+"speaker": "Narrator",
+"text": "The sound caught all three of them by surprise."
+},
+{
+"speaker": "Narrator",
+"text": "It died almost as quickly as it had come."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek busied himself trimming one loose strand from the braided cord."
+},
+{
+"speaker": "Zik",
+"text": "I'd forgotten what that sounded like."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked away."
+},
+{
+"speaker": "Balag",
+"text": "So had I."
+},
+{
+"speaker": "Narrator",
+"text": "The silence returned, but it no longer felt like something pressing on their shoulders. It settled beside them instead."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo picked up the strip of ruined leather and turned it over in her hands."
+},
+{
+"speaker": "Narrator",
+"text": "The crack ran almost perfectly through its center."
+},
+{
+"speaker": "Narrator",
+"text": "She rubbed her thumb along the brittle edge."
+},
+{
+"speaker": "Enhedu",
+"text": "You know why leather fails here?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg shrugged."
+},
+{
+"speaker": "Balag",
+"text": "Because it gets old."
+},
+{
+"speaker": "Enhedu",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "She handed it to Zeek."
+},
+{
+"speaker": "Enhedu",
+"text": "He'll see it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek studied the split."
+},
+{
+"speaker": "Zik",
+"text": "It wasn't the weight."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg folded his arms."
+},
+{
+"speaker": "Balag",
+"text": "Go on."
+},
+{
+"speaker": "Zik",
+"text": "It wasn't the heat either."
+},
+{
+"speaker": "Narrator",
+"text": "He bent the leather gently."
+},
+{
+"speaker": "Zik",
+"text": "See these lighter lines?"
+},
+{
+"speaker": "Narrator",
+"text": "Neither of them answered."
+},
+{
+"speaker": "Zik",
+"text": "It was drying from the inside."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "Leather can do that?"
+},
+{
+"speaker": "Zik",
+"text": "It loses the oils first."
+},
+{
+"speaker": "Balag",
+"text": "The outside still looks fine."
+},
+{
+"speaker": "Zik",
+"text": "Exactly."
+},
+{
+"speaker": "Narrator",
+"text": "He handed the scrap back."
+},
+{
+"speaker": "Zik",
+"text": "It fails long before it looks broken."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo slipped it into her pouch."
+},
+{
+"speaker": "Enhedu",
+"text": "Useful thing to remember."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg raised an eyebrow."
+},
+{
+"speaker": "Balag",
+"text": "For leather?"
+},
+{
+"speaker": "Enhedu",
+"text": "For people."
+},
+{
+"speaker": "Narrator",
+"text": "Neither man argued."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg tested the repair with two hard tugs and grunted.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "It'll hold."
+},
+{
+"speaker": "Zik",
+"text": "Until it doesn't,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Same as everything else."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo reached down, picked up the scrap of ruined leather Zeek had cut away, and slipped it into a pouch at her belt without comment. BAH-lahg noticed."
+},
+{
+"speaker": "Balag",
+"text": "What the hell do you want with that?"
+},
+{
+"speaker": "Enhedu",
+"text": "Waste bothers me."
+},
+{
+"speaker": "Narrator",
+"text": "That was all she offered. She turned the scrap once between her fingers, then left it alone."
+},
+{
+"speaker": "Narrator",
+"text": "They rested longer than the schedule allowed. The animals needed it more than anyone wanted to admit. Zeek sat with his back against the dead tree and took the journal out only long enough to confirm the last page hadn't changed. Three lines. No new ink. He closed it and, for the first time since the tomb, deliberately left it in the pack instead of keeping it against his ribs."
+},
+{
+"speaker": "Narrator",
+"text": "The decision felt small. It also felt like the first thing he had chosen rather than reacted to since the skeleton spoke his name."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg noticed him staring at nothing in particular."
+},
+{
+"speaker": "Balag",
+"text": "You thinking about the Collector?"
+},
+{
+"speaker": "Zik",
+"text": "Thinking about how much silver it takes to keep a mother in medicine and a crew in rope."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg spat into the dust.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Same fucking math again."
+},
+{
+"speaker": "Zik",
+"text": "Always is."
+},
+{
+"speaker": "Narrator",
+"text": "They moved on once the shadow of the acacia had shrunk to nothing useful. The repaired strap held. The donkeys settled into their usual sullen rhythm. The journal stayed in the pack, quiet for once."
+},
+{
+"speaker": "Narrator",
+"text": "Late afternoon the wind shifted and brought the faintest smell of smoke and river mud. Uruk was still a day out, but the desert had started remembering there were cities in the world."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek flexed his left hand inside the linen. The mark was warm again. Not painful. Just present, like a second pulse that hadn't been invited."
+},
+{
+"speaker": "Narrator",
+"text": "He did not check the compass."
+},
+{
+"speaker": "Narrator",
+"text": "He already knew which way it pointed."
+}
+]
+}

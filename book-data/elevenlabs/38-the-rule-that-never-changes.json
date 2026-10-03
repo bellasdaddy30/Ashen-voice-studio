@@ -1,0 +1,1280 @@
+{
+"book": "The First City",
+"chapterKey": "38-the-rule-that-never-changes",
+"title": "Chapter 38 — The Rule That Never Changes",
+"chars": 17750,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"The Remainder",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 38",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Rule That Never Changes",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The corridors breathed faster now."
+},
+{
+"speaker": "Narrator",
+"text": "Earlier, the City's slow, deliberate rhythm had reminded Zeek of an animal asleep beneath the earth, something so vast that each breath took half a minute to complete. That illusion was gone. The inhalations came unevenly now, broken by long pauses and shallow gasps that echoed through the stone. The silence between them had become worse than the sound itself. Every pause carried the expectation that the next breath might never come."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun walked ahead without looking back."
+},
+{
+"speaker": "Narrator",
+"text": "She had stopped trying to hide her exhaustion hours ago. Dust clung to the hem of her robe, and dried blood darkened one sleeve where sharp stone had opened the skin. Yet there was nothing unsteady about her pace. She studied the floor as she moved, holding her torch low enough that its light skimmed across the polished stone instead of disappearing into the darkness overhead."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek followed a few paces behind with the journal tucked beneath one arm. It had remained unnaturally quiet since the chamber of names, and somehow that unsettled him more than its interruptions ever had. The silence felt deliberate, as though the book were waiting for something it already knew would happen."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg broke the silence first."
+},
+{
+"speaker": "Balag",
+"text": "I've had enough of corridors."
+},
+{
+"speaker": "Narrator",
+"text": "No one answered."
+},
+{
+"speaker": "Balag",
+"text": "I'm serious. If I ever get out of this place, I'm building a house with one room. No passages. No bloody hallways. You open the door, there's the room. That's civilized."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo glanced sideways at him."
+},
+{
+"speaker": "Enhedu",
+"text": "And where would you sleep?",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "In the room."
+},
+{
+"speaker": "Enhedu",
+"text": "And where would you cook?",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "The room."
+},
+{
+"speaker": "Narrator",
+"text": "She shook her head."
+},
+{
+"speaker": "Enhedu",
+"text": "You'd burn your own house down.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "Maybe."
+},
+{
+"speaker": "Narrator",
+"text": "He shrugged.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Still sounds better than this."
+},
+{
+"speaker": "Narrator",
+"text": "His voice faded as the passage narrowed."
+},
+{
+"speaker": "Narrator",
+"text": "The walls had changed. Earlier they had been cut with the straight, deliberate lines of worked masonry, but here the stone curved inward in slow, uneven folds. Moisture gathered in shallow depressions and reflected the torchlight in dull patches that looked almost metallic. Every few steps Zeek caught himself studying those reflections, convinced for an instant that something had shifted just beyond the reach of the light."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing ever had."
+},
+{
+"speaker": "Narrator",
+"text": "The pressure behind his eyes returned without warning."
+},
+{
+"speaker": "Narrator",
+"text": "It wasn't pain—not yet. It was the same tightening he had learned to recognize since entering the City, a sensation that began somewhere behind thought itself. Every question he allowed himself to form seemed to brush against it."
+},
+{
+"speaker": "Narrator",
+"text": "What is the fourth place?",
+"note": "Internal thought; intimate, not voiced aloud."
+},
+{
+"speaker": "Narrator",
+"text": "The pressure sharpened."
+},
+{
+"speaker": "Narrator",
+"text": "What happens when—",
+"note": "Internal thought; intimate, not voiced aloud."
+},
+{
+"speaker": "Narrator",
+"text": "He stopped the thought before it reached its end."
+},
+{
+"speaker": "Narrator",
+"text": "Immediately the sensation eased."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun spoke without turning."
+},
+{
+"speaker": "Ninsun",
+"text": "You felt it."
+},
+{
+"speaker": "Zik",
+"text": "Yes."
+},
+{
+"speaker": "Ninsun",
+"text": "It isn't reading your mind."
+},
+{
+"speaker": "Narrator",
+"text": "She let her fingertips trail lightly across the wall as she walked."
+},
+{
+"speaker": "Ninsun",
+"text": "It doesn't care what you know. It cares about the part of you that's still trying to know more."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "That's a ridiculous sentence."
+},
+{
+"speaker": "Ninsun",
+"text": "I know."
+},
+{
+"speaker": "Balag",
+"text": "Then explain it like I'm an idiot."
+},
+{
+"speaker": "Ninsun",
+"text": "You've never touched a hot cooking pot twice."
+},
+{
+"speaker": "Balag",
+"text": "I have."
+},
+{
+"speaker": "Narrator",
+"text": "She looked over her shoulder."
+},
+{
+"speaker": "Ninsun",
+"text": "On purpose?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg hesitated."
+},
+{
+"speaker": "Balag",
+"text": "…No."
+},
+{
+"speaker": "Ninsun",
+"text": "You lost the part of yourself that believed it was worth trying again."
+},
+{
+"speaker": "Narrator",
+"text": "He scratched at his beard."
+},
+{
+"speaker": "Balag",
+"text": "…That's annoyingly sensible."
+},
+{
+"speaker": "Ninsun",
+"text": "It isn't the question that's dangerous,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "It's whatever survives inside you after the answer."
+},
+{
+"speaker": "Narrator",
+"text": "The corridor ended so abruptly that BAH-lahg nearly walked into her."
+},
+{
+"speaker": "Narrator",
+"text": "All four of them stood before a blank wall of black stone."
+},
+{
+"speaker": "Narrator",
+"text": "It was unmistakably the same material they had found beneath the desert months earlier: smooth, almost oily to the touch, without mortar joints or visible tool marks. There was no doorway, no crack, no inscription. Only a single symbol had been carved into its center—a vertical line descending into an open circle."
+},
+{
+"speaker": "Narrator",
+"text": "For several moments no one spoke."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo stepped forward first, lifting her torch until the flame almost touched the carving."
+},
+{
+"speaker": "Enhedu",
+"text": "The cuts are clean.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun crouched without replying. She set her satchel aside and brushed a layer of dust away from the base of the wall with the edge of her sleeve."
+},
+{
+"speaker": "Zik",
+"text": "What are you looking for?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Anything."
+},
+{
+"speaker": "Narrator",
+"text": "She leaned closer."
+},
+{
+"speaker": "Ninsun",
+"text": "The City repeats itself. If this place mattered before we arrived, someone else came here."
+},
+{
+"speaker": "Balag",
+"text": "And if they did?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "They left evidence."
+},
+{
+"speaker": "Narrator",
+"text": "He snorted softly but crouched beside her anyway."
+},
+{
+"speaker": "Narrator",
+"text": "The chamber fell quiet except for the distant breathing that rolled through the stone."
+},
+{
+"speaker": "Narrator",
+"text": "Then Ninsun stopped."
+},
+{
+"speaker": "Ninsun",
+"text": "There."
+},
+{
+"speaker": "Narrator",
+"text": "She wasn't looking at the symbol."
+},
+{
+"speaker": "Narrator",
+"text": "She pointed at the floor."
+},
+{
+"speaker": "Ninsun",
+"text": "There are scratches."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek knelt beside her. At first he saw nothing beyond dust and worn stone. Then the torch shifted, and faint parallel grooves appeared beneath the light."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg ran a thumb across one of them."
+},
+{
+"speaker": "Balag",
+"text": "Dragged."
+},
+{
+"speaker": "Zik",
+"text": "What?"
+},
+{
+"speaker": "Balag",
+"text": "Something heavy."
+},
+{
+"speaker": "Narrator",
+"text": "He studied the grooves for another moment."
+},
+{
+"speaker": "Balag",
+"text": "I've seen marks like these moving limestone blocks."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun brushed away more dust."
+},
+{
+"speaker": "Ninsun",
+"text": "The scratches stop."
+},
+{
+"speaker": "Balag",
+"text": "They reached the wall,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "She swept away another strip of dust."
+},
+{
+"speaker": "Ninsun",
+"text": "They stop before they reach it."
+},
+{
+"speaker": "Narrator",
+"text": "The grooves ended in a perfectly straight line a handspan short of the carved symbol. Beyond that point the stone remained untouched, as smooth as polished glass."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg leaned closer."
+},
+{
+"speaker": "Balag",
+"text": "What difference does that make?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun sat back slowly."
+},
+{
+"speaker": "Ninsun",
+"text": "If they'd abandoned the work, the marks would wander. They'd hesitate. Correct themselves. Whoever made these stopped exactly where they intended."
+},
+{
+"speaker": "Balag",
+"text": "They were interrupted."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Balag",
+"text": "You don't know that."
+},
+{
+"speaker": "Ninsun",
+"text": "I know stone."
+},
+{
+"speaker": "Narrator",
+"text": "She looked up at him."
+},
+{
+"speaker": "Ninsun",
+"text": "And stone remembers."
+},
+{
+"speaker": "Narrator",
+"text": "No one answered."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek found himself staring at the narrow strip of untouched floor between the scratches and the wall. It could not have measured more than a handspan, yet it seemed impossibly wide. Whoever had dragged something here had reached the final distance…and never crossed it."
+},
+{
+"speaker": "Narrator",
+"text": "He wondered why."
+},
+{
+"speaker": "Narrator",
+"text": "The pressure behind his eyes returned instantly."
+},
+{
+"speaker": "Narrator",
+"text": "He drew a slow breath and forced the thought away."
+},
+{
+"speaker": "Narrator",
+"text": "The sensation faded before it became pain."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun noticed."
+},
+{
+"speaker": "Ninsun",
+"text": "It happens sooner now."
+},
+{
+"speaker": "Zik",
+"text": "I wasn't asking anything."
+},
+{
+"speaker": "Ninsun",
+"text": "You were about to."
+},
+{
+"speaker": "Narrator",
+"text": "Silence settled over the chamber again."
+},
+{
+"speaker": "Narrator",
+"text": "The City's breathing seemed slower now, deeper somehow. Zeek couldn't tell whether the sound had actually changed or whether the stillness around them had simply made it easier to hear. The vibration beneath his boots came and went with each distant breath, subtle enough that he might have imagined it."
+},
+{
+"speaker": "Narrator",
+"text": "Then something shifted beneath his arm."
+},
+{
+"speaker": "Narrator",
+"text": "He frowned."
+},
+{
+"speaker": "Narrator",
+"text": "The journal had not slipped."
+},
+{
+"speaker": "Narrator",
+"text": "It had become heavier."
+},
+{
+"speaker": "Narrator",
+"text": "Almost reluctantly, he drew it into both hands."
+},
+{
+"speaker": "Zik",
+"text": "I didn't—"
+},
+{
+"speaker": "Narrator",
+"text": "The leather cover eased open before he could finish speaking."
+},
+{
+"speaker": "Narrator",
+"text": "No hidden mechanism revealed itself. No invisible force tore the pages apart. The journal simply opened to a blank sheet with the quiet certainty of a ledger being consulted by someone who already knew where the next entry belonged."
+},
+{
+"speaker": "Narrator",
+"text": "The parchment remained empty for several heartbeats."
+},
+{
+"speaker": "Narrator",
+"text": "Then dark ink began to rise through the fibers."
+},
+{
+"speaker": "Narrator",
+"text": "None of them moved."
+},
+{
+"speaker": "Narrator",
+"text": "The letters formed themselves with deliberate precision until the first line stood complete."
+},
+{
+"speaker": "Narrator",
+"text": "THE RULE DOES NOT CHANGE.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "Another line emerged beneath it."
+},
+{
+"speaker": "Narrator",
+"text": "YOU ALREADY KNOW WHAT HAPPENS IF YOU ASK.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg took an involuntary step backward."
+},
+{
+"speaker": "Balag",
+"text": "Tell me the rest of you can see that."
+},
+{
+"speaker": "Enhedu",
+"text": "I can,",
+"tag": "whispers",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach. Whispered."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo whispered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun never looked away from the page."
+},
+{
+"speaker": "Ninsun",
+"text": "It isn't answering a question."
+},
+{
+"speaker": "Balag",
+"text": "What is it answering?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Our presence."
+},
+{
+"speaker": "Narrator",
+"text": "She glanced toward the scratches."
+},
+{
+"speaker": "Ninsun",
+"text": "We came looking for an answer. That was enough."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared at the words until they blurred."
+},
+{
+"speaker": "Narrator",
+"text": "They didn't feel like a threat."
+},
+{
+"speaker": "Narrator",
+"text": "They felt like a record."
+},
+{
+"speaker": "Zik",
+"text": "I know,",
+"tag": "whispers",
+"note": "Whispered."
+},
+{
+"speaker": "Narrator",
+"text": "he whispered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The pressure behind his eyes vanished not because he had obeyed, but because something inside the City had acknowledged him."
+},
+{
+"speaker": "Narrator",
+"text": "A low vibration moved through the floor before anyone could speak. It began beneath Zeek's boots and spread outward, passing through the chamber in widening pulses that set dust trembling along the base of the wall. The sound was too deep to hear clearly, but he felt it in his teeth and in the hollow behind his ribs. Above them, stone ground against stone with the slow, deliberate force of something testing its jaw."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked up.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "That sounds bad."
+},
+{
+"speaker": "Enhedu",
+"text": "It is bad,",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "I was trying not to commit us to that conclusion."
+},
+{
+"speaker": "Narrator",
+"text": "The ceiling shifted."
+},
+{
+"speaker": "Narrator",
+"text": "Not far. No more than the width of a finger. Yet fragments of black grit fell across Ninsun's shoulders, and the torch flame narrowed until it became a blue thread. The carved symbol in the wall seemed to deepen as the light failed, its open circle turning into a dark mouth."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun rose quickly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Zeek, close the journal."
+},
+{
+"speaker": "Narrator",
+"text": "He tried."
+},
+{
+"speaker": "Narrator",
+"text": "The cover resisted him."
+},
+{
+"speaker": "Narrator",
+"text": "It was not locked, and nothing visible held it open, but the leather had become rigid beneath his hands. The pages continued to darken around the message, thin veins of ink spreading outward from the words as though the writing had roots."
+},
+{
+"speaker": "Zik",
+"text": "I can't."
+},
+{
+"speaker": "Ninsun",
+"text": "Then drop it."
+},
+{
+"speaker": "Narrator",
+"text": "He loosened his grip. The journal remained against his palms."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stared.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "That is deeply unpleasant."
+},
+{
+"speaker": "Narrator",
+"text": "The vibration increased. Somewhere behind the blank wall, a mechanism began to move with the grinding weight of buried architecture. The sound did not come from one direction. It surrounded them, passing through floor, ceiling, and walls alike until the chamber seemed less like a room than the inside of a machine waking after centuries of neglect."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun seized Zeek's wrist.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What did you answer?"
+},
+{
+"speaker": "Zik",
+"text": "Nothing."
+},
+{
+"speaker": "Ninsun",
+"text": "You said you knew."
+},
+{
+"speaker": "Zik",
+"text": "I do."
+},
+{
+"speaker": "Ninsun",
+"text": "That is not nothing."
+},
+{
+"speaker": "Narrator",
+"text": "The torch went out."
+},
+{
+"speaker": "Narrator",
+"text": "Darkness filled the chamber so completely that Zeek lost all sense of distance. Ninsun's hand remained around his wrist for half a second longer, then slipped away—not pulled, not torn from him, simply absent. The grinding ceased at the same instant, leaving behind a silence so absolute that the sound of his own breathing seemed indecently loud."
+},
+{
+"speaker": "Narrator",
+"text": "A latch lifted somewhere behind him."
+},
+{
+"speaker": "Narrator",
+"text": "The click was small and ordinary. That made it worse."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek did not turn. He could feel the open space at his back where no open space had existed before, a change in the air no wider than a doorway. Cold moved across the nape of his neck. It carried the dry smell of old paper, stone dust, and a faint trace of sweat he recognized as his own."
+},
+{
+"speaker": "The Remainder",
+"text": "Zeek,",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "said a voice near his right shoulder.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "It sounded exactly like him."
+},
+{
+"speaker": "Narrator",
+"text": "His hand found the knife at his belt, though some part of him already knew the blade would be useless. A knife belonged to a world in which flesh could be opened and blood could be spilled. Whatever stood behind him had arrived from somewhere those rules had already failed."
+},
+{
+"speaker": "The Remainder",
+"text": "Do you remember the key?",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "the voice asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek kept his eyes fixed on the darkness where Ninsun had been.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "The answer came too quickly. The thing behind him noticed."
+},
+{
+"speaker": "The Remainder",
+"text": "You remember losing it.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Ninsun",
+"text": "Zeek!"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice broke across the chamber, distant and strained.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Move away from the wall."
+},
+{
+"speaker": "Zik",
+"text": "I'm not near it."
+},
+{
+"speaker": "Ninsun",
+"text": "You're touching it."
+},
+{
+"speaker": "Narrator",
+"text": "He looked down, though there was nothing to see. His free hand hung at his side. The journal was still pressed against the other."
+},
+{
+"speaker": "Zik",
+"text": "I'm not touching anything."
+},
+{
+"speaker": "Narrator",
+"text": "A dull impact sounded somewhere to his left, followed by BAH-lahg swearing."
+},
+{
+"speaker": "Enhedu",
+"text": "Everyone stop moving,",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said. Her voice came from much closer than Ninsun's, though Zeek could not tell whether she stood two steps away or was speaking directly into his ear."
+},
+{
+"speaker": "Enhedu",
+"text": "The floor is changing.",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "The floor is not changing,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg snapped.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "The wall is."
+},
+{
+"speaker": "Enhedu",
+"text": "What wall?",
+"tag": "flatly",
+"note": "Post-vision (Ch.29+): same voice, flattened affect. Even pitch, slower, no reach."
+},
+{
+"speaker": "Balag",
+"text": "The one trying to crush me, damn it."
+},
+{
+"speaker": "Narrator",
+"text": "Their voices overlapped without occupying the same space. Ninsun shouted Zeek's name again, but the sound stretched strangely at the edges, as though the City were pulling her farther away while leaving her words behind."
+},
+{
+"speaker": "Narrator",
+"text": "The voice behind him spoke more softly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Remainder",
+"text": "They cannot see what you see.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "I can't see anything."
+},
+{
+"speaker": "The Remainder",
+"text": "Neither could I, the first time.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek drew the knife."
+},
+{
+"speaker": "Narrator",
+"text": "The sound of steel leaving leather seemed to travel far beyond the chamber. For a moment he heard it repeated in the distance: one blade drawn, then another, then another, each echo slightly later than the last."
+},
+{
+"speaker": "Narrator",
+"text": "The voice gave a tired laugh. It was his laugh, stripped of amusement."
+},
+{
+"speaker": "The Remainder",
+"text": "You still do that.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "Who are you?"
+},
+{
+"speaker": "The Remainder",
+"text": "I am the remainder.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "The words passed through him with the weight of recognition. He did not understand them, yet his body reacted before his mind did. His grip tightened around the knife. His scarred palm began to ache where it pressed against the journal."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun cried out."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek turned toward the sound despite every instinct warning him not to."
+},
+{
+"speaker": "Narrator",
+"text": "A dim gray light had appeared within the chamber, though it came from no torch or opening. It revealed Ninsun several paces away with both hands braced against empty air. Blood ran across her fingers. She shoved with all her strength, teeth clenched, as if holding back a wall only she could feel."
+},
+{
+"speaker": "Ninsun",
+"text": "Help me,"
+},
+{
+"speaker": "Narrator",
+"text": "she gasped.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "It's closing."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stood beyond her, facing another direction entirely. He swung his hammer against the floor, but each blow stopped in midair with a heavy crack, as though striking stone invisible to everyone else. en-HEH-doo was on her knees between them, one hand stretched out before her while the other covered her mouth. Her eyes followed something moving across the ceiling."
+},
+{
+"speaker": "Narrator",
+"text": "They occupied the same chamber and no longer shared it."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder stepped into the gray light."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek saw the outline first: narrow shoulders beneath a torn coat, one arm held close to the body, the posture of a man who had learned to conserve strength because no one was coming to replace it. The face emerged last."
+},
+{
+"speaker": "Narrator",
+"text": "His own face."
+},
+{
+"speaker": "Narrator",
+"text": "Older, though not by years Zeek could count. The cheeks had hollowed. The lips were split. Dust had settled permanently into the lines around the eyes. What disturbed him most was not the resemblance, but the absence of surprise. The figure looked at him with the exhausted patience of someone watching an event recur exactly as expected."
+},
+{
+"speaker": "Zik",
+"text": "You are not me,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Remainder",
+"text": "Not anymore.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder lifted one hand. A scar twisted across the wrist in a jagged knot, identical to the mark Zeek had carved into the stone—or remembered carving, though the memory had become uncertain enough that he no longer trusted its shape."
+},
+{
+"speaker": "Zik",
+"text": "I paid at the gate,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "I gave the City a memory. I gave it the reason I chose Ninsun. I gave it everything it asked for."
+},
+{
+"speaker": "The Remainder",
+"text": "You paid with what you understood.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "What else is there?"
+},
+{
+"speaker": "The Remainder",
+"text": "What you left behind.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder opened its hand."
+},
+{
+"speaker": "Narrator",
+"text": "A small object rested across the palm, shaped from the same calcified black stone as the City's oldest walls. It resembled the carved symbol: a narrow stem ending in an open circle, rough along one edge where it appeared to have been broken from something larger."
+},
+{
+"speaker": "Narrator",
+"text": "A key."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared at it. The pressure behind his eyes returned, but it did not sharpen into pain. It held itself at the threshold, waiting."
+},
+{
+"speaker": "The Remainder",
+"text": "The City does not forgive incomplete transactions,",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "the remainder said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Remainder",
+"text": "You crossed the first gate without understanding the price. Every payment since has postponed collection. Nothing more.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "And you are what it collected?"
+},
+{
+"speaker": "The Remainder",
+"text": "I am what it could not use.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "Behind them, Ninsun screamed as her arms buckled. BAH-lahg shouted for en-HEH-doo, who did not answer. The chamber shifted again—not physically, but in the arrangement of its possibilities. For one instant Zeek saw the wall split into three overlapping shapes: one whole, one collapsing, one already open. Then they merged."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder stepped closer and held out the key."
+},
+{
+"speaker": "The Remainder",
+"text": "Take it.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek did not move.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "What happens to you?"
+},
+{
+"speaker": "The Remainder",
+"text": "You stop asking that question.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "That is not an answer."
+},
+{
+"speaker": "The Remainder",
+"text": "It is the only one the City permits.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "The journal trembled in his hand. Fresh ink rose beneath the earlier message, but the letters formed and erased themselves too quickly to read. The pages seemed to be arguing with one another, revising the moment before it could settle into a single truth."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder's expression tightened. For the first time, impatience broke through the exhaustion."
+},
+{
+"speaker": "The Remainder",
+"text": "Take the damned key, Zeek.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "He looked at the offered object, then at the matching scar on the man's wrist."
+},
+{
+"speaker": "Zik",
+"text": "How long have you been here?"
+},
+{
+"speaker": "Narrator",
+"text": "The remainder glanced toward the blank wall.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Remainder",
+"text": "Long enough to stop measuring.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "That could mean days."
+},
+{
+"speaker": "The Remainder",
+"text": "It could.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "Years?"
+},
+{
+"speaker": "The Remainder",
+"text": "It could.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Zik",
+"text": "Or this has happened before."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder said nothing."
+},
+{
+"speaker": "Narrator",
+"text": "That silence answered him."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice came again, weaker now.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Zeek, please."
+},
+{
+"speaker": "Narrator",
+"text": "He reached out."
+},
+{
+"speaker": "Narrator",
+"text": "The key was colder than stone should have been. The moment it touched his palm, the scar there burned, and the chamber lurched around him. For an instant he stood on both sides of the transaction: receiving the key and surrendering it, arriving and remaining, hearing his own voice ask a question he had already answered."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder closed Zeek's fingers around the object with surprising gentleness."
+},
+{
+"speaker": "The Remainder",
+"text": "Don't make me wait here again.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "A seam of pale light appeared in the wall behind him. It ran from floor to ceiling in a line no wider than a hair, then widened with a sigh of displaced air. The black stone folded inward without hinges, revealing a narrow passage beyond."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stumbled forward as the invisible weight released her. BAH-lahg's hammer struck the floor with enough force to jar it from his hands, while en-HEH-doo collapsed onto one hip and stared at the ceiling as though expecting it to follow."
+},
+{
+"speaker": "Narrator",
+"text": "None of them looked at the remainder."
+},
+{
+"speaker": "Narrator",
+"text": "They could not see him."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun saw the key instead.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Where did you get that?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek glanced toward the figure."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder was already fading into the dark, not vanishing, but becoming less distinct as the new doorway brightened. His face remained visible longest."
+},
+{
+"speaker": "The Remainder",
+"text": "Choose,",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The pressure behind Zeek's eyes flared. The journal snapped shut against his palm, trapping the unfinished writing between its pages."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun reached for him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Zeek."
+},
+{
+"speaker": "Narrator",
+"text": "Beyond the doorway, pale light spilled across a descending stair. Behind him, the City resumed its ragged breathing, each inhale pulling darkness toward the open passage."
+},
+{
+"speaker": "Narrator",
+"text": "The remainder stepped back into that darkness."
+},
+{
+"speaker": "The Remainder",
+"text": "The City is a much worse artist than you are,",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Remainder",
+"text": "It doesn't understand mercy. It only understands completion.",
+"tag": "exhausted",
+"note": "Zik's own voice, worn and roughened by disuse. Exhausted patience."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek closed his hand around the key."
+}
+]
+}

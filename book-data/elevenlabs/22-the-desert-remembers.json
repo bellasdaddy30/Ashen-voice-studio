@@ -1,0 +1,225 @@
+{
+"book": "The First City",
+"chapterKey": "22-the-desert-remembers",
+"title": "Chapter 22 — The Desert Remembers",
+"chars": 4079,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 22",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Desert Remembers",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The first three days were almost ordinary."
+},
+{
+"speaker": "Narrator",
+"text": "The desert remained what it had always been: heat that baked thought into dust, wind that found every seam in clothing, and long stretches of nothing that made a man question every choice that had brought him there. The dunes looked frozen in the act of becoming waves. Wind had carved ribs into the sand where forgotten roads once ran. Zeek had crossed enough of it to know that ordinary did not mean safe. It only meant nothing had decided to kill them yet."
+},
+{
+"speaker": "Narrator",
+"text": "They rode in a loose line. BAH-lahg led the donkeys, muttering the old wards his grandfather had taught him whenever the wind shifted. en-HEH-doo rode ahead, watching the horizon the way a thief watches a locked door. Ninsun kept to the middle, writing whenever they stopped. Zeek brought up the rear, the journal heavy against his ribs and the mark on his palm itching worse with every mile."
+},
+{
+"speaker": "Narrator",
+"text": "On the second night, around a small fire, the friction that had been simmering since the gate finally surfaced."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun spread three scraps of parchment across her knees.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "We should be documenting everything. The map, the symbol, the exact location of the first chamber, the way the writing changes. This knowledge could alter how the entire region is understood."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek was checking a donkey's strap.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "We document what sells. The rest is weight."
+},
+{
+"speaker": "Ninsun",
+"text": "That is an astonishingly small way to look at the world."
+},
+{
+"speaker": "Zik",
+"text": "It's a practical way."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg poked the fire.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Some things should stay buried. My grandfather said the deep desert doesn't forget. It just waits for someone stupid enough to remind it."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo's voice came from the shadows.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Then we remind it with a sharp knife and a heavier purse. Knowledge is a weapon. Stop treating it like a sacred relic."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked at her.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "You say that like you've ever learned anything you couldn't sell."
+},
+{
+"speaker": "Enhedu",
+"text": "I've learned plenty of things I couldn't sell."
+},
+{
+"speaker": "Balag",
+"text": "Name one."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo considered, then smiled without warmth.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg gave a short nod, as if the answer confirmed something he had already decided.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Thought so."
+},
+{
+"speaker": "Narrator",
+"text": "The silence that followed was sharper than the argument."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun shook her head.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "You are all impossible."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said nothing. The argument was older than any of them; it had simply found new mouths."
+},
+{
+"speaker": "Narrator",
+"text": "The third day brought the first wrong thing."
+},
+{
+"speaker": "Narrator",
+"text": "They found an old well just before dusk—an ancient ring of stone half-buried in sand, the remains of a road running past it toward nowhere. Footprints led to the edge and stopped. None led away."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg circled it twice before approaching.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Someone's used it recently."
+},
+{
+"speaker": "Narrator",
+"text": "While the others examined the tracks, he crouched at the rim, took a small carved bead from a pouch at his belt, and set it carefully on the stones. No one commented. Later, when Ninsun asked why, he only said,"
+},
+{
+"speaker": "Balag",
+"text": "Payment."
+},
+{
+"speaker": "Narrator",
+"text": "When she asked to whom, he answered,",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Exactly."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked down the shaft. The darkness was deeper than the angle of the sun allowed. He lowered the bucket. The rope paid out far longer than the depth should have permitted. When the bucket finally struck water the sound that came back was wrong—hollow, delayed, almost like an answer."
+},
+{
+"speaker": "Narrator",
+"text": "They drank. The water was warm, yet it tasted of iron and cold stone, as though it had never seen sunlight."
+},
+{
+"speaker": "Narrator",
+"text": "That night the donkeys refused to graze. Both animals stood rigid, ears pointed toward the same empty stretch of dark. en-HEH-doo was the first to speak."
+},
+{
+"speaker": "Enhedu",
+"text": "Did anyone hear that?"
+},
+{
+"speaker": "Narrator",
+"text": "No one had. The donkeys had."
+},
+{
+"speaker": "Narrator",
+"text": "A thin line appeared in the sand several paces beyond the firelight, moving slowly toward the camp as if something beneath the surface were dragging a finger across the desert. It stopped. The mark on Zeek's palm went cold. Then the line vanished."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg got the animals under control.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "We leave at first light."
+},
+{
+"speaker": "Narrator",
+"text": "No one disagreed."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek sat apart with the journal. The page he had left blank was no longer blank. A single line had appeared in a hand that was not his father's and not quite his own:"
+},
+{
+"speaker": "Narrator",
+"text": "NOT YET.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "He closed the book before anything else could form."
+},
+{
+"speaker": "Narrator",
+"text": "Somewhere beyond the firelight the desert shifted, patient and vast, as if it had only just remembered their names."
+}
+]
+}

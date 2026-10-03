@@ -1,0 +1,1275 @@
+{
+"book": "The First City",
+"chapterKey": "05-the-price-of-dust",
+"title": "Chapter 5 — The Price of Dust",
+"chars": 15785,
+"speakers": [
+"Apprentice Boy",
+"Balag",
+"Bel-iddin",
+"Enhedu",
+"Narrator",
+"Old Scribe",
+"The Collector",
+"Zik",
+"Zik's Mother"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 5",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Price of Dust",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The streets of Uruk-Under-the-Sun stank of sweat, spiced lamb, hot dust, and the particular desperation that came with the end of the month. Zeek preferred it that way. In a city this loud, a man could think without being overheard."
+},
+{
+"speaker": "Narrator",
+"text": "Merchants shouted over one another beneath patched awnings. Donkeys pushed through the crowd with the confidence of creatures that had never once considered whether anyone else had somewhere to be. Children slipped between adult legs. Smoke from cooking fires drifted low, carrying the smell of roasted meat and burning oil. Somewhere nearby a woman was screaming at a man who had either stolen from her or married her. Zeek did not stop to find out which."
+},
+{
+"speaker": "Narrator",
+"text": "He moved through the market with his father's journal tucked against his ribs and the brass compass heavy in his pouch. The mark on his palm itched beneath the linen wrapping, a hot, persistent irritation that had followed him out of the tomb and refused every ordinary explanation. The third time he checked it, the shape matched the symbol on the dead king's crown exactly. He decided not to look again."
+},
+{
+"speaker": "Narrator",
+"text": "That was how he handled most problems. If something refused to make sense, he gave it time to become someone else's problem."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg and en-HEH-doo kept a respectful distance behind him. Neither had asked what he found in the tomb. Neither had asked why he went pale when he opened the journal. They had both noticed, of course. BAH-lahg noticed everything that might kill him. en-HEH-doo noticed everything that might make her rich."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector waited in the back room of a wine shop that pretended to be respectable. The front room was crowded with merchants drinking watered wine beneath a faded painted sign of a smiling woman holding a cup. The woman had lost most of her face to age and smoke, but the smile remained. Zeek had always thought that was a fair summary of the city."
+},
+{
+"speaker": "Narrator",
+"text": "He pushed through the curtain at the back."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector looked up from his ledger. He was a narrow man with a narrow face, a narrow beard, and the sort of eyes that made people check whether their purses were still attached. His name had been forgotten by nearly everyone who dealt with him. That was deliberate. A man who bought stolen antiquities for a living had no use for a name people could remember."
+},
+{
+"speaker": "The Collector",
+"text": "You're late,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek dropped a small leather sack onto the table. It landed with a dull clatter.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "You're alive."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector glanced at the sack, then back at him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "I was beginning to worry."
+},
+{
+"speaker": "Zik",
+"text": "That's unlike you."
+},
+{
+"speaker": "The Collector",
+"text": "It isn't."
+},
+{
+"speaker": "Narrator",
+"text": "He opened the sack and began removing the contents one piece at a time: beads, a cylinder seal, two unbroken oil lamps, and a handful of minor bronze pieces that would fetch more than they deserved from the right buyer."
+},
+{
+"speaker": "The Collector",
+"text": "You usually arrive with four men."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said nothing."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector's fingers paused over the cylinder seal.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "You're missing one."
+},
+{
+"speaker": "Zik",
+"text": "KOO-rash got greedy."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector looked up."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek shrugged.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "The desert is full of traps. You know how it is."
+},
+{
+"speaker": "The Collector",
+"text": "Yes."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector turned the seal over in his fingers.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "The desert is famously responsible for the poor decisions of men."
+},
+{
+"speaker": "Zik",
+"text": "That one was."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector's eyes moved toward Zeek's left hand.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "One less share means more for you."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek smiled the way a man smiled when he was holding a knife behind his back.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "That's how the world works."
+},
+{
+"speaker": "The Collector",
+"text": "Is it?"
+},
+{
+"speaker": "Zik",
+"text": "Everything has a price."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector's smile was thin.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "The Collector",
+"text": "You sound like your father."
+},
+{
+"speaker": "Narrator",
+"text": "The room seemed to become a little smaller."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek kept his face still.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Then you should know better than to insult me."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector chuckled and returned his attention to the finds."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector held up one of the bronze pieces between two fingers."
+},
+{
+"speaker": "The Collector",
+"text": "Corrosion."
+},
+{
+"speaker": "Zik",
+"text": "It's three thousand years old."
+},
+{
+"speaker": "The Collector",
+"text": "So it is."
+},
+{
+"speaker": "Zik",
+"text": "You expected polish?"
+},
+{
+"speaker": "The Collector",
+"text": "I expected better preservation."
+},
+{
+"speaker": "Zik",
+"text": "It survived three thousand years."
+},
+{
+"speaker": "The Collector",
+"text": "It barely survived you."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek leaned one hand against the table."
+},
+{
+"speaker": "Zik",
+"text": "You've already decided who you're selling it to."
+},
+{
+"speaker": "The Collector",
+"text": "I've considered possibilities."
+},
+{
+"speaker": "Zik",
+"text": "Temple collector."
+},
+{
+"speaker": "The Collector",
+"text": "No."
+},
+{
+"speaker": "Zik",
+"text": "Foreign merchant."
+},
+{
+"speaker": "The Collector",
+"text": "No."
+},
+{
+"speaker": "Zik",
+"text": "Noble trying to impress a second wife."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector smiled."
+},
+{
+"speaker": "The Collector",
+"text": "Closer."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek nodded toward the bronze."
+},
+{
+"speaker": "Zik",
+"text": "Then stop pretending it's worthless."
+},
+{
+"speaker": "The Collector",
+"text": "It is worthless."
+},
+{
+"speaker": "Zik",
+"text": "You just called it desirable."
+},
+{
+"speaker": "The Collector",
+"text": "I called the buyer foolish."
+},
+{
+"speaker": "Zik",
+"text": "That's a valuable distinction."
+},
+{
+"speaker": "Narrator",
+"text": "The Collector reached for the cylinder seal instead."
+},
+{
+"speaker": "The Collector",
+"text": "This one I like."
+},
+{
+"speaker": "Zik",
+"text": "I know."
+},
+{
+"speaker": "The Collector",
+"text": "Unfortunately."
+},
+{
+"speaker": "Zik",
+"text": "So you'll pay for it."
+},
+{
+"speaker": "The Collector",
+"text": "I'll pay enough."
+},
+{
+"speaker": "Zik",
+"text": "You'll pay honestly."
+},
+{
+"speaker": "The Collector",
+"text": "I've never done that."
+},
+{
+"speaker": "Zik",
+"text": "I know."
+},
+{
+"speaker": "Narrator",
+"text": "They haggled for nearly twenty minutes, which meant the Collector offered half of what the objects were worth and Zeek threatened to take them elsewhere without ever naming another buyer. Neither of them believed the other. That was the entire point."
+},
+{
+"speaker": "Narrator",
+"text": "In the end Zeek walked away with enough silver to keep his mother in medicine for another month, enough coin to replace the supplies lost in the desert, and enough lies to keep the Collector from asking the questions that mattered."
+},
+{
+"speaker": "Narrator",
+"text": "He was almost through the front room when the Collector spoke again."
+},
+{
+"speaker": "The Collector",
+"text": "Zee-keer."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stopped. The Collector had not used his full name in years."
+},
+{
+"speaker": "Narrator",
+"text": "He turned slowly. The Collector was still sitting behind the table, one hand resting on the open ledger. His gaze had returned to Zeek's palm."
+},
+{
+"speaker": "The Collector",
+"text": "Where did you get that?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked down at his hand. The linen concealed the mark completely."
+},
+{
+"speaker": "Zik",
+"text": "What?"
+},
+{
+"speaker": "Narrator",
+"text": "The Collector's eyes narrowed."
+},
+{
+"speaker": "The Collector",
+"text": "Nothing."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek held his stare for another second, then turned and walked out. He did not hurry. Hurrying suggested guilt."
+},
+{
+"speaker": "Narrator",
+"text": "He waited until he was three streets away before checking the wrapping. The linen was still tied exactly as he had left it. Beneath it, the mark was warm."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo caught up with him near the Street of Scribes. She moved through the crowd like a knife through cloth, slipping between merchants and customers without apologizing to either. She was smaller than BAH-lahg and far less imposing, but people moved out of her way more quickly. Zeek had never decided whether that was because of the knife at her hip or because of the expression she wore when someone did not."
+},
+{
+"speaker": "Enhedu",
+"text": "You kept the good stuff,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Always do."
+},
+{
+"speaker": "Enhedu",
+"text": "That wasn't an accusation."
+},
+{
+"speaker": "Zik",
+"text": "It sounded like one."
+},
+{
+"speaker": "Enhedu",
+"text": "Then you should have heard the version I didn't say."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek kept walking. The Street of Scribes opened ahead of them, narrower and quieter than the main market. Clay tablets sat in neat rows beneath awnings, covered in the wedge marks of contracts, inventories, prayers, and curses—the kind of writing that turned ownership into something people could pretend was natural."
+},
+{
+"speaker": "Narrator",
+"text": "A line of apprentices sat cross-legged outside one of the scriptoria, each with a damp clay tablet balanced on a board across their knees. A gray-bearded instructor drifted slowly behind them with a reed cane tucked beneath one arm. He didn't strike anyone with it. He simply reached over shoulders, erased wedges with a wet thumb, and made the students begin again."
+},
+{
+"speaker": "Narrator",
+"text": "One boy looked up as Zeek passed."
+},
+{
+"speaker": "Apprentice Boy",
+"text": "Master Zee-keer."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stopped."
+},
+{
+"speaker": "Narrator",
+"text": "The boy couldn't have been older than twelve. His fingertips were stained gray with clay, and one side of his face carried the unmistakable imprint of having fallen asleep on a tablet."
+},
+{
+"speaker": "Zik",
+"text": "I know you?"
+},
+{
+"speaker": "Apprentice Boy",
+"text": "No, Master."
+},
+{
+"speaker": "Narrator",
+"text": "The title still sounded strange."
+},
+{
+"speaker": "Apprentice Boy",
+"text": "But my instructor does."
+},
+{
+"speaker": "Narrator",
+"text": "The old scribe finally looked over, squinting against the afternoon light."
+},
+{
+"speaker": "Narrator",
+"text": "Recognition came slowly."
+},
+{
+"speaker": "Old Scribe",
+"text": "…BAYL-ID-din's son."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek inclined his head."
+},
+{
+"speaker": "Zik",
+"text": "I am."
+},
+{
+"speaker": "Narrator",
+"text": "The old man studied him for a long moment."
+},
+{
+"speaker": "Old Scribe",
+"text": "I thought you'd left archaeology."
+},
+{
+"speaker": "Zik",
+"text": "I've thought the same thing."
+},
+{
+"speaker": "Narrator",
+"text": "That earned the faintest twitch at the corner of the scribe's mouth."
+},
+{
+"speaker": "Old Scribe",
+"text": "He used to stand exactly there."
+},
+{
+"speaker": "Narrator",
+"text": "The old man pointed to a worn patch of paving stones outside the school."
+},
+{
+"speaker": "Old Scribe",
+"text": "Every market day."
+},
+{
+"speaker": "Zik",
+"text": "My father?"
+},
+{
+"speaker": "Old Scribe",
+"text": "He'd argue with anyone willing to waste an afternoon."
+},
+{
+"speaker": "Zik",
+"text": "What about?"
+},
+{
+"speaker": "Narrator",
+"text": "The old man snorted."
+},
+{
+"speaker": "Old Scribe",
+"text": "What didn't he argue about?"
+},
+{
+"speaker": "Narrator",
+"text": "He leaned more heavily on his cane."
+},
+{
+"speaker": "Old Scribe",
+"text": "Mostly history."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo folded her arms."
+},
+{
+"speaker": "Enhedu",
+"text": "History?"
+},
+{
+"speaker": "Old Scribe",
+"text": "He claimed scribes lied."
+},
+{
+"speaker": "Bel-iddin",
+"text": "I never said that.",
+"note": "The old scribe imitating Bel-iddin so precisely Zik almost turns. Use Bel-iddin's voice, a little rougher."
+},
+{
+"speaker": "Narrator",
+"text": "The old man's voice shifted effortlessly into a rough imitation."
+},
+{
+"speaker": "Bel-iddin",
+"text": "Scribes don't lie. They simply decide which truths survive.",
+"note": "The old scribe imitating Bel-iddin so precisely Zik almost turns. Use Bel-iddin's voice, a little rougher."
+},
+{
+"speaker": "Narrator",
+"text": "The imitation was so precise that Zeek almost turned, expecting to find his father standing beside him."
+},
+{
+"speaker": "Narrator",
+"text": "Instead there was only the old man."
+},
+{
+"speaker": "Zik",
+"text": "He said that often?"
+},
+{
+"speaker": "Old Scribe",
+"text": "Often enough that I stopped inviting him inside."
+},
+{
+"speaker": "Zik",
+"text": "What happened?"
+},
+{
+"speaker": "Old Scribe",
+"text": "He disappeared."
+},
+{
+"speaker": "Narrator",
+"text": "The old scribe shrugged."
+},
+{
+"speaker": "Old Scribe",
+"text": "Before that, he stopped smiling."
+},
+{
+"speaker": "Narrator",
+"text": "Silence settled over the narrow street."
+},
+{
+"speaker": "Narrator",
+"text": "One of the apprentices finally dared to ask,"
+},
+{
+"speaker": "Apprentice Boy",
+"text": "Master…"
+},
+{
+"speaker": "Narrator",
+"text": "The old scribe waved him quiet without looking away from Zeek."
+},
+{
+"speaker": "Old Scribe",
+"text": "I always wondered whether he'd found what he was looking for."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek rested a hand against the journal hidden beneath his tunic."
+},
+{
+"speaker": "Zik",
+"text": "So do I."
+},
+{
+"speaker": "Narrator",
+"text": "The old man nodded once."
+},
+{
+"speaker": "Old Scribe",
+"text": "If you discover the answer…"
+},
+{
+"speaker": "Narrator",
+"text": "His eyes drifted toward the crowded street beyond."
+},
+{
+"speaker": "Old Scribe",
+"text": "…write it down before someone important changes it."
+},
+{
+"speaker": "Narrator",
+"text": "Without another word he turned back to his students."
+},
+{
+"speaker": "Old Scribe",
+"text": "Again."
+},
+{
+"speaker": "Narrator",
+"text": "A chorus of groans rose from the apprentices as fresh tablets were passed out."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg waited until they had walked half the length of the street before speaking."
+},
+{
+"speaker": "Balag",
+"text": "I liked him."
+},
+{
+"speaker": "Zik",
+"text": "You don't know him."
+},
+{
+"speaker": "Balag",
+"text": "I know anyone who annoys scribes that much can't be all bad."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo glanced sideways at Zeek."
+},
+{
+"speaker": "Enhedu",
+"text": "He sounded like your father."
+},
+{
+"speaker": "Zik",
+"text": "He did."
+},
+{
+"speaker": "Enhedu",
+"text": "You smiled."
+},
+{
+"speaker": "Zik",
+"text": "I did?"
+},
+{
+"speaker": "Enhedu",
+"text": "For half a heartbeat."
+},
+{
+"speaker": "Zik",
+"text": "I'll try not to make a habit of it."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo walked beside him now."
+},
+{
+"speaker": "Enhedu",
+"text": "That room didn't want us there."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's expression did not change."
+},
+{
+"speaker": "Enhedu",
+"text": "And it especially didn't want you."
+},
+{
+"speaker": "Zik",
+"text": "Desert tricks."
+},
+{
+"speaker": "Enhedu",
+"text": "That's what you said before."
+},
+{
+"speaker": "Zik",
+"text": "Sand, heat, imagination."
+},
+{
+"speaker": "Enhedu",
+"text": "You forgot the dead king."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stopped walking."
+},
+{
+"speaker": "Narrator",
+"text": "For a moment the noise of the market seemed to press in around them."
+},
+{
+"speaker": "Zik",
+"text": "Who told you?"
+},
+{
+"speaker": "Enhedu",
+"text": "Nobody."
+},
+{
+"speaker": "Zik",
+"text": "Then how do you know?"
+},
+{
+"speaker": "Enhedu",
+"text": "Because you came out of that tomb looking like a man who couldn't stab what he had seen."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared at her."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo shrugged.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "It's a distinctive expression."
+},
+{
+"speaker": "Narrator",
+"text": "He started walking again. She followed. Neither of them mentioned the dead king after that."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's mother's house was a single cramped room above a potter's kiln. The heat never left. Even after sunset the walls radiated the day's warmth into the room, and the air smelled faintly of smoke, clay, and the bitter medicinal herbs his mother had begun boiling more often than she admitted."
+},
+{
+"speaker": "Narrator",
+"text": "She was thinner than she had been the week before. Zeek noticed it immediately. He always noticed."
+},
+{
+"speaker": "Narrator",
+"text": "She sat on her pallet beside the small window, wrapped in a faded shawl despite the heat. Her skin had taken on the dry, papery quality of old parchment, and the hollows beneath her eyes had deepened."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek set the medicine pouch beside her."
+},
+{
+"speaker": "Zik",
+"text": "This should last you another month."
+},
+{
+"speaker": "Narrator",
+"text": "His mother looked at the pouch, then at him.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik's Mother",
+"text": "You found something."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek removed his cloak.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "I found enough."
+},
+{
+"speaker": "Zik's Mother",
+"text": "That's not what I said."
+},
+{
+"speaker": "Zik",
+"text": "It is what I answered."
+},
+{
+"speaker": "Narrator",
+"text": "She reached for his hand."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek moved before he thought about it."
+},
+{
+"speaker": "Narrator",
+"text": "Her fingers closed around his wrist instead. For one terrible second neither of them moved. Her hand was cold. His skin beneath the linen was burning."
+},
+{
+"speaker": "Narrator",
+"text": "His mother looked down at the wrapping, then up at him."
+},
+{
+"speaker": "Zik's Mother",
+"text": "You look like your father when he came back from that last trip."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek gently pulled his arm free.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "That's unfortunate."
+},
+{
+"speaker": "Zik's Mother",
+"text": "Same eyes."
+},
+{
+"speaker": "Zik",
+"text": "People have eyes."
+},
+{
+"speaker": "Zik's Mother",
+"text": "Same lie."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek turned toward the window. Outside, the city was settling into evening. Lamps appeared one by one along the streets. Voices drifted upward from below, blurred by the heat."
+},
+{
+"speaker": "Zik",
+"text": "I'm not him."
+},
+{
+"speaker": "Narrator",
+"text": "His mother was quiet for a while."
+},
+{
+"speaker": "Zik's Mother",
+"text": "No,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik's Mother",
+"text": "You never were."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked back at her."
+},
+{
+"speaker": "Narrator",
+"text": "She had turned toward the wall."
+},
+{
+"speaker": "Zik's Mother",
+"text": "He believed some things should stay buried."
+},
+{
+"speaker": "Narrator",
+"text": "The words sat between them."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek touched the journal beneath his tunic.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "You think he was wrong?"
+},
+{
+"speaker": "Narrator",
+"text": "His mother did not answer immediately. When she did, her voice was soft."
+},
+{
+"speaker": "Zik's Mother",
+"text": "I think your father believed that knowing gave him the right to touch it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said nothing."
+},
+{
+"speaker": "Narrator",
+"text": "She coughed into her sleeve. The sound was small, but it seemed to fill the entire room."
+},
+{
+"speaker": "Zik's Mother",
+"text": "That's not the same as being brave,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked away."
+},
+{
+"speaker": "Narrator",
+"text": "He left without answering her. He never did."
+},
+{
+"speaker": "Narrator",
+"text": "That night he sat on the roof above the kiln with the journal open in his lap. Uruk stretched beneath him in layers of firelight and shadow. The city was beautiful from above, if a person was willing to ignore the smoke, the sewage, the screaming, and the fact that most of its wealth had been built by people who had never been allowed to keep any of it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek pulled out his own compass and set it beside his father's. His pointed north. His father's pointed straight down."
+},
+{
+"speaker": "Narrator",
+"text": "The needle trembled inside its brass housing as if it were trying to drill through the roof."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek frowned."
+},
+{
+"speaker": "Narrator",
+"text": "Broken things usually behaved more honestly than this."
+},
+{
+"speaker": "Narrator",
+"text": "He set both compasses on the roof tiles side by side."
+},
+{
+"speaker": "Narrator",
+"text": "His own settled almost immediately."
+},
+{
+"speaker": "Narrator",
+"text": "North."
+},
+{
+"speaker": "Narrator",
+"text": "Steady."
+},
+{
+"speaker": "Narrator",
+"text": "Predictable."
+},
+{
+"speaker": "Narrator",
+"text": "His father's wandered in a slow uncertain circle before dropping once more toward the earth beneath the city."
+},
+{
+"speaker": "Narrator",
+"text": "He rotated them together."
+},
+{
+"speaker": "Narrator",
+"text": "North remained north."
+},
+{
+"speaker": "Narrator",
+"text": "The other ignored the movement completely."
+},
+{
+"speaker": "Narrator",
+"text": "He turned them again."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing."
+},
+{
+"speaker": "Narrator",
+"text": "The second compass refused every rule that made a compass worth carrying."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek picked it up and listened."
+},
+{
+"speaker": "Narrator",
+"text": "No loose weight."
+},
+{
+"speaker": "Narrator",
+"text": "No broken pivot."
+},
+{
+"speaker": "Narrator",
+"text": "The needle moved too smoothly for damage."
+},
+{
+"speaker": "Narrator",
+"text": "He held it beside the brass buckle on his pack."
+},
+{
+"speaker": "Narrator",
+"text": "No change."
+},
+{
+"speaker": "Narrator",
+"text": "Beside his knife."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing."
+},
+{
+"speaker": "Narrator",
+"text": "He fished one of the bronze beads from the leather pouch he'd kept hidden from the Collector."
+},
+{
+"speaker": "Narrator",
+"text": "Still nothing."
+},
+{
+"speaker": "Narrator",
+"text": "He tried the cylinder seal."
+},
+{
+"speaker": "Narrator",
+"text": "The needle quivered for barely an instant before sinking downward again."
+},
+{
+"speaker": "Zik",
+"text": "Hm."
+},
+{
+"speaker": "Narrator",
+"text": "That was interesting."
+},
+{
+"speaker": "Narrator",
+"text": "Not useful."
+},
+{
+"speaker": "Narrator",
+"text": "Interesting."
+},
+{
+"speaker": "Narrator",
+"text": "He opened the journal and laid it beside the compass."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing happened."
+},
+{
+"speaker": "Narrator",
+"text": "He slid the book farther away."
+},
+{
+"speaker": "Narrator",
+"text": "Still nothing."
+},
+{
+"speaker": "Narrator",
+"text": "His fingers drummed absently against the linen wrapped around his left hand."
+},
+{
+"speaker": "Narrator",
+"text": "The mark beneath it burned faintly."
+},
+{
+"speaker": "Narrator",
+"text": "Without thinking, he rested that hand beside the compass."
+},
+{
+"speaker": "Narrator",
+"text": "The needle twitched."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek froze."
+},
+{
+"speaker": "Narrator",
+"text": "Very slowly, he lowered his palm."
+},
+{
+"speaker": "Narrator",
+"text": "The brass needle climbed."
+},
+{
+"speaker": "Narrator",
+"text": "Not toward north."
+},
+{
+"speaker": "Narrator",
+"text": "Toward him."
+},
+{
+"speaker": "Narrator",
+"text": "It stopped directly beneath the center of his wrapped hand."
+},
+{
+"speaker": "Narrator",
+"text": "His pulse quickened."
+},
+{
+"speaker": "Narrator",
+"text": "He lifted his hand."
+},
+{
+"speaker": "Narrator",
+"text": "The needle dropped."
+},
+{
+"speaker": "Narrator",
+"text": "He lowered it again."
+},
+{
+"speaker": "Narrator",
+"text": "The same result."
+},
+{
+"speaker": "Narrator",
+"text": "Again."
+},
+{
+"speaker": "Narrator",
+"text": "The same."
+},
+{
+"speaker": "Narrator",
+"text": "He unwrapped one corner of the linen just enough to expose the edge of the black spiral burned into his skin."
+},
+{
+"speaker": "Narrator",
+"text": "The mark pulsed."
+},
+{
+"speaker": "Narrator",
+"text": "The compass answered."
+},
+{
+"speaker": "Narrator",
+"text": "The needle snapped upward so violently it struck the inside of the glass with a tiny metallic click."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared."
+},
+{
+"speaker": "Narrator",
+"text": "He wrapped the linen back over the mark immediately."
+},
+{
+"speaker": "Narrator",
+"text": "The needle drifted downward once more, settling toward the stone beneath the house as though nothing unusual had happened."
+},
+{
+"speaker": "Narrator",
+"text": "He sat motionless."
+},
+{
+"speaker": "Narrator",
+"text": "Whatever his father had been searching for…"
+},
+{
+"speaker": "Narrator",
+"text": "the compass no longer believed it was merely buried."
+},
+{
+"speaker": "Narrator",
+"text": "It believed part of it was sitting on the roof."
+},
+{
+"speaker": "Narrator",
+"text": "He told himself it was broken. He almost believed it."
+},
+{
+"speaker": "Narrator",
+"text": "The journal lay open beside him. He had not read the new lines again. He had read them enough."
+},
+{
+"speaker": "Bel-iddin",
+"text": "IF YOU FIND THIS, DO NOT LOOK FOR ME.",
+"note": "Recalled journal lines in Bel-iddin's hand."
+},
+{
+"speaker": "Bel-iddin",
+"text": "FIND THE CITY.",
+"note": "Recalled journal lines in Bel-iddin's hand."
+},
+{
+"speaker": "Narrator",
+"text": "He had spent twelve years looking for his father. Now, apparently, his father had spent at least some portion of those twelve years trying to make sure he was not found."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek closed the journal."
+},
+{
+"speaker": "Narrator",
+"text": "The mark beneath the linen pulsed once. He froze."
+},
+{
+"speaker": "Narrator",
+"text": "The compass needle moved."
+},
+{
+"speaker": "Narrator",
+"text": "Not toward north. Not toward the ground. For a single instant it pointed toward the journal. Then it spun and settled downward again."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared at it."
+},
+{
+"speaker": "Narrator",
+"text": "Below him, somewhere deep beneath the city, there was a sound. It was not loud. It was not even clearly a sound. More like a pressure moving through stone."
+},
+{
+"speaker": "Narrator",
+"text": "The roof beneath Zeek's hand gave a faint vibration. He remained perfectly still."
+},
+{
+"speaker": "Narrator",
+"text": "The city continued around him. A donkey brayed. Someone shouted in the street. A child began crying."
+},
+{
+"speaker": "Narrator",
+"text": "Then the vibration stopped."
+},
+{
+"speaker": "Narrator",
+"text": "He did not sleep well."
+},
+{
+"speaker": "Narrator",
+"text": "When sleep finally took him, he dreamed of black water moving around his ankles in a chamber he had never seen. Somewhere in the dark, something was writing—slow strokes, patient, one after another. A voice behind him said a name he had never heard."
+},
+{
+"speaker": "Narrator",
+"text": "He woke with the taste of that water still in his mouth. The mark under the linen was warm."
+},
+{
+"speaker": "Narrator",
+"text": "Below the floor, a single knock."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek sat up. The sound did not come again."
+},
+{
+"speaker": "Narrator",
+"text": "He reached for his father's journal."
+}
+]
+}

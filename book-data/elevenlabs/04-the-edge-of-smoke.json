@@ -1,0 +1,351 @@
+{
+"book": "The First City",
+"chapterKey": "04-the-edge-of-smoke",
+"title": "Chapter 4 — The Edge of Smoke",
+"chars": 5147,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 4",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Edge of Smoke",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The desert didn't end so much as it thinned."
+},
+{
+"speaker": "Narrator",
+"text": "By late afternoon the dunes had flattened into hard, broken ground scattered with the first signs of people who lived too close to nothing: a collapsed sheepfold, a half-buried boundary stone, a scatter of broken pottery no one had bothered to gather. The air carried the faint greasy smell of cooking fires and the sharper edge of river mud. Uruk was still hours away, but the land had started remembering it."
+},
+{
+"speaker": "Narrator",
+"text": "They walked in a loose line. BAH-lahg kept the donkeys moving with short clicks of his tongue. en-HEH-doo had fallen a few paces back. Zeek stayed near the middle, the journal still in the pack where he'd left it the day before."
+},
+{
+"speaker": "Narrator",
+"text": "A low mud-brick wall appeared on the right, half-swallowed by sand. Someone had tried to keep a garden once. A few dried stalks still clung to the soil like they hadn't gotten the message. BAH-lahg stopped the animals and walked the length of the wall, testing the corners with the heel of his boot."
+},
+{
+"speaker": "Balag",
+"text": "Someone put real work into this,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Foundations are deeper than they needed to be."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek came up beside him. He ran a hand along the top course. The mortar was ordinary, but the joints had been laid with care. Whoever built it had known what they were doing and still lost the argument with the desert."
+},
+{
+"speaker": "Narrator",
+"text": "One section near the middle had slumped. Two courses of brick had shifted outward, the mortar cracked into a long jagged seam. It wasn't dangerous. It also wasn't right."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek set his pack down, pulled the bronze awl and a short length of cord from the side pocket, and began working without asking anyone's opinion. He scraped the loose mortar free, tapped the shifted bricks back into true, then bound the seam with the cord driven through fresh holes so the load would sit properly again. It wouldn't last another season. It would last longer than it would have if he'd walked past it."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg watched for a while, then said,",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Why bother?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek didn't look up.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Because it was built right."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stood beside him a while longer."
+},
+{
+"speaker": "Balag",
+"text": "That's not an answer."
+},
+{
+"speaker": "Zik",
+"text": "It is."
+},
+{
+"speaker": "Balag",
+"text": "It isn't."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek packed fresh mortar into the seam with his thumb."
+},
+{
+"speaker": "Zik",
+"text": "The people who built this wall are gone."
+},
+{
+"speaker": "Balag",
+"text": "I noticed."
+},
+{
+"speaker": "Zik",
+"text": "They spent days making sure it stood."
+},
+{
+"speaker": "Balag",
+"text": "So?"
+},
+{
+"speaker": "Zik",
+"text": "So somebody should respect the effort."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg scratched his beard."
+},
+{
+"speaker": "Balag",
+"text": "You think the wall cares?"
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Balag",
+"text": "Then who?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked along the crumbling length of brick disappearing into the sand."
+},
+{
+"speaker": "Zik",
+"text": "The next person who leans against it."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg was quiet."
+},
+{
+"speaker": "Balag",
+"text": "You fix things you'll never see again."
+},
+{
+"speaker": "Zik",
+"text": "I excavate things no one remembers."
+},
+{
+"speaker": "Balag",
+"text": "That's different."
+},
+{
+"speaker": "Zik",
+"text": "I don't think it is."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo brushed dust from her knees and joined them."
+},
+{
+"speaker": "Enhedu",
+"text": "My grandfather repaired irrigation ditches."
+},
+{
+"speaker": "Narrator",
+"text": "Neither man interrupted."
+},
+{
+"speaker": "Enhedu",
+"text": "He'd spend weeks fixing channels on land that wasn't his."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg smiled."
+},
+{
+"speaker": "Balag",
+"text": "I've met farmers."
+},
+{
+"speaker": "Enhedu",
+"text": "He wasn't a farmer."
+},
+{
+"speaker": "Balag",
+"text": "No?"
+},
+{
+"speaker": "Enhedu",
+"text": "He copied contracts."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "Then why repair ditches?"
+},
+{
+"speaker": "Enhedu",
+"text": "He said the water couldn't read ownership marks."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek laughed softly."
+},
+{
+"speaker": "Narrator",
+"text": "The sound surprised all three of them."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo tilted her head."
+},
+{
+"speaker": "Enhedu",
+"text": "First laugh in three days."
+},
+{
+"speaker": "Zik",
+"text": "I wasn't keeping count."
+},
+{
+"speaker": "Enhedu",
+"text": "I was."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked from one to the other."
+},
+{
+"speaker": "Balag",
+"text": "I preferred it when neither of you talked."
+},
+{
+"speaker": "Enhedu",
+"text": "You've said that before."
+},
+{
+"speaker": "Balag",
+"text": "I'll say it again."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo rested a hand on the repaired section of wall."
+},
+{
+"speaker": "Enhedu",
+"text": "It'll fail."
+},
+{
+"speaker": "Zik",
+"text": "Eventually."
+},
+{
+"speaker": "Enhedu",
+"text": "You know that."
+},
+{
+"speaker": "Zik",
+"text": "Everything fails."
+},
+{
+"speaker": "Enhedu",
+"text": "So why fix it?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek tightened the final knot."
+},
+{
+"speaker": "Zik",
+"text": "Because failure doesn't mean today."
+},
+{
+"speaker": "Narrator",
+"text": "The three of them stood looking at the wall for another moment."
+},
+{
+"speaker": "Narrator",
+"text": "The repair wasn't invisible."
+},
+{
+"speaker": "Narrator",
+"text": "It wasn't meant to be."
+},
+{
+"speaker": "Narrator",
+"text": "The new cord crossed the old brick in pale lines that anyone could see."
+},
+{
+"speaker": "Narrator",
+"text": "Someone else would come along one day and know another pair of hands had cared enough to keep it standing a little longer."
+},
+{
+"speaker": "Narrator",
+"text": "That was all. He finished the last knot, tested the repaired section with his weight, and stood. The wall still leaned a little. It no longer looked like it was giving up."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo had wandered over during the work. She crouched, picked up one of the loose bricks Zeek had set aside, weighed it in her hand, then set it neatly back into the gap he hadn't needed. No comment. Just the brick returned to where it belonged."
+},
+{
+"speaker": "Narrator",
+"text": "They didn't rest long after that. The light was already sliding toward the kind of copper dusk that made distances hard to trust. Zeek adjusted a slipped pack strap on the nearer donkey while the others drank. The motion was automatic. His hands knew the work even when his mind was somewhere else."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg watched him a moment longer than necessary."
+},
+{
+"speaker": "Balag",
+"text": "You still thinking about the Collector?"
+},
+{
+"speaker": "Zik",
+"text": "I'm thinking about what I'm not going to tell him."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg gave a short nod, as if that answer was the only one he'd expected."
+},
+{
+"speaker": "Narrator",
+"text": "They started walking again. The broken ground gradually gave way to the first real tracks—cart ruts, donkey dung, the scuffed places where people had stood arguing about tolls or water or nothing important at all. The smell of the city grew stronger. Smoke. Onions. The particular sourness of too many bodies living too close together."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek felt the mark under the linen give a single slow pulse. Not a demand. Just a reminder that it was still there."
+},
+{
+"speaker": "Narrator",
+"text": "He kept walking."
+},
+{
+"speaker": "Narrator",
+"text": "Ahead, the first low roofs of the outer districts hunched against the darkening sky."
+}
+]
+}

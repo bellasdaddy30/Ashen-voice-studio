@@ -1,0 +1,1004 @@
+{
+"book": "The First City",
+"chapterKey": "15-the-ledgers-margin",
+"title": "Chapter 15 — The Ledger’s Margin",
+"chars": 12058,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 15",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Ledger's Margin",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The walk back from the east gate took longer than the morning's survey. The rain that had threatened the lower districts since noon finally broke, not in a clean downpour, but in a thin, greasy mist that turned the dust in the unpaved alleys into gray paste."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg pulled his wool cloak tighter over his shoulders, his boots making a wet, sucking sound in the lane.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "If it keeps up like this, the foundations on the south quarter are going to float before we finish the month."
+},
+{
+"speaker": "Enhedu",
+"text": "They aren't going to float,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said, stepping carefully around a broken drainage tile.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "They're going to settle. Which means the temple will have to pay twice as much for shoring next season. The water's just doing the math for them."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun walked between them, her head down, holding her satchel tight against her chest to keep the damp off the paper. Her boots were caked in the same commercial mortar dust Zeek had noticed earlier, the gray residue that didn't match the temple mix."
+},
+{
+"speaker": "Narrator",
+"text": "They reached the room without running into the Collector or anyone else who looked like they had business with them."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg dropped the survey rods by the door, unlatched the shutter to let the stale air out, and dropped onto his bench without lighting the lamp. The room went gray as the daylight faded through the unglazed window frame."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun didn't sit. She laid her map out on the pine table, smoothing the curled edges of the parchment with the flat of her hand. The four boxes—CLAIMED, COST, LIMIT, and the empty space she'd left after the east wall—were barely visible in the dim light."
+},
+{
+"speaker": "Narrator",
+"text": "She picked up her stylus, hovered the metal point over the blank space beside the east-side survey mark, and then stopped."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek set his pack down by the threshold. He didn't take anything out."
+},
+{
+"speaker": "Zik",
+"text": "You're not marking it,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun kept the stylus steady, though her hand cast a long, shaky shadow across the parchment under the gray light from the window.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't have a name for this box yet."
+},
+{
+"speaker": "Enhedu",
+"text": "Call it what it is,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said, leaning against the doorframe while she wrung the mist from the fringe of her shawl.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Inventory."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg let out a short, rough breath that sounded almost like a laugh.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "The city's keeping score. We're just writing down the numbers."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek walked over to the table and looked down at the map. The defaced spiral-drop Ninsun had drawn in the corner sat right on the boundary line between the east wall and the lower tanneries, as if the same crack ran underneath both of them without caring about the distance."
+},
+{
+"speaker": "Narrator",
+"text": "He reached out, took the small ceramic ink-pot by its neck, and moved it two inches to the left, covering the empty space entirely."
+},
+{
+"speaker": "Zik",
+"text": "Leave it blank,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked up at him, her eyes dark in the failing light. For a second she looked like she wanted to argue, to reach for the stylus and scratch the word down anyway before the dark took the room. Then she slowly lowered her hand, the metal point resting against the grain of the wood beside the paper."
+},
+{
+"speaker": "Ninsun",
+"text": "We can't leave it blank,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said, her voice dropping into a sharper, harder register.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Not after what we saw on the curtain wall. The temple survey codes don't match the commercial stock. That means the records were altered twice—once when the wall went up, and again when they tried to scrape the name out."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo pushed off the doorframe, her interest suddenly sharp.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "You're saying the east-side survey isn't the whole record."
+},
+{
+"speaker": "Ninsun",
+"text": "I'm saying the public registry only shows what the temple wanted kept after the second consolidation,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said, tapping the edge of her uninked stylus against the table.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "If we want to know whose name was under that defaced seal, we aren't going to find it on the outside of the wall."
+},
+{
+"speaker": "Balag",
+"text": "Where, then?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The lower archive branch behind the third district weigh-station,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The old tax ledgers from before the plague years. The ones the Collector said stay locked."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the ink-pot covering the empty box on the map. He didn't reach for his pack. He didn't look for an excuse to wait."
+},
+{
+"speaker": "Zik",
+"text": "Grab the lantern,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "If we get to the weigh-station before the evening shift changes, the night clerk won't check the seals on the side bins."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stood up, his boots hitting the floorboards with a dull, heavy jar, and reached for his spear. en-HEH-doo was already sliding her ledger into her pack."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun picked up her stylus, tucked it behind her ear, and rolled the map tight."
+},
+{
+"speaker": "Narrator",
+"text": "They left the room without looking back."
+},
+{
+"speaker": "Narrator",
+"text": "The rain had thickened by the time they reached the third district weigh-station."
+},
+{
+"speaker": "Narrator",
+"text": "It stood between a grain warehouse and a public cistern, a low administrative building with a roof pitched just enough to send runoff into the alley. Water streamed from the carved mouths of two clay lions above the entrance. Beneath them, porters waited with wet sacks over their shoulders while a clerk shouted weights through an open window."
+},
+{
+"speaker": "Narrator",
+"text": "The front doors were still busy."
+},
+{
+"speaker": "Narrator",
+"text": "The side entrance was not."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek led them around the rear wall, where broken amphorae and discarded tally sticks had collected beneath the eaves. A narrow wooden door sat between two storage bins. Its temple seal had been pressed into a lump of clay at shoulder height."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked at the seal."
+},
+{
+"speaker": "Balag",
+"text": "You said the night clerk wouldn't check it."
+},
+{
+"speaker": "Zik",
+"text": "He won't."
+},
+{
+"speaker": "Balag",
+"text": "It's still sealed."
+},
+{
+"speaker": "Zik",
+"text": "Yes."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stared at him."
+},
+{
+"speaker": "Balag",
+"text": "I'm beginning to suspect your plans rely heavily on other people being worse at their jobs than you are."
+},
+{
+"speaker": "Zik",
+"text": "They usually are."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo leaned close to the seal."
+},
+{
+"speaker": "Enhedu",
+"text": "Fresh clay."
+},
+{
+"speaker": "Ninsun",
+"text": "Replaced this morning,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "How do you know?"
+},
+{
+"speaker": "Ninsun",
+"text": "The impression is sharp, but the edges have started taking damp. Four hours. Six at most."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg lowered his voice."
+},
+{
+"speaker": "Balag",
+"text": "That helps us how?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun removed a small wrapped packet from her satchel."
+},
+{
+"speaker": "Narrator",
+"text": "Inside lay three clay seal impressions."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo looked at her."
+},
+{
+"speaker": "Enhedu",
+"text": "You brought copies."
+},
+{
+"speaker": "Ninsun",
+"text": "I brought possibilities."
+},
+{
+"speaker": "Enhedu",
+"text": "You copied temple seals."
+},
+{
+"speaker": "Ninsun",
+"text": "I copied errors made by temple seals."
+},
+{
+"speaker": "Enhedu",
+"text": "That answer would not comfort a magistrate."
+},
+{
+"speaker": "Ninsun",
+"text": "It wasn't prepared for one."
+},
+{
+"speaker": "Narrator",
+"text": "She selected the closest impression and handed it to Zeek."
+},
+{
+"speaker": "Narrator",
+"text": "The copied seal matched the clay on the door except for a tiny break in the outer ring."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek examined both."
+},
+{
+"speaker": "Zik",
+"text": "This one is older."
+},
+{
+"speaker": "Ninsun",
+"text": "By three administrators."
+},
+{
+"speaker": "Zik",
+"text": "And they still use it?"
+},
+{
+"speaker": "Ninsun",
+"text": "The third district is not where competent officials are promoted."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked toward the front of the building, where another weight was shouted through the rain."
+},
+{
+"speaker": "Balag",
+"text": "At last. A weakness in government we can depend on."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek drew his knife."
+},
+{
+"speaker": "Narrator",
+"text": "He did not cut through the clay. That would leave an obvious break. Instead, he slid the blade beneath the lump and worked it slowly away from the wood until the entire seal came loose in one piece."
+},
+{
+"speaker": "Narrator",
+"text": "The door opened inward."
+},
+{
+"speaker": "Narrator",
+"text": "The room beyond smelled of dust, wet rope, and old grain."
+},
+{
+"speaker": "Narrator",
+"text": "They entered single file."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek pressed the original seal back into place from the inside. It would not survive close inspection, but it might survive indifference."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg watched him finish."
+},
+{
+"speaker": "Balag",
+"text": "You've done that before."
+},
+{
+"speaker": "Zik",
+"text": "My father disliked locked rooms."
+},
+{
+"speaker": "Balag",
+"text": "That is not the same answer."
+},
+{
+"speaker": "Zik",
+"text": "It's the one you're getting."
+},
+{
+"speaker": "Narrator",
+"text": "The storage room held cracked measuring jars, sacks of outdated weights, and stacks of waxed tally boards tied with cord. Rain drummed against the roof. Voices from the public chamber reached them through the inner wall, flattened into meaningless sound."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun moved to the far shelves."
+},
+{
+"speaker": "Ninsun",
+"text": "The lower ledgers won't be stored with current accounts."
+},
+{
+"speaker": "Enhedu",
+"text": "Why?"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Current records are useful. Old ones are dangerous."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg lifted a sack and looked behind it."
+},
+{
+"speaker": "Balag",
+"text": "Useful distinction."
+},
+{
+"speaker": "Narrator",
+"text": "They found the archive door at floor level behind a stack of broken scales."
+},
+{
+"speaker": "Narrator",
+"text": "It was smaller than Zeek expected. A clerk would have to stoop to enter. The bronze lock had been polished recently, though dust covered the surrounding bricks."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo crouched beside it."
+},
+{
+"speaker": "Enhedu",
+"text": "This gets opened."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun nodded."
+},
+{
+"speaker": "Ninsun",
+"text": "The Collector said the drawers stay locked. He didn't say abandoned."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the lock."
+},
+{
+"speaker": "Zik",
+"text": "No scratches around the keyway."
+},
+{
+"speaker": "Balag",
+"text": "So whoever opens it has the key,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "Or doesn't use the keyway."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo pressed her thumb against the lower hinge."
+},
+{
+"speaker": "Narrator",
+"text": "The pin shifted."
+},
+{
+"speaker": "Narrator",
+"text": "She smiled slightly."
+},
+{
+"speaker": "Enhedu",
+"text": "The hinge was installed backward."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked at Zeek."
+},
+{
+"speaker": "Balag",
+"text": "Other people being worse at their jobs again?"
+},
+{
+"speaker": "Zik",
+"text": "This time we owe them thanks."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo worked the pin loose with the tip of her knife. BAH-lahg caught the door before it dropped."
+},
+{
+"speaker": "Narrator",
+"text": "The space behind it descended three narrow steps into darkness."
+},
+{
+"speaker": "Narrator",
+"text": "Cool air breathed upward."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek felt the mark beneath the linen warm."
+},
+{
+"speaker": "Narrator",
+"text": "Not pulse."
+},
+{
+"speaker": "Narrator",
+"text": "Recognize."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun saw him flex his hand."
+},
+{
+"speaker": "Ninsun",
+"text": "You felt something."
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Ninsun",
+"text": "You're a poor liar."
+},
+{
+"speaker": "Zik",
+"text": "I'm an economical one."
+},
+{
+"speaker": "Narrator",
+"text": "They went down."
+},
+{
+"speaker": "Narrator",
+"text": "The archive chamber was long and low, its ceiling supported by cedar beams blackened with age. Clay tablets filled wooden pigeonholes from floor to ceiling. Some were stacked openly. Others sat inside sealed bins marked with year signs and district codes."
+},
+{
+"speaker": "Narrator",
+"text": "At the far end stood seven narrow drawers fitted into the wall."
+},
+{
+"speaker": "Narrator",
+"text": "Each had a bronze faceplate."
+},
+{
+"speaker": "Narrator",
+"text": "Each was locked."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stopped."
+},
+{
+"speaker": "Ninsun",
+"text": "The Collector was being literal."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked back toward the steps."
+},
+{
+"speaker": "Balag",
+"text": "Can we be literal quickly?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun moved among the shelves, reading labels under her breath."
+},
+{
+"speaker": "Ninsun",
+"text": "Pre-plague property levy. Grain exemptions. Inheritance disputes. Boundary tax…"
+},
+{
+"speaker": "Narrator",
+"text": "She stopped at a row of tablets bundled in rotted linen."
+},
+{
+"speaker": "Ninsun",
+"text": "Here."
+},
+{
+"speaker": "Narrator",
+"text": "The tag read:"
+},
+{
+"speaker": "Narrator",
+"text": "EAST CURTAIN DISTRICT—PRIVATE HOLDINGS BEFORE CONSOLIDATION",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo took the lamp while Ninsun untied the cord."
+},
+{
+"speaker": "Narrator",
+"text": "The first tablet listed three warehouse owners."
+},
+{
+"speaker": "Narrator",
+"text": "The second recorded a dyer's yard absorbed into temple property."
+},
+{
+"speaker": "Narrator",
+"text": "The third had been scraped smooth and reused for grain tallies."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's jaw tightened."
+},
+{
+"speaker": "Ninsun",
+"text": "They overwrote it."
+},
+{
+"speaker": "Zik",
+"text": "Can you recover anything?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Not without daylight and hours."
+},
+{
+"speaker": "Zik",
+"text": "We have neither."
+},
+{
+"speaker": "Narrator",
+"text": "She moved to the next."
+},
+{
+"speaker": "Narrator",
+"text": "Then the next."
+},
+{
+"speaker": "Narrator",
+"text": "The records changed halfway through the bundle."
+},
+{
+"speaker": "Narrator",
+"text": "Names vanished."
+},
+{
+"speaker": "Narrator",
+"text": "Plots became numbers."
+},
+{
+"speaker": "Narrator",
+"text": "Private holdings became temple allocations without purchase sums or witness seals."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo read over her shoulder."
+},
+{
+"speaker": "Enhedu",
+"text": "They took the land."
+},
+{
+"speaker": "Ninsun",
+"text": "They regularized it,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "That is the same thing with a cleaner robe."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg listened toward the stairs."
+},
+{
+"speaker": "Balag",
+"text": "Find the name."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun kept turning tablets."
+},
+{
+"speaker": "Narrator",
+"text": "Her fingers moved faster."
+},
+{
+"speaker": "Narrator",
+"text": "Then stopped."
+},
+{
+"speaker": "Narrator",
+"text": "A narrow ledger tablet lay beneath the others, its face crowded with tax figures. Nothing unusual appeared in the main columns."
+},
+{
+"speaker": "Narrator",
+"text": "But along the left margin, someone had written three smaller lines."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun brought the lamp close."
+},
+{
+"speaker": "Narrator",
+"text": "The first line was a correction."
+},
+{
+"speaker": "Narrator",
+"text": "The second recorded a disputed measure."
+},
+{
+"speaker": "Narrator",
+"text": "The third contained the name."
+},
+{
+"speaker": "Ninsun",
+"text": "Ammaru,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "No one moved."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek crouched beside her."
+},
+{
+"speaker": "Zik",
+"text": "What does the entry say?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun read carefully."
+},
+{
+"speaker": "Ninsun",
+"text": "'Ammaru, son of Dagan-ili. Potter by trade. Keeper of the lower cistern stair by hereditary obligation.'"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "Cistern stair?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun read the next line."
+},
+{
+"speaker": "Narrator",
+"text": "Her face changed."
+},
+{
+"speaker": "Zik",
+"text": "What?"
+},
+{
+"speaker": "Narrator",
+"text": "She translated more slowly."
+},
+{
+"speaker": "Ninsun",
+"text": "'Property exempt from levy while seventh access remains sealed.'"
+},
+{
+"speaker": "Narrator",
+"text": "The archive seemed to contract around them."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo looked at Zeek."
+},
+{
+"speaker": "Enhedu",
+"text": "Seventh access."
+},
+{
+"speaker": "Zik",
+"text": "The basin had seven divisions,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "And the boundary rubbing,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun added.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg pointed at the tablet."
+},
+{
+"speaker": "Balag",
+"text": "What happened to him?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun turned it over."
+},
+{
+"speaker": "Narrator",
+"text": "The reverse had been scraped."
+},
+{
+"speaker": "Narrator",
+"text": "Not cleanly."
+},
+{
+"speaker": "Narrator",
+"text": "One line survived near the lower edge."
+},
+{
+"speaker": "Narrator",
+"text": "She tilted it into the light."
+},
+{
+"speaker": "Ninsun",
+"text": "'Exemption revoked after keeper refused transfer of the name.'"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo's expression hardened."
+},
+{
+"speaker": "Enhedu",
+"text": "What does that mean?"
+},
+{
+"speaker": "Ninsun",
+"text": "I don't know."
+},
+{
+"speaker": "Enhedu",
+"text": "You know what the words mean."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't know what they mean together."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek examined the margin."
+},
+{
+"speaker": "Narrator",
+"text": "The main text had been written by a formal clerk. Straight wedges. Even spacing."
+},
+{
+"speaker": "Narrator",
+"text": "The note about Ammaru was smaller."
+},
+{
+"speaker": "Narrator",
+"text": "Compressed."
+},
+{
+"speaker": "Narrator",
+"text": "Written in haste."
+},
+{
+"speaker": "Zik",
+"text": "Someone added this after the ledger was closed,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun nodded."
+},
+{
+"speaker": "Ninsun",
+"text": "A clerk preserved it."
+},
+{
+"speaker": "Enhedu",
+"text": "Why?"
+},
+{
+"speaker": "Ninsun",
+"text": "Because the official entry no longer did."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked toward the seven locked drawers."
+},
+{
+"speaker": "Balag",
+"text": "Then whatever came next is in there."
+},
+{
+"speaker": "Narrator",
+"text": "A sound came from above."
+},
+{
+"speaker": "Narrator",
+"text": "The outer door opened."
+},
+{
+"speaker": "Narrator",
+"text": "Footsteps crossed the storage room."
+},
+{
+"speaker": "Narrator",
+"text": "Not one person."
+},
+{
+"speaker": "Narrator",
+"text": "At least three."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo extinguished the lamp."
+},
+{
+"speaker": "Narrator",
+"text": "Darkness closed around them."
+},
+{
+"speaker": "Narrator",
+"text": "Someone dragged the broken scales away from the archive door."
+},
+{
+"speaker": "Narrator",
+"text": "A key entered the bronze lock."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun held the ledger tablet against her chest."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg raised his spear in the dark."
+},
+{
+"speaker": "Narrator",
+"text": "The lock turned."
+}
+]
+}

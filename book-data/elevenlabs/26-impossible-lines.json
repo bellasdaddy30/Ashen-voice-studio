@@ -1,0 +1,528 @@
+{
+"book": "The First City",
+"chapterKey": "26-impossible-lines",
+"title": "Chapter 26 — Impossible Lines",
+"chars": 11374,
+"speakers": [
+"Balag",
+"Bel-iddin",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"The City",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 26",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "Impossible Lines",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "They descended through the stairwell's impossible dark and stepped into the First City."
+},
+{
+"speaker": "Narrator",
+"text": "Or what remained of it."
+},
+{
+"speaker": "Narrator",
+"text": "The scale hit first, and it hit wrong. Streets wider than any avenue in Uruk opened ahead of them, yet the buildings pressed too close, leaning out over the thoroughfares like men bent forward to eavesdrop. Towers rose at angles that should have brought them down centuries ago, upper stories jutting out in layers that made no architectural sense. Bridges crossed themselves in midair—vanishing into one structure and emerging from another several stories higher, as if the city had been built by someone who had only ever heard geometry described secondhand."
+},
+{
+"speaker": "Narrator",
+"text": "Every surface carried the same dull, oily sheen as the wall they had pressed against above. Torchlight sank into the stone rather than reflecting from it. The air tasted of dust and something colder, like the inside of a sealed jar that had never been opened."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stopped three paces past the threshold."
+},
+{
+"speaker": "Balag",
+"text": "This isn't a ruin,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun was already turning in a slow circle, eyes moving from street to arch to impossible bridge.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "No. Ruins collapse according to rules. This is still following rules. Just not ours."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said nothing. She was staring upward at a colonnade that continued past the point where any supporting wall should have ended. Her expression was not fear. It was calculation."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked back."
+},
+{
+"speaker": "Narrator",
+"text": "The stairwell they had descended was gone. In its place stood a solid wall of the same dark stone, seamless, as if the passage had never existed. The only evidence they had come from above was the cold still clinging to their clothes and the faint vibration of the mark on his palm."
+},
+{
+"speaker": "Narrator",
+"text": "They were inside."
+},
+{
+"speaker": "Narrator",
+"text": "No one stated the obvious."
+},
+{
+"speaker": "Narrator",
+"text": "They moved carefully along the nearest street. The paving stones were large and fitted with the same impossible precision they had seen on the buried road above. No weeds grew between them. No dust had collected in the joints. The city looked abandoned and yet maintained, as though something still walked these streets after the living had left."
+},
+{
+"speaker": "Narrator",
+"text": "Doorways stood too narrow for the buildings they belonged to. Along one wall a row of shallow niches faced downward instead of outward, each the size of a household altar. Names had been scratched out of the lintels above several entrances, the cuts deep and deliberate, as if the act of erasure had mattered more than the names themselves."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stopped at the first intersection and crouched beside a low wall. Carved into the stone at regular intervals were the same incomplete spiral-drop symbols they had seen on the door above. Seven of them. Each slightly different. Each facing a different direction."
+},
+{
+"speaker": "Ninsun",
+"text": "The gates,"
+},
+{
+"speaker": "Narrator",
+"text": "she said quietly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Not metaphors. Actual thresholds. The tablets weren't describing a journey through the underworld. They were describing a map."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek studied the nearest carving. The spiral was unfinished in the same place as the one above. A deliberate omission."
+},
+{
+"speaker": "Zik",
+"text": "What does incomplete mean?"
+},
+{
+"speaker": "Narrator",
+"text": "he asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun shook her head.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The texts disagree. Some say each gate took clothing, then rank, then name. Others mention memory. One damaged tablet claims the last gate took whatever remained of the traveler that still made them recognizable as themselves. The incomplete mark could mean the threshold is still closed. Or that it is waiting for the missing piece. I can't tell which version is older."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's hand rested on the haft of his axe.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Then we don't give it anything."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo laughed once, low.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "You think it asks politely?"
+},
+{
+"speaker": "Narrator",
+"text": "They continued."
+},
+{
+"speaker": "Narrator",
+"text": "The deeper they walked, the more the geometry refused to settle. A street that appeared straight when viewed from one end curved sharply when they reached its middle. A courtyard they passed on their left reappeared on their right ten minutes later, identical down to a cracked basin in its center. Zeek tried marking their path with small stones. When he looked back, the stones were gone."
+},
+{
+"speaker": "Narrator",
+"text": "Or they had never been placed."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun kept a running record on a scrap of parchment, noting every turn, every symbol, every impossible junction. After the third time the same courtyard returned, she stopped writing."
+},
+{
+"speaker": "Ninsun",
+"text": "The map is changing as we move,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Or we are changing relative to it. I can't tell which."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek opened the journal."
+},
+{
+"speaker": "Narrator",
+"text": "The pages that had once shown the cross-section of the city beneath Uruk were different now. The upper layers—the desert, the outpost, the first staircase—had faded almost to invisibility. In their place the ink had thickened into a dense network of streets, chambers, and descending lines that continued far past the edge of the paper. At the center of the densest tangle the spiral-drop symbol appeared again, complete this time, and larger than any they had seen."
+},
+{
+"speaker": "Narrator",
+"text": "Beneath it, in his father's hand:"
+},
+{
+"speaker": "Bel-iddin",
+"text": "THE SECOND DOOR IS NOT A DOOR.",
+"note": "In Bel-iddin's hand."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek closed the book before anyone else could read it. The choice surprised him even as he made it. The knowledge felt private, like a debt that belonged only to him."
+},
+{
+"speaker": "Narrator",
+"text": "They found the first living thing an hour later."
+},
+{
+"speaker": "Narrator",
+"text": "Or what had once been living."
+},
+{
+"speaker": "Narrator",
+"text": "A figure stood in the center of a wide plaza, facing a blank wall rather than the open space. Its feet were fused into the paving stones as if the city had grown around them. The body itself seemed assembled from several architectural surfaces—part column, part lintel, part threshold—rather than carved as a single statue. It wore the remains of a linen robe so old the fabric had fused with the dust that covered it. Around its neck hung a single bead of black glass, identical to the one BAH-lahg had left at the well."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun exhaled slowly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "A gatekeeper."
+},
+{
+"speaker": "Enhedu",
+"text": "Is it dead?"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't think dead is the right word."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stepped closer."
+},
+{
+"speaker": "Narrator",
+"text": "The figure's head turned while the rest of its body remained locked in the stone. The motion was exact, mechanical, as if the joint had been waiting centuries for the correct pressure. Empty sockets regarded him. The mouth opened."
+},
+{
+"speaker": "Narrator",
+"text": "No sound came out."
+},
+{
+"speaker": "Narrator",
+"text": "Instead the mark on Zeek's palm flared hot, and a single word formed behind his eyes—not spoken, not written, simply present."
+},
+{
+"speaker": "The City",
+"text": "Payment.",
+"tag": "whispers",
+"note": "A word formed behind his eyes; not spoken. The City speaking: not fully human. Whispered, wet, close."
+},
+{
+"speaker": "Narrator",
+"text": "He stepped back."
+},
+{
+"speaker": "Narrator",
+"text": "The figure remained motionless, head still turned toward him, waiting."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's voice was very quiet.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "What does it want?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun answered without looking away from the stone face.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The same thing the tablets said every threshold wants. Something that cannot be bought back."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked down at his marked hand, then at the incomplete spirals carved into the walls around the plaza, then at the journal pressed against his ribs."
+},
+{
+"speaker": "Narrator",
+"text": "The city had let them in."
+},
+{
+"speaker": "Narrator",
+"text": "Now it was waiting to see what they would leave behind."
+},
+{
+"speaker": "Narrator",
+"text": "They left the plaza without touching the gatekeeper again."
+},
+{
+"speaker": "Narrator",
+"text": "The figure remained exactly as they had found it—head turned, empty sockets fixed on the space Zeek had occupied, black bead resting against stone that had once been a neck. It did not follow. It did not need to. The word Payment still sat behind Zeek's eyes like a coin that refused to be spent."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg took the lead, axe ready, moving as if the streets themselves might decide to close. en-HEH-doo walked slightly apart, eyes cataloguing every doorway, every erased name, every place a valuable object might once have been. Ninsun kept close to Zeek, parchment and stylus ready, though she had not written anything since the courtyard repeated itself for the third time."
+},
+{
+"speaker": "Narrator",
+"text": "The street they chose ran straight for nearly a hundred paces before it simply ended."
+},
+{
+"speaker": "Narrator",
+"text": "Not in a wall. Not in a collapsed building. The paving continued for three more stones and then became blank stone floor, seamless and unmarked, as if the street had never been intended to go farther. On either side the buildings leaned inward until their upper stories nearly touched, forming a tunnel of shadow that smelled of old water and something metallic."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stopped."
+},
+{
+"speaker": "Zik",
+"text": "This wasn't here a moment ago."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun checked her notes, then the walls, then the incomplete spiral carved at what should have been the next intersection.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "It was. Or a different version of it was. The symbol has changed orientation."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg tested the blank floor with the butt of his axe. The stone gave back a dull, solid sound.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Dead end."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo was already examining the nearest doorway. The lintel above it had once carried a name. Only three characters remained, the rest gouged out so deeply that the stone itself looked wounded."
+},
+{
+"speaker": "Enhedu",
+"text": "Someone wanted these people forgotten,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Or the people wanted to be forgotten,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun answered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "In some of the older tablets, voluntary erasure is listed as a form of payment. A way to pass a threshold without losing something more essential. One damaged account claims that once a name was taken, no one who had known the person could speak it again. The word simply would not form."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the incomplete spiral on the wall. The missing section felt deliberate, like a blank space left for a signature."
+},
+{
+"speaker": "Narrator",
+"text": "He opened the journal."
+},
+{
+"speaker": "Narrator",
+"text": "The map had shifted again. The dense network of streets now showed a single clear path leading away from the plaza they had just left. The path ended at a mark that was not a spiral. It was a simple vertical line descending into a small open circle."
+},
+{
+"speaker": "Narrator",
+"text": "Beneath it, new writing had appeared in a hand that was neither his father's nor his own."
+},
+{
+"speaker": "Narrator",
+"text": "THE STREET IS A THRESHOLD.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "CROSSING IT REQUIRES A NAME.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek closed the book. This time he did not try to hide the act. The others had seen him look."
+},
+{
+"speaker": "Ninsun",
+"text": "What does it say?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "He told them."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's expression hardened.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "We're not giving it names."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo tilted her head.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "What if it already has them?"
+},
+{
+"speaker": "Narrator",
+"text": "No one answered."
+},
+{
+"speaker": "Narrator",
+"text": "They stood at the edge of the blank floor for a long time. The air in the unfinished tunnel felt colder than the rest of the City. Torchlight sank into the stone and did not return. Somewhere far behind them, back toward the plaza, a single measured knock sounded—soft, almost polite."
+},
+{
+"speaker": "Narrator",
+"text": "Then another."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stepped onto the first of the final three paving stones."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing happened."
+},
+{
+"speaker": "Narrator",
+"text": "He stepped onto the second."
+},
+{
+"speaker": "Narrator",
+"text": "The mark on his palm warmed."
+},
+{
+"speaker": "Narrator",
+"text": "He stepped onto the third."
+},
+{
+"speaker": "Narrator",
+"text": "The blank floor ahead of him changed."
+},
+{
+"speaker": "Narrator",
+"text": "It did not open. It did not crack. It simply acquired depth, the way a reflection acquires depth when the light is right. The stone remained stone, yet somehow continued downward into a darkness that had not been there a breath earlier. The incomplete spiral glowed faintly on the vertical face of the drop."
+},
+{
+"speaker": "Narrator",
+"text": "A name rose in his mind unbidden—his own full name, the one his father had used only when frightened or trying to make certain he was listening."
+},
+{
+"speaker": "Narrator",
+"text": "Zee-keer ash-SHOOR.",
+"note": "Internal thought; intimate, not voiced aloud."
+},
+{
+"speaker": "Narrator",
+"text": "The City was waiting for him to offer it."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's hand closed hard on his shoulder and pulled him backward. en-HEH-doo made a sharp sound of protest, half-frustrated, half-curious, as if she had wanted to see the threshold complete itself."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek closed his mouth and let himself be dragged onto solid ground."
+},
+{
+"speaker": "Narrator",
+"text": "The depth vanished. The floor became blank stone again. The mark on his palm cooled."
+},
+{
+"speaker": "Narrator",
+"text": "Behind them the knocking continued, steady now, as if counting the heartbeats until someone decided what they were willing to leave behind."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice was barely above a whisper.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "It almost took it.",
+"tag": "whispers",
+"note": "Whispered."
+},
+{
+"speaker": "Zik",
+"text": "Almost,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "He looked at the erased names on the lintels, at the gatekeeper still waiting in the plaza they could no longer see, at the three ordinary paving stones that had nearly cost him the only name his father still used when he was afraid."
+},
+{
+"speaker": "Narrator",
+"text": "The City had shown them the shape of the next payment."
+},
+{
+"speaker": "Narrator",
+"text": "It had not yet collected."
+}
+]
+}

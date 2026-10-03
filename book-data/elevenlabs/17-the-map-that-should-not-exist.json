@@ -1,0 +1,1179 @@
+{
+"book": "The First City",
+"chapterKey": "17-the-map-that-should-not-exist",
+"title": "Chapter 17 — The Map That Should Not Exist",
+"chars": 10604,
+"speakers": [
+"Balag",
+"Bel-iddin",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 17",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Map That Should Not Exist",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "They met at dusk in the shaded courtyard of the inn, long after the heat had bled from the stone."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek set the satchel on the table."
+},
+{
+"speaker": "Narrator",
+"text": "For ten days he had not opened the journal."
+},
+{
+"speaker": "Narrator",
+"text": "Nine days had become ten that morning. The refusal had felt precise. Deliberate. A clean edge drawn between himself and whatever had begun writing in his father's hand."
+},
+{
+"speaker": "Narrator",
+"text": "Now Ammaru's words were disappearing from clay."
+},
+{
+"speaker": "Narrator",
+"text": "His father's name had waited in a drawer older than his birth."
+},
+{
+"speaker": "Narrator",
+"text": "And the journal had followed them through a drain where water climbed uphill."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek unfastened the satchel."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun leaned closer."
+},
+{
+"speaker": "Ninsun",
+"text": "Do not touch anything until we understand what changed."
+},
+{
+"speaker": "Zik",
+"text": "You were the one asking me to open it."
+},
+{
+"speaker": "Ninsun",
+"text": "That is not permission to become careless."
+},
+{
+"speaker": "Zik",
+"text": "You have an interesting relationship with consistency."
+},
+{
+"speaker": "Ninsun",
+"text": "I am consistent about other people being cautious."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo rested one ankle on her opposite knee."
+},
+{
+"speaker": "Enhedu",
+"text": "Open the book before it finds another way to complain."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek reached inside."
+},
+{
+"speaker": "Narrator",
+"text": "The journal was warm."
+},
+{
+"speaker": "Narrator",
+"text": "Not warmed by his body."
+},
+{
+"speaker": "Narrator",
+"text": "Warmer."
+},
+{
+"speaker": "Narrator",
+"text": "The cover flexed beneath his fingers."
+},
+{
+"speaker": "Narrator",
+"text": "He pulled it out and placed it on the table."
+},
+{
+"speaker": "Narrator",
+"text": "No one reached for it."
+},
+{
+"speaker": "Narrator",
+"text": "Rain whispered against the courtyard canopy. Beyond the wall, someone laughed, the sound muffled by wet brick. The journal sat in the middle of the table as though it belonged there."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg folded his arms."
+},
+{
+"speaker": "Balag",
+"text": "Well?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the cover."
+},
+{
+"speaker": "Zik",
+"text": "Nothing happened before."
+},
+{
+"speaker": "Enhedu",
+"text": "That's comforting,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Most terrible ideas begin with those words."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun leaned closer without touching it."
+},
+{
+"speaker": "Ninsun",
+"text": "The leather changed."
+},
+{
+"speaker": "Zik",
+"text": "It was always dark."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "She pointed toward the spine."
+},
+{
+"speaker": "Ninsun",
+"text": "The surface has stretched."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek frowned."
+},
+{
+"speaker": "Zik",
+"text": "I don't see—"
+},
+{
+"speaker": "Ninsun",
+"text": "The stitching."
+},
+{
+"speaker": "Narrator",
+"text": "He looked again."
+},
+{
+"speaker": "Narrator",
+"text": "The thread along the spine no longer sat perfectly straight. It rose and settled almost imperceptibly, as though something beneath the cover had shifted."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg noticed it too."
+},
+{
+"speaker": "Balag",
+"text": "I don't like that."
+},
+{
+"speaker": "Enhedu",
+"text": "You never like anything,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "I like walls."
+},
+{
+"speaker": "Enhedu",
+"text": "This one may become one again."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek rested two fingers against the cover."
+},
+{
+"speaker": "Narrator",
+"text": "Warm."
+},
+{
+"speaker": "Narrator",
+"text": "Not the warmth of a book carried beneath a cloak."
+},
+{
+"speaker": "Narrator",
+"text": "Something deeper."
+},
+{
+"speaker": "Narrator",
+"text": "He slipped a thumb beneath the edge of the leather."
+},
+{
+"speaker": "Narrator",
+"text": "The cover resisted."
+},
+{
+"speaker": "Narrator",
+"text": "Then, before he could lift it—"
+},
+{
+"speaker": "Narrator",
+"text": "The journal opened by itself."
+},
+{
+"speaker": "Narrator",
+"text": "Its front cover lifted."
+},
+{
+"speaker": "Narrator",
+"text": "Pages turned in a rapid dry flutter, though there was no wind beneath the canopy. Blank leaves flashed past. Old calculations. BAYL-ID-din's survey notes. A fragment about the western tomb. Lists of names Zeek had not yet studied."
+},
+{
+"speaker": "Narrator",
+"text": "The pages stopped near the middle."
+},
+{
+"speaker": "Narrator",
+"text": "Across two facing sheets, wet ink spread from the binding."
+},
+{
+"speaker": "Narrator",
+"text": "No pen touched it."
+},
+{
+"speaker": "Narrator",
+"text": "Lines extended outward in thin black threads."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun bent over the table."
+},
+{
+"speaker": "Narrator",
+"text": "Her fingers hovered inches above the parchment."
+},
+{
+"speaker": "Ninsun",
+"text": "This is not possible."
+},
+{
+"speaker": "Zik",
+"text": "Welcome to my life,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The map continued drawing itself."
+},
+{
+"speaker": "Narrator",
+"text": "At first, the strokes formed the broad shape of Uruk."
+},
+{
+"speaker": "Narrator",
+"text": "The river's bend."
+},
+{
+"speaker": "Narrator",
+"text": "The east curtain wall."
+},
+{
+"speaker": "Narrator",
+"text": "The temple district raised above the lower streets."
+},
+{
+"speaker": "Narrator",
+"text": "Old roads disappeared beneath newer ones. Abandoned settlements clustered beyond the walls like broken teeth in the earth."
+},
+{
+"speaker": "Narrator",
+"text": "Then the lines descended."
+},
+{
+"speaker": "Narrator",
+"text": "Ink bled downward from the familiar geography, creating shafts, chambers, stairs, and inverted towers beneath the city. Some structures hung below others like roots from an overturned tree. Others occupied spaces that could not exist together, overlapping without crossing."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun moved around the table."
+},
+{
+"speaker": "Ninsun",
+"text": "It is not a surface plan."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek leaned closer."
+},
+{
+"speaker": "Zik",
+"text": "Old surveyors liked details."
+},
+{
+"speaker": "Narrator",
+"text": "She frowned."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked up."
+},
+{
+"speaker": "Zik",
+"text": "No?"
+},
+{
+"speaker": "Ninsun",
+"text": "I answered too quickly."
+},
+{
+"speaker": "Narrator",
+"text": "She pulled one of her own tablets closer and began sketching the outline beside the journal."
+},
+{
+"speaker": "Ninsun",
+"text": "If this were a city plan…"
+},
+{
+"speaker": "Narrator",
+"text": "She drew a rectangle."
+},
+{
+"speaker": "Ninsun",
+"text": "…the temple should sit here."
+},
+{
+"speaker": "Narrator",
+"text": "A second mark."
+},
+{
+"speaker": "Ninsun",
+"text": "The river…"
+},
+{
+"speaker": "Narrator",
+"text": "Another line."
+},
+{
+"speaker": "Ninsun",
+"text": "The gate…"
+},
+{
+"speaker": "Narrator",
+"text": "She stopped."
+},
+{
+"speaker": "Narrator",
+"text": "Her stylus hovered above the clay."
+},
+{
+"speaker": "Ninsun",
+"text": "It doesn't work."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo leaned over."
+},
+{
+"speaker": "Enhedu",
+"text": "Perhaps whoever drew it was a poor surveyor."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun tapped the journal."
+},
+{
+"speaker": "Ninsun",
+"text": "The measurements are too consistent."
+},
+{
+"speaker": "Enhedu",
+"text": "So what's wrong?"
+},
+{
+"speaker": "Ninsun",
+"text": "We are."
+},
+{
+"speaker": "Narrator",
+"text": "Silence settled over the table."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun turned the journal ninety degrees."
+},
+{
+"speaker": "Narrator",
+"text": "Then another ninety."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing changed."
+},
+{
+"speaker": "Narrator",
+"text": "She looked at the drawing one last time."
+},
+{
+"speaker": "Narrator",
+"text": "Her eyes widened slightly."
+},
+{
+"speaker": "Ninsun",
+"text": "It isn't meant to be viewed from above."
+},
+{
+"speaker": "Narrator",
+"text": "She turned to Zeek."
+},
+{
+"speaker": "Ninsun",
+"text": "It's a section."
+},
+{
+"speaker": "Narrator",
+"text": "The ink river turned downward in a wide spiral. At three points, channels split from it and entered separate levels beneath the city."
+},
+{
+"speaker": "Ninsun",
+"text": "This shows depth."
+},
+{
+"speaker": "Zik",
+"text": "How much?"
+},
+{
+"speaker": "Ninsun",
+"text": "I don't know."
+},
+{
+"speaker": "Zik",
+"text": "You just called it a section."
+},
+{
+"speaker": "Ninsun",
+"text": "A section requires a scale. This has none."
+},
+{
+"speaker": "Narrator",
+"text": "She traced the outline of the east-side wall."
+},
+{
+"speaker": "Narrator",
+"text": "A line descended from the defaced spiral-drop they had copied that morning. It passed through two buried chambers before joining a circular structure beneath the tanners' row."
+},
+{
+"speaker": "Narrator",
+"text": "The boxes Ninsun had drawn on her map—CLAIMED, COST, LIMIT—corresponded to small black marks along the descending line."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo leaned forward."
+},
+{
+"speaker": "Enhedu",
+"text": "It has our passages."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's face hardened."
+},
+{
+"speaker": "Ninsun",
+"text": "It has more than our passages."
+},
+{
+"speaker": "Narrator",
+"text": "Below each known shifted street, the map showed additional routes."
+},
+{
+"speaker": "Narrator",
+"text": "Closed corridors."
+},
+{
+"speaker": "Narrator",
+"text": "Collapsed stairs."
+},
+{
+"speaker": "Narrator",
+"text": "Rooms beneath rooms."
+},
+{
+"speaker": "Narrator",
+"text": "Some paths ended in black circles. Others joined a large spiral that continued below the bottom edge of the page."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked over from the courtyard entrance."
+},
+{
+"speaker": "Balag",
+"text": "Does it show a way out?"
+},
+{
+"speaker": "Enhedu",
+"text": "It shows too many ways in,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun leaned nearer to the page."
+},
+{
+"speaker": "Ninsun",
+"text": "Hold the lamp behind it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek lifted the courtyard lamp."
+},
+{
+"speaker": "Narrator",
+"text": "The light did not reflect from the parchment."
+},
+{
+"speaker": "Narrator",
+"text": "It sank into it."
+},
+{
+"speaker": "Narrator",
+"text": "The sheet became faintly translucent. Dark fibers appeared inside the material, branching beneath the surface in irregular patterns. They were thicker near the binding and finer toward the edges."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stopped moving."
+},
+{
+"speaker": "Zik",
+"text": "What?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "She pointed to a pale ridge crossing the lower corner of the right-hand page."
+},
+{
+"speaker": "Ninsun",
+"text": "Turn it slightly."
+},
+{
+"speaker": "Narrator",
+"text": "He tilted the lamp."
+},
+{
+"speaker": "Narrator",
+"text": "The ridge became clearer."
+},
+{
+"speaker": "Narrator",
+"text": "It forked once before ending beneath a cluster of newly drawn stairs."
+},
+{
+"speaker": "Enhedu",
+"text": "Damage?"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun lowered herself until her eyes were level with the page."
+},
+{
+"speaker": "Ninsun",
+"text": "The tissue thickened along both sides."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "You can tell that?"
+},
+{
+"speaker": "Ninsun",
+"text": "Parchment damage splits fibers. This closed before the material was cured."
+},
+{
+"speaker": "Narrator",
+"text": "She looked at Zeek."
+},
+{
+"speaker": "Ninsun",
+"text": "It healed."
+},
+{
+"speaker": "Narrator",
+"text": "The musician in the alley played the same three notes again."
+},
+{
+"speaker": "Narrator",
+"text": "The last one failed entirely."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun examined the dark points scattered beneath the ink."
+},
+{
+"speaker": "Ninsun",
+"text": "Follicles,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the page."
+},
+{
+"speaker": "Zik",
+"text": "What kind?"
+},
+{
+"speaker": "Ninsun",
+"text": "Too sparse for goat. Too irregular for sheep."
+},
+{
+"speaker": "Narrator",
+"text": "She moved to the opposite sheet."
+},
+{
+"speaker": "Narrator",
+"text": "Another pale mark lay near the outer edge. Not a cut this time."
+},
+{
+"speaker": "Narrator",
+"text": "A small round depression surrounded by puckered tissue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's face lost color."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo saw it."
+},
+{
+"speaker": "Enhedu",
+"text": "What is that?"
+},
+{
+"speaker": "Ninsun",
+"text": "A burn scar."
+},
+{
+"speaker": "Enhedu",
+"text": "Before or after?"
+},
+{
+"speaker": "Ninsun",
+"text": "Before."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun straightened slowly."
+},
+{
+"speaker": "Ninsun",
+"text": "The scar belonged to the body before the page belonged to the book."
+},
+{
+"speaker": "Narrator",
+"text": "No one spoke."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at his father's old handwriting between the spreading lines."
+},
+{
+"speaker": "Zik",
+"text": "What body?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stared at the parchment."
+},
+{
+"speaker": "Ninsun",
+"text": "A human one."
+},
+{
+"speaker": "Narrator",
+"text": "The carters near the well stopped arguing."
+},
+{
+"speaker": "Narrator",
+"text": "One lifted his head."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo smiled toward them again."
+},
+{
+"speaker": "Enhedu",
+"text": "Funerary accounts."
+},
+{
+"speaker": "Narrator",
+"text": "The carter grimaced and moved his game pieces farther away."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stepped from the entrance and approached the table."
+},
+{
+"speaker": "Balag",
+"text": "How many people?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked at the seam where the pages met the binding."
+},
+{
+"speaker": "Ninsun",
+"text": "I cannot tell."
+},
+{
+"speaker": "Balag",
+"text": "That means more than one is possible."
+},
+{
+"speaker": "Ninsun",
+"text": "Yes."
+},
+{
+"speaker": "Balag",
+"text": "Does the book know?"
+},
+{
+"speaker": "Narrator",
+"text": "No one answered him."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek touched the edge of the cover, careful not to contact the page."
+},
+{
+"speaker": "Narrator",
+"text": "The mark beneath his linen throbbed."
+},
+{
+"speaker": "Narrator",
+"text": "A slow pressure spread through his palm."
+},
+{
+"speaker": "Narrator",
+"text": "The largest spiral-drop symbol appeared at the lowest visible point of the map. The ink gathered gradually, filling the jagged outline until it became darker than anything else on the pages."
+},
+{
+"speaker": "Narrator",
+"text": "The symbol was not inside a chamber."
+},
+{
+"speaker": "Narrator",
+"text": "It surrounded one."
+},
+{
+"speaker": "Narrator",
+"text": "Seven narrow routes descended toward a central blank space. Six ended before reaching it."
+},
+{
+"speaker": "Narrator",
+"text": "The seventh continued beyond the bottom edge of the parchment."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun bent over it."
+},
+{
+"speaker": "Ninsun",
+"text": "The seventh access."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo glanced toward the copied ledger hidden in Ninsun's robe."
+},
+{
+"speaker": "Enhedu",
+"text": "Ammaru kept it sealed."
+},
+{
+"speaker": "Ninsun",
+"text": "Until someone used his name as a key,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "A golden spark moved through the black symbol."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's hand went to his axe."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo's fingers closed around her knife hilt."
+},
+{
+"speaker": "Narrator",
+"text": "The spark traveled upward from the spiral, following one of the routes through the underground city."
+},
+{
+"speaker": "Narrator",
+"text": "The lantern flame bent toward the page."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's palm pulsed in the same rhythm."
+},
+{
+"speaker": "Enhedu",
+"text": "Tell me that was reflected light,"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "No,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun answered.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The golden line reached the surface map and crossed west."
+},
+{
+"speaker": "Narrator",
+"text": "Beyond the city."
+},
+{
+"speaker": "Narrator",
+"text": "Into the desert."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek leaned over the table."
+},
+{
+"speaker": "Narrator",
+"text": "The route passed abandoned roads and dry channels. It ended at a rectangular chamber beneath a cluster of burial mounds."
+},
+{
+"speaker": "Narrator",
+"text": "He knew the shape."
+},
+{
+"speaker": "Narrator",
+"text": "The outer shaft."
+},
+{
+"speaker": "Narrator",
+"text": "The sloping corridor."
+},
+{
+"speaker": "Narrator",
+"text": "The chamber where KOO-rash had died."
+},
+{
+"speaker": "Zik",
+"text": "The tomb,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun rotated the journal toward herself."
+},
+{
+"speaker": "Narrator",
+"text": "The map did not end at the burial chamber."
+},
+{
+"speaker": "Narrator",
+"text": "A line continued beneath it."
+},
+{
+"speaker": "Narrator",
+"text": "Straight down."
+},
+{
+"speaker": "Narrator",
+"text": "It passed through a narrow black band and entered another structure below the known tomb—larger, older, and drawn with lines that appeared less like masonry than bone."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared at it."
+},
+{
+"speaker": "Zik",
+"text": "We thought the chamber was the bottom."
+},
+{
+"speaker": "Ninsun",
+"text": "It wasn't,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "The golden spark reached the lower structure."
+},
+{
+"speaker": "Narrator",
+"text": "A memory struck Zeek with such force that his hand slipped from the table."
+},
+{
+"speaker": "Narrator",
+"text": "Black stone beneath desert dust."
+},
+{
+"speaker": "Narrator",
+"text": "A descending passage where the air had pressed against his ears."
+},
+{
+"speaker": "Narrator",
+"text": "KOO-rash's voice behind him, joking because silence had become worse."
+},
+{
+"speaker": "Narrator",
+"text": "A surface at the far end that reflected no lamplight."
+},
+{
+"speaker": "Narrator",
+"text": "Not a wall."
+},
+{
+"speaker": "Narrator",
+"text": "Something smoother."
+},
+{
+"speaker": "Narrator",
+"text": "Something that had seemed to move when no one looked directly at it."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun watched him."
+},
+{
+"speaker": "Ninsun",
+"text": "What did you remember?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the map."
+},
+{
+"speaker": "Narrator",
+"text": "The ink around the buried structure thickened."
+},
+{
+"speaker": "Narrator",
+"text": "New handwriting appeared in the margin."
+},
+{
+"speaker": "Narrator",
+"text": "Cramped."
+},
+{
+"speaker": "Narrator",
+"text": "Jagged."
+},
+{
+"speaker": "Narrator",
+"text": "His father's hand."
+},
+{
+"speaker": "Narrator",
+"text": "The ink appeared one drop at a time."
+},
+{
+"speaker": "Narrator",
+"text": "Not falling from above."
+},
+{
+"speaker": "Narrator",
+"text": "Rising."
+},
+{
+"speaker": "Narrator",
+"text": "Darkness gathered beneath the surface of the page until a single line pushed upward."
+},
+{
+"speaker": "Narrator",
+"text": "Nobody moved."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo spoke first."
+},
+{
+"speaker": "Enhedu",
+"text": "Is it writing?"
+},
+{
+"speaker": "Narrator",
+"text": "Another stroke appeared."
+},
+{
+"speaker": "Narrator",
+"text": "Then another."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stood."
+},
+{
+"speaker": "Balag",
+"text": "I preferred it when books stayed books."
+},
+{
+"speaker": "Narrator",
+"text": "The letters continued slowly."
+},
+{
+"speaker": "Narrator",
+"text": "Each one seemed to press through the page rather than settle upon it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek found himself holding his breath."
+},
+{
+"speaker": "Narrator",
+"text": "The sentence completed itself one word at a time."
+},
+{
+"speaker": "Bel-iddin",
+"text": "I WAS WRONG ABOUT THE DEPTH.",
+"note": "Writing rises through the page in Bel-iddin's hand."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek shut the journal."
+},
+{
+"speaker": "Narrator",
+"text": "The sound cracked through the courtyard."
+},
+{
+"speaker": "Narrator",
+"text": "No one spoke for several breaths."
+},
+{
+"speaker": "Narrator",
+"text": "Rain dripped steadily from the reed canopy into the basin beside the well."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg finally broke the silence."
+},
+{
+"speaker": "Balag",
+"text": "Back to the place that killed KOO-rash?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek rested both hands on the closed journal."
+},
+{
+"speaker": "Zik",
+"text": "We never reached the place that killed him."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked down at the leather cover."
+},
+{
+"speaker": "Ninsun",
+"text": "We stopped one level too soon."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo's voice was barely above a whisper."
+},
+{
+"speaker": "Enhedu",
+"text": "Then whatever your father found…"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek finished the thought."
+},
+{
+"speaker": "Zik",
+"text": "…is still waiting below."
+}
+]
+}

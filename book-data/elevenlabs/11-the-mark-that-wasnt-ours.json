@@ -1,0 +1,660 @@
+{
+"book": "The First City",
+"chapterKey": "11-the-mark-that-wasnt-ours",
+"title": "Chapter 11 — The Mark That Wasn’t Ours",
+"chars": 6129,
+"speakers": [
+"Balag",
+"Enhedu",
+"Messenger Boy",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 11",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Mark That Wasn't Ours",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "They found the first forged notch on the eighth day."
+},
+{
+"speaker": "Narrator",
+"text": "It was in a narrow cut between two dye-houses that had opened overnight and already started to close at the edges. Two clean marks sat at the base of the left wall, cut at the same depth and angle Ninsun used. Beside them someone had added a third—slightly deeper, the edges still sharp with stone dust."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg saw it first. He stopped so suddenly that en-HEH-doo nearly walked into his back."
+},
+{
+"speaker": "Balag",
+"text": "That one's not ours."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun crouched and studied the three marks without touching them. After a long moment she shook her head.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The third isn't mine. The angle's wrong. Whoever cut it was stronger in the wrist and less patient."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo exhaled through her nose.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "So either we're not the only ones marking, or the fucking city learned the system."
+},
+{
+"speaker": "Narrator",
+"text": "No one liked either version."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek ran his thumb along the third notch. The stone dust came away clean. Fresh. Maybe an hour old. Maybe less. He looked up the short passage. It ended in the usual blank wall that would probably be ordinary brick again by evening."
+},
+{
+"speaker": "Zik",
+"text": "We leave it,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Just walk away?"
+},
+{
+"speaker": "Zik",
+"text": "We mark our own and we move. If we start chasing every cut that isn't ours, we'll still be here when the streets forget our names."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun carefully added the location to her ugly, incomplete map, noting the forged third mark with a small cross. Her handwriting had gotten smaller and tighter over the last few days, as if she were trying to fit more city onto less paper."
+},
+{
+"speaker": "Narrator",
+"text": "They backed out. Behind them the passage had already narrowed enough that a man would have to turn sideways to enter. By the time they reached the main street it looked like a shallow service recess any local would have sworn had always been there."
+},
+{
+"speaker": "Narrator",
+"text": "That night the consequences arrived."
+},
+{
+"speaker": "Narrator",
+"text": "A boy from the lower market found them at the cheap room they were using. He couldn't have been more than fourteen, all elbows and caution. He held out a folded scrap of parchment like it might bite."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Man said to give this to the ones cutting marks on the walls,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Said you'd know."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg crouched until he was eye level with the boy."
+},
+{
+"speaker": "Balag",
+"text": "What man?"
+},
+{
+"speaker": "Narrator",
+"text": "The boy shrugged."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Didn't say."
+},
+{
+"speaker": "Balag",
+"text": "What did he look like?"
+},
+{
+"speaker": "Narrator",
+"text": "Another shrug."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Old."
+},
+{
+"speaker": "Balag",
+"text": "How old?"
+},
+{
+"speaker": "Narrator",
+"text": "The boy frowned as though the question itself was unreasonable."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Older than me."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo snorted."
+},
+{
+"speaker": "Enhedu",
+"text": "Helpful."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg reached into his pouch and produced a small bronze coin."
+},
+{
+"speaker": "Balag",
+"text": "Try again."
+},
+{
+"speaker": "Narrator",
+"text": "The boy looked at the coin."
+},
+{
+"speaker": "Narrator",
+"text": "Then at BAH-lahg."
+},
+{
+"speaker": "Messenger Boy",
+"text": "He had clean hands."
+},
+{
+"speaker": "Narrator",
+"text": "Silence."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg lowered the coin."
+},
+{
+"speaker": "Balag",
+"text": "What?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "That's what I noticed."
+},
+{
+"speaker": "Narrator",
+"text": "The boy scratched behind one ear."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Everyone around here has dirty hands."
+},
+{
+"speaker": "Narrator",
+"text": "He held up his own fingers."
+},
+{
+"speaker": "Narrator",
+"text": "The nails were packed with dust."
+},
+{
+"speaker": "Messenger Boy",
+"text": "The man didn't."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked up from the table."
+},
+{
+"speaker": "Ninsun",
+"text": "A scribe."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Maybe."
+},
+{
+"speaker": "Narrator",
+"text": "The boy shook his head."
+},
+{
+"speaker": "Messenger Boy",
+"text": "He didn't walk like one."
+},
+{
+"speaker": "Ninsun",
+"text": "Temple?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "I don't know."
+},
+{
+"speaker": "Ninsun",
+"text": "Merchant?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "I don't know."
+},
+{
+"speaker": "Ninsun",
+"text": "Soldier?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "I don't know."
+},
+{
+"speaker": "Narrator",
+"text": "The boy looked genuinely frustrated now."
+},
+{
+"speaker": "Messenger Boy",
+"text": "He stood where the alley bends."
+},
+{
+"speaker": "Ninsun",
+"text": "Waiting?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "Like he already knew I'd come."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg exchanged a glance with Zeek."
+},
+{
+"speaker": "Balag",
+"text": "Did he watch us?"
+},
+{
+"speaker": "Narrator",
+"text": "The boy nodded immediately."
+},
+{
+"speaker": "Messenger Boy",
+"text": "He knew which room."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's expression didn't change."
+},
+{
+"speaker": "Zik",
+"text": "Did you tell him?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "No."
+},
+{
+"speaker": "Zik",
+"text": "He guessed?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "He pointed."
+},
+{
+"speaker": "Zik",
+"text": "Before you came upstairs?"
+},
+{
+"speaker": "Messenger Boy",
+"text": "Before I crossed the street."
+},
+{
+"speaker": "Narrator",
+"text": "Nobody spoke."
+},
+{
+"speaker": "Narrator",
+"text": "The boy finally accepted the coin."
+},
+{
+"speaker": "Messenger Boy",
+"text": "He also said something else."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stiffened."
+},
+{
+"speaker": "Balag",
+"text": "What?"
+},
+{
+"speaker": "Narrator",
+"text": "The boy frowned, trying to remember."
+},
+{
+"speaker": "Messenger Boy",
+"text": "'Tell them…'"
+},
+{
+"speaker": "Narrator",
+"text": "He looked at the ceiling."
+},
+{
+"speaker": "Messenger Boy",
+"text": "'…they've started making the wrong marks.'"
+},
+{
+"speaker": "Narrator",
+"text": "He shrugged."
+},
+{
+"speaker": "Messenger Boy",
+"text": "Didn't make much sense."
+},
+{
+"speaker": "Narrator",
+"text": "He hurried down the stairs before anyone could stop him."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg remained at the doorway until the footsteps disappeared."
+},
+{
+"speaker": "Narrator",
+"text": "Then he quietly slid the bolt across the door."
+},
+{
+"speaker": "Narrator",
+"text": "He didn't wait for payment. He was already gone when BAH-lahg stepped into the lane to look for him."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek unfolded the scrap."
+},
+{
+"speaker": "Narrator",
+"text": "One line, written in a neat, anonymous hand:"
+},
+{
+"speaker": "Narrator",
+"text": "STOP MARKING WHAT DOES NOT BELONG TO YOU.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "No signature. No threat beyond the words themselves. The parchment was the same cheap stock the lower scribes used for temporary notes."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek turned the parchment over."
+},
+{
+"speaker": "Narrator",
+"text": "Blank."
+},
+{
+"speaker": "Narrator",
+"text": "He held it toward the lamp."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing showed through."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo reached for it."
+},
+{
+"speaker": "Enhedu",
+"text": "The handwriting."
+},
+{
+"speaker": "Zik",
+"text": "What about it?"
+},
+{
+"speaker": "Enhedu",
+"text": "It isn't hurried."
+},
+{
+"speaker": "Narrator",
+"text": "She studied the strokes."
+},
+{
+"speaker": "Enhedu",
+"text": "Whoever wrote this expected we'd read it."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "People usually expect that from letters."
+},
+{
+"speaker": "Enhedu",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo tapped one corner."
+},
+{
+"speaker": "Enhedu",
+"text": "They expect we'll understand."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stood and crossed the room."
+},
+{
+"speaker": "Narrator",
+"text": "She took the parchment without asking."
+},
+{
+"speaker": "Narrator",
+"text": "For nearly a minute she said nothing."
+},
+{
+"speaker": "Narrator",
+"text": "Then she reached into her satchel and removed the map."
+},
+{
+"speaker": "Narrator",
+"text": "She laid the warning beside it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek watched her eyes move between the two."
+},
+{
+"speaker": "Ninsun",
+"text": "The spacing."
+},
+{
+"speaker": "Balag",
+"text": "What spacing?"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The margins."
+},
+{
+"speaker": "Narrator",
+"text": "She pointed."
+},
+{
+"speaker": "Ninsun",
+"text": "The left margin matches mine."
+},
+{
+"speaker": "Balag",
+"text": "So?"
+},
+{
+"speaker": "Ninsun",
+"text": "So does the line height."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg blinked."
+},
+{
+"speaker": "Balag",
+"text": "I feel like scholars are inventing reasons to be frightened."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun ignored him."
+},
+{
+"speaker": "Ninsun",
+"text": "I leave exactly this much room at the top of every page."
+},
+{
+"speaker": "Narrator",
+"text": "She demonstrated with her finger."
+},
+{
+"speaker": "Ninsun",
+"text": "So does whoever wrote this."
+},
+{
+"speaker": "Balag",
+"text": "Lots of people do."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "She looked up."
+},
+{
+"speaker": "Ninsun",
+"text": "Not by accident."
+},
+{
+"speaker": "Narrator",
+"text": "The room grew very quiet."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek picked up the note again."
+},
+{
+"speaker": "Zik",
+"text": "You think someone copied your habits."
+},
+{
+"speaker": "Ninsun",
+"text": "I think…"
+},
+{
+"speaker": "Narrator",
+"text": "She hesitated."
+},
+{
+"speaker": "Ninsun",
+"text": "…someone has seen enough of my work to imitate it."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo folded her arms."
+},
+{
+"speaker": "Enhedu",
+"text": "Or you've seen theirs."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun didn't answer."
+},
+{
+"speaker": "Narrator",
+"text": "That silence worried Zeek more than anything she could have said."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo read it over his shoulder.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "Someone's territorial."
+},
+{
+"speaker": "Balag",
+"text": "Or the city hired better messengers,"
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun took the scrap and set it beside her map without comment. After a moment she drew a small, precise box around the entire western dye-house district and wrote a single word inside it:"
+},
+{
+"speaker": "Narrator",
+"text": "CLAIMED.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek watched her work. The journal was still in his pack. Four days had become five. He had not opened it. The decision still felt like the only part of this place he actually controlled."
+},
+{
+"speaker": "Narrator",
+"text": "He flexed his left hand inside the linen. The mark was quiet."
+},
+{
+"speaker": "Narrator",
+"text": "Outside, somewhere in the lower districts, another passage was probably opening. Or closing. Or deciding which marks it would allow to remain."
+},
+{
+"speaker": "Narrator",
+"text": "They had drawn a line on the city."
+},
+{
+"speaker": "Narrator",
+"text": "Somewhere, someone had noticed."
+},
+{
+"speaker": "Narrator",
+"text": "Whether that someone lived above the streets or beneath them, none of the four could yet say."
+},
+{
+"speaker": "Narrator",
+"text": "But for the first time since opening the tomb, they no longer felt like explorers."
+},
+{
+"speaker": "Narrator",
+"text": "They felt observed."
+}
+]
+}

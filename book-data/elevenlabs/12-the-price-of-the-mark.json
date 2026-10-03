@@ -1,0 +1,577 @@
+{
+"book": "The First City",
+"chapterKey": "12-the-price-of-the-mark",
+"title": "Chapter 12 — The Price of the Mark",
+"chars": 6104,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 12",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Price of the Mark",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "The first real cost arrived two days after the warning note."
+},
+{
+"speaker": "Narrator",
+"text": "They had been working a narrow cut behind the tanners' row—two notches of their own, no forged third, nothing that should have drawn attention. The passage was short and already starting to close when BAH-lahg's spear found something soft under the dust at the far end."
+},
+{
+"speaker": "Narrator",
+"text": "He stopped. Everyone stopped."
+},
+{
+"speaker": "Narrator",
+"text": "It was a pack. Ordinary. Canvas and leather, the kind any lower-district porter carried. The straps had been cut clean through. Inside was a water skin, a half-eaten loaf gone hard, and a small clay tablet wrapped in cloth. No name. No identifying marks. Just the ordinary gear of someone who had expected to walk out again."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun unwrapped the tablet. The writing was hurried and already fading at the edges, as if the clay itself had decided the words were temporary."
+},
+{
+"speaker": "Narrator",
+"text": "Three lines:"
+},
+{
+"speaker": "Narrator",
+"text": "THEY ARE CUTTING THE WALLS",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "THE CITY DOES NOT LIKE WITNESSES",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "I SHOULD NOT HAVE FOLLOWED THE MARKS",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo exhaled slowly.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "So we're not the only ones."
+},
+{
+"speaker": "Ninsun",
+"text": "We were never the only ones,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun said. Her voice had gone flat.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "We were just the ones still walking."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg turned the empty pack over with the butt of his spear.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "No blood. No body. Just the gear."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek crouched beside the pack instead of answering immediately."
+},
+{
+"speaker": "Narrator",
+"text": "The canvas had rotted at the corners but not enough to explain its condition. One strap had been sliced cleanly through. The other looked as though someone had started to cut it before changing their mind."
+},
+{
+"speaker": "Narrator",
+"text": "He lifted the water skin."
+},
+{
+"speaker": "Narrator",
+"text": "Still damp."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg noticed."
+},
+{
+"speaker": "Balag",
+"text": "That's impossible."
+},
+{
+"speaker": "Zik",
+"text": "It shouldn't be."
+},
+{
+"speaker": "Balag",
+"text": "How long has this passage been here?"
+},
+{
+"speaker": "Zik",
+"text": "This one?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked around the chamber."
+},
+{
+"speaker": "Zik",
+"text": "Hours."
+},
+{
+"speaker": "Balag",
+"text": "And the water?"
+},
+{
+"speaker": "Narrator",
+"text": "He uncorked the skin."
+},
+{
+"speaker": "Narrator",
+"text": "The smell was fresh."
+},
+{
+"speaker": "Narrator",
+"text": "Not stagnant."
+},
+{
+"speaker": "Narrator",
+"text": "Not sour."
+},
+{
+"speaker": "Narrator",
+"text": "Fresh enough to drink."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo frowned."
+},
+{
+"speaker": "Enhedu",
+"text": "So whoever owned this…"
+},
+{
+"speaker": "Zik",
+"text": "…was here recently."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked up from the tablet."
+},
+{
+"speaker": "Ninsun",
+"text": "Or recently enough that the city hasn't decided otherwise."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek searched the pack more carefully."
+},
+{
+"speaker": "Narrator",
+"text": "A bronze needle."
+},
+{
+"speaker": "Narrator",
+"text": "Two fishing hooks wrapped in cloth."
+},
+{
+"speaker": "Narrator",
+"text": "A length of twine."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing valuable."
+},
+{
+"speaker": "Narrator",
+"text": "Nothing worth stealing."
+},
+{
+"speaker": "Narrator",
+"text": "Then his fingers touched something hidden inside the lining."
+},
+{
+"speaker": "Narrator",
+"text": "He carefully split the loose stitching."
+},
+{
+"speaker": "Narrator",
+"text": "A tiny clay token fell into his palm."
+},
+{
+"speaker": "Narrator",
+"text": "Round."
+},
+{
+"speaker": "Narrator",
+"text": "Unfired."
+},
+{
+"speaker": "Narrator",
+"text": "Pressed with a single seal."
+},
+{
+"speaker": "Narrator",
+"text": "Not the spiral-drop."
+},
+{
+"speaker": "Narrator",
+"text": "A simple reed."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo leaned closer."
+},
+{
+"speaker": "Enhedu",
+"text": "Meaning?"
+},
+{
+"speaker": "Zik",
+"text": "I don't know."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun took the token."
+},
+{
+"speaker": "Ninsun",
+"text": "It isn't a merchant's mark."
+},
+{
+"speaker": "Enhedu",
+"text": "Temple?"
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "She turned it over."
+},
+{
+"speaker": "Ninsun",
+"text": "It looks personal."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg scratched his beard."
+},
+{
+"speaker": "Balag",
+"text": "So somebody expected to come back."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at the carefully hidden token."
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "He folded the lining back into place."
+},
+{
+"speaker": "Zik",
+"text": "They expected someone else to."
+},
+{
+"speaker": "Narrator",
+"text": "Nobody liked that answer."
+},
+{
+"speaker": "Zik",
+"text": "That's worse,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "No one argued."
+},
+{
+"speaker": "Narrator",
+"text": "They took the tablet. They left the pack where it was. On the way out Ninsun cut a fourth notch beside their original two—deeper, angrier, the kind of mark that said this place had already collected its price. Zeek didn't stop her."
+},
+{
+"speaker": "Narrator",
+"text": "That night the cheap room felt smaller."
+},
+{
+"speaker": "Narrator",
+"text": "No one unpacked immediately."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg leaned his spear against the wall but kept looking toward the door as though expecting another messenger to appear."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo poured water into four cups."
+},
+{
+"speaker": "Narrator",
+"text": "Only three were touched."
+},
+{
+"speaker": "Narrator",
+"text": "The fourth sat untouched beside the abandoned pack."
+},
+{
+"speaker": "Narrator",
+"text": "After several minutes BAH-lahg pointed at it."
+},
+{
+"speaker": "Balag",
+"text": "Who's that for?"
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo looked down."
+},
+{
+"speaker": "Narrator",
+"text": "She hadn't realized she'd poured it."
+},
+{
+"speaker": "Narrator",
+"text": "Without answering, she emptied the cup back into the jar."
+},
+{
+"speaker": "Narrator",
+"text": "No one mentioned it again."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun finally broke the silence."
+},
+{
+"speaker": "Ninsun",
+"text": "I'm trying to remember every name I've ever found scratched out."
+},
+{
+"speaker": "Zik",
+"text": "Why?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek asked.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "What if one of them belonged to him?"
+},
+{
+"speaker": "Zik",
+"text": "You don't know it was a man."
+},
+{
+"speaker": "Ninsun",
+"text": "I don't."
+},
+{
+"speaker": "Zik",
+"text": "What if he never found a shifted street?"
+},
+{
+"speaker": "Ninsun",
+"text": "He followed marks."
+},
+{
+"speaker": "Narrator",
+"text": "She touched the tablet gently."
+},
+{
+"speaker": "Ninsun",
+"text": "He wrote this."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg sat down opposite her."
+},
+{
+"speaker": "Balag",
+"text": "You think he was like us."
+},
+{
+"speaker": "Ninsun",
+"text": "I think…"
+},
+{
+"speaker": "Narrator",
+"text": "She hesitated."
+},
+{
+"speaker": "Ninsun",
+"text": "…he thought he was the first."
+},
+{
+"speaker": "Narrator",
+"text": "Silence settled over the room."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek understood the thought immediately."
+},
+{
+"speaker": "Narrator",
+"text": "Every discovery they had made."
+},
+{
+"speaker": "Narrator",
+"text": "Every notch."
+},
+{
+"speaker": "Narrator",
+"text": "Every map."
+},
+{
+"speaker": "Narrator",
+"text": "Every theory."
+},
+{
+"speaker": "Narrator",
+"text": "Someone else might have reached exactly the same conclusions."
+},
+{
+"speaker": "Narrator",
+"text": "And disappeared before leaving more than three hurried lines."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun sat on the floor with her map spread wide, the warning note, the uncrossed name, and the new tablet arranged in a careful line beside it. She had drawn a second box around the tanners' row and written a single word inside:"
+},
+{
+"speaker": "Narrator",
+"text": "COST.",
+"note": "Written text (ledger/inscription/journal, not in Bel-iddin's hand). Cold, deliberate read."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg cleaned his spear in silence. en-HEH-doo turned the small copper figurine between her fingers and said nothing. Zeek sat with his back against the wall and did not open the journal. Six days now. The decision still felt like the only clean thing he owned in this place."
+},
+{
+"speaker": "Narrator",
+"text": "After a long time en-HEH-doo spoke."
+},
+{
+"speaker": "Enhedu",
+"text": "We keep marking, someone else pays. We stop marking, we walk blind. That's the math."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg grunted.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Same fucking math as always. Just higher numbers."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun didn't look up from the map.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I'm not stopping."
+},
+{
+"speaker": "Zik",
+"text": "Didn't think you were,"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "He flexed his left hand inside the linen. The mark was warm. Not demanding. Just present, like a second pulse that had decided it belonged there."
+},
+{
+"speaker": "Narrator",
+"text": "Outside, the lower districts continued their ordinary noise—arguments, animals, the constant low pressure of a city that never fully slept. Somewhere in those streets another passage was probably opening. Or closing. Or waiting for the next set of marks to decide whether the people who cut them would be allowed to walk back out."
+},
+{
+"speaker": "Narrator",
+"text": "They had drawn a line."
+},
+{
+"speaker": "Narrator",
+"text": "The city had answered."
+},
+{
+"speaker": "Narrator",
+"text": "Now someone else had paid the first real price for it."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek lay against the wall with the journal still sealed inside his pack."
+},
+{
+"speaker": "Narrator",
+"text": "Six days."
+},
+{
+"speaker": "Narrator",
+"text": "Every hour he refused to open it felt like a choice he had made himself."
+},
+{
+"speaker": "Narrator",
+"text": "Every shifted street made that choice feel smaller."
+},
+{
+"speaker": "Narrator",
+"text": "Somewhere beneath the city, another explorer had vanished badly enough to leave his food behind, his water unfinished, and his warning still waiting to be read."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek wondered how many others had done the same."
+},
+{
+"speaker": "Narrator",
+"text": "He wondered how many maps had been started."
+},
+{
+"speaker": "Narrator",
+"text": "How many journals had remained closed."
+},
+{
+"speaker": "Narrator",
+"text": "How many people had believed they were discovering the First City."
+},
+{
+"speaker": "Narrator",
+"text": "Outside, somewhere below the ordinary streets of Uruk, stone answered stone with a single distant knock."
+},
+{
+"speaker": "Narrator",
+"text": "This time, nobody in the room pretended they hadn't heard it."
+}
+]
+}

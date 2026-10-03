@@ -1,0 +1,780 @@
+{
+"book": "The First City",
+"chapterKey": "06-the-fourth-share",
+"title": "Chapter 6 — The Fourth Share",
+"chars": 7342,
+"speakers": [
+"Balag",
+"Enhedu",
+"Narrator",
+"Ninsun",
+"Zik"
+],
+"lines": [
+{
+"speaker": "Narrator",
+"text": "CHAPTER 6",
+"note": "Chapter heading."
+},
+{
+"speaker": "Narrator",
+"text": "The Fourth Share",
+"note": "Chapter title. Leave a clean beat before story begins."
+},
+{
+"speaker": "Narrator",
+"text": "They found her in the lower archives district two days after the Collector paid them."
+},
+{
+"speaker": "Narrator",
+"text": "The building was half-sunk into the slope above the old flood channel, its upper rooms rented to scribes who couldn't afford better light and its lower rooms left to the kind of people who preferred not to be found. Zeek had come looking for a particular copy of a boundary tablet the Collector had mentioned in passing. BAH-lahg waited outside with the packs. en-HEH-doo had already decided the place smelled like unpaid debts and was keeping one eye on the street."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun was in the back room, seated at a low table covered in clay tablets and scrap parchment. Ink stained both wrists. A small oil lamp burned with the kind of careful thrift that said the oil was more expensive than the work. She looked up when Zeek's shadow crossed the tablets, and for a moment neither of them spoke."
+},
+{
+"speaker": "Ninsun",
+"text": "You're the one who came out of the sealed tomb,"
+},
+{
+"speaker": "Narrator",
+"text": "she said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "It wasn't a question."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek kept his expression flat.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Zik",
+"text": "People talk too much."
+},
+{
+"speaker": "Ninsun",
+"text": "People talk exactly enough."
+},
+{
+"speaker": "Narrator",
+"text": "She set the stylus down.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "The mark on your hand matches a symbol that appears on seven private royal seals and nowhere else in the public record. The same symbol that shows up in the oldest underworld fragments the temple pretends not to keep. I've been looking for someone who actually saw it in the ground instead of on a tablet."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg's bulk filled the doorway behind Zeek. He didn't speak, but the way he stood said he had already decided this woman was either useful or a problem."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo drifted in last, eyes moving over the tablets, the lamp, the ink-stained hands.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "You're not temple."
+},
+{
+"speaker": "Ninsun",
+"text": "No."
+},
+{
+"speaker": "Enhedu",
+"text": "University?"
+},
+{
+"speaker": "Ninsun",
+"text": "Not anymore."
+},
+{
+"speaker": "Enhedu",
+"text": "Then what are you?"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun looked at each of them in turn.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Someone who spent three years watching a district rearrange itself around my sister until the city records forgot she had ever lived there. Someone who is finished being told the old texts are only metaphor."
+},
+{
+"speaker": "Narrator",
+"text": "The room went quiet except for the small hiss of the lamp."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek let the silence stretch."
+},
+{
+"speaker": "Narrator",
+"text": "People often rushed to fill silence."
+},
+{
+"speaker": "Narrator",
+"text": "She didn't."
+},
+{
+"speaker": "Narrator",
+"text": "That interested him more than anything she'd said so far."
+},
+{
+"speaker": "Narrator",
+"text": "Finally he spoke."
+},
+{
+"speaker": "Zik",
+"text": "You've seen the symbol."
+},
+{
+"speaker": "Ninsun",
+"text": "Yes."
+},
+{
+"speaker": "Zik",
+"text": "Where?"
+},
+{
+"speaker": "Ninsun",
+"text": "A dozen places."
+},
+{
+"speaker": "Zik",
+"text": "I asked where."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun reached beneath one of the stacked tablets and produced a narrow wooden board wrapped in faded linen."
+},
+{
+"speaker": "Narrator",
+"text": "She hesitated only long enough to brush dust from it before laying it carefully on the table."
+},
+{
+"speaker": "Narrator",
+"text": "The linen came away."
+},
+{
+"speaker": "Narrator",
+"text": "Inside rested seven clay impressions, each no larger than a man's thumb."
+},
+{
+"speaker": "Narrator",
+"text": "Cylinder seals."
+},
+{
+"speaker": "Narrator",
+"text": "Old ones."
+},
+{
+"speaker": "Narrator",
+"text": "Very old."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg stepped closer."
+},
+{
+"speaker": "Balag",
+"text": "You keep those here?"
+},
+{
+"speaker": "Ninsun",
+"text": "I copied them."
+},
+{
+"speaker": "Balag",
+"text": "You copied royal seals?"
+},
+{
+"speaker": "Ninsun",
+"text": "I copied the impressions."
+},
+{
+"speaker": "Balag",
+"text": "That's still illegal."
+},
+{
+"speaker": "Ninsun",
+"text": "Only if someone important notices."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo leaned over the table."
+},
+{
+"speaker": "Enhedu",
+"text": "They're different."
+},
+{
+"speaker": "Ninsun",
+"text": "They are."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun pointed to the first impression."
+},
+{
+"speaker": "Ninsun",
+"text": "This belongs to King Lugal-Ane."
+},
+{
+"speaker": "Narrator",
+"text": "Her finger moved to the next."
+},
+{
+"speaker": "Ninsun",
+"text": "This one was catalogued as belonging to his grandson."
+},
+{
+"speaker": "Narrator",
+"text": "Then another."
+},
+{
+"speaker": "Ninsun",
+"text": "Different century."
+},
+{
+"speaker": "Narrator",
+"text": "Another."
+},
+{
+"speaker": "Ninsun",
+"text": "Different dynasty."
+},
+{
+"speaker": "Narrator",
+"text": "She looked at Zeek."
+},
+{
+"speaker": "Ninsun",
+"text": "What do you see?"
+},
+{
+"speaker": "Narrator",
+"text": "He studied them."
+},
+{
+"speaker": "Narrator",
+"text": "At first glance the spirals appeared identical."
+},
+{
+"speaker": "Narrator",
+"text": "Then he noticed the tiny variations."
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Narrator",
+"text": "He frowned."
+},
+{
+"speaker": "Zik",
+"text": "They're changing."
+},
+{
+"speaker": "Narrator",
+"text": "A flicker crossed her face."
+},
+{
+"speaker": "Narrator",
+"text": "The closest thing to approval."
+},
+{
+"speaker": "Ninsun",
+"text": "How?"
+},
+{
+"speaker": "Zik",
+"text": "The outer ring."
+},
+{
+"speaker": "Narrator",
+"text": "He leaned lower."
+},
+{
+"speaker": "Zik",
+"text": "It grows."
+},
+{
+"speaker": "Narrator",
+"text": "She nodded."
+},
+{
+"speaker": "Ninsun",
+"text": "Again."
+},
+{
+"speaker": "Narrator",
+"text": "He looked farther along the line."
+},
+{
+"speaker": "Zik",
+"text": "The center loses a turn."
+},
+{
+"speaker": "Ninsun",
+"text": "Again."
+},
+{
+"speaker": "Zik",
+"text": "The spacing…"
+},
+{
+"speaker": "Narrator",
+"text": "He stopped."
+},
+{
+"speaker": "Zik",
+"text": "…they aren't copies."
+},
+{
+"speaker": "Zik",
+"text": "They're revisions."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun folded her arms."
+},
+{
+"speaker": "Ninsun",
+"text": "Exactly."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked from one to the other."
+},
+{
+"speaker": "Balag",
+"text": "I feel like I'm listening to two people discuss sheep."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo ignored him."
+},
+{
+"speaker": "Enhedu",
+"text": "Why revise a royal seal?"
+},
+{
+"speaker": "Ninsun",
+"text": "You don't."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun answered immediately."
+},
+{
+"speaker": "Ninsun",
+"text": "You revise a story."
+},
+{
+"speaker": "Narrator",
+"text": "She tapped the oldest impression."
+},
+{
+"speaker": "Ninsun",
+"text": "This symbol appears nowhere before this reign."
+},
+{
+"speaker": "Narrator",
+"text": "Another tap."
+},
+{
+"speaker": "Ninsun",
+"text": "Then it appears everywhere."
+},
+{
+"speaker": "Narrator",
+"text": "Another."
+},
+{
+"speaker": "Ninsun",
+"text": "Then less often."
+},
+{
+"speaker": "Narrator",
+"text": "Another."
+},
+{
+"speaker": "Ninsun",
+"text": "Then only in private records."
+},
+{
+"speaker": "Narrator",
+"text": "Finally she touched the last impression."
+},
+{
+"speaker": "Ninsun",
+"text": "And then…"
+},
+{
+"speaker": "Narrator",
+"text": "She looked up."
+},
+{
+"speaker": "Ninsun",
+"text": "…it disappears."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek's eyes remained fixed on the clay."
+},
+{
+"speaker": "Zik",
+"text": "But the kings are still there."
+},
+{
+"speaker": "Ninsun",
+"text": "The kings survive."
+},
+{
+"speaker": "Zik",
+"text": "The symbol doesn't."
+},
+{
+"speaker": "Ninsun",
+"text": "The official symbol doesn't."
+},
+{
+"speaker": "Narrator",
+"text": "He looked at her."
+},
+{
+"speaker": "Zik",
+"text": "You think someone erased it."
+},
+{
+"speaker": "Ninsun",
+"text": "I know someone erased it."
+},
+{
+"speaker": "Zik",
+"text": "How?"
+},
+{
+"speaker": "Ninsun",
+"text": "I've spent four years copying tablets that no longer agree with tablets copied twenty years earlier."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg frowned."
+},
+{
+"speaker": "Balag",
+"text": "People make mistakes."
+},
+{
+"speaker": "Ninsun",
+"text": "Scribes do."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun nodded."
+},
+{
+"speaker": "Ninsun",
+"text": "Kings don't allow the same mistake on three hundred different tablets."
+},
+{
+"speaker": "Narrator",
+"text": "She reached beneath the table again."
+},
+{
+"speaker": "Narrator",
+"text": "This time she produced a broken fragment no larger than her palm."
+},
+{
+"speaker": "Ninsun",
+"text": "The temple archives catalogued this as an inventory."
+},
+{
+"speaker": "Zik",
+"text": "It isn't?"
+},
+{
+"speaker": "Ninsun",
+"text": "It is."
+},
+{
+"speaker": "Narrator",
+"text": "She turned it over."
+},
+{
+"speaker": "Narrator",
+"text": "The reverse side carried faint scratches."
+},
+{
+"speaker": "Narrator",
+"text": "Not cuneiform."
+},
+{
+"speaker": "Narrator",
+"text": "Something older."
+},
+{
+"speaker": "Narrator",
+"text": "The same spiral."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek stared."
+},
+{
+"speaker": "Zik",
+"text": "I've seen that carving."
+},
+{
+"speaker": "Ninsun",
+"text": "I know."
+},
+{
+"speaker": "Zik",
+"text": "In the tomb."
+},
+{
+"speaker": "Ninsun",
+"text": "I know."
+},
+{
+"speaker": "Narrator",
+"text": "He looked up sharply."
+},
+{
+"speaker": "Zik",
+"text": "No."
+},
+{
+"speaker": "Zik",
+"text": "You don't know."
+},
+{
+"speaker": "Ninsun",
+"text": "I do."
+},
+{
+"speaker": "Zik",
+"text": "You couldn't."
+},
+{
+"speaker": "Ninsun",
+"text": "I couldn't…"
+},
+{
+"speaker": "Narrator",
+"text": "She smiled for the first time."
+},
+{
+"speaker": "Narrator",
+"text": "It wasn't pleasant."
+},
+{
+"speaker": "Ninsun",
+"text": "…unless I've been following exactly the same trail as your father."
+},
+{
+"speaker": "Narrator",
+"text": "The room became very quiet."
+},
+{
+"speaker": "Narrator",
+"text": "Even the lamp seemed smaller."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg looked at Zeek."
+},
+{
+"speaker": "Balag",
+"text": "You never mentioned your father."
+},
+{
+"speaker": "Zik",
+"text": "I didn't."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's eyes stayed on him."
+},
+{
+"speaker": "Ninsun",
+"text": "I didn't need you to."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek felt the mark under the linen give a single, slow pulse. He ignored it."
+},
+{
+"speaker": "Zik",
+"text": "We're not hiring,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I'm not asking to be hired."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun stood. She was shorter than en-HEH-doo and carried herself like someone who had learned to take up less space than she needed.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "I'm telling you I already know more about the symbol on your skin than the Collector does, and I am coming with you whether you like the arrangement or not."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg made a low sound that might have been a laugh.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "Confident."
+},
+{
+"speaker": "Ninsun",
+"text": "Desperate,"
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun corrected.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "There's a difference."
+},
+{
+"speaker": "Narrator",
+"text": "en-HEH-doo tilted her head, studying her the way she studied anything that might turn out to have unexpected value.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Enhedu",
+"text": "What's your cut?"
+},
+{
+"speaker": "Ninsun",
+"text": "I don't care about the silver."
+},
+{
+"speaker": "Enhedu",
+"text": "Everyone cares about the silver."
+},
+{
+"speaker": "Ninsun",
+"text": "I care about the tablets that keep going blank. I care about the streets that only exist when the fog is thick enough. I care about the fact that my sister's name no longer appears in any record the city is willing to admit exists."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun's voice stayed level, but something underneath it had gone hard.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "You can keep the silver. I want the truth the city is trying to edit out of itself."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at her for a long moment."
+},
+{
+"speaker": "Narrator",
+"text": "He thought of the wet ink in his father's journal. The compass that pointed straight down. The way the Collector had already known more than he should. He thought of the empty space where KOO-rash had walked and the way the desert had already started forgetting the boy's footprints."
+},
+{
+"speaker": "Narrator",
+"text": "Four shares instead of three."
+},
+{
+"speaker": "Narrator",
+"text": "The arithmetic was simple enough."
+},
+{
+"speaker": "Zik",
+"text": "You slow us down, we leave you,"
+},
+{
+"speaker": "Narrator",
+"text": "he said.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Understood."
+},
+{
+"speaker": "Zik",
+"text": "You get us killed chasing blank tablets, I'll make sure the city remembers your name long enough to regret it."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun almost smiled. It didn't reach her eyes.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Ninsun",
+"text": "Also understood."
+},
+{
+"speaker": "Narrator",
+"text": "BAH-lahg shifted his weight.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Balag",
+"text": "We taking her or not?"
+},
+{
+"speaker": "Narrator",
+"text": "Zeek looked at en-HEH-doo. She gave the smallest shrug, the kind that said she had already calculated the risk and decided it was acceptable for now."
+},
+{
+"speaker": "Narrator",
+"text": "He turned back to Ninsun."
+},
+{
+"speaker": "Zik",
+"text": "Pack light. We leave at first light. And if the Collector asks, you were never here."
+},
+{
+"speaker": "Narrator",
+"text": "Ninsun blew out the lamp."
+},
+{
+"speaker": "Ninsun",
+"text": "I was never here,"
+},
+{
+"speaker": "Narrator",
+"text": "she agreed.",
+"note": "Short attribution/action beat; keep tight to surrounding dialogue."
+},
+{
+"speaker": "Narrator",
+"text": "Outside, the lower district continued its ordinary noise—scribes arguing, a donkey complaining, someone shouting about a missing delivery. The city had not yet noticed the fourth share being added."
+},
+{
+"speaker": "Narrator",
+"text": "Zeek flexed his left hand inside the linen and started walking."
+},
+{
+"speaker": "Narrator",
+"text": "Behind him, Ninsun followed."
+}
+]
+}
